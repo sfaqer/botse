@@ -64,7 +64,7 @@ Translations are managed on [Weblate](https://weblate.org/). The community contr
 - **Sources** — UI JSON strings in `i18n/en/` and a mirror of `docs/` under `i18n/en/docusaurus-plugin-content-docs/current/` — are read by Weblate from this repository.
 - **Translations** are committed back into `i18n/<locale>/` by Weblate as pull requests.
 
-The `docs/` mirror exists because Weblate cannot map a single component across two directories. A GitHub Action (`.github/workflows/sync-docs-mirror.yml`) keeps the mirror in sync automatically whenever `docs/` changes. To run it manually after editing `docs/`:
+The `docs/` mirror exists because Weblate cannot map a single component across two directories. A GitHub Action (`.github/workflows/sync-docs-mirror.yml`) keeps the mirror in sync automatically whenever `docs/` changes; the same script also seeds a starting copy of any new document into each non-default locale (without overwriting existing translations). To run it manually after editing `docs/`:
 
 ```
 $ bash scripts/sync-docs-mirror.sh
