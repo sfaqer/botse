@@ -29,6 +29,9 @@ jobs:
 
       - run: npm run build -- --config docusaurus.preview.config.ts
 
+      - name: Emit glossary term JSON files for tooltip plugin
+        run: node scripts/emit-term-json.mjs build
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: build
