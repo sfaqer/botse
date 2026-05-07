@@ -1,5 +1,6 @@
 {
   "label": "Warrior",
+  "key": "skill-lines-warrior",
   "link": {
     "type": "generated-index",
     "slug": "/adventurer/skill-lines/warrior/"

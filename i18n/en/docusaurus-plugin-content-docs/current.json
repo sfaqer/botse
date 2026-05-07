@@ -1,0 +1,138 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.defaultSidebar.category.Adventurer": {
+    "message": "Adventurer",
+    "description": "The label for category 'Adventurer' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.Classes": {
+    "message": "Classes",
+    "description": "The label for category 'Classes' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.classes-mage": {
+    "message": "Mage",
+    "description": "The label for category 'Mage' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.classes-thief": {
+    "message": "Thief",
+    "description": "The label for category 'Thief' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.classes-warrior": {
+    "message": "Warrior",
+    "description": "The label for category 'Warrior' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.Items": {
+    "message": "Items",
+    "description": "The label for category 'Items' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.items-types": {
+    "message": "Types",
+    "description": "The label for category 'Types' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.Races": {
+    "message": "Races",
+    "description": "The label for category 'Races' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.Skill Lines": {
+    "message": "Skill Lines",
+    "description": "The label for category 'Skill Lines' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.skill-lines-mage": {
+    "message": "Mage",
+    "description": "The label for category 'Mage' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.skill-lines-thief": {
+    "message": "Thief",
+    "description": "The label for category 'Thief' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.skill-lines-warrior": {
+    "message": "Warrior",
+    "description": "The label for category 'Warrior' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.Stats": {
+    "message": "Stats",
+    "description": "The label for category 'Stats' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.Stats.link.generated-index.description": {
+    "message": "Stats are your adventurer's core capabilities. Each stat's total is the base value of its circular token (if any) plus the number of square tokens of its color in its attribute row. This total is the stat's max value. Each stat is described below.",
+    "description": "The generated-index page description for category 'Stats' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.Battles": {
+    "message": "Battles",
+    "description": "The label for category 'Battles' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.battles-types": {
+    "message": "Types",
+    "description": "The label for category 'Types' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.Delve": {
+    "message": "Delve",
+    "description": "The label for category 'Delve' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.Objectives": {
+    "message": "Objectives",
+    "description": "The label for category 'Objectives' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.Adventurer Turn": {
+    "message": "Adventurer Turn",
+    "description": "The label for category 'Adventurer Turn' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.Battle Forms": {
+    "message": "Battle Forms",
+    "description": "The label for category 'Battle Forms' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.Enemy Skills": {
+    "message": "Enemy Skills",
+    "description": "The label for category 'Enemy Skills' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.Status Effects": {
+    "message": "Status Effects",
+    "description": "The label for category 'Status Effects' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.Campaign / Session": {
+    "message": "Campaign / Session",
+    "description": "The label for category 'Campaign / Session' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.Day / Phases": {
+    "message": "Day / Phases",
+    "description": "The label for category 'Day / Phases' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.2. Overland Phase": {
+    "message": "2. Overland Phase",
+    "description": "The label for category '2. Overland Phase' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.3. Encounter Phase": {
+    "message": "3. Encounter Phase",
+    "description": "The label for category '3. Encounter Phase' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.Difficulty Levels": {
+    "message": "Difficulty Levels",
+    "description": "The label for category 'Difficulty Levels' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.Guilds": {
+    "message": "Guilds",
+    "description": "The label for category 'Guilds' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.Provinces": {
+    "message": "Provinces",
+    "description": "The label for category 'Provinces' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.Unreleased": {
+    "message": "Unreleased",
+    "description": "The label for category 'Unreleased' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.Quests": {
+    "message": "Quests",
+    "description": "The label for category 'Quests' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.Glossary": {
+    "message": "Glossary",
+    "description": "The label for category 'Glossary' in sidebar 'defaultSidebar'"
+  },
+  "sidebar.defaultSidebar.category.Glossary.link.generated-index.description": {
+    "message": "Other frequently referenced terminology.",
+    "description": "The generated-index page description for category 'Glossary' in sidebar 'defaultSidebar'"
+  }
+}

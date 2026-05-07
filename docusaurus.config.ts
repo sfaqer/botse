@@ -18,7 +18,11 @@ const config: Config = {
 
   i18n: {
     defaultLocale: "en",
-    locales: ["en"],
+    locales: ["en", "ru"],
+    localeConfigs: {
+      en: { label: "English", direction: "ltr", htmlLang: "en-US" },
+      ru: { label: "Русский", direction: "ltr", htmlLang: "ru-RU" },
+    },
   },
 
   presets: [
@@ -79,6 +83,10 @@ const config: Config = {
           to: "enemy-skills-tracker",
           position: "left",
           label: "Enemy Skills Tracker",
+        },
+        {
+          type: "localeDropdown",
+          position: "right",
         },
       ],
     },
