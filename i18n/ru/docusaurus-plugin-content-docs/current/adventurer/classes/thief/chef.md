@@ -6,9 +6,17 @@ hoverText: ""
 
 ## Novice
 
-**Upgrade**: Start a battle with [<img src="/icons/party-size.svg" alt="Party Size Icon" className="icon-svg" />](/docs/glossary/party-size) [expended](/docs/adventurer/items/expend) [<img src="/icons/consumable.svg" alt="Consumable Icon"  className="icon-svg" />](/docs/adventurer/items/types/consumable) in your [ready slots](/docs/adventurer/items/inventory).
+**Upgrade**: Start a battle with
+[<img src="/icons/party-size.svg" alt="Party Size Icon" className="icon-svg" />](/docs/glossary/party-size)
+[expended](/docs/adventurer/items/expend)
+[<img src="/icons/consumable.svg" alt="Consumable Icon"  className="icon-svg" />](/docs/adventurer/items/types/consumable)
+in your [ready slots](/docs/adventurer/items/inventory).
 
-**Innate Ability**: When you would refresh a [<img src="/icons/potion.svg" alt="Potion Icon" className="icon-svg" />](/docs/adventurer/items/types/potion), you may refresh an [expended](/docs/adventurer/items/expend) [<img src="/icons/consumable.svg" alt="Consumable Icon"  className="icon-svg" />](/docs/adventurer/items/types/consumable) [instead](/docs/glossary/instead).
+**Innate Ability**: When you would refresh a
+[<img src="/icons/potion.svg" alt="Potion Icon" className="icon-svg" />](/docs/adventurer/items/types/potion),
+you may refresh an [expended](/docs/adventurer/items/expend)
+[<img src="/icons/consumable.svg" alt="Consumable Icon"  className="icon-svg" />](/docs/adventurer/items/types/consumable)
+[instead](/docs/glossary/instead).
 
 <div className="class-table-wrapper">
 
@@ -24,7 +32,11 @@ hoverText: ""
 
 ## Master
 
-**Innate Ability**: When you would refresh a [<img src="/icons/potion.svg" alt="Potion Icon" className="icon-svg" />](/docs/adventurer/items/types/potion), you may refresh 2 [expended](/docs/adventurer/items/expend) [<img src="/icons/consumable.svg" alt="Consumable Icon"  className="icon-svg" />](/docs/adventurer/items/types/consumable) [instead](/docs/glossary/instead).
+**Innate Ability**: When you would refresh a
+[<img src="/icons/potion.svg" alt="Potion Icon" className="icon-svg" />](/docs/adventurer/items/types/potion),
+you may refresh 2 [expended](/docs/adventurer/items/expend)
+[<img src="/icons/consumable.svg" alt="Consumable Icon"  className="icon-svg" />](/docs/adventurer/items/types/consumable)
+[instead](/docs/glossary/instead).
 
 <div className="class-table-wrapper">
 

@@ -29,8 +29,15 @@ hoverText: Guild Kiosk Town Action - Search the Common Item Deck and gain the fi
 
 ### Guild Kiosk Town Action
 
-**Battlemaster:** Search the <img src="/icons/common-item.svg" alt="Common Item Icon" className="icon-svg" /> Deck and gain the first [<img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" />](/docs/adventurer/items/types/weapon) or [<img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" />](/docs/adventurer/items/types/armor) item. Then, shuffle the deck.
+**Battlemaster:** Search the
+<img src="/icons/common-item.svg" alt="Common Item Icon" className="icon-svg" />
+Deck and gain the first
+[<img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" />](/docs/adventurer/items/types/weapon)
+or
+[<img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" />](/docs/adventurer/items/types/armor)
+item. Then, shuffle the deck.
 
 ### Guild Focus
 
-The party focuses on [clashes](/docs/battles/types/clash) that escalate in difficulty over the course of the session.
+The party focuses on [clashes](/docs/battles/types/clash) that escalate in
+difficulty over the course of the session.

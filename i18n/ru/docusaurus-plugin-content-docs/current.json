@@ -1,1 +1,104 @@
-{}
+{
+    "sidebar.defaultSidebar.category.Races": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.Status Effects": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.3. Encounter Phase": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.classes-thief": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.Objectives": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.Items": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.Stats.link.generated-index.description": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.Classes": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.skill-lines-warrior": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.classes-mage": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.Skill Lines": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.Delve": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.Campaign / Session": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.battles-types": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.2. Overland Phase": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.Battles": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.Battle Forms": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.skill-lines-mage": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.items-types": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.Provinces": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.Glossary": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.Stats": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.Adventurer Turn": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.Enemy Skills": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.Unreleased": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.Guilds": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.classes-warrior": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.Quests": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.Adventurer": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.Glossary.link.generated-index.description": {
+        "message": ""
+    },
+    "version.label": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.Difficulty Levels": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.Day / Phases": {
+        "message": ""
+    },
+    "sidebar.defaultSidebar.category.skill-lines-thief": {
+        "message": ""
+    }
+}

@@ -8,7 +8,9 @@ hoverText: ""
 
 **Upgrade**: Defeat an enemy that is 6 or more hexes away.
 
-**Innate Ability**: At the start of your turn, if you are in [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon), deal 2 damage to a targetable enemy.
+**Innate Ability**: At the start of your turn, if you are in
+[<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon),
+deal 2 damage to a targetable enemy.
 
 <div className="class-table-wrapper">
 
@@ -24,7 +26,9 @@ hoverText: ""
 
 ## Master
 
-**Innate Ability**: At the start of your turn, if you are in [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon), deal 2 damage to an enemy in [sight](/docs/glossary/sight).
+**Innate Ability**: At the start of your turn, if you are in
+[<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon),
+deal 2 damage to an enemy in [sight](/docs/glossary/sight).
 
 <div className="class-table-wrapper">
 
@@ -40,8 +44,8 @@ hoverText: ""
 
 ---
 
-:::info
-**Do you have to apply all of the statuses you roll as part of Venom Arrow?**
+:::info **Do you have to apply all of the statuses you roll as part of Venom
+Arrow?**
 
 You roll all 3 and must apply all 3 (or as many as possible).
 
@@ -49,25 +53,34 @@ You roll all 3 and must apply all 3 (or as many as possible).
 
 ---
 
-**Do you need to apply the status dice rolled from Venom Arrow to different enemies?**
+**Do you need to apply the status dice rolled from Venom Arrow to different
+enemies?**
 
-No, you can apply them to the same enemy if you want. You may also apply multiple copies of a status die (e.g. Stealth) to a single enemy (they will still only have one stealth die).
+No, you can apply them to the same enemy if you want. You may also apply
+multiple copies of a status die (e.g. Stealth) to a single enemy (they will
+still only have one stealth die).
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1400248226208022670" target="_blank">Source</a>
 
 ---
 
-**Does the Accuracy ability allow you to increase the range of the Novice Innate?**
+**Does the Accuracy ability allow you to increase the range of the Novice
+Innate?**
 
-It doesn't work in conjunction with the innate. A targetable enemy and selecting a target are different things. That innate never has you select a target, it just lets you damage an enemy that is eligible as a target, i.e. within your [range](/docs/glossary/range) and [sight](/docs/glossary/sight).
+It doesn't work in conjunction with the innate. A targetable enemy and selecting
+a target are different things. That innate never has you select a target, it
+just lets you damage an enemy that is eligible as a target, i.e. within your
+[range](/docs/glossary/range) and [sight](/docs/glossary/sight).
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1386817756862611581" target="_blank">Source</a>
 
 ---
 
-**In Ranged battle form, do adjacent units count as "in range" (for example, when using the Hawk Eye class ability)?**
+**In Ranged battle form, do adjacent units count as "in range" (for example,
+when using the Hawk Eye class ability)?**
 
-No, adjacent units are not within your range if you are in [Ranged battle form](/docs/battles/battle-forms/ranged-weapon).
+No, adjacent units are not within your range if you are in [Ranged battle
+form](/docs/battles/battle-forms/ranged-weapon).
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Source</a>
 
