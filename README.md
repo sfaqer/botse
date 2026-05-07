@@ -57,13 +57,13 @@ $ yarn build
 
 The build produces `build/` for the default locale and `build/<locale>/` for each additional locale.
 
-### Translation workflow (Crowdin)
+### Translation workflow (Weblate)
 
-Translations are managed on [Crowdin](https://crowdin.com/). The community contributes translations through the Crowdin UI; a GitHub Action keeps the repository in sync:
+Translations are managed on [Weblate](https://weblate.org/). The community contributes translations through the Weblate web UI; Weblate keeps the repository in sync:
 
-- **Sources** (English markdown in `docs/` and UI strings in `i18n/en/`) are uploaded to Crowdin on every push that touches them, and on a daily schedule.
-- **Translations** are downloaded back into `i18n/<locale>/` and proposed as a pull request titled `New Crowdin translations`.
+- **Sources** (English markdown in `docs/` and UI strings in `i18n/en/`) are read by Weblate from this repository.
+- **Translations** are committed back into `i18n/<locale>/` by Weblate as pull requests.
 
-The sync workflow lives at `.github/workflows/crowdin.yml`. It requires two repository secrets: `CROWDIN_PROJECT_ID` and `CROWDIN_PERSONAL_TOKEN`.
+Translators do not need GitHub or git — they work entirely in the Weblate web editor.
 
-To run the sync manually: Actions → Crowdin → Run workflow.
+> Translated using [Weblate](https://weblate.org/).
