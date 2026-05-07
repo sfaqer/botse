@@ -1,0 +1,40 @@
+name: Sync i18n into preview/gh-pages
+
+on:
+  push:
+    branches: [i18n]
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-preview
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: preview/gh-pages
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure git
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Merge i18n into preview/gh-pages
+        run: |
+          git fetch origin i18n
+          if git merge-base --is-ancestor origin/i18n HEAD; then
+            echo "preview/gh-pages already contains origin/i18n; nothing to do."
+            exit 0
+          fi
+          git merge --no-edit --no-ff origin/i18n -m "chore(preview): auto-merge i18n"
+          git push origin preview/gh-pages
