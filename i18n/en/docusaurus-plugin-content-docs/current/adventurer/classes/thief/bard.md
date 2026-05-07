@@ -1,0 +1,83 @@
+---
+id: bard
+title: Bard
+hoverText: ""
+---
+
+## Novice
+
+**Upgrade**: Complete the **Bard Harder** side quest.
+
+**Innate Ability**: Once per any unit's turn, reroll any 1 die rolled by a unit within 2 hexes of you, including yourself.
+
+:::tip[FAQ]
+**Can you reroll results that _must be resolved_?**
+
+Some skill results state that they must be resolved. However, you are still allowed to reroll them using the Bard's innate.
+
+Remember that the Bard's innate only functions during unit turns, so any rolls that are made outside of battle or outside of a turn, cannot be rerolled with this innate.
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294923" target="_blank">Source</a>
+:::
+
+<div className="class-table-wrapper">
+
+| Tenacity Cost | Name                       | Ability                                                                                                                                                                                                                                                                     |
+| ------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1             | Red Mountain Drinking Song | **[Interrupt](/docs/glossary/interrupt):** After deploying enemies, deal 1 [true damage](/docs/glossary/true-damage) to up to 2 enemies that were just deployed.                                                                                                            |
+| 1             | Stagger and Sway           | **[Interrupt](/docs/glossary/interrupt):** When a party member engages an enemy, they may ignore 1 defense on that enemy.                                                                                                                                                   |
+| 2             | Pilgrim on the Road        | Gain the **Bard Harder** side quest, if not already gained.                                                                                                                                                                                                                 |
+| 3             | Hear the Hist Speak        | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Apply a [Daze](/docs/battles/status-effects/daze) (<img src="/icons/daze.svg" alt="Daze Icon" className="icon-svg" />) status dice to up to 2 targetable enemies. |
+| 3             | Three Hearts as One        | For each [fatigue](/docs/glossary/fatigue) die in your [cooldown track](/docs/glossary/cooldown-track), [heal](/docs/glossary/healing) adventurers for a collective total of 2 HP.                                                                                          |
+
+</div>
+
+## Master
+
+**Innate Ability**: Once per any unit's turn, reroll any 1 die rolled by a unit within 4 hexes of you, including yourself.
+
+<div className="class-table-wrapper">
+
+| Tenacity Cost | Name                       | Ability                                                                                                                                                                                                                                                                     | Upgrade effect             |
+| ------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| 1             | Red Mountain Drinking Song | **[Interrupt](/docs/glossary/interrupt):** After deploying enemies, deal 1 [true damage](/docs/glossary/true-damage) to up to 3 enemies that were just deployed.                                                                                                            | Affects 1 additional enemy |
+| 1             | Stagger and Sway           | **[Interrupt](/docs/glossary/interrupt):** When a party member engages an enemy, they may ignore 1 defense on that enemy.                                                                                                                                                   | —                          |
+| 2             | The Tale of Syrabane       | Choose an adventurer in [sight](/docs/glossary/sight). That adventurer recovers 1 [drained](/docs/glossary/drained) or exhausted die.                                                                                                                                       | New                        |
+| 2             | Hear the Hist Speak        | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Apply a [Daze](/docs/battles/status-effects/daze) (<img src="/icons/daze.svg" alt="Daze Icon" className="icon-svg" />) status dice to up to 2 targetable enemies. | Tenacity cost<br/>(3 → 2)  |
+| 3             | Three Hearts as One        | For each [fatigue](/docs/glossary/fatigue) die in your [cooldown track](/docs/glossary/cooldown-track), [heal](/docs/glossary/healing) adventurers for a collective total of 2 HP.                                                                                          | —                          |
+| 5             | Battle of Glenumbra Moors  | Choose an adventurer. That adventurer removes all light [fatigue](/docs/glossary/fatigue) from their [cooldown track](/docs/glossary/cooldown-track) and takes an immediate turn. Your turn resumes when this turn ends. _Once per battle._                                 | New                        |
+
+</div>
+
+---
+
+:::info
+**Can you see the dice result of the engage before deciding to use Stagger and Sway's interrupt?**
+
+Yes, you can make the decision to use the Bard's Stagger and Sway ability any time during that engage, so you can wait and see what the roll is.
+
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1361759800282714353" target="_blank">Source</a>
+
+---
+
+**How does Elusive work with damage that happens outside of a turn (e.g Red Mountain Drinking Song)?**
+
+Elusive is only able to prevent damage that happens within a turn. It's not applicable to damage that happens outside of a unit's turn. So Bard's Red Mountain Drinking Song is not affected by Elusive when used after the initial enemy deployment that happens outside of a turn.
+
+<a href="https://discord.com/channels/273472391403798528/1441482687356338236/1476963219599003682" target="_blank">Source</a>
+
+:::
+
+:::tip[FAQ]
+**How does the free turn granted by Battle of Glenumbra Moors work?**
+
+Whenever there is a turn within a turn, or an engage within an engage, or a (non-interrupt) class ability within an engage - pause the current turn/engage, and resolve the thing "within" as if it is its own complete and separate thing. The damage dealt all gets dealt, it is not held to be later dealt with the damage of the encompassing engage/turn. Once you've finished the thing "within," unpause the encompassing turn/engage and continue on.
+
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000295108" target="_blank">Source</a>
+:::
+
+## Related Content
+
+<div className="responsive-embed">
+	<iframe src="https://www.youtube.com/embed/iiVjlUa1VUA?si=HMC0t-WaCt61Cpt_" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+</div>

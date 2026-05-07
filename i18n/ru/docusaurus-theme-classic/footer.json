@@ -1,14 +1,1 @@
-{
-  "link.item.label.Feedback / Suggestions": {
-    "message": "Feedback / Suggestions",
-    "description": "The label of footer link with label=Feedback / Suggestions linking to mailto:dmairs@proton.me"
-  },
-  "link.item.label.GitHub": {
-    "message": "GitHub",
-    "description": "The label of footer link with label=GitHub linking to https://github.com/dmairs/botse"
-  },
-  "copyright": {
-    "message": "This site is a community project not associated with Chip Theory Games.",
-    "description": "The footer copyright"
-  }
-}
+{}

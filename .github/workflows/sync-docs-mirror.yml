@@ -1,0 +1,45 @@
+name: Sync docs mirror for Weblate
+
+on:
+  push:
+    branches: [i18n]
+    paths:
+      - 'docs/**'
+      - 'scripts/sync-docs-mirror.sh'
+      - '.github/workflows/sync-docs-mirror.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-docs-mirror
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: i18n
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure git
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Run mirror sync
+        run: bash scripts/sync-docs-mirror.sh
+
+      - name: Commit and push if changed
+        run: |
+          if [ -z "$(git status --porcelain i18n/en/docusaurus-plugin-content-docs/current)" ]; then
+            echo "Mirror already up to date."
+            exit 0
+          fi
+          git add i18n/en/docusaurus-plugin-content-docs/current
+          git commit -m "chore(i18n): sync docs/ mirror for Weblate"
+          git push origin i18n

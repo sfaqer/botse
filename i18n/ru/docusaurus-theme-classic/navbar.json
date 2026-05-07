@@ -1,18 +1,1 @@
-{
-  "title": {
-    "message": "BOTSE Helper",
-    "description": "The title in the navbar"
-  },
-  "logo.alt": {
-    "message": "Logo for BOTSE Helper",
-    "description": "The alt text of navbar logo"
-  },
-  "item.label.BOTSE Tracker": {
-    "message": "BOTSE Tracker",
-    "description": "Navbar item with label BOTSE Tracker"
-  },
-  "item.label.Enemy Skills Tracker": {
-    "message": "Enemy Skills Tracker",
-    "description": "Navbar item with label Enemy Skills Tracker"
-  }
-}
+{}
