@@ -8,18 +8,20 @@ hoverText: ""
 
 **Upgrade**: Have 3 or more chips in your Necrosis Stack when you are defeated.
 
-**Innate Ability**: If at least 1 enemy took damage during your engage, place 1 HP chip here (max of 6). This is your Necrosis Stack.
+**Innate Ability**: If at least 1 enemy took damage during your engage, place 1
+HP chip here (max of 6). This is your Necrosis Stack.
 
-:::info
-**When are chips removed from the Necrosis Stack?**
+:::info **When are chips removed from the Necrosis Stack?**
 
-Chips in the Necrosis Stack are not removed at end of battle or end day. They persist until the end of session cleanup.
+Chips in the Necrosis Stack are not removed at end of battle or end day. They
+persist until the end of session cleanup.
 
 ---
 
 **Are you able to add HP chips to your Necrosis Stack during an engage?**
 
-No, you must finish the engage action first and then if during the engage an enemy took damage you add a chip.
+No, you must finish the engage action first and then if during the engage an
+enemy took damage you add a chip.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1339257250170277918" target="_blank">Source</a>
 :::
@@ -37,7 +39,9 @@ No, you must finish the engage action first and then if during the engage an ene
 
 ## Master
 
-**Innate Ability**: If at least 1 enemy took damage during your engage or the engage of a companion controlled by you, place 1 HP chip here (max of 6). This is your Necrosis Stack.
+**Innate Ability**: If at least 1 enemy took damage during your engage or the
+engage of a companion controlled by you, place 1 HP chip here (max of 6). This
+is your Necrosis Stack.
 
 <div className="class-table-wrapper">
 
@@ -52,16 +56,20 @@ No, you must finish the engage action first and then if during the engage an ene
 
 ---
 
-:::info
-**Does HP granted by Bone Armor that exceeds an adventurer's max carry over between battles?**
+:::info **Does HP granted by Bone Armor that exceeds an adventurer's max carry
+over between battles?**
 
-No, [adventurer](/docs/glossary/adventurer) [health](/docs/adventurer/stats/health) is reset to maximum during [end of battle cleanup](/docs/battles/end-of-battle).
+No, [adventurer](/docs/glossary/adventurer)
+[health](/docs/adventurer/stats/health) is reset to maximum during [end of
+battle cleanup](/docs/battles/end-of-battle).
 
 ---
 
-**Can you unsummon your current Spiritual Guardian to deploy a different enemy instead?**
+**Can you unsummon your current Spiritual Guardian to deploy a different enemy
+instead?**
 
-There is no way to just decide to take a companion out of play. You need to get it defeated if you want to get rid of it.
+There is no way to just decide to take a companion out of play. You need to get
+it defeated if you want to get rid of it.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225248522539058" target="_blank">Source</a>
 
@@ -75,18 +83,25 @@ No, it is discarded at the end of the session.
 
 ---
 
-**How does [Stalwart](/docs/battles/enemy-skills/stalwart) and Master Blastbones work?**
+**How does [Stalwart](/docs/battles/enemy-skills/stalwart) and Master Blastbones
+work?**
 
-[Stalwart](/docs/battles/enemy-skills/stalwart) is only applicable to HP lost in a unit's turn. It doesn't apply for damage dealt outside of a unit's turn, such as damage dealt by the companions summoned through Master Blastbones.
+[Stalwart](/docs/battles/enemy-skills/stalwart) is only applicable to HP lost in
+a unit's turn. It doesn't apply for damage dealt outside of a unit's turn, such
+as damage dealt by the companions summoned through Master Blastbones.
 
 <a href="https://discord.com/channels/273472391403798528/1441490396793540760/1476965853021868208" target="_blank">Source</a>
 
 :::
 
-:::tip[FAQ]
-**Can the Spirit Guardian companion maintain HP above its stat between battles?**
+:::tip[FAQ] **Can the Spirit Guardian companion maintain HP above its stat
+between battles?**
 
-Yes. On the master side, you can use the Bone Armor class ability to add HP above a party member's Health stat (and there are other ways for units to gain HP above their Health stat as well). The companion summoned by Spirit Guardian maintains its HP between battles (per the ability's text), and that includes if its HP is above its Health stat.
+Yes. On the master side, you can use the Bone Armor class ability to add HP
+above a party member's Health stat (and there are other ways for units to gain
+HP above their Health stat as well). The companion summoned by Spirit Guardian
+maintains its HP between battles (per the ability's text), and that includes if
+its HP is above its Health stat.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000291560" target="_blank">Source</a>
 :::

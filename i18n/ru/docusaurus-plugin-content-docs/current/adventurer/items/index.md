@@ -6,11 +6,29 @@ hoverText: >
 slug: /adventurer/items/index
 ---
 
-[Adventurers](/docs/glossary/adventurer) can gain useful items along their way. Each item card takes up 1 space in an [adventurer's](/docs/glossary/adventurer) [inventory](/docs/adventurer/items/inventory), whether it is in a ready slot or the pack area. There are 2 types of item cards: common (<img src="/icons/common-item.svg" alt="Common Item Icon" className="icon-svg" />) and legendary (<img src="/icons/legendary-item.svg" alt="Legendary Item Icon" className="icon-svg" />).
+[Adventurers](/docs/glossary/adventurer) can gain useful items along their way.
+Each item card takes up 1 space in an [adventurer's](/docs/glossary/adventurer)
+[inventory](/docs/adventurer/items/inventory), whether it is in a ready slot or
+the pack area. There are 2 types of item cards: common
+(<img src="/icons/common-item.svg" alt="Common Item Icon" className="icon-svg" />)
+and legendary
+(<img src="/icons/legendary-item.svg" alt="Legendary Item Icon" className="icon-svg" />).
 
-During a battle, an item's ability can be used at the timing described. Some items can be used during another [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn)—such as [armor (<img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" />)](/docs/adventurer/items/types/armor) items, which can be used during an enemy's [Engage](/docs/battles/enemy-turn) step. If an ability does not specify a timing, that item can be used either during the Deploy Adventurers step of setup or during that adventurer's [turn](/docs/glossary/turn). Remember that during a battle, only items in an [adventurer's](/docs/glossary/adventurer) 4 ready slots can be used!
+During a battle, an item's ability can be used at the timing described. Some
+items can be used during another [unit's](/docs/glossary/unit)
+[turn](/docs/glossary/turn)—such as [armor
+(<img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" />)](/docs/adventurer/items/types/armor)
+items, which can be used during an enemy's [Engage](/docs/battles/enemy-turn)
+step. If an ability does not specify a timing, that item can be used either
+during the Deploy Adventurers step of setup or during that adventurer's
+[turn](/docs/glossary/turn). Remember that during a battle, only items in an
+[adventurer's](/docs/glossary/adventurer) 4 ready slots can be used!
 
-Outside of battle, an item can be used at any time the adventurer chooses, unless its ability specifies otherwise. Items are not discarded after they are used unless required by that item's ability. When either the Common or Legendary Item Deck is emptied, that deck's discard pile must be reshuffled and placed back into the card tray.
+Outside of battle, an item can be used at any time the adventurer chooses,
+unless its ability specifies otherwise. Items are not discarded after they are
+used unless required by that item's ability. When either the Common or Legendary
+Item Deck is emptied, that deck's discard pile must be reshuffled and placed
+back into the card tray.
 
 ## Item Types
 
@@ -27,12 +45,13 @@ Outside of battle, an item can be used at any time the adventurer chooses, unles
 
 ## Traits
 
-Traits do not have specific rules (except for traits of the [<img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" />](/docs/adventurer/items/types/armor) subtype) and can only interact with abilities that refer to them by name.
+Traits do not have specific rules (except for traits of the
+[<img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" />](/docs/adventurer/items/types/armor)
+subtype) and can only interact with abilities that refer to them by name.
 
 ---
 
-:::info
-**Is it allowed to use items mid/during an engage?**
+:::info **Is it allowed to use items mid/during an engage?**
 
 No, items cannot be used mid-engage.
 
@@ -44,7 +63,8 @@ No, items cannot be used mid-engage.
 
 **Item card count - should be 100 common, 60 legendary**
 
-The rulebook says there are 110 common items and 50 legendary. The proper count is 100 common items and 60 legendary.
+The rulebook says there are 110 common items and 50 legendary. The proper count
+is 100 common items and 60 legendary.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292376" target="_blank">Source</a>
 :::

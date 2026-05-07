@@ -8,9 +8,15 @@ tags:
 
 ## Novice
 
-**Upgrade**: Defeat a <img src="/icons/daedra.svg" alt="Daedra Icon" className="icon-svg" /> enemy using your Fatecarver class ability.
+**Upgrade**: Defeat a
+<img src="/icons/daedra.svg" alt="Daedra Icon" className="icon-svg" /> enemy
+using your Fatecarver class ability.
 
-**Innate Ability**: After you defeat an enemy while in [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic), place 1 crux token here (max of 3). Start each session with 1 crux token here. Abilities that require crux tokens must use crux tokens from this sheet and cannot be performed if the required crux tokens are not available.
+**Innate Ability**: After you defeat an enemy while in
+[<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic),
+place 1 crux token here (max of 3). Start each session with 1 crux token here.
+Abilities that require crux tokens must use crux tokens from this sheet and
+cannot be performed if the required crux tokens are not available.
 
 <div className="class-table-wrapper">
 
@@ -26,7 +32,13 @@ tags:
 
 ## Master
 
-**Innate Ability**: When you defeat an enemy while in [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic), or when any <img src="/icons/daedra.svg" alt="Daedra Icon" className="icon-svg" /> enemy is defeated, place 1 crux token here (max of 3). Start each session with 1 crux token here. Abilities that require crux tokens must use crux tokens from this sheet and cannot be performed if the required crux tokens are not available.
+**Innate Ability**: When you defeat an enemy while in
+[<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic),
+or when any
+<img src="/icons/daedra.svg" alt="Daedra Icon" className="icon-svg" /> enemy is
+defeated, place 1 crux token here (max of 3). Start each session with 1 crux
+token here. Abilities that require crux tokens must use crux tokens from this
+sheet and cannot be performed if the required crux tokens are not available.
 
 <div className="class-table-wrapper">
 
@@ -43,10 +55,10 @@ tags:
 
 ---
 
-:::info
-**Does Gibbering Shield persist between battles?**
+:::info **Does Gibbering Shield persist between battles?**
 
-Crux tokens are meant to clear from active slots between battles, just as dice do.
+Crux tokens are meant to clear from active slots between battles, just as dice
+do.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Source</a>
 
@@ -54,7 +66,8 @@ Crux tokens are meant to clear from active slots between battles, just as dice d
 
 **Is using Gibbering Shield mandatory?**
 
-Gibbering Shield is optional. You choose if you want to discard a crux token to prevent damage.
+Gibbering Shield is optional. You choose if you want to discard a crux token to
+prevent damage.
 
 <a href="https://discord.com/channels/273472391403798528/1392918916820369549/1400152445296054422" target="_blank">Source</a>
 :::

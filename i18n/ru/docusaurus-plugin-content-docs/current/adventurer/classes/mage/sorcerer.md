@@ -6,17 +6,23 @@ hoverText: ""
 
 ## Novice
 
-**Upgrade**: Have [<img src="/icons/party-size.svg" alt="Party Size Icon" className="icon-svg" />](/docs/glossary/party-size)+2 [enchantments (<img src="/icons/enchantment.svg" alt="Enchantment Icon" className="icon-svg" />)](/docs/adventurer/items/types/enchantment) active at the same time.
+**Upgrade**: Have
+[<img src="/icons/party-size.svg" alt="Party Size Icon" className="icon-svg" />](/docs/glossary/party-size)+2
+[enchantments
+(<img src="/icons/enchantment.svg" alt="Enchantment Icon" className="icon-svg" />)](/docs/adventurer/items/types/enchantment)
+active at the same time.
 
-:::info
-**Does the Sorcerer need to have activated all of the enchantments themself?**
+:::info **Does the Sorcerer need to have activated all of the enchantments
+themself?**
 
 No, enchantments can be activated by any adventurer.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1336010057359298653" target="_blank">Source</a>
 :::
 
-**Innate Ability**: If you start your turn in [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic), gain 1 [tenacity](/docs/glossary/tenacity).
+**Innate Ability**: If you start your turn in
+[<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic),
+gain 1 [tenacity](/docs/glossary/tenacity).
 
 <div className="class-table-wrapper">
 
@@ -32,7 +38,11 @@ No, enchantments can be activated by any adventurer.
 
 ## Master
 
-**Innate Ability**: If you start your turn in [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic), gain 1 [tenacity](/docs/glossary/tenacity) or remove 1 light [fatigue](/docs/glossary/fatigue) from your [cooldown track](/docs/glossary/cooldown-track).
+**Innate Ability**: If you start your turn in
+[<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic),
+gain 1 [tenacity](/docs/glossary/tenacity) or remove 1 light
+[fatigue](/docs/glossary/fatigue) from your [cooldown
+track](/docs/glossary/cooldown-track).
 
 <div className="class-table-wrapper">
 
@@ -48,8 +58,8 @@ No, enchantments can be activated by any adventurer.
 
 ---
 
-:::info
-**Can you use Dark Exchange to remove the last HP from an enemy unit and defeat it?**
+:::info **Can you use Dark Exchange to remove the last HP from an enemy unit and
+defeat it?**
 
 Yes.
 
@@ -57,17 +67,28 @@ Yes.
 
 **Can you use the Novice Dark Exchange ability to recover HP?**
 
-"[<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Remove 1 HP from yourself and from any [unit](/docs/glossary/unit) in [range](/docs/glossary/range). Add both chips to **any other unit** in range (may exceed [Health](/docs/adventurer/stats/health) stat)."
+"[<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic):
+Remove 1 HP from yourself and from any [unit](/docs/glossary/unit) in
+[range](/docs/glossary/range). Add both chips to **any other unit** in range
+(may exceed [Health](/docs/adventurer/stats/health) stat)."
 
-No, you can't heal yourself using this ability. Since you must remove HP from yourself and another unit, and then apply those chips to **any other unit** - you are therefore unable to apply those chips to yourself. Note that the Master side of Dark Exchange does allowing healing yourself.
+No, you can't heal yourself using this ability. Since you must remove HP from
+yourself and another unit, and then apply those chips to **any other unit** -
+you are therefore unable to apply those chips to yourself. Note that the Master
+side of Dark Exchange does allowing healing yourself.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1343996569476792372" target="_blank">Source</a>
 
 ---
 
-**Can I use Combat Dice or Heavy Armor dice to prevent the damage from Lightning Splash?**
+**Can I use Combat Dice or Heavy Armor dice to prevent the damage from Lightning
+Splash?**
 
-No, the damage from Lightning Splash is dealt by the Sorcerer [Adventurer](/docs/glossary/adventurer). Most damage prevention effects (including Combat and Heavy Armor skill dice) specify "When you are dealt damage by an **[enemy](/docs/glossary/enemy)**...". Therefore, you can't utilize these dice to prevent damage from Lightning Splash as it was dealt by an Adventurer.
+No, the damage from Lightning Splash is dealt by the Sorcerer
+[Adventurer](/docs/glossary/adventurer). Most damage prevention effects
+(including Combat and Heavy Armor skill dice) specify "When you are dealt damage
+by an **[enemy](/docs/glossary/enemy)**...". Therefore, you can't utilize these
+dice to prevent damage from Lightning Splash as it was dealt by an Adventurer.
 
 <a href="https://discord.com/channels/273472391403798528/1406510845814636585/1406561001112866856" target="_blank">Source</a>
 :::
