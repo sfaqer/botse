@@ -1,5 +1,6 @@
 import React from "react";
 import { Card, CardContent, Typography } from "@mui/material";
+import Link from "@docusaurus/Link";
 import addTooltips from "./addTooltips";
 import ListItem from "@mui/material/ListItem";
 
@@ -36,9 +37,9 @@ const EnemySkillCards: React.FC<EnemySkillCardsProps> = ({
         }}
       >
         <h4 style={{ marginBottom: 5 + "px" }}>
-          <a href={link} target="_blank" rel="noopener noreferrer">
+          <Link to={link} target="_blank" rel="noopener noreferrer">
             {title}
-          </a>
+          </Link>
         </h4>
         <span
           dangerouslySetInnerHTML={{ __html: markdownToHtml(ability) }}
