@@ -5,7 +5,9 @@ title: Speech
 
 # <img src="/icons/skills/speech/icon.png" alt="Speech" className="icon-svg" /> Speech
 
-Speech dice all have numbers which indicate the strength of their effects. When multiple dice of the same skill are rolled together, their numbers are combined, increasing an effect's strength.
+Speech dice all have numbers which indicate the strength of their effects. When
+multiple dice of the same skill are rolled together, their numbers are combined,
+increasing an effect's strength.
 
 **Associated Stat:** [Stamina](/docs/adventurer/stats/stamina)
 
@@ -56,7 +58,14 @@ An adjacent adventurer is 1 hex away, so 1 tenacity is lost in the transfer.
 <!-- translate:on -->
 ## Speech in Social Checks
 
-Before [adventurers](/docs/glossary/adventurer) spend any [tenacity](/docs/glossary/tenacity) to resolve a social check, adventurers with [available](/docs/glossary/available) Speech skill dice in their attribute slots may choose to roll any number of those skill dice (regardless of their [Stamina](/docs/adventurer/stats/stamina)). Instead of resolving the effects of the rolled results, the numeric values on the rolled results count toward the party's social check, reducing the amount of tenacity that must be spent to succeed at the check. Regardless of success, all rolled dice are exhausted.
+Before [adventurers](/docs/glossary/adventurer) spend any
+[tenacity](/docs/glossary/tenacity) to resolve a social check, adventurers with
+[available](/docs/glossary/available) Speech skill dice in their attribute slots
+may choose to roll any number of those skill dice (regardless of their
+[Stamina](/docs/adventurer/stats/stamina)). Instead of resolving the effects of
+the rolled results, the numeric values on the rolled results count toward the
+party's social check, reducing the amount of tenacity that must be spent to
+succeed at the check. Regardless of success, all rolled dice are exhausted.
 
 ## Related Content
 

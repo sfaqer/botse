@@ -7,7 +7,9 @@ tags:
   - Native
 ---
 
-When this [unit](/docs/glossary/unit) determines a target, its target must exhaust a number of dice from its [active slots](/docs/glossary/active-slot) as determined by the current weather.
+When this [unit](/docs/glossary/unit) determines a target, its target must
+exhaust a number of dice from its [active slots](/docs/glossary/active-slot) as
+determined by the current weather.
 
 - Sunny = 1
 - Rainy = 2

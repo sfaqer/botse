@@ -6,14 +6,24 @@ hoverText: ""
 
 ## Novice
 
-**Upgrade**: Have a total of 8 skill dice trained across the Combat skill line and any [<img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" />](/docs/adventurer/skill-lines/mage) type skill lines.
+**Upgrade**: Have a total of 8 skill dice trained across the Combat skill line
+and any
+[<img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" />](/docs/adventurer/skill-lines/mage)
+type skill lines.
 
-**Innate Ability**: Once per turn, you may drain 1 [available](/docs/glossary/available) level 1 skill die to trigger the effect of any of its <img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" /> sides as if you are performing an engage.
+**Innate Ability**: Once per turn, you may drain 1
+[available](/docs/glossary/available) level 1 skill die to trigger the effect of
+any of its
+<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" /> sides
+as if you are performing an engage.
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-This engage is treated as a [free](/docs/glossary/free) [engage](/docs/battles/adventurer-turn/engage). You don't gain [fatigue](/docs/glossary/fatigue) for performing it. You may change [battle forms](/docs/battles/battle-forms/index).
+This engage is treated as a [free](/docs/glossary/free)
+[engage](/docs/battles/adventurer-turn/engage). You don't gain
+[fatigue](/docs/glossary/fatigue) for performing it. You may change [battle
+forms](/docs/battles/battle-forms/index).
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1329532592290267137" target="_blank">Source</a>
 
@@ -21,7 +31,9 @@ This engage is treated as a [free](/docs/glossary/free) [engage](/docs/battles/a
 
 **Can I use an item for the Innate ability?**
 
-Yes. Treat it like an engage in all ways, except it's just 1 die, you don't roll it, and it doesn't count towards the number of engages you've taken that turn for the purpose of having to take light fatigue.
+Yes. Treat it like an engage in all ways, except it's just 1 die, you don't roll
+it, and it doesn't count towards the number of engages you've taken that turn
+for the purpose of having to take light fatigue.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1334945968281620574" target="_blank">Source</a>
 
@@ -42,7 +54,10 @@ Yes. Treat it like an engage in all ways, except it's just 1 die, you don't roll
 
 ## Master
 
-**Innate Ability**: Once per turn, you may drain 1 level 1 skill die from anywhere on your adventurer mat to trigger the effect of any of its <img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" /> sides as if you are performing an engage.
+**Innate Ability**: Once per turn, you may drain 1 level 1 skill die from
+anywhere on your adventurer mat to trigger the effect of any of its
+<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" /> sides
+as if you are performing an engage.
 
 <div className="class-table-wrapper">
 
@@ -64,7 +79,8 @@ Yes. Treat it like an engage in all ways, except it's just 1 die, you don't roll
 <!-- translate:on -->
 **Can you use Meticulous Disassembly without discarding an item?**
 
-No, according to the "Resolving Partial Skills and Abilities" rule, anything before a **then** is considered to be the cost of the skill.
+No, according to the "Resolving Partial Skills and Abilities" rule, anything
+before a **then** is considered to be the cost of the skill.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Source</a>
 <!-- translate:off -->

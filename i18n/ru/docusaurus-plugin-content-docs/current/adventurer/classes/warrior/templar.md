@@ -6,18 +6,22 @@ hoverText: ""
 
 ## Novice
 
-**Upgrade**: Deal at least 4 damage and [heal](/docs/glossary/healing) at least 4 HP on the same turn, across any number of [units](/docs/glossary/unit).
+**Upgrade**: Deal at least 4 damage and [heal](/docs/glossary/healing) at least
+4 HP on the same turn, across any number of [units](/docs/glossary/unit).
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
 **What counts as healing for at least 4 HP?**
 
-If a game effect depends on how much a unit healed, the amount considered is the amount of HP **actually gained**.
+If a game effect depends on how much a unit healed, the amount considered is the
+amount of HP **actually gained**.
 <!-- translate:off -->
 :::
 <!-- translate:on -->
-**Innate Ability**: If you start your turn in [<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive), [heal](/docs/glossary/healing) for 1 HP.
+**Innate Ability**: If you start your turn in
+[<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive),
+[heal](/docs/glossary/healing) for 1 HP.
 
 <div className="class-table-wrapper">
 
@@ -33,7 +37,10 @@ If a game effect depends on how much a unit healed, the amount considered is the
 
 ## Master
 
-**Innate Ability**: If you start your turn in [<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive), [heal](/docs/glossary/healing) for 1 HP. You may also recover a Combat skill die from your cooldown track, immediately roll it, and apply the result.
+**Innate Ability**: If you start your turn in
+[<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive),
+[heal](/docs/glossary/healing) for 1 HP. You may also recover a Combat skill die
+from your cooldown track, immediately roll it, and apply the result.
 
 <div className="class-table-wrapper">
 

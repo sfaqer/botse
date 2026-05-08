@@ -8,7 +8,9 @@ hoverText: ""
 
 **Upgrade**: Successfully complete a non-quest delve encounter.
 
-**Innate Ability**: **[Interrupt](/docs/glossary/interrupt):** After deploying enemies at the start of a clash or dungeon, you may swap the positions of 2 non-quest enemies.
+**Innate Ability**: **[Interrupt](/docs/glossary/interrupt):** After deploying
+enemies at the start of a clash or dungeon, you may swap the positions of 2
+non-quest enemies.
 
 <div className="class-table-wrapper">
 
@@ -24,7 +26,9 @@ hoverText: ""
 
 ## Master
 
-**Innate Ability**: **[Interrupt](/docs/glossary/interrupt):** After deploying enemies at the start of a clash or dungeon, you may swap the positions of any number of non-quest enemies.
+**Innate Ability**: **[Interrupt](/docs/glossary/interrupt):** After deploying
+enemies at the start of a clash or dungeon, you may swap the positions of any
+number of non-quest enemies.
 
 <div className="class-table-wrapper">
 

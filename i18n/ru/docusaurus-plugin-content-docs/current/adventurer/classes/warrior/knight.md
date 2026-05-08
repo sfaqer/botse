@@ -8,7 +8,9 @@ hoverText: ""
 
 **Upgrade**: Complete 2 side quests with your party in a single session.
 
-**Innate Ability**: After the party gains a side quest, [heal](/docs/glossary/healing) to full HP or gain 3 [tenacity](/docs/glossary/tenacity).
+**Innate Ability**: After the party gains a side quest,
+[heal](/docs/glossary/healing) to full HP or gain 3
+[tenacity](/docs/glossary/tenacity).
 
 <div className="class-table-wrapper">
 
@@ -24,7 +26,10 @@ hoverText: ""
 
 ## Master
 
-**Innate Ability**: After the party gains a side quest, [heal](/docs/glossary/healing) to full HP or gain 3 [tenacity](/docs/glossary/tenacity). After completing a side quest with your party, [heal](/docs/glossary/healing) to full HP and clear your cooldown track.
+**Innate Ability**: After the party gains a side quest,
+[heal](/docs/glossary/healing) to full HP or gain 3
+[tenacity](/docs/glossary/tenacity). After completing a side quest with your
+party, [heal](/docs/glossary/healing) to full HP and clear your cooldown track.
 
 <div className="class-table-wrapper">
 

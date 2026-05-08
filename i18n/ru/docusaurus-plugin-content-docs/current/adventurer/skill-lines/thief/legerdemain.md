@@ -7,16 +7,26 @@ tags:
 
 # <img src="/icons/skills/legerdemain/icon.png" alt="Legerdemain" className="icon-svg" /> Legerdemain
 
-The legerdemain line is unique in that it costs no [Stamina](/docs/adventurer/stats/stamina) or [Magicka](/docs/adventurer/stats/magicka) to use, but it is situational in its application. When a die's text indicates it may be rolled, you may choose whether to roll the die and apply the results. Dice are returned to your attribute rows after use.
+The legerdemain line is unique in that it costs no
+[Stamina](/docs/adventurer/stats/stamina) or
+[Magicka](/docs/adventurer/stats/magicka) to use, but it is situational in its
+application. When a die's text indicates it may be rolled, you may choose
+whether to roll the die and apply the results. Dice are returned to your
+attribute rows after use.
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Are tenacity results returned to attribute rows? What about results that state "Exhaust this die"?**
+**Are tenacity results returned to attribute rows? What about results that state
+"Exhaust this die"?**
 
-"Dice are returned to your attribute rows after use" applies to tenacity results.
+"Dice are returned to your attribute rows after use" applies to tenacity
+results.
 
-Finders Keepers and Light Fingers each have a result that says "You must resolve this result. Exhaust this die and gain 1 light fatigue." This specifically **overrides** the general rule, forcing you to exhaust it instead of returning it to your attribute rows.
+Finders Keepers and Light Fingers each have a result that says "You must resolve
+this result. Exhaust this die and gain 1 light fatigue." This specifically
+**overrides** the general rule, forcing you to exhaust it instead of returning
+it to your attribute rows.
 
 <a href="https://discord.com/channels/273472391403798528/1393200038569840650/1405228552722583643" target="_blank">Source</a>
 <!-- translate:off -->
@@ -60,7 +70,8 @@ You may roll this die when making a lockpick attempt.
 
 **Dice Supply:** 2
 
-You may roll this die during a [town](/docs/campaign/day/encounter-phase/town) encounter with a shop before taking town actions.
+You may roll this die during a [town](/docs/campaign/day/encounter-phase/town)
+encounter with a shop before taking town actions.
 
 | Icon                                                                               | Ability                                                                                                                                   |
 | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -75,7 +86,8 @@ You may roll this die during a [town](/docs/campaign/day/encounter-phase/town) e
 
 **Dice Supply:** 2
 
-You may roll this die at the start of a [town](/docs/campaign/day/encounter-phase/town) encounter.
+You may roll this die at the start of a
+[town](/docs/campaign/day/encounter-phase/town) encounter.
 
 | Icon                                                                                     | Ability                        |
 | ---------------------------------------------------------------------------------------- | ------------------------------ |

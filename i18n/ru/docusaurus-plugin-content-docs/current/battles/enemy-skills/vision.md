@@ -6,4 +6,5 @@ tags:
   - Quest Unit Skill
 ---
 
-This [unit](/docs/glossary/unit) ignores [sight](/docs/glossary/sight) restrictions.
+This [unit](/docs/glossary/unit) ignores [sight](/docs/glossary/sight)
+restrictions.

@@ -8,7 +8,11 @@ tags:
 
 # <img src="/icons/fear.svg" alt="Fear Icon" /> Fear
 
-The effects of this [unit's](/docs/glossary/unit) non-[Combat](/docs/adventurer/skill-lines/warrior/combat) skills are ignored. This effect does not apply to skill dice already in [active slots](/docs/glossary/active-slot) or the [cooldown track](/docs/glossary/cooldown-track).
+The effects of this [unit's](/docs/glossary/unit)
+non-[Combat](/docs/adventurer/skill-lines/warrior/combat) skills are ignored.
+This effect does not apply to skill dice already in [active
+slots](/docs/glossary/active-slot) or the [cooldown
+track](/docs/glossary/cooldown-track).
 
 ---
 
@@ -17,7 +21,9 @@ The effects of this [unit's](/docs/glossary/unit) non-[Combat](/docs/adventurer/
 <!-- translate:on -->
 **What are non-Combat skills?**
 
-All skills except the skill line called Combat that all adventurers have by default. So an enemy with Fear ignores all of its skills. An adventurer with Fear can only use their Combat skill line, no other skills.
+All skills except the skill line called Combat that all adventurers have by
+default. So an enemy with Fear ignores all of its skills. An adventurer with
+Fear can only use their Combat skill line, no other skills.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292468" target="_blank">Source</a>
 
@@ -28,7 +34,8 @@ All skills except the skill line called Combat that all adventurers have by defa
 :::info
 <!-- translate:on -->
 
-**Can an adventurer with Fear still roll skill dice and benefit from tenacity results?**
+**Can an adventurer with Fear still roll skill dice and benefit from tenacity
+results?**
 
 You cannot gain benefits from tenacity results rolled on skill dice either.
 
