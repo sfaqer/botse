@@ -1,1 +1,11 @@
-{}
+{
+  "link.item.label.Feedback / Suggestions": {
+    "message": "Отзывы / Предложения"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub"
+  },
+  "copyright": {
+    "message": "Этот сайт является проектом сообщества, не связанным с Chip Theory Games."
+  }
+}

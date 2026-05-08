@@ -1,1 +1,14 @@
-{}
+{
+  "title": {
+    "message": "BOTSE Помощник"
+  },
+  "logo.alt": {
+    "message": "Логотип для BOTSE Помощник"
+  },
+  "item.label.BOTSE Tracker": {
+    "message": "BOTSE Трекер"
+  },
+  "item.label.Enemy Skills Tracker": {
+    "message": "Трекер навыков противника"
+  }
+}
