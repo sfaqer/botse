@@ -1,16 +1,15 @@
 name: Sync i18n into preview/gh-pages
 
 on:
-  # Fired by .github/workflows/notify-preview.yml on the i18n branch right
-  # after a push there. Far more reliable than the schedule below, which
-  # GitHub heavily throttles around top-of-hour minutes on the free tier.
-  repository_dispatch:
-    types: [i18n-updated]
-  # Fallback when the dispatch path is unavailable (e.g. notify-preview is
-  # missing from i18n). Off-peak minute to dodge the worst throttling.
+  # Triggered by .github/workflows/notify-preview.yml on the i18n branch
+  # right after a push to i18n (it calls `gh workflow run` against this
+  # workflow). Far more reliable than the schedule below, which GitHub
+  # heavily throttles around top-of-hour minutes on the free tier.
+  workflow_dispatch:
+  # Fallback when notify-preview is unavailable (e.g. removed for the
+  # upstream PR). Off-peak minute to dodge the worst throttling.
   schedule:
     - cron: '37 * * * *'
-  workflow_dispatch:
 
 permissions:
   contents: write
