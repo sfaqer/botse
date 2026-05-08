@@ -29,8 +29,13 @@ hoverText: Guild Kiosk Town Action - Untrain a level 1 [Mage](/docs/adventurer/s
 
 ### Guild Kiosk Town Action
 
-**The Old Ways:** Untrain a level 1 [<img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" />](/docs/adventurer/skill-lines/mage) type skill die to train a level 2 [<img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" />](/docs/adventurer/skill-lines/mage) in the same skill line.
+**The Old Ways:** Untrain a level 1
+[<img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" />](/docs/adventurer/skill-lines/mage)
+type skill die to train a level 2
+[<img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" />](/docs/adventurer/skill-lines/mage)
+in the same skill line.
 
 ### Guild Focus
 
-The party focuses on investigating magical anomalies. This often includes battles with unique objectives.
+The party focuses on investigating magical anomalies. This often includes
+battles with unique objectives.

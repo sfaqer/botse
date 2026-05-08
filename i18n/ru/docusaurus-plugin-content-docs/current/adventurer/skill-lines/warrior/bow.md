@@ -7,7 +7,8 @@ title: Bow
 
 **Associated Stat:** [Stamina](/docs/adventurer/stats/stamina)
 
-**Required Battle Form:** [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon)
+**Required Battle Form:**
+[<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon)
 
 ## Level 1
 
@@ -31,14 +32,18 @@ title: Bow
 | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/bow/volley.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal a total of 4 damage, distributed as you choose among [enemies](/docs/glossary/enemy) [adjacent](/docs/glossary/adjacent) to you. [Then](/docs/glossary/then), [place](/docs/glossary/move-or-place) yourself in an [unoccupied](/docs/glossary/occupied) hex 2-4 hexes away from your current hex. |
 
-:::info
-**How does Volley and [Riposte](/docs/battles/enemy-skills/riposte) interact?**
+:::info **How does Volley and [Riposte](/docs/battles/enemy-skills/riposte)
+interact?**
 
-Whether or not units are adjacent is determined at the time the die is resolved, not at the time the damage is applied.
+Whether or not units are adjacent is determined at the time the die is resolved,
+not at the time the damage is applied.
 
-Volley deals damage to an adjacent enemy, so if that enemy has Riposte, Riposte triggers, because it reacts to being dealt damage by an adjacent unit.
+Volley deals damage to an adjacent enemy, so if that enemy has Riposte, Riposte
+triggers, because it reacts to being dealt damage by an adjacent unit.
 
-Whether you resolve the Riposte damage or the movement first is up to you, but resolving the move first doesn't prevent the Riposte damage, because they were adjacent at the time the damage was dealt.
+Whether you resolve the Riposte damage or the movement first is up to you, but
+resolving the move first doesn't prevent the Riposte damage, because they were
+adjacent at the time the damage was dealt.
 
 <a href="https://discord.com/channels/273472391403798528/1394258182729367695/1430289898585198715" target="_blank">Source</a>
 
@@ -46,7 +51,8 @@ Whether you resolve the Riposte damage or the movement first is up to you, but r
 
 **Can you place yourself without dealing damage?**
 
-No, according to the "Resolving Partial Skills and Abilities" rule, anything before a **then** is considered to be the cost of the skill.
+No, according to the "Resolving Partial Skills and Abilities" rule, anything
+before a **then** is considered to be the cost of the skill.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387191141656559696" target="_blank">Source</a>
 
@@ -54,7 +60,12 @@ No, according to the "Resolving Partial Skills and Abilities" rule, anything bef
 
 **How does Volley work with [Iron Bark](/docs/battles/enemy-skills/iron-bark)?**
 
-Any restrictions regarding which units a die can be resolved against (for example, if a result requires adjacency) are assessed at the time the die is resolved, not at the time the damage is applied. Volley damages an adjacent enemy. Therefore the enemy must be adjacent at the time that Volley is resolved - even if that damage is pooled and then later applied after you are no longer adjacent.
+Any restrictions regarding which units a die can be resolved against (for
+example, if a result requires adjacency) are assessed at the time the die is
+resolved, not at the time the damage is applied. Volley damages an adjacent
+enemy. Therefore the enemy must be adjacent at the time that Volley is resolved
+- even if that damage is pooled and then later applied after you are no longer
+adjacent.
 
 Iron Bark wouldn't trigger because you were adjacent when the damage was dealt.
 
@@ -92,7 +103,10 @@ Iron Bark wouldn't trigger because you were adjacent when the damage was dealt.
 
 **How do two copies of Rapid Fire (recovering side) resolve?**
 
-Once the first one is resolved, the second wouldn't do anything because you wouldn't have any Snipe dice in your cooldown track upon resolving it. Just because there are two copies of a die in the supply, doesn't mean they necessarily work when rolled together and getting the same result.
+Once the first one is resolved, the second wouldn't do anything because you
+wouldn't have any Snipe dice in your cooldown track upon resolving it. Just
+because there are two copies of a die in the supply, doesn't mean they
+necessarily work when rolled together and getting the same result.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Source</a>
 
@@ -117,10 +131,12 @@ Once the first one is resolved, the second wouldn't do anything because you woul
 | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/bow/scatter-shot.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): All damage dealt to your target this [engage](/docs/battles/adventurer-turn/engage) [may](/docs/glossary/may) also be dealt to another [targetable](/docs/glossary/targetable) [enemy](/docs/glossary/enemy). [Defense](/docs/adventurer/stats/defense) ignored as a result of Snipe dice may also be ignored for this enemy. |
 
-:::info
-**Does Scatter Shot count as 'dealing damage' for the purpose of engaging [Dodge](/docs/battles/enemy-skills/dodge)?**
+:::info **Does Scatter Shot count as 'dealing damage' for the purpose of
+engaging [Dodge](/docs/battles/enemy-skills/dodge)?**
 
-Scatter Shot counts as a damage-dealing die for the purpose of [Dodge](/docs/battles/enemy-skills/dodge) (as long as it actually results in damage being dealt).
+Scatter Shot counts as a damage-dealing die for the purpose of
+[Dodge](/docs/battles/enemy-skills/dodge) (as long as it actually results in
+damage being dealt).
 
 <a href="https://discord.com/channels/273472391403798528/1437487363776319570/1476968252063092779" target="_blank">Source</a>
 :::

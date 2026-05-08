@@ -5,7 +5,8 @@ hoverText: Each game session is played over a number of rounds called days.
 slug: /campaign/day/index
 ---
 
-Each game session is played over a number of rounds called days. Each day is divided into the five phases:
+Each game session is played over a number of rounds called days. Each day is
+divided into the five phases:
 
 1. [New Day Phase](/docs/campaign/day/new-day-phase)
 2. [Overland Phase](/docs/campaign/day/overland-phase/index/)

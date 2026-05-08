@@ -7,4 +7,8 @@ hoverText: This is the easiest difficulty. [Adventurers](/docs/glossary/adventur
 
 This is the easiest difficulty.
 
-[Adventurers](/docs/glossary/adventurer) remove 2 dice from their [cooldown track](/docs/glossary/cooldown-track) and [heal](/docs/glossary/healing) for 2 HP during the [Adventurers Rest](/docs/campaign/day/end-of-day-phase) step at the end of each day. Quest steps also occasionally contain modified rules for Apprentice difficulty level.
+[Adventurers](/docs/glossary/adventurer) remove 2 dice from their [cooldown
+track](/docs/glossary/cooldown-track) and [heal](/docs/glossary/healing) for 2
+HP during the [Adventurers Rest](/docs/campaign/day/end-of-day-phase) step at
+the end of each day. Quest steps also occasionally contain modified rules for
+Apprentice difficulty level.

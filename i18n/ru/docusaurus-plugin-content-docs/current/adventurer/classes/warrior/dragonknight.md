@@ -8,7 +8,9 @@ hoverText: ""
 
 **Upgrade**: End a battle with 1 HP.
 
-**Innate Ability**: If there are more undefeated [enemies](/docs/glossary/enemy) than undefeated [party members](/docs/glossary/party), ignore 1 defense on your target.
+**Innate Ability**: If there are more undefeated [enemies](/docs/glossary/enemy)
+than undefeated [party members](/docs/glossary/party), ignore 1 defense on your
+target.
 
 <div className="class-table-wrapper">
 
@@ -24,7 +26,9 @@ hoverText: ""
 
 ## Master
 
-**Innate Ability**: If there are more undefeated [enemies](/docs/glossary/enemy) than undefeated [party members](/docs/glossary/party), you ignore 1 defense on all enemies.
+**Innate Ability**: If there are more undefeated [enemies](/docs/glossary/enemy)
+than undefeated [party members](/docs/glossary/party), you ignore 1 defense on
+all enemies.
 
 <div className="class-table-wrapper">
 
@@ -40,18 +44,26 @@ hoverText: ""
 
 ---
 
-:::info
-**Can an adventurer change battle form to perform the Dragonknight Standard ability?**
+:::info **Can an adventurer change battle form to perform the Dragonknight
+Standard ability?**
 
-No, only adventurer's already in [<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon), [<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/heavy-weapon), or [<img src="/icons/ranged-weapon.svg" alt="Ranged Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon) can perform this ability. The ability to change battle forms during a class ability is specific to the adventurer who's performing the class ability.
+No, only adventurer's already in
+[<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon),
+[<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/heavy-weapon),
+or
+[<img src="/icons/ranged-weapon.svg" alt="Ranged Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon)
+can perform this ability. The ability to change battle forms during a class
+ability is specific to the adventurer who's performing the class ability.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1342165307027886250" target="_blank">Source</a>
 
 ---
 
-**Does an enemies defense reset between each adventurer's attack when using the Dragonknight Standard ability?**
+**Does an enemies defense reset between each adventurer's attack when using the
+Dragonknight Standard ability?**
 
-Each adventurer's damage is a separate instance of damage. Defense will apply for each adventurer, even if they target the same enemy.
+Each adventurer's damage is a separate instance of damage. Defense will apply
+for each adventurer, even if they target the same enemy.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1346557892966220049" target="_blank">Source</a>
 :::

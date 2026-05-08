@@ -6,9 +6,12 @@ hoverText: ""
 
 ## Novice
 
-**Upgrade**: Have all 8 attribute slots on your adventurer mat filled with stats and skill lines.
+**Upgrade**: Have all 8 attribute slots on your adventurer mat filled with stats
+and skill lines.
 
-**Innate Ability**: All trainers in [town](/docs/campaign/day/encounter-phase/town) populate 1 additional skill line.
+**Innate Ability**: All trainers in
+[town](/docs/campaign/day/encounter-phase/town) populate 1 additional skill
+line.
 
 <div className="class-table-wrapper">
 
@@ -43,9 +46,11 @@ hoverText: ""
 
 :::tip[FAQ]
 
-**When using the Wayfarer class ability, can you choose an ability from Novice or Master side?**
+**When using the Wayfarer class ability, can you choose an ability from Novice
+or Master side?**
 
-When you use this ability, you can choose the ability you use from either the novice or master side.
+When you use this ability, you can choose the ability you use from either the
+novice or master side.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294924" target="_blank">Source</a>
 
@@ -53,9 +58,12 @@ When you use this ability, you can choose the ability you use from either the no
 
 :::info
 
-**When using the Wayfarer class ability, if I use the [Warden's](/docs/adventurer/classes/mage/warden) Feral Guardian ability to summon a companion, does it persist after battle?**
+**When using the Wayfarer class ability, if I use the
+[Warden's](/docs/adventurer/classes/mage/warden) Feral Guardian ability to
+summon a companion, does it persist after battle?**
 
-Feral Guardian will persist until the end of session, or until it is defeated (it is not removed at the end of battle).
+Feral Guardian will persist until the end of session, or until it is defeated
+(it is not removed at the end of battle).
 
 <a href="https://discord.com/channels/273472391403798528/1392758332900507759/1393239222789472286" target="_blank">Source</a>
 
