@@ -17,16 +17,16 @@ on:
     branches: [i18n]
 
 permissions:
-  contents: read
+  actions: write
 
 jobs:
   dispatch:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger sync-preview via repository_dispatch
+      - name: Trigger sync-preview via workflow_dispatch
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh api repos/${{ github.repository }}/dispatches \
-            -f event_type=i18n-updated \
-            -f 'client_payload[sha]=${{ github.sha }}'
+          gh workflow run "Sync i18n into preview/gh-pages" \
+            --repo "$GITHUB_REPOSITORY" \
+            --ref preview/gh-pages
