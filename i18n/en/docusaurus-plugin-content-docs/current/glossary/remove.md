@@ -11,7 +11,9 @@ Some abilities refer to units removing other units from the map. Removing a unit
 
 ---
 
+<!-- translate:off -->
 :::tip[FAQ]
+<!-- translate:on -->
 **Remove vs. Recover Overfatigue Dice from Cooldown**
 
 When game text tells you to recover an overfatigue die in your cooldown track, treat it like normal for recovering overfatigue - it goes to the end of your cooldown track. When game text tells you to remove an overfatigue die from cooldown, you can remove it entirely.
@@ -21,4 +23,6 @@ If game text says to remove a fatigue die, you can choose between light or overf
 There are a few spots in the rulebook where remove is used when recover would be more appropriate, but it should be generally understood that an overfatigue die that would leave your cooldown track is placed back at the end of your cooldown track, unless it's being removed by a game effect that specifically tells you that you can remove it.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294279" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

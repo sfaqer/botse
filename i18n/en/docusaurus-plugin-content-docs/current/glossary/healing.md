@@ -10,18 +10,25 @@ When a [party](/docs/glossary/party) member resolves an effect that heals anothe
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Does healing pool?**
 
 Healing doesn't pool. If you resolve multiple healing abilities back-to-back, sure, take it all together. However, it could be important they don't pool for order of resolution. Say you heal a little, then do something that results in you taking some damage, then you resolve something else that heals you again.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1386737216075731054" target="_blank">Source</a>
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
+<!-- translate:off -->
 :::tip[FAQ]
+<!-- translate:on -->
 **Is how much you healed based on HP gained or the healing given?**
 
 If a game effect depends on how much a unit healed, the amount considered is the amount of HP **actually gained**, not the amount of healing that the healing ability offered.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000291845" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

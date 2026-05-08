@@ -32,7 +32,9 @@ To perform an engage action, follow the steps below. An ability that instructs a
 
 Each skill die ability has at least 1 of the following codes that determines how it is resolved and where the die must be placed afterwards. Some skills have wording that can affect non-target units. If an ability requires that a die be exhausted, that die must be placed in the leftmost open position in the cooldown track.
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Resolving Partial Skills and Abilities**
 
 When you resolve a skill or ability, you must do as much of the skill or ability as is possible, ignoring any portion that you are unable to resolve. If the skill or ability has a cost associated with it, you must be able to fully resolve the cost in order to resolve the skill or ability. If a skill or ability is worded such that you must do one thing **to** do another, or do one thing **then** do another, the first portion of that skill or ability is considered to be the cost.
@@ -54,8 +56,9 @@ The target has to be in range when selected as a target (step 3) **and** when th
 You only declare a target if the game structure tells you to. i.e. as part of an [engage](/docs/battles/adventurer-turn/engage), or if something else in the game tells you to select a target. You can't just randomly select yourself a target in order to use something that triggers based off of selecting a target.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1386823964017561610" target="_blank">Source</a> / <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1386825052456095804" target="_blank">Source 2</a>
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
 | Icon                                                              | Name                                            |
 | ----------------------------------------------------------------- | ----------------------------------------------- |
 | <img src="/icons/active-slot.svg" alt="Active Slot Icon" />       | [Active Slot](/docs/glossary/active-slot)       |
@@ -73,7 +76,9 @@ Some skill die abilities allow skill dice to be rolled during non-battle encount
 
 ---
 
+<!-- translate:off -->
 :::tip[FAQ]
+<!-- translate:on -->
 **Do enemy skills trigger after engage if they are defeated?**
 
 If an enemy has a skill that triggers **after** it is engaged, that skill does not trigger if the enemy is defeated during that engage.
@@ -107,4 +112,6 @@ Damage dealt by adventurers is pooled when dealt to **enemies or companions**. D
 Unless another game effect says you cannot (and following battle form and stamina/magicka restrictions), you can roll any skill dice on your turn, even if a possible result wouldn't be able to be resolved. An example of this is rolling a skill that requires a target, while not having a target. Generally this is done in order to try for tenacity results.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000293232" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

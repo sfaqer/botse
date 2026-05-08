@@ -43,7 +43,9 @@ tags:
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Can the "Shadowy Supplier" ability be triggered when another unit defeats an enemy?**
 
 No, "After defeating an enemy" is the same as "After **you** defeat an enemy". Therefore, the Burglar must be the one to defeat an enemy for this class ability to be triggered.
@@ -66,8 +68,9 @@ No, interrupt class abilities can only be used once per timing.
 
 <a href="https://discord.com/channels/273472391403798528/1392861883404386345/1395858420619415736" target="_blank">Source</a>
 
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
 ## Related Content
 
 <div className="responsive-embed">

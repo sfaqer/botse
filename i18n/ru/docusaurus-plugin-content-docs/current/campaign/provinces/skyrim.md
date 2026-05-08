@@ -10,7 +10,9 @@ tags:
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **In under siege town encounters, when do you reveal items and trainers?**
 
 You reveal items and trainers at the beginning of the town encounter as normal.
@@ -41,21 +43,29 @@ You get XP for both.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Source</a>
 
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
+<!-- translate:off -->
 :::tip[FAQ]
+<!-- translate:on -->
 **Does Icy Buildup clear between delves?**
 
 Chips on the Icy Buildup card should be cleared after each [delve](/docs/battles/types/delve/) (unless instructed not to clear it).
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000291979" target="_blank">Source</a>
 
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
+<!-- translate:off -->
 :::warning[Errata]
+<!-- translate:on -->
 **Quest Step C11 (Fighters Guild) - Bloodthorns take 1 damage**
 
 Bloodthorns in this scenario are defeated if the take at least 1 damage. This information is missing from the scenario instructions.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294287" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

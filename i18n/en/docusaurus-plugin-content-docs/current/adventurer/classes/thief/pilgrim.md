@@ -41,7 +41,9 @@ hoverText: ""
 
 ---
 
+<!-- translate:off -->
 :::tip[FAQ]
+<!-- translate:on -->
 
 **When using the Wayfarer class ability, can you choose an ability from Novice or Master side?**
 
@@ -49,9 +51,12 @@ When you use this ability, you can choose the ability you use from either the no
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294924" target="_blank">Source</a>
 
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 
 **When using the Wayfarer class ability, if I use the [Warden's](/docs/adventurer/classes/mage/warden) Feral Guardian ability to summon a companion, does it persist after battle?**
 
@@ -67,8 +72,9 @@ No, interrupt class abilities can only be used once per timing.
 
 <a href="https://discord.com/channels/273472391403798528/1392861883404386345/1395858420619415736" target="_blank">Source</a>
 
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
 ## Related Content
 
 <div className="responsive-embed">

@@ -40,14 +40,17 @@ hoverText: ""
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Can I drain an fatigue or status die using the Tumbling ability?**
 
 No, you must drain a skill die.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1334931433562570825" target="_blank">Source</a>
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
 ## Related Content
 
 <div className="responsive-embed">

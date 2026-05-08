@@ -10,7 +10,9 @@ hoverText: ""
 
 **Innate Ability**: After a <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" /> [companion](/docs/glossary/companion) is defeated, [heal](/docs/glossary/healing) yourself for 3 HP.
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Can you summon both Diving Cliff Racer and Feral Guardian?**
 
 Since Diving Cliff Racer and Feral Guardian companions are on the same chip, they can't be summoned at the same time.
@@ -22,8 +24,9 @@ Since Diving Cliff Racer and Feral Guardian companions are on the same chip, the
 You can keep the current companion at the end of battle if you became a master during that battle, as you'll now use this side's rules rather than the novice side.
 
 <a href="https://boardgamegeek.com/thread/3475148/article/45832249#45832249" target="_blank">Source</a>
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
 <div className="class-table-wrapper">
 
 | Tenacity Cost | Name             | Ability                                                                                                                                                                                                                                                                                                                                                                                                         |

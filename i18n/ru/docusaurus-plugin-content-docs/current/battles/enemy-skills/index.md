@@ -66,10 +66,14 @@ hoverText: An overview of the enemy skills.
 
 ---
 
+<!-- translate:off -->
 :::tip[FAQ]
+<!-- translate:on -->
 **Can an enemy have more than one of the same skill?**
 
 Enemies cannot have more than one instance of the same skill. If they would have multiple copies of a numbered skill, they take on the highest number that they have of that skill.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294288" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

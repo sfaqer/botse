@@ -62,14 +62,17 @@ title: Destruction Staff
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="/icons/skills/destruction-staff/elemental-drain.png" className="skill-icon" /> | [<img src="/icons/status-effect.svg" alt="Status Effect Icon" className="icon-svg" />](/docs/glossary/status-effect): Apply this die to your target. When the [enemy](/docs/glossary/enemy) this die is applied to is [defeated](/docs/glossary/defeated), apply this die to an enemy [adjacent](/docs/glossary/adjacent) to it. [Then](/docs/glossary/then), deal that new enemy 2 [true damage](/docs/glossary/true-damage). If there are no adjacent enemies when this skill would trigger, [recover](/docs/glossary/recover) this die. |
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **What is considered the source of damage for Elemental Drain?**
 
 The source of the damage is the adventurer, so [Elusive](/docs/battles/enemy-skills/elusive) cannot be bypassed. The difference between Elemental Drain and [Bane](/docs/battles/status-effects/bane) is in the wording. Elemental Drain says "deal that new enemy 2 true damage," as in **you** deal the damage. And the source of this die can be easily tracked, it's owned by a specific adventurer who is dealing the damage. Bane says "This unit is dealt 1 true damage," so the source of the damage is not the adventurer, and you don't track the source of these general status effect dice as there's no reason to.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Source</a>
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
 ### Elemental Rage
 
 **Dice Supply:** 1
@@ -80,14 +83,17 @@ The source of the damage is the adventurer, so [Elusive](/docs/battles/enemy-ski
 | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/destruction-staff/elemental-rage.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Choose a [cache](/docs/glossary/cache) in [range](/docs/glossary/range) and deal a total of X damage distributed as you choose among [units](/docs/glossary/unit) within 2 hexes of that cache. [Then](/docs/glossary/then), [discard](/docs/glossary/discard) the cache from play. |
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Can Elemental Rage damage an Elusive enemy even if I did not start my turn adjacent to them?**
 
 The wording of Elemental Rage is "Choose a cache in range, and deal a total of X damage distributed as you choose among units within 2 hexes of that cache." Your unit is still the one dealing the damage, so Elusive cannot be gotten around with this particular skill.
 
 <a href="https://boardgamegeek.com/thread/3451904/article/45579652#45579652" target="_blank">Source</a>
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
 ## Level 4
 
 ### Ancient Knowledge

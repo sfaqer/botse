@@ -10,10 +10,14 @@ Pets protect [adventurers](/docs/glossary/adventurer) from a number of harmful e
 
 ---
 
+<!-- translate:off -->
 :::tip[FAQ]
+<!-- translate:on -->
 **What if a game effect forces a pet back into your pack?**
 
 Once a pet has been placed in a ready slot, **it cannot go back into your pack**. If a game effect forces you to put a pet into your pack, you must instead [discard](/docs/glossary/discard) it. One such game effect that might force this is the Native enemy skill [Freeze](/docs/battles/enemy-skills/freeze) in [Skyrim](/docs/campaign/provinces/skyrim).
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000291972" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

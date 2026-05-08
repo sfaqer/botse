@@ -10,8 +10,12 @@ Weapon items provide advantages in battle, often interacting with skills. Each <
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Is there a limit to how many weapons you can have in ready slots?**
 
 No, there is no limit to how many weapons you may have. However, you may only use 1 weapon per engage.
+<!-- translate:off -->
 :::
+<!-- translate:on -->

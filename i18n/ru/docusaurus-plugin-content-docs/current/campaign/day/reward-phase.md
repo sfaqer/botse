@@ -44,7 +44,9 @@ Track any progress made toward the party's quests that requires notes in the par
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Does a defeated adventurer still gain XP for an encounter?**
 
 Yes, all adventurers get rewards if the encounter was successful, even if they themselves were defeated.
@@ -67,4 +69,6 @@ Yes, you get a Reward Phase as normal.
 
 <a href="https://boardgamegeek.com/thread/3534373/article/46270184#46270184" target="_blank">Source</a>
 
+<!-- translate:off -->
 :::
+<!-- translate:on -->

@@ -8,7 +8,9 @@ After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated), i
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **If a companion with the skill Rally is defeated, does it spawn an enemy?**
 
 It will not deploy an enemy.
@@ -31,4 +33,6 @@ No, since the hex that that Rallied unit would deploy to is already occupied the
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1331057081750650890" target="_blank">Source</a>
 
+<!-- translate:off -->
 :::
+<!-- translate:on -->

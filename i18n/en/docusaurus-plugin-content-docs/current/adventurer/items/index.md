@@ -31,20 +31,27 @@ Traits do not have specific rules (except for traits of the [<img src="/icons/ar
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Is it allowed to use items mid/during an engage?**
 
 No, items cannot be used mid-engage.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Source</a>
 
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
+<!-- translate:off -->
 :::warning[Errata]
+<!-- translate:on -->
 
 **Item card count - should be 100 common, 60 legendary**
 
 The rulebook says there are 110 common items and 50 legendary. The proper count is 100 common items and 60 legendary.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292376" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

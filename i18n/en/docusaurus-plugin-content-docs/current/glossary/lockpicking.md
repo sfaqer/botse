@@ -44,10 +44,14 @@ After the lockpick check is resolved, you resume your turn in your current encou
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **If you enter a hex and choose not to lockpick the cache, do you have to re-enter the hex to attempt to lockpick it?**
 
 Yes, you would be that you do need to move off and back on. In some scenarios, the caches don't clear when they're failed. So in those cases as well, you need to move off and back on to trigger another opportunity to lock pick it.
 
 <a href="https://boardgamegeek.com/thread/3452482/article/45595519#45595519" target="_blank">Source</a> / <a href="https://discord.com/channels/273472391403798528/734891265690304634/1339260848631316652" target="_blank">Source 2 </a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

@@ -34,7 +34,9 @@ Unlike in the other battle modes it is not calculated once at the beginning of t
 
 ---
 
+<!-- translate:off -->
 :::tip[FAQ]
+<!-- translate:on -->
 **Do you always get XP for skyshards?**
 
 The only battle objective which gives you XP for the number of skyshards collected is the [Uncover](/docs/battles/objectives/uncover) objective. Delves with the [Survey](/docs/battles/objectives/survey), [Eliminate](/docs/battles/objectives/eliminate), or any other objective, only give the XP as stated in the encounter.
@@ -48,10 +50,15 @@ The only battle objective which gives you XP for the number of skyshards collect
 For the Throne Room delve card, populate the enemies first, before resolving the "When Revealed" text.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294284" target="_blank">Source</a>
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Do you shuffle the delve deck at the end of a delve?**
 
 Yes, see step 3 of [End of Battle Cleanup.](/docs/battles/end-of-battle)
+<!-- translate:off -->
 :::
+<!-- translate:on -->

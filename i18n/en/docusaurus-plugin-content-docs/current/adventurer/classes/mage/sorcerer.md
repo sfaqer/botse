@@ -8,14 +8,17 @@ hoverText: ""
 
 **Upgrade**: Have [<img src="/icons/party-size.svg" alt="Party Size Icon" className="icon-svg" />](/docs/glossary/party-size)+2 [enchantments (<img src="/icons/enchantment.svg" alt="Enchantment Icon" className="icon-svg" />)](/docs/adventurer/items/types/enchantment) active at the same time.
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Does the Sorcerer need to have activated all of the enchantments themself?**
 
 No, enchantments can be activated by any adventurer.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1336010057359298653" target="_blank">Source</a>
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
 **Innate Ability**: If you start your turn in [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic), gain 1 [tenacity](/docs/glossary/tenacity).
 
 <div className="class-table-wrapper">
@@ -48,7 +51,9 @@ No, enchantments can be activated by any adventurer.
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Can you use Dark Exchange to remove the last HP from an enemy unit and defeat it?**
 
 Yes.
@@ -70,8 +75,9 @@ No, you can't heal yourself using this ability. Since you must remove HP from yo
 No, the damage from Lightning Splash is dealt by the Sorcerer [Adventurer](/docs/glossary/adventurer). Most damage prevention effects (including Combat and Heavy Armor skill dice) specify "When you are dealt damage by an **[enemy](/docs/glossary/enemy)**...". Therefore, you can't utilize these dice to prevent damage from Lightning Splash as it was dealt by an Adventurer.
 
 <a href="https://discord.com/channels/273472391403798528/1406510845814636585/1406561001112866856" target="_blank">Source</a>
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
 ## Related Content
 
 <div className="responsive-embed">

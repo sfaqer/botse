@@ -10,7 +10,9 @@ hoverText: ""
 
 **Innate Ability**: If at least 1 enemy took damage during your engage, place 1 HP chip here (max of 6). This is your Necrosis Stack.
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **When are chips removed from the Necrosis Stack?**
 
 Chips in the Necrosis Stack are not removed at end of battle or end day. They persist until the end of session cleanup.
@@ -22,8 +24,9 @@ Chips in the Necrosis Stack are not removed at end of battle or end day. They pe
 No, you must finish the engage action first and then if during the engage an enemy took damage you add a chip.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1339257250170277918" target="_blank">Source</a>
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
 <div className="class-table-wrapper">
 
 | Tenacity Cost | Name               | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
@@ -52,7 +55,9 @@ No, you must finish the engage action first and then if during the engage an ene
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Does HP granted by Bone Armor that exceeds an adventurer's max carry over between battles?**
 
 No, [adventurer](/docs/glossary/adventurer) [health](/docs/adventurer/stats/health) is reset to maximum during [end of battle cleanup](/docs/battles/end-of-battle).
@@ -81,16 +86,20 @@ No, it is discarded at the end of the session.
 
 <a href="https://discord.com/channels/273472391403798528/1441490396793540760/1476965853021868208" target="_blank">Source</a>
 
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
+<!-- translate:off -->
 :::tip[FAQ]
+<!-- translate:on -->
 **Can the Spirit Guardian companion maintain HP above its stat between battles?**
 
 Yes. On the master side, you can use the Bone Armor class ability to add HP above a party member's Health stat (and there are other ways for units to gain HP above their Health stat as well). The companion summoned by Spirit Guardian maintains its HP between battles (per the ability's text), and that includes if its HP is above its Health stat.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000291560" target="_blank">Source</a>
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
 ## Related Content
 
 <div className="responsive-embed">

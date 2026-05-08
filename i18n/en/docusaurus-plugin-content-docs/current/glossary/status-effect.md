@@ -16,7 +16,9 @@ Note that [quest units](/docs/glossary/quest-unit) cannot gain status effects fr
 
 ---
 
+<!-- translate:off -->
 :::tip[FAQ]
+<!-- translate:on -->
 **Are status effects automatically removed from adventurers after battle?**
 
 Status effects are not removed from [adventurers](/docs/glossary/adventurer) automatically after battle. They remain in the [cooldown track](/docs/glossary/cooldown-track) until/unless they are removed.
@@ -24,9 +26,12 @@ Status effects are not removed from [adventurers](/docs/glossary/adventurer) aut
 Status effects are removed from all other [units](/docs/glossary/unit), including [enemies](/docs/glossary/enemy) and [companions](/docs/glossary/companion), at the [end of battle](/docs/battles/end-of-battle).
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000290394" target="_blank">Source</a>
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **What is the timing for removal of status effect dice?**
 
 We are making it a general rule that status effects come off after resolving any **"after defeated"** skills on the enemy.
@@ -48,4 +53,6 @@ No, you can only have one instance of a status effect. If an [adventurer](/docs/
 Yes.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1335319245604520009" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

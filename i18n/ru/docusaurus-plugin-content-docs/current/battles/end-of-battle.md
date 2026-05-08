@@ -33,10 +33,14 @@ This cleanup procedure only occurs after a battle, not after a peaceful encounte
 
 ---
 
+<!-- translate:off -->
 :::tip[FAQ]
+<!-- translate:on -->
 **Success - one adventurer must survive**
 
 In order for a combat to be successful, one adventurer must survive. If only companions survive, or the last adventurer is defeated at the same time as the last enemy, the combat fails.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294286" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

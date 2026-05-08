@@ -18,7 +18,9 @@ An insular people with a tumultuous past, the ash-skinned natives of [Morrowind]
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 
 **Can I activate the Dynamic ability even if I don't have 4 skill dice to recover?**
 
@@ -36,4 +38,6 @@ Replacing is the same as gaining. You can use Shoulder-Mounted Parasol to avoid 
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372223420774879282" target="_blank">Source</a>
 
+<!-- translate:off -->
 :::
+<!-- translate:on -->

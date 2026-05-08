@@ -10,7 +10,9 @@ tags:
 
 ---
 
+<!-- translate:off -->
 :::warning[Errata]
+<!-- translate:on -->
 **Valenwood B35 ([Eyes of the Queen](/docs/campaign/guilds/eyes-of-the-queen) guild quest, pg. 32)**
 
 A couple sentences in this section have missing words, making them not make sense as written. Where it says "Then, count the number of agents remaining in the level 10/20 bag, and remove 1 of the level 5/10 enemies agent. For each also remove Anchorite Deslandra." It should instead say: "Then, count the number of agents remaining in the level 10/20 bag, and remove 1 of the level 5/10 enemies on the lettered hexes for each remaining agent. If at least 4 agents remain in the bag, also remove Anchorite Deslandra."
@@ -24,4 +26,6 @@ The full Quest Objective should read:
 > During this dungeon, Anchorite Deslandra can move up to 4 hexes.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292465" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

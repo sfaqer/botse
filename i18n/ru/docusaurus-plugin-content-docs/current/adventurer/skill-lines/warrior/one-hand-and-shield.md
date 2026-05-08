@@ -21,14 +21,17 @@ title: One Hand and Shield
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/one-hand-and-shield/shield-discipline.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): When you place this die in an [active slot](/docs/glossary/active-slot), deal X damage to your target. When you are dealt damage by an [enemy](/docs/glossary/enemy), you may exhaust this die to prevent X damage. |
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **If I don't have a target, am I able to roll Shield Discipline dice?**
 
 Yes you may roll them without a target and place them in an active slot for the damage prevention.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1342163322375635045" target="_blank">Source</a>
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
 ## Level 2
 
 ### Heroic Slash
@@ -50,7 +53,9 @@ Yes you may roll them without a target and place them in an active slot for the 
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/one-hand-and-shield/defensive-posture.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): After you are [engaged](/docs/battles/enemy-turn) by an [adjacent](/docs/glossary/adjacent) [enemy](/docs/glossary/enemy), roll 1 enemy Combat die for each damage dealt to you. Deal the rolled damage back to the enemy. [Then](/docs/glossary/then), exhaust this die. |
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Is this skill mandatory to trigger if I am engaged?**
 
 No, it is optional.
@@ -72,8 +77,9 @@ Yes.
 After the engage does not trigger if the enemy is defeated, it needs to be on the board when the skill would trigger or else it doesn't happen.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225248522539058" target="_blank">Source</a>
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
 ### Shield Charge
 
 **Dice Supply:** 1

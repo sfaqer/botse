@@ -13,7 +13,9 @@ When your [adventurer](/docs/glossary/adventurer) gains an item card, place it i
 
 ---
 
+<!-- translate:off -->
 :::tip[FAQ]
+<!-- translate:on -->
 **Can your pack have more than 4 items in it?**
 
 In total, you can hold up to 8 items. At most, 4 of those items can be in your ready slots. You can have more than 4 items in your pack however, if you have fewer than 4 items readied.
@@ -37,4 +39,6 @@ Once a pet has been placed in a ready slot, **it cannot go back into your pack**
 Within battle, items must be in ready slots in order to use them. Outside of battle, items can be used from either your ready slots or your pack.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294285" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

@@ -43,7 +43,9 @@ tags:
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Does Gibbering Shield persist between battles?**
 
 Crux tokens are meant to clear from active slots between battles, just as dice do.
@@ -57,4 +59,6 @@ Crux tokens are meant to clear from active slots between battles, just as dice d
 Gibbering Shield is optional. You choose if you want to discard a crux token to prevent damage.
 
 <a href="https://discord.com/channels/273472391403798528/1392918916820369549/1400152445296054422" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

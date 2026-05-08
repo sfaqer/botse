@@ -27,8 +27,12 @@ This skill die must be placed in 1 of your active slots (or, if specified by the
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **When can I choose to exhaust a skill die from an active slot?**
 
 At any point during your turn. This means, you may exhaust a die and move it to the [cooldown track](/docs/glossary/cooldown-track) prior to the [Recovery step](/docs/battles/adventurer-turn/index/#2-recovery).
+<!-- translate:off -->
 :::
+<!-- translate:on -->
