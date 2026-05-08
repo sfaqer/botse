@@ -10,7 +10,9 @@ tags:
 
 ---
 
+<!-- translate:off -->
 :::warning[Errata]
+<!-- translate:on -->
 **Endgame Day 1 - Breton Marauder should be Wood Elf**
 
 In Encounter Setup for Cyrodiil's Endgame Day 1, when you are told to deploy a level 5: Breton Marauder, you should instead deploy a level 5: Wood Elf Marauder.
@@ -40,4 +42,6 @@ By normal rules, if an enemy would deploy to a numbered hex that is already occu
 With so few numbered hexes on this map (4 as opposed to the normal 8), it's is not intended that you can just block those hexes to avoid the enemies deploying altogether.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000293225" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

@@ -11,15 +11,20 @@ Some abilities cause an [adventurer](/docs/glossary/adventurer) to gain bonus HP
 
 ---
 
+<!-- translate:off -->
 :::tip[FAQ]
+<!-- translate:on -->
 **Does Bonus HP count as HP?**
 
 Bonus HP is not counted as HP for any effect that counts how much HP you have. Gaining bonus HP does not count as [healing](/docs/glossary/).
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000291579" target="_blank">Source</a>
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **If an adventurer no HP remaining but still has Bonus HP, are they defeated?**
 
 If you have no HP left, you're defeated, even if you have bonus HP.
@@ -31,4 +36,6 @@ If you have no HP left, you're defeated, even if you have bonus HP.
 **Can non-adventurer units gain Bonus HP?**
 
 Non-adventurer [units](/docs/glossary/unit) cannot gain bonus HP.
+<!-- translate:off -->
 :::
+<!-- translate:on -->

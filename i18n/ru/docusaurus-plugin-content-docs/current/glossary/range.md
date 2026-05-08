@@ -20,11 +20,15 @@ Equal to its range stat.
 
 ---
 
+<!-- translate:off -->
 :::tip[FAQ]
+<!-- translate:on -->
 
 **Does Range apply to all skills?**
 
 No, range is taken into consideration only for skills that apply to targets, [targetable](/docs/glossary/targetable) enemies, or enemies within range. Take for example, [Destruction Staff's](/docs/adventurer/skill-lines/mage/destruction-staff) Destructive Touch. This says "[Defeat](/docs/glossary/defeated) a level 1 [enemy](/docs/glossary/enemy)." This enemy can be anywhere in play. It does not need to be in range or even in [sight](/docs/glossary/sight).
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000290876" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

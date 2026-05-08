@@ -8,7 +8,9 @@ This [unit](/docs/glossary/unit) deploys with additional HP equal to the total n
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **What counts as trained?**
 
 Trained is the total number you have, no matter where they are - available, in cooldown, drained. This includes dice you start with as part of Race selection.
@@ -22,4 +24,6 @@ Trained is the total number you have, no matter where they are - available, in c
 The HP granted by the skill Colossal is **additional** HP. The unit's Health stat (printed on chip) is what limits healing, so it will only heal up it's Health stat.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1403548887150759936" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

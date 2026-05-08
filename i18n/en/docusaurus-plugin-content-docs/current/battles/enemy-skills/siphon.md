@@ -8,7 +8,9 @@ At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), re
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Is Siphon considering taking damage?**
 
 "Remove 1 HP" is not considered taking damage.
@@ -29,4 +31,6 @@ Siphon affects each other non-quest unit in range. It's not meant to defeat itse
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1346557892966220049" target="_blank">Source</a>
 
+<!-- translate:off -->
 :::
+<!-- translate:on -->

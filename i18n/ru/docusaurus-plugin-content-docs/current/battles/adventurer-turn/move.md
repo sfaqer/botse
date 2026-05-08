@@ -16,7 +16,9 @@ A move action (or ability) ends when you cannot or choose not to move additional
 
 ---
 
+<!-- translate:off -->
 :::tip[FAQ]
+<!-- translate:on -->
 **Movement - you can engage, then move, then engage again**
 
 On pg. 59 of the rulebook, in the Engage section, it says: "You may perform a move action before or after you perform an engage action, but not both."
@@ -24,4 +26,6 @@ On pg. 59 of the rulebook, in the Engage section, it says: "You may perform a mo
 This text is meant to reinforce the rule that you cannot take two move actions in a single turn if you engage, nor can you interrupt a move action with an engage action. However, you are allowed to engage, then move, then engage again.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294289" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

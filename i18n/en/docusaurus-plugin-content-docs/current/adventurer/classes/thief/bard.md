@@ -10,7 +10,9 @@ hoverText: ""
 
 **Innate Ability**: Once per any unit's turn, reroll any 1 die rolled by a unit within 2 hexes of you, including yourself.
 
+<!-- translate:off -->
 :::tip[FAQ]
+<!-- translate:on -->
 **Can you reroll results that _must be resolved_?**
 
 Some skill results state that they must be resolved. However, you are still allowed to reroll them using the Bard's innate.
@@ -18,8 +20,9 @@ Some skill results state that they must be resolved. However, you are still allo
 Remember that the Bard's innate only functions during unit turns, so any rolls that are made outside of battle or outside of a turn, cannot be rerolled with this innate.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294923" target="_blank">Source</a>
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
 <div className="class-table-wrapper">
 
 | Tenacity Cost | Name                       | Ability                                                                                                                                                                                                                                                                     |
@@ -51,7 +54,9 @@ Remember that the Bard's innate only functions during unit turns, so any rolls t
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Can you see the dice result of the engage before deciding to use Stagger and Sway's interrupt?**
 
 Yes, you can make the decision to use the Bard's Stagger and Sway ability any time during that engage, so you can wait and see what the roll is.
@@ -66,16 +71,20 @@ Elusive is only able to prevent damage that happens within a turn. It's not appl
 
 <a href="https://discord.com/channels/273472391403798528/1441482687356338236/1476963219599003682" target="_blank">Source</a>
 
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
+<!-- translate:off -->
 :::tip[FAQ]
+<!-- translate:on -->
 **How does the free turn granted by Battle of Glenumbra Moors work?**
 
 Whenever there is a turn within a turn, or an engage within an engage, or a (non-interrupt) class ability within an engage - pause the current turn/engage, and resolve the thing "within" as if it is its own complete and separate thing. The damage dealt all gets dealt, it is not held to be later dealt with the damage of the encompassing engage/turn. Once you've finished the thing "within," unpause the encompassing turn/engage and continue on.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000295108" target="_blank">Source</a>
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
 ## Related Content
 
 <div className="responsive-embed">

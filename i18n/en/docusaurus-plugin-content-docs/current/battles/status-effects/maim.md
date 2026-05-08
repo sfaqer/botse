@@ -12,7 +12,9 @@ When this unit rolls Combat skill dice, the total damage rolled is reduced by ha
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Is damage rounded down per die or cumulative total of all damage dealt by Combat dice?**
 
 The damage is reduced for the total amount of damage rolled. You sum the value of all rolled Combat dice and reduced by half (rounded down).
@@ -44,4 +46,6 @@ Only the damage dealt by Combat dice is halved, all other damage is unaffected.
 Both white and black Combat dice will be affected by Maim.
 
 <a href="http://boardgamegeek.com/thread/3517103/article/46125866#46125866" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

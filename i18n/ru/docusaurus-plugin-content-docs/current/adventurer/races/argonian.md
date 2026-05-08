@@ -18,6 +18,10 @@ The reptilian natives of [Black Marsh](/docs/campaign/provinces/black-marsh), wh
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 Argonian Resistance cannot prevent true damage.
+<!-- translate:off -->
 :::
+<!-- translate:on -->

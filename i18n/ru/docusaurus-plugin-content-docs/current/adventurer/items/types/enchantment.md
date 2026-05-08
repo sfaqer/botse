@@ -10,10 +10,14 @@ Enchantment items can augment or reshape the rules of the game. Each <img src="/
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **When does an Enchantment get discarded if it doesn't specify a timing on the ability?**
 
 Any Enchantment that doesn't specify when it would end, lasts until the end of the session. Then it is [discarded](/docs/glossary/discard).
 
 <a href="https://discord.com/channels/273472391403798528/1405274638652674199/1405600090420154448" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

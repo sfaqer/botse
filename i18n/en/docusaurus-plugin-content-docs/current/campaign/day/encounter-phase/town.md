@@ -50,10 +50,14 @@ These actions must be taken cooperatively and appear with the word "group" after
 
 ---
 
+<!-- translate:off -->
 :::tip[FAQ]
+<!-- translate:on -->
 **Which town actions are group actions?**
 
 All town actions are considered to be personal town actions unless otherwise stated. A group town action will be specifically labelled as a group action.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292500" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

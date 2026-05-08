@@ -31,7 +31,9 @@ title: Bow
 | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/bow/volley.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal a total of 4 damage, distributed as you choose among [enemies](/docs/glossary/enemy) [adjacent](/docs/glossary/adjacent) to you. [Then](/docs/glossary/then), [place](/docs/glossary/move-or-place) yourself in an [unoccupied](/docs/glossary/occupied) hex 2-4 hexes away from your current hex. |
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **How does Volley and [Riposte](/docs/battles/enemy-skills/riposte) interact?**
 
 Whether or not units are adjacent is determined at the time the die is resolved, not at the time the damage is applied.
@@ -59,8 +61,9 @@ Any restrictions regarding which units a die can be resolved against (for exampl
 Iron Bark wouldn't trigger because you were adjacent when the damage was dealt.
 
 <a href="https://discord.com/channels/273472391403798528/1394290053613879366/1405222483912687716" target="_blank">Source</a>
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
 ### Acid Spray
 
 **Dice Supply:** 1
@@ -88,7 +91,9 @@ Iron Bark wouldn't trigger because you were adjacent when the damage was dealt.
 | <img src="/icons/skills/bow/rapid-fire-1.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal 2 damage to your target for each Snipe die in your cooldown track prior to this [engage](/docs/battles/adventurer-turn/engage).                                                                                                               |
 | <img src="/icons/skills/bow/rapid-fire-2.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal 2 damage to your target for each Snipe die in your cooldown track prior to this [engage](/docs/battles/adventurer-turn/engage). [Then](/docs/glossary/then), recover those dice, replacing them with light [fatigue](/docs/glossary/fatigue). |
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 
 **How do two copies of Rapid Fire (recovering side) resolve?**
 
@@ -96,8 +101,9 @@ Once the first one is resolved, the second wouldn't do anything because you woul
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Source</a>
 
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
 ### Arrow Barrage
 
 **Dice Supply:** 1
@@ -117,14 +123,17 @@ Once the first one is resolved, the second wouldn't do anything because you woul
 | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/bow/scatter-shot.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): All damage dealt to your target this [engage](/docs/battles/adventurer-turn/engage) [may](/docs/glossary/may) also be dealt to another [targetable](/docs/glossary/targetable) [enemy](/docs/glossary/enemy). [Defense](/docs/adventurer/stats/defense) ignored as a result of Snipe dice may also be ignored for this enemy. |
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Does Scatter Shot count as 'dealing damage' for the purpose of engaging [Dodge](/docs/battles/enemy-skills/dodge)?**
 
 Scatter Shot counts as a damage-dealing die for the purpose of [Dodge](/docs/battles/enemy-skills/dodge) (as long as it actually results in damage being dealt).
 
 <a href="https://discord.com/channels/273472391403798528/1437487363776319570/1476968252063092779" target="_blank">Source</a>
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
 ## Related Content
 
 <div className="responsive-embed">

@@ -38,15 +38,20 @@ Trigger any abilities with this timing. Then, proceed to the next adventurer or 
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Resolving Partial Skills and Abilities**
 
 When you resolve a skill or ability, you must do as much of the skill or ability as is possible, ignoring any portion that you are unable to resolve. If the skill or ability has a cost associated with it, you must be able to fully resolve the cost in order to resolve the skill or ability. If a skill or ability is worded such that you must do one thing **to** do another, or do one thing **then** do another, the first portion of that skill or ability is considered to be the cost.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Source</a>
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
+<!-- translate:off -->
 :::tip[FAQ]
+<!-- translate:on -->
 **How are dice and damage resolved on your turn?**
 
 Dice are resolved one at a time in the order the player chooses. For dice that deal damage, pool all damage that would be dealt to each non-adventurer, and apply that damage after the last die dealing damage to that unit is resolved. If any rolled dice allow non-adventurers to prevent damage, also pool these dice when calculating damage taken. Any restrictions regarding which units a die can be resolved against (for example, if a result requires adjacency) are assessed at the time the die is resolved.
@@ -56,4 +61,6 @@ This replaces the b. point under Resolve the Roll on pg. 60 of the rulebook.
 Damage dealt by adventurers is pooled when dealt to **enemies or companions**. Damage is is not pooled when dealt to adventurers.
 
 <a href="https://discord.com/channels/273472391403798528/1392759133953986590/1400147849597030481" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

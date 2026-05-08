@@ -16,7 +16,9 @@ These are black. When an overfatigue die would be removed from the [cooldown tra
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Is gaining any amount of light fatigue on demand considered an abuse/exploit of the rules as written?**
 
 This is getting an adjustment. On page 21 of the rulebook it says: If no black overfatigue dice remain in the supply, no fatigue dice are placed."
@@ -24,9 +26,12 @@ This is being replaced with: "If no black overfatigue dice remain in the supply,
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Source</a>
 
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
+<!-- translate:off -->
 :::tip[FAQ]
+<!-- translate:on -->
 
 **When you can take "any amount" of fatigue, is there a limit to this?**
 
@@ -35,4 +40,6 @@ In a situation where you can take "any amount" of fatigue, there is **no limit**
 This is particularly of note for the Palefrost Elk [pet](/docs/adventurer/items/types/pet) item which, when you would take any amount of fatigue, allows you to ignore the fatigue and put an HP chip on the pet instead. In combination with a situation where you can take any amount of fatigue, you can declare you are taking as much fatigue as you would like, and then ignore all of that fatigue.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000291580" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

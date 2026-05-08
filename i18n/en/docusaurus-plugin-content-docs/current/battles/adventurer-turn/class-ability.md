@@ -10,15 +10,20 @@ Note that some class abilities are not actions. These class abilities have eithe
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Resolving Partial Skills and Abilities**
 
 When you resolve a skill or ability, you must do as much of the skill or ability as is possible, ignoring any portion that you are unable to resolve. If the skill or ability has a cost associated with it, you must be able to fully resolve the cost in order to resolve the skill or ability. If a skill or ability is worded such that you must do one thing **to** do another, or do one thing **then** do another, the first portion of that skill or ability is considered to be the cost.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Source</a>
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
+<!-- translate:off -->
 :::tip[FAQ]
+<!-- translate:on -->
 **Do I have to use an Enduring or Innate ability?**
 
 Even if they do not use the word "may", innate abilities (from class sheets) as well as any "Enduring" class abilities, are optional. You are not forced to use them if you do not want to.
@@ -36,4 +41,6 @@ Aside from Interrupt abilities that specifically state they can, class actions c
 Outside of combat, class abilities can be triggered at any time, as long as the ability makes sense to be triggered outside of combat and doesn't have timing specified. There is no limit to how many times you can trigger different or even the same class ability outside of battle - you are limited only by the amount of tenacity you have. The exception, again, is Interrupt class abilities. These can only be used once per the specified timing.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000290926" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

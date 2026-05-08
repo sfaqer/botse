@@ -8,10 +8,14 @@ This appears as a sub-header on an [item's](/docs/adventurer/items/index) second
 
 ---
 
+<!-- translate:off -->
 :::tip[FAQ]
+<!-- translate:on -->
 **When do you choose to Overtax [armor](/docs/adventurer/items/types/armor) (<img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" />)?**
 
 When you overtax armor, you can wait to see what the [enemy rolls](/docs/battles/enemy-turn) before deciding if you want to overtax it.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292496" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

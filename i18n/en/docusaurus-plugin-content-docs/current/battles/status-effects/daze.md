@@ -12,16 +12,23 @@ This [unit](/docs/glossary/unit) cannot roll dice on the same [turn](/docs/gloss
 
 ---
 
+<!-- translate:off -->
 :::tip[FAQ]
+<!-- translate:on -->
 **How does Daze and Steal interact?**
 
 The Daze status effect says that if an enemy moves on its turn, it can't roll dice that turn. Using [Steal](/docs/battles/enemy-skills/steal) requires a die to be rolled, so a Dazed enemy that moves cannot use its Steal skill.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292494" target="_blank">Source</a>
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Can you [lockpick](/docs/glossary/lockpicking) if you have Daze and have moved on your turn?**
 
 No, to lockpick you need to be able to roll dice. If you have moved on your turn you are not able to lockpick.
+<!-- translate:off -->
 :::
+<!-- translate:on -->

@@ -10,10 +10,14 @@ The exception is in delve battles with the [Uncover](/docs/battles/objectives/un
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Do I need to occupy the entrance tile to retreat?**
 
 No, there is no requirement to be on the entrance tile. You may simply choose to retreat at the end of a round.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1327125008618881035" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

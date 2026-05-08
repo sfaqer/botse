@@ -14,11 +14,15 @@ For example, an adventurer in Ranged Weapon form with 3 [Stamina](/docs/adventur
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **In Ranged battle form, do adjacent units count as "in range" (for example, when using the [Hawk Eye](/docs/adventurer/classes/warrior/archer) class ability)?**
 
 No, adjacent units are not within your range if you are in Ranged battle form.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Source</a>
 
+<!-- translate:off -->
 :::
+<!-- translate:on -->

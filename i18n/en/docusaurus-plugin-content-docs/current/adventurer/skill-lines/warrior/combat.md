@@ -12,10 +12,13 @@ If an ability adds [free](/docs/glossary/free) Combat dice, enemy Combat dice ar
 
 The Combat skill line cannot be untrained. Combat dice can be untrained in the [Reward Phase](/docs/campaign/day/reward-phase).
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 Although Combat is shown among a [race's](/docs/adventurer/races/index) starting attributes, it is a [skill line](/docs/adventurer/skill-lines/index) and not a [stat](/docs/adventurer/stats).
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
 ---
 
 Combat skills represent raw damage output or defense. Combat skill dice results have different meanings depending on your current [battle form](/docs/battles/battle-forms/index/). Combat skill dice can be rolled in any form except for [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic).
@@ -44,10 +47,14 @@ Combat skills represent raw damage output or defense. Combat skill dice results 
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Are enemy combat dice considered skill dice?**
 
 Yes.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1361759800282714353" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

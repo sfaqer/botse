@@ -10,7 +10,9 @@ This skill die's ability is resolved instantly as described in its entry. Then, 
 
 ---
 
+<!-- translate:off -->
 :::tip[FAQ]
+<!-- translate:on -->
 **Recover Dice section in rulebook (pg. 23) re: drained dice**
 
 This section says that you can recover drained dice during the Adventurers Rest step of the [End of Day Phase](/docs/campaign/day/end-of-day-phase).
@@ -26,4 +28,6 @@ This should instead say you recover drained dice during [End of Battle Cleanup](
 When given the option to drain dice, only skill dice can be selected.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294282" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

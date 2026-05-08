@@ -10,7 +10,9 @@ Consumable items represent a variety of foods and beverages. Each <img src="/ico
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Do you get the effect of a consumable item when other effects cause you to discard it?**
 
 No. You have to use the item to get its effect. Though discarding it is part of using it, something else forcing you to discard it does not trigger its use.
@@ -25,4 +27,6 @@ No, items cannot be used mid-engage.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Source</a>
 
+<!-- translate:off -->
 :::
+<!-- translate:on -->

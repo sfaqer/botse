@@ -8,10 +8,14 @@ At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), de
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **What happens if I have a companion with Necromancy?**
 
 It will resurrect enemies as usual at the end of the unit's turn. These will be enemies, not additional [companions](/docs/glossary/companion).
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1346557892966220049" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

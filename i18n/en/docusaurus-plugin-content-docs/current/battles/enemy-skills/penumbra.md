@@ -10,7 +10,9 @@ After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated), i
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **What happens if this skill is on a companion when they are defeated?**
 
 Nothing happens as a result of Penumbra.
@@ -24,4 +26,6 @@ Nothing happens as a result of Penumbra.
 Yes, Penumbra allows for quest units to end up with status effects on them.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

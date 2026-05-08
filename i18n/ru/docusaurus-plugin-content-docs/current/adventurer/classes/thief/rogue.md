@@ -41,7 +41,9 @@ hoverText: ""
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Can the "Veil of Shadows" ability be triggered when another unit defeats an enemy?**
 
 No, "After defeating a level 10/20 enemy" is the same as "After **you** defeat an enemy". Therefore, the Rogue must be the one to defeat an enemy for this class ability to be triggered.
@@ -56,4 +58,6 @@ This damage is not being dealt by the adventurer, the enemy is dealing this dama
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183417933955143" target="_blank">Source</a>
 
+<!-- translate:off -->
 :::
+<!-- translate:on -->

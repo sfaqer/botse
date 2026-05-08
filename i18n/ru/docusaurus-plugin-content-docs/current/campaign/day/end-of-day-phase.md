@@ -22,7 +22,9 @@ To do so, follow the substeps below in order:
 
 During this step, the adventurers [heal](/docs/glossary/healing), remove dice from their cooldown tracks, and exchange items with each other.
 
+<!-- translate:off -->
 :::warning[Expert Difficulty]
+<!-- translate:on -->
 On **Expert** difficulty, an adventurer must discard an item to resolve this step. If the discarded item is a [<img src="/icons/consumable.svg" alt="Consumable Icon" className="icon-svg" />](/docs/adventurer/items/types/consumable), the adventurer may resolve that item's effects before discarding it (if applicable).
 
 ---
@@ -33,8 +35,9 @@ All adventurers participating in an item trade must have an Adventurers Rest ste
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Source</a>
 
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
 - Each adventurer heals for a number of HP based on the game's difficulty—including defeated adventurers, who are revived when their HP is raised above 0.
 
   - **Apprentice**: Heal for 2 HP
@@ -45,12 +48,15 @@ All adventurers participating in an item trade must have an Adventurers Rest ste
   - **Apprentice**: Remove 2 dice.
   - **Adept and Expert**: Remove 1 die.
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Can I remove [overfatigue](/docs/glossary/fatigue) dice?**
 
 Yes, you may remove any die from your cooldown track, including overfatigue.
+<!-- translate:off -->
 :::
-
+<!-- translate:on -->
 - Each adventurer may trade any number of item cards with other adventurers, move items freely between their ready slots and pack, and discard items.
 
 - Trigger any effects with "end of day" timing, such as the party's guild assist ability.

@@ -18,7 +18,9 @@ Place the skyshard card near the delve encounter text to show the total number t
 
 ---
 
+<!-- translate:off -->
 :::info
+<!-- translate:on -->
 **Do you get XP for Skyshards if an encounter was failed?**
 
 If the battle had an Uncover objective even if the encounter was failed, so long as the party was not defeated you gain Skyshard XP.
@@ -36,4 +38,6 @@ No, the maximum Skyshards you may have is determined by the encounter's objectiv
 No, when you enter a tile with a skyshard you must pick it up. Even if the delve has a battle objective that does not relate to Skyshards.
 
 <a href="https://boardgamegeek.com/thread/3454660/article/45601458#45601458" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->

@@ -10,7 +10,9 @@ Armor items grant benefits while their owner is being [engaged](/docs/battles/ad
 
 ---
 
+<!-- translate:off -->
 :::tip[FAQ]
+<!-- translate:on -->
 **Is there a limit to how many times it can be used in a round?**
 
 Armor can be used each time an enemy [engages](/docs/battles/enemy-turn) you (meaning it targets you). If you are engaged multiple times in a [round](/docs/battles/battle-round), you can use the armor on each engage (as long as you don't [overtax](/docs/adventurer/items/overtax) it which causes it to be [discarded](/docs/glossary/discard)).
@@ -24,4 +26,6 @@ Armor can be used each time an enemy [engages](/docs/battles/enemy-turn) you (me
 When you overtax armor, you can wait to see what the [enemy rolls](/docs/battles/enemy-turn) before deciding if you want to overtax it.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292496" target="_blank">Source</a>
+<!-- translate:off -->
 :::
+<!-- translate:on -->
