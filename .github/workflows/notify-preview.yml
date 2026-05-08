@@ -1,0 +1,32 @@
+# PREVIEW INFRASTRUCTURE — DELETE BEFORE OPENING THE UPSTREAM PR.
+#
+# This workflow has nothing to do with translations or upstream behavior.
+# It exists solely to notify the preview/gh-pages branch (in this fork) that
+# i18n has new commits, so the preview site rebuilds within seconds instead
+# of waiting up to ~hours for GitHub's heavily-throttled cron schedule.
+#
+# Anyone reviewing the upstream PR can safely drop this file along with
+# .github/workflows/sync-preview.yml, .github/workflows/deploy-preview.yml,
+# and docusaurus.preview.config.ts (none of which exist on i18n; they live
+# on preview/gh-pages).
+
+name: Notify preview/gh-pages
+
+on:
+  push:
+    branches: [i18n]
+
+permissions:
+  contents: read
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger sync-preview via repository_dispatch
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api repos/${{ github.repository }}/dispatches \
+            -f event_type=i18n-updated \
+            -f 'client_payload[sha]=${{ github.sha }}'
