@@ -74,16 +74,27 @@ async function emitForLocale(srcRoot, outRoot, urlPrefix) {
   let count = 0;
   for await (const file of walk(srcRoot)) {
     const raw = await readFile(file, "utf-8");
-    const fm = parseFrontmatter(raw);
-    if (!fm || !fm.id || !fm.hoverText) continue;
-    const hoverHtml = mdToHtml(fm.hoverText);
+    const fm = parseFrontmatter(raw) ?? {};
+    // Emit a JSON for every markdown file: the @grnet term-preview component
+    // wraps every doc-internal link in <Term> and fetches "<url>.json", so a
+    // missing file leaves the tooltip stuck on "loading...". Pages without a
+    // hoverText fall back to title-only metadata; the tooltip then shows just
+    // the title. Glossary terms keep their full hoverText body.
+    const fallbackId = relative(srcRoot, file)
+      .replace(/\\/g, "/")
+      .replace(/\.mdx?$/, "")
+      .split("/")
+      .pop();
+    const id = fm.id || fallbackId;
+    const title = fm.title || id;
+    const hoverHtml = fm.hoverText ? mdToHtml(fm.hoverText) : "";
     const rel = relative(srcRoot, file).replace(/\\/g, "/").replace(/\.mdx?$/, "");
     const outFile = join(outRoot, rel + ".json");
     await mkdir(dirname(outFile), { recursive: true });
     await writeFile(
       outFile,
       JSON.stringify({
-        metadata: { ...fm, hoverText: hoverHtml },
+        metadata: { ...fm, id, title, hoverText: hoverHtml },
         content: "",
       }),
     );
