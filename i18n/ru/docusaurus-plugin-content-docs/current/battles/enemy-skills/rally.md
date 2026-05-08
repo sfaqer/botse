@@ -4,7 +4,10 @@ title: Rally
 hoverText: After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated), if it is not the last [enemy](/docs/glossary/enemy) in play; deploy an enemy of the next lowest level to the hex where this was defeated. Then, return this unit to the enemy bag.
 ---
 
-After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated), if it is not the last [enemy](/docs/glossary/enemy) in play; deploy an enemy of the next lowest level to the hex where this was defeated. Then, return this unit to the enemy bag.
+After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated),
+if it is not the last [enemy](/docs/glossary/enemy) in play; deploy an enemy of
+the next lowest level to the hex where this was defeated. Then, return this unit
+to the enemy bag.
 
 ---
 
@@ -19,17 +22,23 @@ It will not deploy an enemy.
 
 ---
 
-**If an enemy with Rally is killed during the enemy turn phase, does the newly spawned unit get to take a turn?**
+**If an enemy with Rally is killed during the enemy turn phase, does the newly
+spawned unit get to take a turn?**
 
-The new enemy takes a turn if its timing hasn't passed yet. So if a level 20 brings in a level 10 but you're already past when level 10s would act, it doesn't get a turn that round. If the level 10s haven't taken turns yet, or you haven't moved on to level 5s yet, it would still get a turn that round.
+The new enemy takes a turn if its timing hasn't passed yet. So if a level 20
+brings in a level 10 but you're already past when level 10s would act, it
+doesn't get a turn that round. If the level 10s haven't taken turns yet, or you
+haven't moved on to level 5s yet, it would still get a turn that round.
 
 <a href="https://boardgamegeek.com/thread/3463968/article/45684537#45684537" target="_blank">Source</a>
 
 ---
 
-**If an enemy is defeated but not removed (or is flipped to the other side), will Rally trigger? e.g. High Rock endgame**
+**If an enemy is defeated but not removed (or is flipped to the other side),
+will Rally trigger? e.g. High Rock endgame**
 
-No, since the hex that that Rallied unit would deploy to is already occupied then Rally will not trigger.
+No, since the hex that that Rallied unit would deploy to is already occupied
+then Rally will not trigger.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1331057081750650890" target="_blank">Source</a>
 

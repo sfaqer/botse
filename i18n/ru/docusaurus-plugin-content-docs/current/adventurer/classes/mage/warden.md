@@ -6,22 +6,31 @@ hoverText: ""
 
 ## Novice
 
-**Upgrade**: Defeat a level 10/20 [enemy](/docs/glossary/enemy) or quest [unit](/docs/glossary/unit) with either the **Diving Cliff Racer** or **Feral Guardian** [companion](/docs/glossary/companion).
+**Upgrade**: Defeat a level 10/20 [enemy](/docs/glossary/enemy) or quest
+[unit](/docs/glossary/unit) with either the **Diving Cliff Racer** or **Feral
+Guardian** [companion](/docs/glossary/companion).
 
-**Innate Ability**: After a <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" /> [companion](/docs/glossary/companion) is defeated, [heal](/docs/glossary/healing) yourself for 3 HP.
+**Innate Ability**: After a
+<img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" />
+[companion](/docs/glossary/companion) is defeated,
+[heal](/docs/glossary/healing) yourself for 3 HP.
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
 **Can you summon both Diving Cliff Racer and Feral Guardian?**
 
-Since Diving Cliff Racer and Feral Guardian companions are on the same chip, they can't be summoned at the same time.
+Since Diving Cliff Racer and Feral Guardian companions are on the same chip,
+they can't be summoned at the same time.
 
 ---
 
-**If you summon a companion when on the Novice side, but upgrade to Master during the battle, is the companion removed at end of battle?**
+**If you summon a companion when on the Novice side, but upgrade to Master
+during the battle, is the companion removed at end of battle?**
 
-You can keep the current companion at the end of battle if you became a master during that battle, as you'll now use this side's rules rather than the novice side.
+You can keep the current companion at the end of battle if you became a master
+during that battle, as you'll now use this side's rules rather than the novice
+side.
 
 <a href="https://boardgamegeek.com/thread/3475148/article/45832249#45832249" target="_blank">Source</a>
 <!-- translate:off -->
@@ -41,7 +50,11 @@ You can keep the current companion at the end of battle if you became a master d
 
 ## Master
 
-**Innate Ability**: After a <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" /> [companion](/docs/glossary/companion) is defeated, [heal](/docs/glossary/healing) yourself for 3 HP and gain 1 [tenacity](/docs/glossary/tenacity).
+**Innate Ability**: After a
+<img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" />
+[companion](/docs/glossary/companion) is defeated,
+[heal](/docs/glossary/healing) yourself for 3 HP and gain 1
+[tenacity](/docs/glossary/tenacity).
 
 <div className="class-table-wrapper">
 

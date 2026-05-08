@@ -8,14 +8,22 @@ tags:
   - Quest Unit Skill
 ---
 
-When this [unit](/docs/glossary/unit) is dealt damage by non-[adjacent](/docs/glossary/adjacent) units, its defense is increased by 1 for that engage.
+When this [unit](/docs/glossary/unit) is dealt damage by
+non-[adjacent](/docs/glossary/adjacent) units, its defense is increased by 1 for
+that engage.
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**How does Iron Bark work with the [Bow](/docs/adventurer/skill-lines/warrior/bow) skill Volley?**
+**How does Iron Bark work with the
+[Bow](/docs/adventurer/skill-lines/warrior/bow) skill Volley?**
 
-Any restrictions regarding which units a die can be resolved against (for example, if a result requires adjacency) are assessed at the time the die is resolved, not at the time the damage is applied. Volley damages an adjacent enemy. Therefore the enemy must be adjacent at the time that Volley is resolved - even if that damage is pooled and then later applied after you are no longer adjacent.
+Any restrictions regarding which units a die can be resolved against (for
+example, if a result requires adjacency) are assessed at the time the die is
+resolved, not at the time the damage is applied. Volley damages an adjacent
+enemy. Therefore the enemy must be adjacent at the time that Volley is resolved
+- even if that damage is pooled and then later applied after you are no longer
+adjacent.
 
 Iron Bark wouldn't trigger because you were adjacent when the damage was dealt.
 
