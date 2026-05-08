@@ -3,6 +3,12 @@ name: Deploy preview to GitHub Pages
 on:
   push:
     branches: [preview/gh-pages]
+  # Fires when sync-preview merges i18n and pushes to preview/gh-pages.
+  # The push above does not trigger this workflow on its own because it
+  # comes from GITHUB_TOKEN inside another Action (anti-loop guard).
+  workflow_run:
+    workflows: ["Sync i18n into preview/gh-pages"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
