@@ -5,7 +5,13 @@ title: Acrobatics
 
 # <img src="/icons/skills/acrobatics/icon.png" alt="Acrobatics" className="icon-svg" /> Acrobatics
 
-The Acrobatics line is unique in that its effects are all active while the line's dice are placed in your [cooldown track](/docs/glossary/cooldown-track). When exhausting Acrobatics skill dice outside of your [engage](/docs/battles/adventurer-turn/engage) actions, place them in your cooldown track with a [<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>](/docs/glossary/tenacity) result showing.
+The Acrobatics line is unique in that its effects are all active while the
+line's dice are placed in your [cooldown track](/docs/glossary/cooldown-track).
+When exhausting Acrobatics skill dice outside of your
+[engage](/docs/battles/adventurer-turn/engage) actions, place them in your
+cooldown track with a
+[<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>](/docs/glossary/tenacity)
+result showing.
 
 **Associated Stat:** [Stamina](/docs/adventurer/stats/stamina)
 
@@ -26,9 +32,14 @@ The Acrobatics line is unique in that its effects are all active while the line'
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Can I use Fleet Phantom to get adjacent to an Elusive enemy and be eligible to damage it?**
+**Can I use Fleet Phantom to get adjacent to an Elusive enemy and be eligible to
+damage it?**
 
-Fleet Phantom specifically grants its movement during start of turn. If a unit uses Fleet Phantom to get [adjacent](/docs/glossary/adjacent.md) to an enemy with [Elusive](/docs/battles/enemy-skills/elusive), it is considered to have been adjacent at the start of turn and any damage the adventurer deals is not prevented by Elusive.
+Fleet Phantom specifically grants its movement during start of turn. If a unit
+uses Fleet Phantom to get [adjacent](/docs/glossary/adjacent.md) to an enemy
+with [Elusive](/docs/battles/enemy-skills/elusive), it is considered to have
+been adjacent at the start of turn and any damage the adventurer deals is not
+prevented by Elusive.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000293233" target="_blank">Source</a>
 <!-- translate:off -->
@@ -48,7 +59,11 @@ Fleet Phantom specifically grants its movement during start of turn. If a unit u
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-You occupy every hex you move into. When you move through already [occupied](/docs/glossary/occupied) hexes, you occupy those hexes, you just can't end your movement in them. You are able to [explore](/docs/battles/types/delve/exploration) an occupied hex if an ability allows you to move into that hex.
+You occupy every hex you move into. When you move through already
+[occupied](/docs/glossary/occupied) hexes, you occupy those hexes, you just
+can't end your movement in them. You are able to
+[explore](/docs/battles/types/delve/exploration) an occupied hex if an ability
+allows you to move into that hex.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1382539710303572008" target="_blank">Source</a>
 <!-- translate:off -->
@@ -57,9 +72,13 @@ You occupy every hex you move into. When you move through already [occupied](/do
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**If you move through the same enemy multiple times during a single move action, does this deal damage per occurrence?**
+**If you move through the same enemy multiple times during a single move action,
+does this deal damage per occurrence?**
 
-The wording of this skill intentionally leaves the damage/healing until after you finish your movement, and you get the damage/healing based on how many enemies you moved through. If you moved through an enemy multiple times, you would only count it once.
+The wording of this skill intentionally leaves the damage/healing until after
+you finish your movement, and you get the damage/healing based on how many
+enemies you moved through. If you moved through an enemy multiple times, you
+would only count it once.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294290" target="_blank">Source</a>
 <!-- translate:off -->
@@ -88,7 +107,11 @@ The wording of this skill intentionally leaves the damage/healing until after yo
 <!-- translate:on -->
 **How does Wind Walker interact with the item Wood Elf Breeches?**
 
-Wind Walker allows you to trigger Wood Elf Breeches for 1 tenacity, but it does not then also allow you to trigger 3-tenacity class abilities as if they were 1-tenacity class abilities. The abilities it triggers need to be 1-tenacity abilities. A 3-tenacity ability is still a 3-tenacity ability, just one that you can spend less tenacity to trigger via Wind Walker.
+Wind Walker allows you to trigger Wood Elf Breeches for 1 tenacity, but it does
+not then also allow you to trigger 3-tenacity class abilities as if they were
+1-tenacity class abilities. The abilities it triggers need to be 1-tenacity
+abilities. A 3-tenacity ability is still a 3-tenacity ability, just one that you
+can spend less tenacity to trigger via Wind Walker.
 
 <a href="https://discord.com/channels/273472391403798528/1394605568244711454/1405224292467212490" target="_blank">Source</a>
 <!-- translate:off -->
@@ -117,7 +140,8 @@ Wind Walker allows you to trigger Wood Elf Breeches for 1 tenacity, but it does 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Can you resolve Duelist's Rebuff without an adjacent enemy to redirect the damage to?**
+**Can you resolve Duelist's Rebuff without an adjacent enemy to redirect the
+damage to?**
 
 Yes, you can prevent the damage without having an adjacent enemy.
 
@@ -138,9 +162,11 @@ Yes, you can prevent the damage without having an adjacent enemy.
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Can I benefit from the reroll Defiance provides during the same engage that it has been placed into the cooldown track?**
+**Can I benefit from the reroll Defiance provides during the same engage that it
+has been placed into the cooldown track?**
 
-Yes, you are allowed to use the reroll the same turn, as long as you do it before resolving any more dice.
+Yes, you are allowed to use the reroll the same turn, as long as you do it
+before resolving any more dice.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1340036564134133841" target="_blank">Source</a>
 <!-- translate:off -->

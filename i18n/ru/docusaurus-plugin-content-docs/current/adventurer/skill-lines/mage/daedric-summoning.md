@@ -7,7 +7,8 @@ title: Daedric Summoning
 
 **Associated Stat:** [Magicka](/docs/adventurer/stats/magicka)
 
-**Required Battle Form:** [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)
+**Required Battle Form:**
+[<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)
 
 ## Level 1
 
@@ -27,9 +28,14 @@ title: Daedric Summoning
 <!-- translate:on -->
 **Can you trigger a class ability without dealing damage first?**
 
-No, dealing 1 true damage to an adjacent enemy is considered a cost that must be paid to trigger a class ability.
+No, dealing 1 true damage to an adjacent enemy is considered a cost that must be
+paid to trigger a class ability.
 
-If the skill or ability has a cost associated with it, you must be able to fully resolve the cost in order to resolve the skill or ability. If a skill or ability is worded such that you must do one thing **to** do another, or do one thing **then** do another, the first portion of that skill or ability is considered to be the cost.
+If the skill or ability has a cost associated with it, you must be able to fully
+resolve the cost in order to resolve the skill or ability. If a skill or ability
+is worded such that you must do one thing **to** do another, or do one thing
+**then** do another, the first portion of that skill or ability is considered to
+be the cost.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Source</a>
 
@@ -37,7 +43,12 @@ If the skill or ability has a cost associated with it, you must be able to fully
 
 **How does the free class ability work?**
 
-Whenever there is a turn within a turn, or an engage within an engage, or a (non-interrupt) class ability within an engage - pause the current turn/engage, and resolve the thing "within" as if it is its own complete and separate thing. The damage dealt all gets dealt, it is not held to be later dealt with the damage of the encompassing engage/turn. Once you've finished the thing "within," unpause the encompassing turn/engage and continue on.
+Whenever there is a turn within a turn, or an engage within an engage, or a
+(non-interrupt) class ability within an engage - pause the current turn/engage,
+and resolve the thing "within" as if it is its own complete and separate thing.
+The damage dealt all gets dealt, it is not held to be later dealt with the
+damage of the encompassing engage/turn. Once you've finished the thing "within,"
+unpause the encompassing turn/engage and continue on.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000295108" target="_blank">Source</a>
 
@@ -58,7 +69,9 @@ Whenever there is a turn within a turn, or an engage within an engage, or a (non
 <!-- translate:on -->
 **Bound Armaments - Can you change battle forms?**
 
-For the additional engage granted, the adventurer taking the engage cannot switch battle forms. They are meant to take the engage in the same battle form they were in when they were granted the engage.
+For the additional engage granted, the adventurer taking the engage cannot
+switch battle forms. They are meant to take the engage in the same battle form
+they were in when they were granted the engage.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000291971" target="_blank">Source</a>
 <!-- translate:off -->
@@ -89,11 +102,16 @@ For the additional engage granted, the adventurer taking the engage cannot switc
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Can you choose not to apply this effect to a companion, and thus not reduce this die by 1?**
+**Can you choose not to apply this effect to a companion, and thus not reduce
+this die by 1?**
 
-It is not optional, if it's active, you need to use it and reduce it. The only way to get out of that is exhausting it.
+It is not optional, if it's active, you need to use it and reduce it. The only
+way to get out of that is exhausting it.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372226530864005250" target="_blank">Source</a> / <a href="https://discord.com/channels/273472391403798528/1392918916820369549/1400152445296054422" target="_blank">Source 2</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372226530864005250" target="_blank">Source</a>
+/
+<a href="https://discord.com/channels/273472391403798528/1392918916820369549/1400152445296054422" target="_blank">Source
+2</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -121,9 +139,15 @@ It is not optional, if it's active, you need to use it and reduce it. The only w
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Can you defeat and revive an enemy with Tempered Soul in a single engage? Or more broadly, what’s the timing for moving a defeated enemy to the defeated stack?**
+**Can you defeat and revive an enemy with Tempered Soul in a single engage? Or
+more broadly, what’s the timing for moving a defeated enemy to the defeated
+stack?**
 
-Yes. An enemy is defeated and moved to the defeated stack at the time when they have no HP, which during an engage would happen after you apply the pool of damage you are dealing to it. So after resolving all dice dealing damage to an enemy, and moving it to the defeated stack, you could yet that same engage, resolve Tempered Soul to revive it as a companion.
+Yes. An enemy is defeated and moved to the defeated stack at the time when they
+have no HP, which during an engage would happen after you apply the pool of
+damage you are dealing to it. So after resolving all dice dealing damage to an
+enemy, and moving it to the defeated stack, you could yet that same engage,
+resolve Tempered Soul to revive it as a companion.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Source</a>
 <!-- translate:off -->

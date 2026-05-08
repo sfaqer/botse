@@ -4,7 +4,13 @@ title: End of Session EP
 hoverText: The enemy pool is calculated using an XP goal value set by the chosen difficulty level instead of your party's XP Dial.
 ---
 
-Each guild quest's climactic step results in a battle encounter. For this battle, the enemy pool is calculated using an XP goal value set by the chosen difficulty level instead of your party's XP Dial. To find the correct EP value, look at the table below that corresponds to the session within your campaign; then refer to the row for your difficulty level and column for the number of players. The difficulty XP that each EP value is based on is shown under it in parentheses.
+Each guild quest's climactic step results in a battle encounter. For this
+battle, the enemy pool is calculated using an XP goal value set by the chosen
+difficulty level instead of your party's XP Dial. To find the correct EP value,
+look at the table below that corresponds to the session within your campaign;
+then refer to the row for your difficulty level and column for the number of
+players. The difficulty XP that each EP value is based on is shown under it in
+parentheses.
 
 ## Session 1
 

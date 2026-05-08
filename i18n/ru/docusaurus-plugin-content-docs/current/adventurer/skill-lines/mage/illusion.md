@@ -7,11 +7,15 @@ tags:
 
 # <img src="/icons/skills/illusion/icon.png" alt="Illusion" className="icon-svg" /> Illusion
 
-Illusion dice are used in a number of ways, and each has specific rules. They are most often placed as status counters or effects on enemies, allies, empty hexes, etc. Illusion skill dice still in play at the end of battle are exhausted.
+Illusion dice are used in a number of ways, and each has specific rules. They
+are most often placed as status counters or effects on enemies, allies, empty
+hexes, etc. Illusion skill dice still in play at the end of battle are
+exhausted.
 
 **Associated Stat:** [Magicka](/docs/adventurer/stats/magicka)
 
-**Required Battle Form:** [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)
+**Required Battle Form:**
+[<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)
 
 ## Level 1
 
@@ -59,9 +63,12 @@ Illusion dice are used in a number of ways, and each has specific rules. They ar
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Does Mayhem "turn off skills" because it says "...deal that rolled damage to the enemy unit before it uses skills or engages"?**
+**Does Mayhem "turn off skills" because it says "...deal that rolled damage to
+the enemy unit before it uses skills or engages"?**
 
-This skill would work the same if it just said "...deal the rolled damage to the enemy before it engages" - as "before it uses skills" is just be a timing indication, and all relevant skills happen during the engage anyway.
+This skill would work the same if it just said "...deal the rolled damage to the
+enemy before it engages" - as "before it uses skills" is just be a timing
+indication, and all relevant skills happen during the engage anyway.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000293227" target="_blank">Source</a>
 <!-- translate:off -->
@@ -79,9 +86,11 @@ This skill would work the same if it just said "...deal the rolled damage to the
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Does Voice of Rapture (Illusion) affect Status Effects e.g. Honor the Dead from [Restoring Light](/docs/adventurer/skill-lines/mage/restoring-light)?**
+**Does Voice of Rapture (Illusion) affect Status Effects e.g. Honor the Dead
+from [Restoring Light](/docs/adventurer/skill-lines/mage/restoring-light)?**
 
-Yes. “S” dice are considered status dice. It is intentional that they are called this.
+Yes. “S” dice are considered status dice. It is intentional that they are called
+this.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183417933955143" target="_blank">Source</a>
 <!-- translate:off -->

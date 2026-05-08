@@ -8,7 +8,8 @@ hoverText: ""
 
 **Upgrade**: Move into 10 different hexes in a single turn.
 
-**Innate Ability**: After you defeat an enemy, you may immediately move up to 4 hexes. You may move through [units](/docs/glossary/unit) during this movement.
+**Innate Ability**: After you defeat an enemy, you may immediately move up to 4
+hexes. You may move through [units](/docs/glossary/unit) during this movement.
 
 <div className="class-table-wrapper">
 
@@ -24,7 +25,8 @@ hoverText: ""
 
 ## Master
 
-**Innate Ability**: You may always move through [units](/docs/glossary/unit). After you defeat an enemy, you may immediately move up to 5 hexes.
+**Innate Ability**: You may always move through [units](/docs/glossary/unit).
+After you defeat an enemy, you may immediately move up to 5 hexes.
 
 <div className="class-table-wrapper">
 

@@ -8,7 +8,8 @@ tags:
 
 ## Novice
 
-**Upgrade**: Successfully complete encounters at unstable landmarks on 3 consecutive days.
+**Upgrade**: Successfully complete encounters at unstable landmarks on 3
+consecutive days.
 
 **Innate Ability**: The party's base overland movement is increased by 1.
 
@@ -26,7 +27,9 @@ tags:
 
 ## Master
 
-**Innate Ability**: The party's base overland movement is increased by 1. Each adventurer may remove 1 additional die during the [Adventurers Rest](/docs/campaign/day/end-of-day-phase/#2-adventurers-rest) step.
+**Innate Ability**: The party's base overland movement is increased by 1. Each
+adventurer may remove 1 additional die during the [Adventurers
+Rest](/docs/campaign/day/end-of-day-phase/#2-adventurers-rest) step.
 
 <div className="class-table-wrapper">
 

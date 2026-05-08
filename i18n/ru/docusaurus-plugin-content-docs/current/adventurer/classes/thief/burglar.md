@@ -10,7 +10,8 @@ tags:
 
 **Upgrade**: Gain 4 items in a single battle.
 
-**Innate Ability**: Add 1 attempt to all your lockpick checks. After succeeding at a lockpick check, gain 1 [tenacity](/docs/glossary/tenacity).
+**Innate Ability**: Add 1 attempt to all your lockpick checks. After succeeding
+at a lockpick check, gain 1 [tenacity](/docs/glossary/tenacity).
 
 <div className="class-table-wrapper">
 
@@ -26,7 +27,9 @@ tags:
 
 ## Master
 
-**Innate Ability**: Add 1 attempt to all your lockpick checks and 1 reroll to Shadowy Supplier. After succeeding at a lockpick check, gain 1 [tenacity](/docs/glossary/tenacity).
+**Innate Ability**: Add 1 attempt to all your lockpick checks and 1 reroll to
+Shadowy Supplier. After succeeding at a lockpick check, gain 1
+[tenacity](/docs/glossary/tenacity).
 
 <div className="class-table-wrapper">
 
@@ -46,17 +49,22 @@ tags:
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Can the "Shadowy Supplier" ability be triggered when another unit defeats an enemy?**
+**Can the "Shadowy Supplier" ability be triggered when another unit defeats an
+enemy?**
 
-No, "After defeating an enemy" is the same as "After **you** defeat an enemy". Therefore, the Burglar must be the one to defeat an enemy for this class ability to be triggered.
+No, "After defeating an enemy" is the same as "After **you** defeat an enemy".
+Therefore, the Burglar must be the one to defeat an enemy for this class ability
+to be triggered.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1343989850218434593" target="_blank">Source</a>
 
 ---
 
-**Do items gained from the shop in the under-siege town in Skyrim count as gained ‘in battle' for the purpose of this class upgrade requirement?**
+**Do items gained from the shop in the under-siege town in Skyrim count as
+gained ‘in battle' for the purpose of this class upgrade requirement?**
 
-Yes, items gained in an under-siege town count as items gained in battle, as this is a clash.
+Yes, items gained in an under-siege town count as items gained in battle, as
+this is a clash.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225968755835012" target="_blank">Source</a>
 

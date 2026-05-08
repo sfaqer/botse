@@ -7,7 +7,8 @@ title: Two Handed
 
 **Associated Stat:** [Stamina](/docs/adventurer/stats/stamina)
 
-**Required Battle Form:** [<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/heavy-weapon)
+**Required Battle Form:**
+[<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/heavy-weapon)
 
 ## Level 1
 
@@ -64,9 +65,11 @@ title: Two Handed
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**When can I use the "On your turn, if all of your active slots are full..." part of Balanced Blade?**
+**When can I use the "On your turn, if all of your active slots are full..."
+part of Balanced Blade?**
 
-"On your turn" without specifying that it's a separate action, can be done anytime on your turn including during an engage.
+"On your turn" without specifying that it's a separate action, can be done
+anytime on your turn including during an engage.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1342170432945651894" target="_blank">Source</a>
 <!-- translate:off -->
@@ -86,7 +89,8 @@ title: Two Handed
 <!-- translate:on -->
 **Can you deal damage with Cleave to non-targets only?**
 
-Yes, you can do the second part without doing the first part, if you don’t have a target.
+Yes, you can do the second part without doing the first part, if you don’t have
+a target.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Source</a>
 <!-- translate:off -->

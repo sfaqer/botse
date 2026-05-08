@@ -6,9 +6,15 @@ hoverText: ""
 
 ## Novice
 
-**Upgrade**: Defeat a level 10/20 enemy or a quest [unit](/docs/glossary/unit) while you have a [Stealth](/docs/battles/status-effects/stealth) (<img src="/icons/stealth.svg" alt="Stealth Icon" className="icon-svg" />) status die in your [cooldown track](/docs/glossary/cooldown-track).
+**Upgrade**: Defeat a level 10/20 enemy or a quest [unit](/docs/glossary/unit)
+while you have a [Stealth](/docs/battles/status-effects/stealth)
+(<img src="/icons/stealth.svg" alt="Stealth Icon" className="icon-svg" />)
+status die in your [cooldown track](/docs/glossary/cooldown-track).
 
-**Innate Ability**: When a [Stealth](/docs/battles/status-effects/stealth) (<img src="/icons/stealth.svg" alt="Stealth Icon" className="icon-svg" />) status die is removed or recovered from your [cooldown track](/docs/glossary/cooldown-track), you may move up to 4 hexes.
+**Innate Ability**: When a [Stealth](/docs/battles/status-effects/stealth)
+(<img src="/icons/stealth.svg" alt="Stealth Icon" className="icon-svg" />)
+status die is removed or recovered from your [cooldown
+track](/docs/glossary/cooldown-track), you may move up to 4 hexes.
 
 <div className="class-table-wrapper">
 
@@ -24,8 +30,12 @@ hoverText: ""
 
 ## Master
 
-**Innate Ability**: When a [Stealth](/docs/battles/status-effects/stealth) (<img src="/icons/stealth.svg" alt="Stealth Icon" className="icon-svg" />) status die in removed or recovered from your [cooldown track](/docs/glossary/cooldown-track), you may [heal](/docs/glossary/healing) for 1 HP and place
-yourself in an [unoccupied](/docs/glossary/occupied) hex up to 4 hexes away.
+**Innate Ability**: When a [Stealth](/docs/battles/status-effects/stealth)
+(<img src="/icons/stealth.svg" alt="Stealth Icon" className="icon-svg" />)
+status die in removed or recovered from your [cooldown
+track](/docs/glossary/cooldown-track), you may [heal](/docs/glossary/healing)
+for 1 HP and place yourself in an [unoccupied](/docs/glossary/occupied) hex up
+to 4 hexes away.
 
 <div className="class-table-wrapper">
 
@@ -45,9 +55,16 @@ yourself in an [unoccupied](/docs/glossary/occupied) hex up to 4 hexes away.
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Can [Detection](/docs/battles/enemy-skills/detection) enemies target you while you have Consuming Darkness active?**
+**Can [Detection](/docs/battles/enemy-skills/detection) enemies target you while
+you have Consuming Darkness active?**
 
-If you have a [Stealth](/docs/battles/status-effects/stealth) die in your [cooldown track](/docs/glossary/cooldown-track), Consuming Darkness protects you from being targeted even by enemies with [Detection](/docs/battles/enemy-skills/detection). The reasoning for this is because, while the Detection enemy ignores your Stealth, you yourself don't have to ignore that you have it for the sake of other effects such as this class ability. So while Stealth is ignored, Consuming Darkness is not.
+If you have a [Stealth](/docs/battles/status-effects/stealth) die in your
+[cooldown track](/docs/glossary/cooldown-track), Consuming Darkness protects you
+from being targeted even by enemies with
+[Detection](/docs/battles/enemy-skills/detection). The reasoning for this is
+because, while the Detection enemy ignores your Stealth, you yourself don't have
+to ignore that you have it for the sake of other effects such as this class
+ability. So while Stealth is ignored, Consuming Darkness is not.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294922" target="_blank">Source</a>
 
