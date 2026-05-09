@@ -1,98 +1,101 @@
 ---
-id: defeated
-title: Defeated
-hoverText: A [unit](/docs/glossary/unit) is defeated when it loses its last HP chip or an effect states that it is defeated
+iid: defeated
+title: Побеждён
+hoverText: [Существо](/docs/glossary/unit) считается побеждённым, когда теряет последнюю фишку HP или когда эффект указывает, что оно побеждено.
 ---
 
-A [unit](/docs/glossary/unit) is defeated when it loses its last HP chip or an
-effect states that it is defeated. The defeated unit is removed from the map. A
-defeated unit cannot take [turns](/docs/glossary/turn).
+[Существо](/docs/glossary/unit) считается побеждённым, когда теряет последнюю
+фишку HP или когда эффект указывает, что оно побеждено. Побеждённое существо
+убирается с карты и не может совершать [ходы](/docs/glossary/turn).
 
-### Defeated Enemies
+### Побеждённые враги
 
-When a defeated [enemy](/docs/glossary/enemy) is removed from the battle map,
-place it on top of the defeated enemy stack near the map. If it is the first
-enemy defeated during the battle, use it to create the defeated enemy stack. If
-the enemy is a [quest unit](/docs/glossary/quest-unit) or an objective unit, do
-not place it in the defeated enemy stack and instead set it aside.
+Когда побеждённый [враг](/docs/glossary/enemy) убирается с карты боя, положите
+его поверх стопки побеждённых врагов рядом с картой. Если это первый враг,
+побеждённый в этом бою, он образует стопку побеждённых врагов. Если враг
+является [существом задания](/docs/glossary/quest-unit) или существом цели, не
+помещайте его в стопку побеждённых врагов, а отложите в сторону.
 
-### Defeated Adventurers
+### Побеждённые приключенцы
 
-When a defeated [adventurer](/docs/glossary/adventurer) is removed from the
-battle map, place their chip on their race sheet. Any dice in the adventurer's
-[active slots](/docs/glossary/active-slot) must be removed and exhausted. Dice
-in the defeated adventurer's [cooldown track](/docs/glossary/cooldown-track)
-remain there. While defeated, an adventurer cannot take
-[turns](/docs/glossary/turn) or gain [fatigue](/docs/glossary/fatigue) or
-overfatigue (including during [fatigue rounds](/docs/glossary/fatigue-damage)).
+Когда побеждённый [приключенец](/docs/glossary/adventurer) убирается с карты
+боя, поместите его фишку на лист расы. Все кубики в [активных
+ячейках](/docs/glossary/active-slot) этого приключенца убираются и истощаются.
+Кубики на [треке восстановления](/docs/glossary/cooldown-track) побеждённого
+приключенца остаются там. Пока приключенец побеждён, он не может совершать
+[ходы](/docs/glossary/turn), получать [усталость](/docs/glossary/fatigue) или
+сверхусталость, в том числе во время [раундов
+усталости](/docs/glossary/fatigue-damage).
 
-Item cards remain in the adventurer's ready slots and pack but cannot be used
-while the adventurer is defeated.
+Карты предметов остаются в ячейках готовности и рюкзаке приключенца, но не могут
+быть использованы, пока приключенец побеждён.
 
-In battle, a defeated adventurer can be affected only by friendly abilities that
-specifically apply to a defeated adventurer. When that adventurer's HP is raised
-above 0, they are revived and no longer defeated. If this happens in battle, the
-revived adventurer is deployed to an [unoccupied](/docs/glossary/occupied.) hex
-as described by the ability that revived them.
+В бою на побеждённого приключенца могут действовать только дружественные
+способности, которые явно применяются к побеждённому приключенцу. Когда HP
+такого приключенца становится выше 0, он возрождается и больше не считается
+побеждённым. Если это происходит в бою, возрождённый приключенец размещается в
+[свободном](/docs/glossary/occupied.) гексе, как описано в способности, которая
+его возродила.
 
-### Full Party Defeat
+### Поражение всего отряда
 
-If your entire [party](/docs/glossary/party) is defeated, the encounter ends
-after the current [round](/docs/battles/battle-round), unless the party triggers
-its [guild assist](/docs/glossary/guild-assist). Treat a full party defeat as a
-failed encounter and follow the steps below:
+Если весь ваш [отряд](/docs/glossary/party) побеждён, встреча заканчивается
+после текущего [раунда](/docs/battles/battle-round), если только отряд не
+активирует [помощь гильдии](/docs/glossary/guild-assist). Поражение всего отряда
+считается проваленной встречей; выполните следующие шаги:
 
-1.  Place the party token in the [closest](/docs/glossary/closest)
-    [town](/docs/campaign/day/encounter-phase/town)
-    (<img src="/icons/town.svg" alt="Town Icon" className="icon-svg" />) to the
-    party's current location on the overland map.
-2.  Resolve the [Reward Phase](/docs/campaign/day/reward-phase).
-3.  Resolve the [End of Day Phase's](/docs/campaign/day/end-of-day-phase)
-    Adventurers Rest step as normal. If playing on
-    [Expert](/docs/campaign/difficulty-levels/expert) and the full party is
-    defeated, [adventurers](/docs/glossary/adventurer)
-    [heal](/docs/glossary/healing) for 1 HP even if they do not
-    [discard](/docs/glossary/discard) an item (but still must discard an item to
-    [recover](/docs/glossary/recover) a die from their [cooldown
-    track](/docs/glossary/cooldown-track)).
+1.  Переместите жетон отряда в [ближайший](/docs/glossary/closest)
+    [город](/docs/campaign/day/encounter-phase/town)
+    (<img src="/icons/town.svg" alt="Town Icon" className="icon-svg" />) от
+    текущего местоположения отряда на карте путешествия.
+2.  Выполните [фазу награды](/docs/campaign/day/reward-phase).
+3.  Выполните этап «Отдых приключенцев» [фазы конца
+    дня](/docs/campaign/day/end-of-day-phase) как обычно. Если игра проходит на
+    [экспертном](/docs/campaign/difficulty-levels/expert) уровне сложности и
+    весь отряд побеждён, [приключенцы](/docs/glossary/adventurer)
+    [восстанавливают](/docs/glossary/healing) 1 HP, даже не
+    [сбрасывая](/docs/glossary/discard) предмет. Однако, чтобы
+    [восстановить](/docs/glossary/recover) кубик со своего [трека
+    восстановления](/docs/glossary/cooldown-track), они всё равно должны
+    сбросить предмет.
 
-### Defeating Units
+### Победа над существами
 
-Some abilities refer to units defeating other units, either as part of an effect
-or for triggering another effect.
+Некоторые способности учитывают, когда одно существо побеждает другое: это может
+быть частью эффекта или условием срабатывания другого эффекта.
 
-These abilities follow the definitions below:
+К таким способностям применяются следующие определения:
 
-- An [adventurer](/docs/glossary/adventurer) (or
-  [companion](/docs/glossary/companion)) defeats an
-  [enemy](/docs/glossary/enemy) when either of the following occurs:
-  - That enemy loses its last HP chip because of an
-    [engage](/docs/battles/adventurer-turn/engage) or ability resolved by the
-    adventurer.
-  - The adventurer resolves an ability that indicates that enemy is defeated.
-- An [enemy](/docs/glossary/enemy) defeats a [unit](/docs/glossary/unit) when
-  that unit loses its last HP chip, either because of an
-  [engage](/docs/battles/adventurer-turn/engage) or ability resolved by that
-  enemy.
-- If a [unit](/docs/glossary/unit) is defeated by a [status
-  effect](/docs/battles/status-effects/index) die, such as [Bane
+- Приключенец](/docs/glossary/adventurer) или
+  [спутник](/docs/glossary/companion) побеждает [врага](/docs/glossary/enemy),
+  когда происходит одно из следующего:
+  - Этот враг теряет последнюю фишку HP в результате [вступления в
+    бой](/docs/battles/adventurer-turn/engage) или способности, применённой
+    приключенцем.
+  - Приключенец применяет способность, согласно которой этот враг считается
+    побеждённым.
+- [Враг](/docs/glossary/enemy) побеждает [существо](/docs/glossary/unit), когда
+  это существо теряет последнюю фишку HP в результате [вступления в
+  бой](/docs/battles/adventurer-turn/engage) или способности, применённой этим
+  врагом.
+- Если [существо](/docs/glossary/unit) побеждено кубиком [эффекта
+  состояния](/docs/battles/status-effects/index), например [Проклятием
   (<img src="/icons/bane.svg" alt="Bane Icon" className="icon-svg" />)](/docs/battles/status-effects/bane),
-  it is considered defeated but does not trigger any effect that requires the
-  unit to have been defeated by a specific other unit.
+  оно считается побеждённым, но не вызывает срабатывание эффектов, для которых
+  требуется, чтобы его победило конкретное другое существо.
 
-### Defeated Units on Tiles
+### Побеждённые существа на тайлах
 
-Some encounter rules or other abilities refer to defeated
-[units](/docs/glossary/unit) remaining on the tiles in battle.
+Некоторые правила встреч или другие способности учитывают побеждённых
+[существ](/docs/glossary/unit), которые остаются на тайлах во время боя.
 
-These units follow the rules below:
+К таким существам применяются следующие правила:
 
-- The unit's chip remains in its hex until it is removed as described by the
-  effect. Until the chip is removed, its hex is considered
-  [occupied](/docs/glossary/occupied).
-- While it is on the battle map, that defeated [unit](/docs/glossary/unit)
-  cannot take turns and its chip is not a
-  [targetable](/docs/glossary/targetable) unit for
-  [engage](/docs/battles/adventurer-turn/engage) actions or other abilities
-  (unless specifically instructed). The unit's chip is treated as a defeated
-  unit of its type for resolving abilities.
+- Фишка существа остаётся в своём гексе, пока эффект не укажет убрать её. До тех
+  пор этот гекс считается [занятым](/docs/glossary/occupied).
+- Пока побеждённое [существо](/docs/glossary/unit) находится на карте боя, оно
+  не может совершать ходы. Его фишка не считается [доступным для выбора
+  целью](/docs/glossary/targetable) существом для действий [вступления в
+  бой](/docs/battles/adventurer-turn/engage) или других способностей, если не
+  указано иное. При применении способностей фишка существа считается побеждённым
+  существом своего типа.

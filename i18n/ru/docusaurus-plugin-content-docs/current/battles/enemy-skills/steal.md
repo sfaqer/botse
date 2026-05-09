@@ -21,7 +21,7 @@ The [Daze](/docs/battles/status-effects/daze) status effect says that if an
 enemy moves on its turn, it can't roll dice that turn. Using Steal requires a
 die to be rolled, so a Dazed enemy that moves cannot use its Steal skill.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292494" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292494" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

@@ -82,7 +82,7 @@ with the [Survey](/docs/battles/objectives/survey),
 [Eliminate](/docs/battles/objectives/eliminate), or any other objective, only
 give the XP as stated in the encounter.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292564" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292564" target="_blank">Источник</a>
 
 ---
 
@@ -91,7 +91,7 @@ give the XP as stated in the encounter.
 For the Throne Room delve card, populate the enemies first, before resolving the
 "When Revealed" text.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294284" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294284" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

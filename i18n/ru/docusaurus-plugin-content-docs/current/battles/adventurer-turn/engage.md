@@ -114,7 +114,7 @@ is worded such that you must do one thing **to** do another, or do one thing
 **then** do another, the first portion of that skill or ability is considered to
 be the cost.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Источник</a>
 
 ---
 
@@ -123,16 +123,16 @@ be the cost.
 The target has to be in range when selected as a target (step 3) **and** when
 the die is resolved (step 5).
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1386722677531742249" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1386722677531742249" target="_blank">Источник</a>
 
 ---
 
-**Declaring a Target**
+**Объявление цели**
 
-You only declare a target if the game structure tells you to. i.e. as part of an
-[engage](/docs/battles/adventurer-turn/engage), or if something else in the game
-tells you to select a target. You can't just randomly select yourself a target
-in order to use something that triggers based off of selecting a target.
+Цель объявляется только тогда, когда этого требует структура игры: например, в
+рамках [вступления в бой](/docs/battles/adventurer-turn/engage) или когда другой
+игровой эффект предписывает выбрать цель. Нельзя произвольно выбирать цель
+только для того, чтобы использовать эффект, срабатывающий при выборе цели.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1386823964017561610" target="_blank">Source</a>
 /
@@ -172,7 +172,7 @@ with the following exceptions:
 If an enemy has a skill that triggers **after** it is engaged, that skill does
 not trigger if the enemy is defeated during that engage.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291973" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291973" target="_blank">Источник</a>
 
 ---
 
@@ -186,7 +186,7 @@ skills that trigger based off of being engaged, such as the enemy skill Shatter,
 would not be triggered if damage is dealt by a non-targeting skill such as
 Volley.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292499" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292499" target="_blank">Источник</a>
 
 ---
 
@@ -205,7 +205,7 @@ This replaces the b. point under Resolve the Roll on pg. 60 of the rulebook.
 Damage dealt by adventurers is pooled when dealt to **enemies or companions**.
 Damage is is not pooled when dealt to adventurers.
 
-<a href="https://discord.com/channels/273472391403798528/1392759133953986590/1400147849597030481" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1392759133953986590/1400147849597030481" target="_blank">Источник</a>
 
 ---
 
@@ -217,7 +217,7 @@ a possible result wouldn't be able to be resolved. An example of this is rolling
 a skill that requires a target, while not having a target. Generally this is
 done in order to try for tenacity results.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000293232" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000293232" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

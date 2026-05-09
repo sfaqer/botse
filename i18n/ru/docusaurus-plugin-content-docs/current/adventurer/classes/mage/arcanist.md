@@ -63,7 +63,7 @@ sheet and cannot be performed if the required crux tokens are not available.
 Crux tokens are meant to clear from active slots between battles, just as dice
 do.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Источник</a>
 
 ---
 
@@ -72,7 +72,7 @@ do.
 Gibbering Shield is optional. You choose if you want to discard a crux token to
 prevent damage.
 
-<a href="https://discord.com/channels/273472391403798528/1392918916820369549/1400152445296054422" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1392918916820369549/1400152445296054422" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

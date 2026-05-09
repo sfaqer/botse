@@ -44,7 +44,7 @@ This text is meant to reinforce the rule that you cannot take two move actions
 in a single turn if you engage, nor can you interrupt a move action with an
 engage action. However, you are allowed to engage, then move, then engage again.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294289" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294289" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

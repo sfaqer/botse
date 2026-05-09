@@ -31,7 +31,7 @@ a [status effect](/docs/glossary/status-effect) that deals damage, or gives
 [tenacity](/docs/glossary/tenacity) that is used to deal damage, is not
 considered to deal damage.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000290395" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000290395" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -51,7 +51,7 @@ not to resolve the ability on the die.
 
 Yes, enemy combat dice are considered skill dice.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1361760117724282990" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1361760117724282990" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::

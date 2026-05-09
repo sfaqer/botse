@@ -18,7 +18,7 @@ move?**
 If something rushes, it doesn't then get to engage. The "instead" means the
 second movement is in place of engaging.
 
-<a href="https://boardgamegeek.com/thread/3474737/article/45829021#45829021" target="_blank">Source</a>
+<a href="https://boardgamegeek.com/thread/3474737/article/45829021#45829021" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

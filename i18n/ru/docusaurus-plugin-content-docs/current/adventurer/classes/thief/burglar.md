@@ -56,7 +56,7 @@ No, "After defeating an enemy" is the same as "After **you** defeat an enemy".
 Therefore, the Burglar must be the one to defeat an enemy for this class ability
 to be triggered.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1343989850218434593" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1343989850218434593" target="_blank">Источник</a>
 
 ---
 
@@ -66,7 +66,7 @@ gained ‘in battle' for the purpose of this class upgrade requirement?**
 Yes, items gained in an under-siege town count as items gained in battle, as
 this is a clash.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225968755835012" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225968755835012" target="_blank">Источник</a>
 
 ---
 
@@ -74,7 +74,7 @@ this is a clash.
 
 No, interrupt class abilities can only be used once per timing.
 
-<a href="https://discord.com/channels/273472391403798528/1392861883404386345/1395858420619415736" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1392861883404386345/1395858420619415736" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::

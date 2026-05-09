@@ -54,7 +54,7 @@ objective.
 No, when you enter a tile with a skyshard you must pick it up. Even if the delve
 has a battle objective that does not relate to Skyshards.
 
-<a href="https://boardgamegeek.com/thread/3454660/article/45601458#45601458" target="_blank">Source</a>
+<a href="https://boardgamegeek.com/thread/3454660/article/45601458#45601458" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

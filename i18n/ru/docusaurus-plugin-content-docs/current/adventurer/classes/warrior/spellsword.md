@@ -25,7 +25,7 @@ This engage is treated as a [free](/docs/glossary/free)
 [fatigue](/docs/glossary/fatigue) for performing it. You may change [battle
 forms](/docs/battles/battle-forms/index).
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1329532592290267137" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1329532592290267137" target="_blank">Источник</a>
 
 ---
 
@@ -35,7 +35,7 @@ Yes. Treat it like an engage in all ways, except it's just 1 die, you don't roll
 it, and it doesn't count towards the number of engages you've taken that turn
 for the purpose of having to take light fatigue.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1334945968281620574" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1334945968281620574" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::
@@ -82,7 +82,7 @@ as if you are performing an engage.
 No, according to the "Resolving Partial Skills and Abilities" rule, anything
 before a **then** is considered to be the cost of the skill.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

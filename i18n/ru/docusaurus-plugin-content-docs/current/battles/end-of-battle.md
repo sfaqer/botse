@@ -70,7 +70,7 @@ In order for a combat to be successful, one adventurer must survive. If only
 companions survive, or the last adventurer is defeated at the same time as the
 last enemy, the combat fails.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294286" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294286" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

@@ -24,7 +24,7 @@ If quest unit: Shadowscale Akisha is in play when quest unit: Lich Deslandra
 would be deployed, defeat Shadowscale Akisha and split her remaining HP as bonus
 HP among adventurers. Then, deploy Lich Deslandra as normal.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294281" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294281" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

@@ -25,7 +25,7 @@ All skills except the skill line called Combat that all adventurers have by
 default. So an enemy with Fear ignores all of its skills. An adventurer with
 Fear can only use their Combat skill line, no other skills.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292468" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292468" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::
@@ -39,7 +39,7 @@ results?**
 
 You cannot gain benefits from tenacity results rolled on skill dice either.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1346557892966220049" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1346557892966220049" target="_blank">Источник</a>
 
 ---
 
@@ -47,7 +47,7 @@ You cannot gain benefits from tenacity results rolled on skill dice either.
 
 Fear is meant to prevent even "after defeat" skills from triggering.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::

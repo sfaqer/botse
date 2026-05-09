@@ -1,7 +1,7 @@
 ---
 id: occupied
-title: Occupied/Unoccupied
-hoverText: A hex is occupied when it contains a unit (or overland token) and unoccupied when it does not.
+title: Занят/свободен
+hoverText: Гекс считается занятым, если в нём находится существо или жетон путешествия, и свободным, если нет.
 ---
 
 A hex is occupied when it contains a unit (or overland token) and unoccupied

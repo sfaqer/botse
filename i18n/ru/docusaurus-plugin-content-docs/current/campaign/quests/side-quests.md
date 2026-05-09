@@ -39,7 +39,7 @@ Side quests are only optional if the text says so. If it says "next clash" or
 similar, you have to do it in the next clash. The only way to opt out is to
 discard it.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1335318484070039634" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1335318484070039634" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -55,7 +55,7 @@ once it's completed. However, you are also allowed to discard this side quest as
 normal. You are not obligated to hold onto it until the end of the session if
 you wish to discard it.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294283" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294283" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

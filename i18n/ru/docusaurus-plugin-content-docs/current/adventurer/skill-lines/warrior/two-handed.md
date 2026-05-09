@@ -71,7 +71,7 @@ part of Balanced Blade?**
 "On your turn" without specifying that it's a separate action, can be done
 anytime on your turn including during an engage.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1342170432945651894" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1342170432945651894" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -92,7 +92,7 @@ anytime on your turn including during an engage.
 Yes, you can do the second part without doing the first part, if you don’t have
 a target.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

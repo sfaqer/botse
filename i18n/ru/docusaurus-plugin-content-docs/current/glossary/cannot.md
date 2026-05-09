@@ -1,12 +1,12 @@
 ---
 id: cannot
-title: Cannot
-hoverText: If a component's effect uses the word cannot, that effect cannot be overruled by another game effect.
+title: Нельзя
+hoverText: Если эффект компонента содержит слово «нельзя», другой игровой эффект не может его переопределить.
 ---
 
-If a component's effect uses the word **"cannot"**, that effect cannot be
-overruled by another game effect.
+Если в эффекте компонента используется слово «нельзя», этот эффект не может быть
+отменён другим игровым эффектом.
 
-If a card or other game component's effects are in disagreement with each other
-and neither uses "cannot", the party may decide which to resolve and which to
-ignore.
+Если эффекты карты или другого игрового компонента противоречат друг другу и ни
+один из них не содержит слова «нельзя», партия может решить, какой эффект
+применить, а какой проигнорировать.

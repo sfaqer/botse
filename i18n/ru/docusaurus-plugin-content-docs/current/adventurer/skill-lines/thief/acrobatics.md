@@ -41,7 +41,7 @@ with [Elusive](/docs/battles/enemy-skills/elusive), it is considered to have
 been adjacent at the start of turn and any damage the adventurer deals is not
 prevented by Elusive.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000293233" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000293233" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -65,7 +65,7 @@ can't end your movement in them. You are able to
 [explore](/docs/battles/types/delve/exploration) an occupied hex if an ability
 allows you to move into that hex.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1382539710303572008" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1382539710303572008" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -80,7 +80,7 @@ you finish your movement, and you get the damage/healing based on how many
 enemies you moved through. If you moved through an enemy multiple times, you
 would only count it once.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294290" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294290" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -113,7 +113,7 @@ not then also allow you to trigger 3-tenacity class abilities as if they were
 abilities. A 3-tenacity ability is still a 3-tenacity ability, just one that you
 can spend less tenacity to trigger via Wind Walker.
 
-<a href="https://discord.com/channels/273472391403798528/1394605568244711454/1405224292467212490" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1394605568244711454/1405224292467212490" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -145,7 +145,7 @@ damage to?**
 
 Yes, you can prevent the damage without having an adjacent enemy.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -168,7 +168,7 @@ has been placed into the cooldown track?**
 Yes, you are allowed to use the reroll the same turn, as long as you do it
 before resolving any more dice.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1340036564134133841" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1340036564134133841" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

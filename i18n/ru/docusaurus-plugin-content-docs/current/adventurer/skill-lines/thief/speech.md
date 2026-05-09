@@ -52,7 +52,7 @@ increasing an effect's strength.
 
 An adjacent adventurer is 1 hex away, so 1 tenacity is lost in the transfer.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372224678479003669" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372224678479003669" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

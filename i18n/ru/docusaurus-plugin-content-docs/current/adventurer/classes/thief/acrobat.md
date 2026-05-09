@@ -49,7 +49,7 @@ After you defeat an enemy, you may immediately move up to 5 hexes.
 
 No, you must drain a skill die.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1334931433562570825" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1334931433562570825" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

@@ -37,7 +37,7 @@ is worded such that you must do one thing **to** do another, or do one thing
 **then** do another, the first portion of that skill or ability is considered to
 be the cost.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Источник</a>
 
 ---
 
@@ -50,7 +50,7 @@ The damage dealt all gets dealt, it is not held to be later dealt with the
 damage of the encompassing engage/turn. Once you've finished the thing "within,"
 unpause the encompassing turn/engage and continue on.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000295108" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000295108" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::
@@ -73,7 +73,7 @@ For the additional engage granted, the adventurer taking the engage cannot
 switch battle forms. They are meant to take the engage in the same battle form
 they were in when they were granted the engage.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291971" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291971" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -149,7 +149,7 @@ damage you are dealing to it. So after resolving all dice dealing damage to an
 enemy, and moving it to the defeated stack, you could yet that same engage,
 resolve Tempered Soul to revive it as a companion.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

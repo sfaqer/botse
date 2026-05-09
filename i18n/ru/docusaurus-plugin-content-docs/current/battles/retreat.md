@@ -25,7 +25,7 @@ retreat after gaining the required
 No, there is no requirement to be on the entrance tile. You may simply choose to
 retreat at the end of a round.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1327125008618881035" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1327125008618881035" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

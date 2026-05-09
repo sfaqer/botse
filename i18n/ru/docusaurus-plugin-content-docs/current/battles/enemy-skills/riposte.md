@@ -21,7 +21,7 @@ An enemy can only have one of a given skill. If they are supposed to have more
 than one of a numbered skill, and the numbers are different, they use the
 highest numbered skill.
 
-<a href="https://boardgamegeek.com/thread/3457173/article/45635526#45635526" target="_blank">Source</a>
+<a href="https://boardgamegeek.com/thread/3457173/article/45635526#45635526" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
