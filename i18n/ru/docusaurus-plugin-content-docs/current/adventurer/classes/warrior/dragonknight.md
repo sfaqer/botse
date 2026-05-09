@@ -58,7 +58,7 @@ or
 can perform this ability. The ability to change battle forms during a class
 ability is specific to the adventurer who's performing the class ability.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1342165307027886250" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1342165307027886250" target="_blank">Источник</a>
 
 ---
 
@@ -68,7 +68,7 @@ Dragonknight Standard ability?**
 Each adventurer's damage is a separate instance of damage. Defense will apply
 for each adventurer, even if they target the same enemy.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1346557892966220049" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1346557892966220049" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

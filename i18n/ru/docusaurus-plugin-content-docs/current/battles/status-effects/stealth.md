@@ -25,7 +25,7 @@ use a skill or ability that says it [defeats](/docs/glossary/defeated) an
 [enemy](/docs/glossary/enemy). Defeating an enemy is not considered to be
 dealing damage.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000290399" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000290399" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

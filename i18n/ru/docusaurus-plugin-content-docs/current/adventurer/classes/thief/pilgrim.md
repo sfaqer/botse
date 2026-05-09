@@ -54,7 +54,7 @@ or Master side?**
 When you use this ability, you can choose the ability you use from either the
 novice or master side.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294924" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294924" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::
@@ -70,7 +70,7 @@ summon a companion, does it persist after battle?**
 Feral Guardian will persist until the end of session, or until it is defeated
 (it is not removed at the end of battle).
 
-<a href="https://discord.com/channels/273472391403798528/1392758332900507759/1393239222789472286" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1392758332900507759/1393239222789472286" target="_blank">Источник</a>
 
 ---
 
@@ -78,7 +78,7 @@ Feral Guardian will persist until the end of session, or until it is defeated
 
 No, interrupt class abilities can only be used once per timing.
 
-<a href="https://discord.com/channels/273472391403798528/1392861883404386345/1395858420619415736" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1392861883404386345/1395858420619415736" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::

@@ -68,7 +68,7 @@ item. Just as you must discard expended items at the end of a session, you must
 discard items represented by dice at the end of the session as well. You cannot
 carry this item with you to the next session.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294280/" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294280/" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::

@@ -18,7 +18,7 @@ manipulate those dice during lockpick checks.
 The +X, is the number of additional dice you roll. E.g. "Roll a d6 +2", would
 mean to roll 3 dice total (1+2).
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1329334920228769854" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1329334920228769854" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::

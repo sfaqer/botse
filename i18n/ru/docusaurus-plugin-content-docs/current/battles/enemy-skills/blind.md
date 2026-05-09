@@ -23,7 +23,7 @@ get adjacent to the closest opposing unit (which is all other units) and then
 attack that unit. For ties, it prioritizes strongest. Even if its chip shows
 multiple targets, while blind it has only one target.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000293226" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000293226" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

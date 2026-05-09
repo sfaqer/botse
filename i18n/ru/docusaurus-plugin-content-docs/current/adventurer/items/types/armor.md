@@ -36,7 +36,7 @@ Armor can be used each time an enemy [engages](/docs/battles/enemy-turn) you
 long as you don't [overtax](/docs/adventurer/items/overtax) it which causes it
 to be [discarded](/docs/glossary/discard)).
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292495" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292495" target="_blank">Источник</a>
 
 ---
 
@@ -45,7 +45,7 @@ to be [discarded](/docs/glossary/discard)).
 When you overtax armor, you can wait to see what the [enemy
 rolls](/docs/battles/enemy-turn) before deciding if you want to overtax it.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292496" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292496" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

@@ -92,7 +92,7 @@ party's journal, such as tallying encounters.
 Yes, all adventurers get rewards if the encounter was successful, even if they
 themselves were defeated.
 
-<a href="https://boardgamegeek.com/thread/3442027/article/45495467#45495467" target="_blank">Source</a>
+<a href="https://boardgamegeek.com/thread/3442027/article/45495467#45495467" target="_blank">Источник</a>
 
 ---
 
@@ -101,7 +101,7 @@ get the XP for both or just the quest?**
 
 You get XP for both.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Источник</a>
 
 ---
 
@@ -109,7 +109,7 @@ You get XP for both.
 
 Yes, you get a Reward Phase as normal.
 
-<a href="https://boardgamegeek.com/thread/3534373/article/46270184#46270184" target="_blank">Source</a>
+<a href="https://boardgamegeek.com/thread/3534373/article/46270184#46270184" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::

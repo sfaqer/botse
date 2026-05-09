@@ -68,7 +68,7 @@ using Immovable?**
 After the engage does not trigger if the enemy is defeated, it needs to be on
 the board when the skill would trigger or else it doesn't happen.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225248522539058" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225248522539058" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -92,7 +92,7 @@ prevention, it's modifying the effect of these dice, but it's still Resolve and
 Constitution providing that effect. They need to already be preventing damage in
 order to add to the damage they are preventing.
 
-<a href="https://discord.com/channels/273472391403798528/1393172741640687646/1405226452563001384" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1393172741640687646/1405226452563001384" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -115,7 +115,7 @@ Yes, Unstoppable doesn't care about what face the die is showing, because it's
 Unstoppable itself that has the effect, and it doesn't specify what face the die
 needs to have, just that they are Heavy Armor dice.
 
-<a href="https://discord.com/channels/273472391403798528/1393172741640687646/1405226452563001384" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1393172741640687646/1405226452563001384" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

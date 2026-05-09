@@ -28,7 +28,7 @@ ability)?**
 
 No, adjacent units are not within your range if you are in Ranged battle form.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::

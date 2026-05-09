@@ -26,7 +26,7 @@ persist until the end of session cleanup.
 No, you must finish the engage action first and then if during the engage an
 enemy took damage you add a chip.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1339257250170277918" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1339257250170277918" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -78,7 +78,7 @@ instead?**
 There is no way to just decide to take a companion out of play. You need to get
 it defeated if you want to get rid of it.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225248522539058" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225248522539058" target="_blank">Источник</a>
 
 ---
 
@@ -86,7 +86,7 @@ it defeated if you want to get rid of it.
 
 No, it is discarded at the end of the session.
 
-<a href="https://discord.com/channels/273472391403798528/1393185130910187530/1393186198263959615" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1393185130910187530/1393186198263959615" target="_blank">Источник</a>
 
 ---
 
@@ -97,7 +97,7 @@ work?**
 a unit's turn. It doesn't apply for damage dealt outside of a unit's turn, such
 as damage dealt by the companions summoned through Master Blastbones.
 
-<a href="https://discord.com/channels/273472391403798528/1441490396793540760/1476965853021868208" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1441490396793540760/1476965853021868208" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::
@@ -114,7 +114,7 @@ HP above their Health stat as well). The companion summoned by Spirit Guardian
 maintains its HP between battles (per the ability's text), and that includes if
 its HP is above its Health stat.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291560" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291560" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

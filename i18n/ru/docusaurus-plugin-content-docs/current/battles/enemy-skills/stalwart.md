@@ -21,7 +21,7 @@ that would straight up [defeat](/docs/glossary/defeated) the unit outright can
 get around this (or the [Fear](/docs/battles/status-effects/fear) status effect,
 which would then allow you to ignore the skill entirely).
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000293224" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000293224" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::
@@ -36,7 +36,7 @@ Stalwart is only applicable to HP lost in a unit's turn. It doesn't apply for
 damage dealt outside of a unit's turn, such as damage dealt by the companions
 summoned through Master Blastbones.
 
-<a href="https://discord.com/channels/273472391403798528/1441490396793540760/1476965853021868208" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1441490396793540760/1476965853021868208" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

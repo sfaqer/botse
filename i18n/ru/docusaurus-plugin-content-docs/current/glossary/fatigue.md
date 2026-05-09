@@ -41,7 +41,7 @@ being replaced with: "If no black overfatigue dice remain in the supply,
 adventurers must take 1 true damage for each overfatigue they are unable to
 place in their cooldown."
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::
@@ -64,7 +64,7 @@ pet instead. In combination with a situation where you can take any amount of
 fatigue, you can declare you are taking as much fatigue as you would like, and
 then ignore all of that fatigue.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291580" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291580" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

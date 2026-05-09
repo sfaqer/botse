@@ -70,7 +70,7 @@ This skill would work the same if it just said "...deal the rolled damage to the
 enemy before it engages" - as "before it uses skills" is just be a timing
 indication, and all relevant skills happen during the engage anyway.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000293227" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000293227" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -92,7 +92,7 @@ from [Restoring Light](/docs/adventurer/skill-lines/mage/restoring-light)?**
 Yes. “S” dice are considered status dice. It is intentional that they are called
 this.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183417933955143" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183417933955143" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

@@ -1,9 +1,9 @@
 ---
 id: closest
-title: Closest
-hoverText: When a rule or effect refers to the closest hex, feature, or token, it means the route to that feature or token that consists of the fewest hexes between that feature and the component being measured to (or from).
+title: Ближайший
+hoverText: Когда правило или эффект ссылается на ближайший гекс, элемент или жетон, имеется в виду путь до этого элемента или жетона, состоящий из наименьшего количества гексов между ним и компонентом, до которого или от которого выполняется измерение.
 ---
 
-When a rule or effect refers to the closest hex, feature, or token, it means the
-route to that feature or token that consists of the **fewest hexes** between
-that feature and the component being measured to (or from).
+Когда правило или эффект указывает на ближайший гекс, элемент или жетон, имеется
+в виду путь до него с наименьшим количеством гексов между этим объектом и
+компонентом, до которого или от которого выполняется измерение.

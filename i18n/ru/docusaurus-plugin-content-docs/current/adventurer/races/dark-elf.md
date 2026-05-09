@@ -37,7 +37,7 @@ recover?**
 Do as much as you can - if you have fewer than 4 skill dice, you can still use
 it and recover those dice.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1346557892966220049" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1346557892966220049" target="_blank">Источник</a>
 
 ---
 
@@ -50,7 +50,7 @@ racial ability says "replace..."._
 Replacing is the same as gaining. You can use Shoulder-Mounted Parasol to avoid
 the light fatigue from Dark Elf's race ability.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372223420774879282" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372223420774879282" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::

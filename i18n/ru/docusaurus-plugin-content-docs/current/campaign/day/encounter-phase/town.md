@@ -93,7 +93,7 @@ action.
 All town actions are considered to be personal town actions unless otherwise
 stated. A group town action will be specifically labelled as a group action.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292500" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292500" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

@@ -17,7 +17,7 @@ tags:
 
 You reveal items and trainers at the beginning of the town encounter as normal.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225968755835012" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225968755835012" target="_blank">Источник</a>
 
 ---
 
@@ -27,7 +27,7 @@ still meet the requirements to promote from Novice to Master?**
 If your class sheet is flipped to Novice, and you still meet the upgrade
 requirements, you may instantly flip back to Master.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372226530864005250" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372226530864005250" target="_blank">Источник</a>
 
 ---
 
@@ -36,7 +36,7 @@ requirements, you may instantly flip back to Master.
 A defeated adventurer can still take advantage of the 1 free town action granted
 if all enemies are defeated in a siege encounter.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Источник</a>
 
 ---
 
@@ -45,7 +45,7 @@ get the XP for both or just the quest?**
 
 You get XP for both.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::
@@ -58,7 +58,7 @@ You get XP for both.
 Chips on the Icy Buildup card should be cleared after each
 [delve](/docs/battles/types/delve/) (unless instructed not to clear it).
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291979" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291979" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::
@@ -71,7 +71,7 @@ Chips on the Icy Buildup card should be cleared after each
 Bloodthorns in this scenario are defeated if the take at least 1 damage. This
 information is missing from the scenario instructions.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294287" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294287" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

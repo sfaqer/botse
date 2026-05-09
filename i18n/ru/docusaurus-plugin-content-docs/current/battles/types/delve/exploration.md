@@ -38,7 +38,7 @@ already [occupied](/docs/glossary/occupied) hexes, you occupy those hexes, you
 just can't end your movement in them. You are able to explore an occupied hex if
 an ability allows you to move into that hex.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1382539710303572008" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1382539710303572008" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -177,7 +177,7 @@ enemies reduce the EP value?**
 
 No, you calculate a brand new EP for each delve tile placed.
 
-<a href="https://boardgamegeek.com/thread/3445727/article/45568288#45568288" target="_blank">Source</a>
+<a href="https://boardgamegeek.com/thread/3445727/article/45568288#45568288" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

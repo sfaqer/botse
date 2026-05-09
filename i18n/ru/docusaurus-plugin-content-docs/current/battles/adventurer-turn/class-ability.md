@@ -31,7 +31,7 @@ is worded such that you must do one thing **to** do another, or do one thing
 **then** do another, the first portion of that skill or ability is considered to
 be the cost.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -44,7 +44,7 @@ Even if they do not use the word "may", innate abilities (from class sheets) as
 well as any "Enduring" class abilities, are optional. You are not forced to use
 them if you do not want to.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000293229" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000293229" target="_blank">Источник</a>
 
 ---
 
@@ -64,7 +64,7 @@ the same class ability outside of battle - you are limited only by the amount of
 tenacity you have. The exception, again, is Interrupt class abilities. These can
 only be used once per the specified timing.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000290926" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000290926" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

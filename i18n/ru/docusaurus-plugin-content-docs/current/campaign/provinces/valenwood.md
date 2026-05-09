@@ -40,7 +40,7 @@ The full Quest Objective should read:
 > 
 > During this dungeon, Anchorite Deslandra can move up to 4 hexes.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292465" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292465" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

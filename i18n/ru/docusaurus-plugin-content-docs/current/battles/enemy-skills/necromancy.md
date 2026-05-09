@@ -22,7 +22,7 @@ HP. This new enemy does not take a turn this
 It will resurrect enemies as usual at the end of the unit's turn. These will be
 enemies, not additional [companions](/docs/glossary/companion).
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1346557892966220049" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1346557892966220049" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

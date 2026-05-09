@@ -18,7 +18,7 @@ to the enemy bag.
 
 It will not deploy an enemy.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1329502622369189978" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1329502622369189978" target="_blank">Источник</a>
 
 ---
 
@@ -30,7 +30,7 @@ brings in a level 10 but you're already past when level 10s would act, it
 doesn't get a turn that round. If the level 10s haven't taken turns yet, or you
 haven't moved on to level 5s yet, it would still get a turn that round.
 
-<a href="https://boardgamegeek.com/thread/3463968/article/45684537#45684537" target="_blank">Source</a>
+<a href="https://boardgamegeek.com/thread/3463968/article/45684537#45684537" target="_blank">Источник</a>
 
 ---
 
@@ -40,7 +40,7 @@ will Rally trigger? e.g. High Rock endgame**
 No, since the hex that that Rallied unit would deploy to is already occupied
 then Rally will not trigger.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1331057081750650890" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1331057081750650890" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::

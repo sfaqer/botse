@@ -44,7 +44,7 @@ This says "[Defeat](/docs/glossary/defeated) a level 1
 [enemy](/docs/glossary/enemy)." This enemy can be anywhere in play. It does not
 need to be in range or even in [sight](/docs/glossary/sight).
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000290876" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000290876" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

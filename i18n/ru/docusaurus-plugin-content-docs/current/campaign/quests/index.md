@@ -72,7 +72,7 @@ reference.
 If you lose a quest step encounter, unless otherwise stated, you lose the game
 and cannot continue.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292504" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292504" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

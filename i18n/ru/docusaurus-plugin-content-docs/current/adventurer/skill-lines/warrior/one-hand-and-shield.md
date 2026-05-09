@@ -30,7 +30,7 @@ title: One Hand and Shield
 Yes you may roll them without a target and place them in an active slot for the
 damage prevention.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1342163322375635045" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1342163322375635045" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -62,16 +62,16 @@ damage prevention.
 
 No, it is optional.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1342972433505714196" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1342972433505714196" target="_blank">Источник</a>
 
 ---
 
 **Would damage dealt by this skill trigger
 [Riposte](/docs/battles/enemy-skills/riposte)?**
 
-Yes.
+Да.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1342972433505714196" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1342972433505714196" target="_blank">Источник</a>
 
 ---
 
@@ -82,7 +82,7 @@ using Defensive Posture?**
 After the engage does not trigger if the enemy is defeated, it needs to be on
 the board when the skill would trigger or else it doesn't happen.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225248522539058" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225248522539058" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

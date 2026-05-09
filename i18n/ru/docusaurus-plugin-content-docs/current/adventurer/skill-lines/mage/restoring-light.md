@@ -30,7 +30,7 @@ something else that is currently resolving. (The one exception to this, of
 course, would be your own engage, as you are generally always allowed to resolve
 dice in active slots as you are resolving the different dice of your engage)
 
-<a href="https://discord.com/channels/273472391403798528/1392799821441663016/1428069890337669343" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1392799821441663016/1428069890337669343" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -75,7 +75,7 @@ go?**
 After it is recovered from a cooldown track, this counts as its cooldown time
 and it returns to the adventurer's mat (it doesn't go back into cooldown track).
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1334930549047034022" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1334930549047034022" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -117,7 +117,7 @@ to resurrect a defeated adventurer?**
 The die needs to already be active when the adventurer is defeated, in order to
 use its ability.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372224678479003669" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372224678479003669" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -137,7 +137,7 @@ be deployed to an occupied hex, so a unit defeated in this way cannot be
 resurrected with Master Ritualist, since it cannot be deployed to the hex it
 needs to be deployed to.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291977" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291977" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

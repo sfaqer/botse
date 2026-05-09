@@ -75,7 +75,7 @@ Enemies cannot have more than one instance of the same skill. If they would have
 multiple copies of a numbered skill, they take on the highest number that they
 have of that skill.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294288" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294288" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
