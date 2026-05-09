@@ -13,6 +13,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: sync-preview
@@ -33,12 +34,30 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Merge i18n into preview/gh-pages
+      - id: merge
+        name: Merge i18n into preview/gh-pages
         run: |
           git fetch origin i18n
           if git merge-base --is-ancestor origin/i18n HEAD; then
             echo "preview/gh-pages already contains origin/i18n; nothing to do."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git merge --no-edit --no-ff origin/i18n -m "chore(preview): auto-merge i18n"
           git push origin preview/gh-pages
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      # The push above happens with GITHUB_TOKEN; GitHub's anti-loop guard
+      # therefore suppresses both the push event and the workflow_run
+      # follow-up on deploy-preview when this workflow itself was started
+      # via workflow_dispatch (i.e. through notify-preview from i18n).
+      # workflow_dispatch is allowed to dispatch other workflows, so kick
+      # the deploy explicitly when we actually advanced the branch.
+      - if: steps.merge.outputs.changed == 'true'
+        name: Trigger deploy-preview
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh workflow run "Deploy preview to GitHub Pages" \
+            --repo "$GITHUB_REPOSITORY" \
+            --ref preview/gh-pages
