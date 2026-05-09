@@ -23,7 +23,7 @@ gazetteer, but it is actually a
 (<img src="/icons/miscellaneous.svg" alt="Miscellaneous Icon" className="icon-svg" />)
 item.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292580" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292580" target="_blank">Источник</a>
 
 ---
 
@@ -33,7 +33,7 @@ The paragraph for Session 2 ends with "Proceed to the Black Marsh endgame quest
 for Session 2." This should instead say "Proceed to the Black Marsh endgame
 quest for **Session 3**."
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294807" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294807" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

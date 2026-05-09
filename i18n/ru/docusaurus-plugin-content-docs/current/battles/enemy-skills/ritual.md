@@ -18,7 +18,7 @@ for #.
 Ritual heals all allies in sight. The enemy with Ritual does not heal - it is
 not considered an ally to itself.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294293" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294293" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

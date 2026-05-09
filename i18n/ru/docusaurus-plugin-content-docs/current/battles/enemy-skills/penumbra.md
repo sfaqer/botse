@@ -20,7 +20,7 @@ replaced unit is returned to its enemy bag.
 
 Nothing happens as a result of Penumbra.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1366888290275430463" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1366888290275430463" target="_blank">Источник</a>
 
 ---
 
@@ -28,7 +28,7 @@ Nothing happens as a result of Penumbra.
 
 Yes, Penumbra allows for quest units to end up with status effects on them.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

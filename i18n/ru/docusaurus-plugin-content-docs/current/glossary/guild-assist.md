@@ -1,46 +1,47 @@
 ---
 id: guild-assist
-title: Guild Assist
-hoverText: Once per campaign, the party may trigger its guild assist, either during a battle at the end of a [round](/docs/battles/battle-round) or during the End of Day Phase's Adventurers Rest step. A guild assist can be triggered only during Sessions 1 or 2 and cannot be triggered during the Session 3 endgame quest.
+title: Помощь гильдии
+hoverText: Помощь гильдии можно активировать один раз за кампанию: либо во время боя в конце [раунда](/docs/battles/battle-round), либо во время этапа «Отдых приключенцев» фазы конца дня. Помощь гильдии можно активировать только во время сессии 1 или 2; её нельзя активировать во время финального задания сессии 3.
 ---
 
-**Once per campaign**, the party may trigger its guild assist, either during a
-battle at the end of a [round](/docs/battles/battle-round) or during the [End of
-Day Phase's Adventurers Rest step](/docs/campaign/day/end-of-day-phase). A guild
-assist can be triggered only during Sessions 1 or 2 and cannot be triggered
-during the Session 3 endgame quest.
+**Один раз за кампанию** отряд может активировать помощь гильдии: во время боя в
+конце [раунда](/docs/battles/battle-round) или во время [этапа «Отдых
+приключенцев» фазы конца дня](/docs/campaign/day/end-of-day-phase). Помощь
+гильдии можно активировать только в сессии 1 или 2; во время финального задания
+сессии 3 её активировать нельзя.
 
-When this ability is triggered, each adventurer (including
-[defeated](/docs/glossary/defeated) [adventurers](/docs/glossary/adventurer))
-immediately:
+При активации этой способности каждый приключенец, включая
+[побеждённых](/docs/glossary/defeated)
+[приключенцев](/docs/glossary/adventurer), немедленно:
 
-- [Heals](/docs/glossary/healing) to their full HP.
-- Removes all light [fatigue](/docs/glossary/fatigue), overfatigue, and status
-  dice from their [cooldown track](/docs/glossary/cooldown-track).
-- May recover any number of exhausted and [drained](/docs/glossary/drained)
-  skill dice.
-- Draws 1
+- Получает [исцеление](/docs/glossary/healing) до полного HP.
+- Убирает со своего [трека восстановления](/docs/glossary/cooldown-track) все
+  кубики лёгкой [усталости](/docs/glossary/fatigue), сверхусталости и все кубики
+  эффектов состояния.
+- Может восстановить любое количество израсходованных и
+  [истощённых](/docs/glossary/drained) кубиков навыков.
+- Берёт 1
   <img src="/icons/legendary-item.svg" alt="Legandary Item Icon" className="icon-svg" />
-  and 1
+  и 1
   <img src="/icons/common-item.svg" alt="Common Item Icon" className="icon-svg" />,
-  gaining both (following normal [inventory](/docs/adventurer/items/inventory)
-  restrictions).
+  получая оба, с соблюдением обычных ограничений
+  [инвентаря](/docs/adventurer/items/inventory).
 
-Additionally, the [party](/docs/glossary/party) gains the benefits below
-depending on when they triggered their guild assist.
+Кроме того, [отряд](/docs/glossary/party) получает следующие преимущества в
+зависимости от того, когда была активирована помощь гильдии.
 
-### During Battle
+### Во время боя
 
-The [party](/docs/glossary/party) may set the Round Counter to any number it
-wishes, and [defeated](/docs/glossary/defeated)
-[adventurers](/docs/glossary/adventurer) who are revived are deployed to any
-[unoccupied](/docs/glossary/occupied) hex.
+[Отряд](/docs/glossary/party) может установить счётчик раундов на любое число по
+своему выбору. [Побеждённые](/docs/glossary/defeated)
+[приключенцы](/docs/glossary/adventurer), которые были возрождены, размещаются в
+любом [свободном](/docs/glossary/occupied) гексе.
 
-### During End of Day Phase
+### Во время фазы конца дня
 
-The [party](/docs/glossary/party) may immediately move its party token up to 6
-hexes on the overland map.
+[Отряд](/docs/glossary/party) может немедленно переместить свой жетон отряда на
+расстояние до 6 гексов по карте путешествия.
 
-After the ability is resolved, the party must add the keyword "Guild Assist" in
-its campaign journal's Major Keywords field for this session. After doing so, it
-cannot gain the keyword from its guild quest for this session.
+После применения способности отряд должен добавить ключевое слово «Помощь
+гильдии» в поле «Важные ключевые слова» журнала кампании для этой сессии. После
+этого он не может получить ключевое слово за задание гильдии в этой сессии.

@@ -23,7 +23,7 @@ Remember that the Bard's innate only functions during unit turns, so any rolls
 that are made outside of battle or outside of a turn, cannot be rerolled with
 this innate.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294923" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294923" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -68,7 +68,7 @@ Sway's interrupt?**
 Yes, you can make the decision to use the Bard's Stagger and Sway ability any
 time during that engage, so you can wait and see what the roll is.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1361759800282714353" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1361759800282714353" target="_blank">Источник</a>
 
 ---
 
@@ -80,7 +80,7 @@ applicable to damage that happens outside of a unit's turn. So Bard's Red
 Mountain Drinking Song is not affected by Elusive when used after the initial
 enemy deployment that happens outside of a turn.
 
-<a href="https://discord.com/channels/273472391403798528/1441482687356338236/1476963219599003682" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1441482687356338236/1476963219599003682" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::
@@ -97,7 +97,7 @@ The damage dealt all gets dealt, it is not held to be later dealt with the
 damage of the encompassing engage/turn. Once you've finished the thing "within,"
 unpause the encompassing turn/engage and continue on.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000295108" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000295108" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

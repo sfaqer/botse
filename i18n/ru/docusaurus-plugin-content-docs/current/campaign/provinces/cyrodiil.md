@@ -23,7 +23,7 @@ The Breton cannot be used because it is on the backside of the level 1: Breton
 Bandit which is also used in this encounter. The Wood Elf is also what was
 intended for thematic purposes.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292578" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292578" target="_blank">Источник</a>
 
 ---
 
@@ -42,7 +42,7 @@ Guild](/docs/campaign/guilds/mages-guild) (A01),
 [Undaunted](/docs/campaign/guilds/undaunted) (A20), and [Circle of
 Champions](/docs/campaign/guilds/circle-of-champions) (A33).
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292579" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292579" target="_blank">Источник</a>
 
 ---
 
@@ -58,7 +58,7 @@ With so few numbered hexes on this map (4 as opposed to the normal 8), it's is
 not intended that you can just block those hexes to avoid the enemies deploying
 altogether.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000293225" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000293225" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

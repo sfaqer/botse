@@ -27,7 +27,7 @@ must be removed instead of bonus HP.
 Bonus HP is not counted as HP for any effect that counts how much HP you have.
 Gaining bonus HP does not count as [healing](/docs/glossary/).
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291579" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291579" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -38,7 +38,7 @@ Gaining bonus HP does not count as [healing](/docs/glossary/).
 
 If you have no HP left, you're defeated, even if you have bonus HP.
 
-<a href="https://boardgamegeek.com/thread/3459687/article/45681416#45681416" target="_blank">Source</a>
+<a href="https://boardgamegeek.com/thread/3459687/article/45681416#45681416" target="_blank">Источник</a>
 
 ---
 

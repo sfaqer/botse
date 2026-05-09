@@ -51,7 +51,7 @@ an enemy icon
 - those hexes can get a cache placed on them, and an enemy can still deploy
 there afterwards.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292501" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292501" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

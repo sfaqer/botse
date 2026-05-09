@@ -27,7 +27,7 @@ objective. If all units are defeated but then more are deployed (for example by
 the enemy skill [Instigate](/docs/battles/enemy-skills/instigate)), you need to
 defeat these newly deployed enemies in order to complete the Conquer objective.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294925" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294925" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

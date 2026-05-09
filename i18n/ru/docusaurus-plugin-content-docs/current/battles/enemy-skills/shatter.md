@@ -23,7 +23,7 @@ Yes, Shatter will still trigger even if the enemy is defeated. "...after the
 engage" is to clarify that you can still use the weapon and it's abilities for
 the engage action.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1343703038447190046" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1343703038447190046" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

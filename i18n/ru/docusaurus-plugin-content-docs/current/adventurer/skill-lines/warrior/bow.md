@@ -47,7 +47,7 @@ Whether you resolve the Riposte damage or the movement first is up to you, but
 resolving the move first doesn't prevent the Riposte damage, because they were
 adjacent at the time the damage was dealt.
 
-<a href="https://discord.com/channels/273472391403798528/1394258182729367695/1430289898585198715" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1394258182729367695/1430289898585198715" target="_blank">Источник</a>
 
 ---
 
@@ -56,7 +56,7 @@ adjacent at the time the damage was dealt.
 No, according to the "Resolving Partial Skills and Abilities" rule, anything
 before a **then** is considered to be the cost of the skill.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387191141656559696" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387191141656559696" target="_blank">Источник</a>
 
 ---
 
@@ -71,7 +71,7 @@ adjacent.
 
 Iron Bark wouldn't trigger because you were adjacent when the damage was dealt.
 
-<a href="https://discord.com/channels/273472391403798528/1394290053613879366/1405222483912687716" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1394290053613879366/1405222483912687716" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -113,7 +113,7 @@ wouldn't have any Snipe dice in your cooldown track upon resolving it. Just
 because there are two copies of a die in the supply, doesn't mean they
 necessarily work when rolled together and getting the same result.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::
@@ -147,7 +147,7 @@ Scatter Shot counts as a damage-dealing die for the purpose of
 [Dodge](/docs/battles/enemy-skills/dodge) (as long as it actually results in
 damage being dealt).
 
-<a href="https://discord.com/channels/273472391403798528/1437487363776319570/1476968252063092779" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1437487363776319570/1476968252063092779" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

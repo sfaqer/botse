@@ -1,79 +1,86 @@
 ---
 id: advancements
-title: Advancements
-hoverText: When an adventurer improves their stats or skills, it is an advancement.
+title: Улучшения
+hoverText: Когда персонаж улучшает свои характеристики или навыки, это считается улучшением.
 ---
 
-When an adventurer improves their stats or skills, it is an advancement. Some of
-these advancements require spending [XP](/docs/glossary/xp) during the [Reward
-Phase's](/docs/campaign/day/reward-phase) Gain Advancements step. Some game
-effects also trigger an advancement opportunity.
+Когда персонаж улучшает свои характеристики или навыки, это считается
+улучшением. Некоторые из таких улучшений требуют потратить
+[ОО](/docs/glossary/xp) во время этапа «Развитие персонажа» [фазы
+наград](/docs/campaign/day/reward-phase). Некоторые игровые эффекты также дают
+возможность получить улучшение.
 
-## Increase an Attribute
+## Улучшение характеристики
 
-You can increase an attribute by spending the required [XP](/docs/glossary/xp)
-cost to add a stat token or skill die to an open square slot in that attribute's
-row. Each additional token or die must be added to the open square slot that is
-closest to the side of the row with that attribute's circular token. The
-attribute cost for an open slot is shown at the top of that slot's column. When
-increasing an attribute from the left side of the row, use the attribute cost in
-the white box. When increasing an attribute from the right side, use the
-attribute cost in the black box. If any of that skill line's dice are in the
-[cooldown track](/docs/glossary/cooldown-track) (or
-[drained](/docs/glossary/drained)), the cost is equal to that of the rightmost
-(or leftmost) open slot the new die would be placed in if all of that line's
-dice were available.
+Вы можете повысить атрибут, потратив необходимое количество
+[XP](/docs/glossary/xp), чтобы добавить жетон характеристики или кубик навыка в
+свободную квадратную ячейку в строке этого атрибута. Каждый следующий жетон или
+кубик должен быть добавлен в свободную квадратную ячейку, ближайшую к той
+стороне строки, где находится круглый жетон этого атрибута. Стоимость повышения
+атрибута для свободной ячейки указана в верхней части столбца этой ячейки. При
+повышении атрибута с левой стороны строки используйте стоимость атрибута в белом
+поле. При повышении атрибута с правой стороны используйте стоимость атрибута в
+чёрном поле. Если какие-либо кубики этой линейки навыков находятся на [треке
+восстановления](/docs/glossary/cooldown-track) или
+[истощены](/docs/glossary/drained), стоимость равна стоимости самой правой или
+самой левой свободной ячейки, в которую был бы помещён новый кубик, если бы все
+кубики этой линейки были доступны.
 
-### Add a Skill Die
+### Добавить кубик навыка
 
-To add a skill die, you must have [trained](/docs/glossary/trained/) that [skill
-line](/docs/adventurer/skill-lines/index), either when creating your adventurer
-or by visiting a trainer as a [town](/docs/campaign/day/encounter-phase/town)
-action. To add a skill die of levels 2–4, you must also have at least 1 other
-skill die in the same line that is either the same level as, or 1 level below,
-the new skill die. For example, to add a level 3 Bow skill die, you must also
-have at least one level 2 or level 3 Bow skill die currently added to your
-adventurer mat. If you have added a skill die to your attribute rows, that die
-is referred to as [trained](/docs/glossary/trained/).
+Чтобы добавить кубик навыка, вы должны [обучиться](/docs/glossary/trained/) этой
+[линейке навыков](/docs/adventurer/skill-lines/index) — либо при создании
+приключенца, либо посетив наставника в качестве действия в
+[городе](/docs/campaign/day/encounter-phase/town). Чтобы добавить кубик навыка
+2–4 уровня, у вас также должен быть хотя бы 1 другой кубик навыка той же
+линейки: либо того же уровня, либо на 1 уровень ниже нового кубика навыка.
+Например, чтобы добавить кубик навыка Лука 3 уровня, у вас также должен быть
+хотя бы один кубик навыка Лука 2 или 3 уровня, уже добавленный на планшет вашего
+приключенца. Если вы добавили кубик навыка в строки атрибутов, этот кубик
+считается [обученным](/docs/glossary/trained/).
 
-## Increase Cooldown Stat
+## Повысить характеристику восстановления
 
-You can increase your [Cooldown](/docs/adventurer/stats/cooldown) stat by moving
-your peg to the next open slot along your [cooldown
-track](/docs/glossary/cooldown-track). To do so, you must spend a number of
-[XP](/docs/glossary/xp) equal to your new Cooldown stat value, which is printed
-above the next slot. For example, to increase your Cooldown stat to 3, you must
-spend 3 XP. You must increase your Cooldown stat one slot at a time, but you may
-increase it multiple times during the same [Reward
-Phase](/docs/campaign/day/reward-phase) if you have enough XP.
+Вы можете повысить свою характеристику
+[восстановления](/docs/adventurer/stats/cooldown), переместив свой штифт в
+следующую свободную ячейку на [треке
+восстановления](/docs/glossary/cooldown-track). Для этого вы должны потратить
+количество [XP](/docs/glossary/xp), равное новому значению вашей характеристики
+восстановления, напечатанному над следующей ячейкой. Например, чтобы повысить
+характеристику восстановления до 3, вы должны потратить 3 XP. Характеристику
+восстановления необходимо повышать по одной ячейке за раз, но вы можете повысить
+её несколько раз в течение одной [фазы
+награды](/docs/campaign/day/reward-phase), если у вас достаточно XP.
 
-## Increase Tenacity
+## Повысить стойкость
 
-You can increase your current [tenacity](/docs/glossary/tenacity). To do so, you
-must spend 1 [XP](/docs/glossary/xp). Note: This increases tenacity available to
-spend and is not a permanent increase. If your unspent XP exceeds 3 at the end
-of the [Reward Phase's](/docs/campaign/day/reward-phase) Gain Advancements step,
-that excess XP must be spent to increase tenacity (if able) or it is lost.
+Вы можете повысить свою текущую [стойкость](/docs/glossary/tenacity). Для этого
+вы должны потратить 1 [XP](/docs/glossary/xp). Примечание: это увеличивает
+стойкость, доступную для траты, и не является постоянным повышением. Если в
+конце этапа «Получение улучшений» [фазы
+награды](/docs/campaign/day/reward-phase) у вас остаётся больше 3 непотраченных
+XP, излишек XP должен быть потрачен на повышение стойкости, если это возможно; в
+противном случае он теряется.
 
-## Promote your Class
+## Повысить свой класс
 
-You can flip your [class](/docs/adventurer/classes/index) sheet to its master
-side; this advancement is called a promotion. To do so, you must meet the
-requirement on the sheet's novice side, which is often an achievement that
-happens during a battle. When this happens, you immediately gain that
-advancement and can flip your class sheet.
+Вы можете перевернуть свой лист [класса](/docs/adventurer/classes/index) на
+сторону мастера; это улучшение называется повышением. Для этого вы должны
+выполнить требование, указанное на стороне новичка этого листа. Часто таким
+требованием является достижение, получаемое во время боя. Когда это происходит,
+вы немедленно получаете это улучшение и можете перевернуть лист класса.
 
-## Add a Skill Line
+## Добавить линейку навыков
 
-You can add a new skill line to an open circular slot at the side of one of your
-attribute rows. To do so, you must visit a trainer during a
-[town](/docs/campaign/day/encounter-phase/town) encounter and choose a faceup
-skill line token there. The new skill line must be placed in an open circular
-slot at the left or right end of a row.
+Вы можете добавить новую линейку навыков в свободную круглую ячейку сбоку одной
+из строк ваших атрибутов. Для этого вы должны посетить наставника во время
+встречи в [городе](/docs/campaign/day/encounter-phase/town) и выбрать там
+лежащий лицом вверх жетон линейки навыков. Новая линейка навыков должна быть
+помещена в свободную круглую ячейку на левом или правом конце строки.
 
-## Add Magicka Stat
+## Добавить характеристику магии
 
-Unlike your other circular stat tokens, you may untrain your
-[Magicka](/docs/adventurer/stats/magicka) stat. If you have untrained your
-Magicka stat, you can also add it again as if it were a skill line by visiting
-any trainer.
+В отличие от других ваших круглых жетонов характеристик, вы можете сделать свою
+характеристику [магии](/docs/adventurer/stats/magicka) необученной. Если ваша
+характеристика магии необучена, вы также можете снова добавить её, как если бы
+она была линейкой навыков, посетив любого наставника

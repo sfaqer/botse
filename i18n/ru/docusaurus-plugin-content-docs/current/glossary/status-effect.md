@@ -1,72 +1,72 @@
 ---
 id: status-effect
-title: Status Effect
-hoverText: "This skill die is placed in a unique manner (for example, on an enemy or in a hex), and its ability is resolved as described in its entry. When a status effect skill die is removed from its current position, that die is exhausted unless its ability specifies otherwise."
+title: Эффект состояния
+hoverText: "Этот кубик навыка размещается особым образом — например, на враге или в гексе, — а его способность применяется так, как описано в соответствующей статье. Когда кубик навыка с эффектом состояния убирается из своего текущего положения, этот кубик истощается, если его способность не указывает иное."
 tags:
-  - Status Effects
+  - Эффекты состояния
 ---
 
-# <img src="/icons/status-effect.svg" alt="Status Effect Icon" /> Status Effect
+# <img src="/icons/status-effect.svg" alt="Status Effect Icon" /> Эффект состояния
 
-See also: [Status Effects](/docs/battles/status-effects/index).
+См. также: [Эффекты состояния](/docs/battles/status-effects/index).
 
-This skill die is placed in a unique manner (for example, on an enemy or in a
-hex), and its ability is resolved as described in its entry. When a status
-effect skill die is removed from its current position, that die is exhausted
-unless its ability specifies otherwise.
+Этот кубик навыка размещается особым образом — например, на враге или в гексе, —
+а его способность применяется так, как описано в соответствующей статье. Когда
+кубик навыка с эффектом состояния убирается из своего текущего положения, этот
+кубик истощается, если его способность не указывает иное.
 
-Note that [quest units](/docs/glossary/quest-unit) cannot gain status effects
-from [adventurer](/docs/glossary/adventurer) abilities.
+Обратите внимание: [персонажи задания](/docs/glossary/quest-unit) не могут
+получать эффекты состояния от способностей
+[приключенцев](/docs/glossary/adventurer).
 
 ---
 
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Are status effects automatically removed from adventurers after battle?**
+**Эффекты состояния автоматически снимаются с приключенцев после боя?**
 
-Status effects are not removed from [adventurers](/docs/glossary/adventurer)
-automatically after battle. They remain in the [cooldown
-track](/docs/glossary/cooldown-track) until/unless they are removed.
+Эффекты состояния не снимаются с [приключенцев](/docs/glossary/adventurer)
+автоматически после боя. Они остаются на [треке
+восстановления](/docs/glossary/cooldown-track) до тех пор, пока не будут сняты
 
-Status effects are removed from all other [units](/docs/glossary/unit),
-including [enemies](/docs/glossary/enemy) and
-[companions](/docs/glossary/companion), at the [end of
-battle](/docs/battles/end-of-battle).
+В [конце боя](/docs/battles/end-of-battle) эффекты состояния снимаются со всех
+остальных [существ](/docs/glossary/unit), включая [врагов](/docs/glossary/enemy)
+и [спутников](/docs/glossary/companion).
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000290394" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000290394" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**What is the timing for removal of status effect dice?**
+**В какой момент убираются кубики эффектов состояния?**
 
-We are making it a general rule that status effects come off after resolving any
-**"after defeated"** skills on the enemy.
+Общее правило: эффекты состояния снимаются после применения всех навыков врага,
+срабатывающих **«после победы над ним»**.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387181293388693556" target="_blank">Source</a>
-
----
-
-**Can you have the same status effect multiple times?**
-
-No, you can only have one instance of a status effect. If an
-[adventurer](/docs/glossary/adventurer) would gain a status effect die with a
-side that they already have in their cooldown track, the die in their cooldown
-track is removed from its current position and placed back in the leftmost open
-position.
-
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1335319245604520009" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387181293388693556" target="_blank">Источник</a>
 
 ---
 
-**Can you have multiple different status effects?**
+**Может ли один и тот же эффект состояния действовать несколько раз?****
 
-Yes.
+Нет, у вас может быть только один экземпляр каждого эффекта состояния. Если
+[приключенец](/docs/glossary/adventurer) должен получить кубик эффекта состояния
+со стороной, которая уже есть на его треке восстановления, кубик на треке
+восстановления убирается из текущей позиции и возвращается в крайнюю левую
+свободную позицию.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1335319245604520009" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1335319245604520009" target="_blank">Источник</a>
+
+---
+
+**Могут ли на вас действовать несколько разных эффектов состояния?****
+
+Да.
+
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1335319245604520009" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

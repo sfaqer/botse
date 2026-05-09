@@ -30,7 +30,7 @@ ability?**
 Any Enchantment that doesn't specify when it would end, lasts until the end of
 the session. Then it is [discarded](/docs/glossary/discard).
 
-<a href="https://discord.com/channels/273472391403798528/1405274638652674199/1405600090420154448" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1405274638652674199/1405600090420154448" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

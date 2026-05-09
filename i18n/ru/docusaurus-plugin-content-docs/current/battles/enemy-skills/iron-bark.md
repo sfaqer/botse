@@ -27,7 +27,7 @@ adjacent.
 
 Iron Bark wouldn't trigger because you were adjacent when the damage was dealt.
 
-<a href="https://discord.com/channels/273472391403798528/1394290053613879366/1405222483912687716" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1394290053613879366/1405222483912687716" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

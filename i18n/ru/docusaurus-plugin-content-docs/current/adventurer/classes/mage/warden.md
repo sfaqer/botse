@@ -32,7 +32,7 @@ You can keep the current companion at the end of battle if you became a master
 during that battle, as you'll now use this side's rules rather than the novice
 side.
 
-<a href="https://boardgamegeek.com/thread/3475148/article/45832249#45832249" target="_blank">Source</a>
+<a href="https://boardgamegeek.com/thread/3475148/article/45832249#45832249" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

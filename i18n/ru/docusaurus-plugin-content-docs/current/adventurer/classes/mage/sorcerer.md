@@ -19,7 +19,7 @@ active at the same time.
 
 No, enchantments can be activated by any adventurer.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1336010057359298653" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1336010057359298653" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -67,7 +67,7 @@ track](/docs/glossary/cooldown-track).
 **Can you use Dark Exchange to remove the last HP from an enemy unit and defeat
 it?**
 
-Yes.
+Да.
 
 ---
 
@@ -83,7 +83,7 @@ yourself and another unit, and then apply those chips to **any other unit** -
 you are therefore unable to apply those chips to yourself. Note that the Master
 side of Dark Exchange does allowing healing yourself.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1343996569476792372" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1343996569476792372" target="_blank">Источник</a>
 
 ---
 
@@ -96,7 +96,7 @@ No, the damage from Lightning Splash is dealt by the Sorcerer
 by an **[enemy](/docs/glossary/enemy)**...". Therefore, you can't utilize these
 dice to prevent damage from Lightning Splash as it was dealt by an Adventurer.
 
-<a href="https://discord.com/channels/273472391403798528/1406510845814636585/1406561001112866856" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1406510845814636585/1406561001112866856" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

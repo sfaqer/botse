@@ -36,7 +36,7 @@ adventurer in an [unoccupied](/docs/glossary/occupied) entrance tile hex and
 No, during battle, defeated adventurers can only be revived by healing effects
 that explicitly state they work on defeated adventurers.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1405800759962107936" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1405800759962107936" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

@@ -66,7 +66,7 @@ because, while the Detection enemy ignores your Stealth, you yourself don't have
 to ignore that you have it for the sake of other effects such as this class
 ability. So while Stealth is ignored, Consuming Darkness is not.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294922" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294922" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::

@@ -1,25 +1,25 @@
 ---
 id: true-damage
-title: True Damage
-hoverText: True damage cannot be prevented or reduced by abilities unless they specifically affect true damage. True damage ignores any bonus HP and reduces the unit's HP instead.
+title: Чистый урон
+hoverText: Чистый урон не может быть предотвращён или уменьшен способностями, если только они не действуют именно на чистый урон. Чистый урон игнорирует все бонусные HP и вместо этого уменьшает HP существа.
 ---
 
-This type of damage is only dealt by specified effects, such as overfatigue
-damage. True damage cannot be prevented or reduced by abilities unless they
-specifically affect true damage. True damage ignores any bonus HP and reduces
-the unit's HP instead.
+Этот тип урона наносится только указанными эффектами, например уроном от
+сверхусталости. Чистый урон не может быть предотвращён или уменьшен
+способностями, если только они не действуют именно на чистый урон. Чистый урон
+игнорирует все бонусные HP и вместо этого уменьшает HP существа.
 
 ---
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**If an ability avoids true damage, can I use it to avoid normal damage
-instead?**
+Если способность позволяет избежать чистого урона, могу ли я использовать её,
+чтобы вместо этого избежать обычного урона?
 
-No, damage and true damage are **different types of damage**, rather than one
-just being a stronger form of the other. If something specifically avoids true
-damage, that doesn't mean it can avoid normal damage.
+Нет. Урон и чистый урон — это разные типы урона, а не просто более сильная и
+более слабая формы одного и того же. Если что-то предотвращает именно чистый
+урон, это не означает, что оно может предотвратить обычный урон.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387164096817791108" target="_blank">Source</a>
 /

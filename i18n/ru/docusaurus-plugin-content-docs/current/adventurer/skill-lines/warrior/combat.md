@@ -72,9 +72,9 @@ form except for
 <!-- translate:on -->
 **Are enemy combat dice considered skill dice?**
 
-Yes.
+Да.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1361759800282714353" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1361759800282714353" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

@@ -42,7 +42,7 @@ will affect your ready items, you may choose to put some of your more valued
 items in your pack, and go into a battle with 2 readied and 6 in your pack. Or
 even, all 8 of your items in your pack.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292502" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292502" target="_blank">Источник</a>
 
 ---
 
@@ -54,7 +54,7 @@ instead [discard](/docs/glossary/discard) it. One such game effect that might
 force this is the Native enemy skill [Freeze](/docs/battles/enemy-skills/freeze)
 in [Skyrim](/docs/campaign/provinces/skyrim).
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291972" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291972" target="_blank">Источник</a>
 
 ---
 
@@ -63,7 +63,7 @@ in [Skyrim](/docs/campaign/provinces/skyrim).
 Within battle, items must be in ready slots in order to use them. Outside of
 battle, items can be used from either your ready slots or your pack.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294285" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294285" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

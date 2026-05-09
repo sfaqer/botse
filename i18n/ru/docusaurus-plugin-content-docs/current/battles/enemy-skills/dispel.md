@@ -26,7 +26,7 @@ unit, this unit deals
 If an enemy has a skill that triggers **after** it is engaged, that skill does
 not trigger if the enemy is defeated during that engage.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291973" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291973" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

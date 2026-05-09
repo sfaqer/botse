@@ -31,7 +31,7 @@ instead [discard](/docs/glossary/discard) it. One such game effect that might
 force this is the Native enemy skill [Freeze](/docs/battles/enemy-skills/freeze)
 in [Skyrim](/docs/campaign/provinces/skyrim).
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291972" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291972" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

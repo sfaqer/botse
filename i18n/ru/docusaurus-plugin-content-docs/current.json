@@ -1,1 +1,104 @@
-{}
+{
+  "version.label": {
+    "message": "Дальше"
+  },
+  "sidebar.defaultSidebar.category.Classes": {
+    "message": "Классы"
+  },
+  "sidebar.defaultSidebar.category.classes-mage": {
+    "message": "Маг"
+  },
+  "sidebar.defaultSidebar.category.classes-thief": {
+    "message": "Вор"
+  },
+  "sidebar.defaultSidebar.category.classes-warrior": {
+    "message": "Воин"
+  },
+  "sidebar.defaultSidebar.category.Items": {
+    "message": "Предметы"
+  },
+  "sidebar.defaultSidebar.category.items-types": {
+    "message": "Типы"
+  },
+  "sidebar.defaultSidebar.category.Races": {
+    "message": "Расы"
+  },
+  "sidebar.defaultSidebar.category.Skill Lines": {
+    "message": "Линии Навыков"
+  },
+  "sidebar.defaultSidebar.category.skill-lines-mage": {
+    "message": "Маг"
+  },
+  "sidebar.defaultSidebar.category.skill-lines-thief": {
+    "message": "Вор"
+  },
+  "sidebar.defaultSidebar.category.skill-lines-warrior": {
+    "message": "Воин"
+  },
+  "sidebar.defaultSidebar.category.Stats": {
+    "message": "Характеристики"
+  },
+  "sidebar.defaultSidebar.category.Stats.link.generated-index.description": {
+    "message": "Характеристики — это основные возможности вашего приключенца. Итоговое значение каждой характеристики равно базовому значению её круглого жетона, если он есть, плюс количество квадратных жетонов её цвета в строке её атрибута. Это итоговое значение является максимальным значением характеристики. Ниже описана каждая характеристика."
+  },
+  "sidebar.defaultSidebar.category.Battles": {
+    "message": "Бои"
+  },
+  "sidebar.defaultSidebar.category.battles-types": {
+    "message": "Типы"
+  },
+  "sidebar.defaultSidebar.category.Delve": {
+    "message": "Вылазка"
+  },
+  "sidebar.defaultSidebar.category.Objectives": {
+    "message": "Цели"
+  },
+  "sidebar.defaultSidebar.category.Adventurer Turn": {
+    "message": "Ход приключенца"
+  },
+  "sidebar.defaultSidebar.category.Battle Forms": {
+    "message": "Формы боя"
+  },
+  "sidebar.defaultSidebar.category.Enemy Skills": {
+    "message": "Навыки врагов"
+  },
+  "sidebar.defaultSidebar.category.Status Effects": {
+    "message": "Эффекты состояния"
+  },
+  "sidebar.defaultSidebar.category.Campaign / Session": {
+    "message": "Кампания / Сессия"
+  },
+  "sidebar.defaultSidebar.category.Day / Phases": {
+    "message": "День / Фазы"
+  },
+  "sidebar.defaultSidebar.category.2. Overland Phase": {
+    "message": "2. Фаза путешествия"
+  },
+  "sidebar.defaultSidebar.category.3. Encounter Phase": {
+    "message": "3. Фаза встречи"
+  },
+  "sidebar.defaultSidebar.category.Difficulty Levels": {
+    "message": "Уровни сложности"
+  },
+  "sidebar.defaultSidebar.category.Guilds": {
+    "message": "Гильдии"
+  },
+  "sidebar.defaultSidebar.category.Provinces": {
+    "message": "Провинции"
+  },
+  "sidebar.defaultSidebar.category.Unreleased": {
+    "message": "Неизданное"
+  },
+  "sidebar.defaultSidebar.category.Quests": {
+    "message": "Задания"
+  },
+  "sidebar.defaultSidebar.category.Glossary": {
+    "message": "Глоссарий"
+  },
+  "sidebar.defaultSidebar.category.Glossary.link.generated-index.description": {
+    "message": "Прочие часто используемые термины."
+  },
+  "sidebar.defaultSidebar.category.Adventurer": {
+    "message": "Персонаж"
+  }
+}

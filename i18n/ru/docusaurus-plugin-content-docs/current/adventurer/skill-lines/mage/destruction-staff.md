@@ -77,7 +77,7 @@ a specific adventurer who is dealing the damage. Bane says "This unit is dealt 1
 true damage," so the source of the damage is not the adventurer, and you don't
 track the source of these general status effect dice as there's no reason to.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -102,7 +102,7 @@ damage distributed as you choose among units within 2 hexes of that cache." Your
 unit is still the one dealing the damage, so Elusive cannot be gotten around
 with this particular skill.
 
-<a href="https://boardgamegeek.com/thread/3451904/article/45579652#45579652" target="_blank">Source</a>
+<a href="https://boardgamegeek.com/thread/3451904/article/45579652#45579652" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

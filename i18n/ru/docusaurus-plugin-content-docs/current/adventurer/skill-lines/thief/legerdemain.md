@@ -28,7 +28,7 @@ this result. Exhaust this die and gain 1 light fatigue." This specifically
 **overrides** the general rule, forcing you to exhaust it instead of returning
 it to your attribute rows.
 
-<a href="https://discord.com/channels/273472391403798528/1393200038569840650/1405228552722583643" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1393200038569840650/1405228552722583643" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

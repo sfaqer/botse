@@ -1,8 +1,8 @@
 ---
 id: rounding
-title: Rounding
-hoverText: If a game effect requires players to round a number, but does not specify how, it is rounded down.
+title: Округление
+hoverText: Если игровой эффект требует от игроков округлить число, но не указывает как, оно округляется вниз.
 ---
 
-If a game effect requires players to round a number, but does not specify how,
-it is rounded down.
+Если игровой эффект требует округлить число, но не указывает как именно, число
+округляется вниз.

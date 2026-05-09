@@ -37,7 +37,7 @@ that would leave your cooldown track is placed back at the end of your cooldown
 track, unless it's being removed by a game effect that specifically tells you
 that you can remove it.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294279" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294279" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

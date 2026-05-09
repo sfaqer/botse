@@ -20,7 +20,7 @@ damage equal to the stat. Note that an
 of damage even if multiple different skills deal damage within the engage. This
 damage prevention applies even outside of turns.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000290396" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000290396" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

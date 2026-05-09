@@ -22,7 +22,7 @@ This unit has a range of 1, considers allied units to be targetable, and can
 only target the strongest adjacent unit. Enemies remove this die after dealing
 damage.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1426011120522760232" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1426011120522760232" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -38,7 +38,7 @@ get adjacent to the closest opposing unit (which is all other units) and then
 attack that unit. For ties, it prioritizes strongest. Even if its chip shows
 multiple targets, while blind it has only one target.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000293226" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000293226" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

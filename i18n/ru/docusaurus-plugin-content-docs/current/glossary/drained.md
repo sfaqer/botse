@@ -24,7 +24,7 @@ This should instead say you recover drained dice during [End of Battle
 Cleanup](/docs/battles/end-of-battle). No drained dice recovery happens during
 Adventurers Rest step.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292517" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292517" target="_blank">Источник</a>
 
 ---
 
@@ -32,7 +32,7 @@ Adventurers Rest step.
 
 When given the option to drain dice, only skill dice can be selected.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294282" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000294282" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

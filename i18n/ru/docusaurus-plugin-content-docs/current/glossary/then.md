@@ -1,24 +1,25 @@
 ---
 id: then
-title: Then
-hoverText: 'If an ability says you "do **X** **then** do **Y**", **X** is considered a cost and must be paid before you can perform **Y**.'
+title: Затем
+hoverText: 'Если в способности сказано: «выполните **X**, **затем** выполните **Y**», **X** считается затратой и должно быть оплачено, прежде чем вы сможете выполнить **Y**.'
 ---
 
-If an ability says "do **X** **then** do **Y**", **X** is considered a cost and
-must be paid before you can perform **Y**. This is also applicable to abilities
-that say "you **must** do **X** to do **Y**".
+Если в способности сказано: «выполните X, затем выполните Y», X считается
+затратой и должно быть оплачено, прежде чем вы сможете выполнить Y. Это также
+относится к способностям, в которых сказано: «вы должны выполнить X, чтобы
+выполнить Y».
 
 <!-- translate:off -->
 :::note[Example]
 <!-- translate:on -->
-The [Bow](/docs/adventurer/skill-lines/warrior/bow) skill line's Volley ability
-is _"Deal a total of 4 damage, distributed as you choose among enemies adjacent
-to you. **Then**, place yourself in an unoccupied hex 2-4 hexes away from your
-current hex."_
+Способность «Залп» линейки навыков
+[Лука](/docs/adventurer/skill-lines/warrior/bow): «Нанесите в сумме 4 урона,
+распределив его по своему выбору между врагами, смежными с вами. Затем поместите
+себя в свободный гекс на расстоянии 2–4 гексов от вашего текущего гекса».
 
-You must be able to deal damage to enemies adjacent to you, to be able to
-perform "place yourself in an unoccupied hex 2-4 hexes away". The damage is the
-cost to perform the movement.
+Чтобы выполнить эффект «поместите себя в свободный гекс на расстоянии 2–4
+гексов», вы должны быть способны нанести урон врагам, смежным с вами. Этот урон
+является затратой для выполнения перемещения.
 <!-- translate:off -->
 :::
 <!-- translate:on -->

@@ -20,7 +20,7 @@ applicable to damage that happens outside of a unit's turn. So Bard's Red
 Mountain Drinking Song is not affected by Elusive when used after the initial
 enemy deployment that happens outside of a turn.
 
-<a href="https://discord.com/channels/273472391403798528/1441482687356338236/1476963219599003682" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1441482687356338236/1476963219599003682" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

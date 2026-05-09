@@ -80,7 +80,7 @@ is worded such that you must do one thing **to** do another, or do one thing
 **then** do another, the first portion of that skill or ability is considered to
 be the cost.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
@@ -102,7 +102,7 @@ This replaces the b. point under Resolve the Roll on pg. 60 of the rulebook.
 Damage dealt by adventurers is pooled when dealt to **enemies or companions**.
 Damage is is not pooled when dealt to adventurers.
 
-<a href="https://discord.com/channels/273472391403798528/1392759133953986590/1400147849597030481" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1392759133953986590/1400147849597030481" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

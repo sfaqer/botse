@@ -51,7 +51,7 @@ deal 2 damage to an enemy in [sight](/docs/glossary/sight).
 
 You roll all 3 and must apply all 3 (or as many as possible).
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1361763413876801617" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1361763413876801617" target="_blank">Источник</a>
 
 ---
 
@@ -62,7 +62,7 @@ No, you can apply them to the same enemy if you want. You may also apply
 multiple copies of a status die (e.g. Stealth) to a single enemy (they will
 still only have one stealth die).
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1400248226208022670" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1400248226208022670" target="_blank">Источник</a>
 
 ---
 
@@ -74,7 +74,7 @@ a target are different things. That innate never has you select a target, it
 just lets you damage an enemy that is eligible as a target, i.e. within your
 [range](/docs/glossary/range) and [sight](/docs/glossary/sight).
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1386817756862611581" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1386817756862611581" target="_blank">Источник</a>
 
 ---
 
@@ -84,7 +84,7 @@ when using the Hawk Eye class ability)?**
 No, adjacent units are not within your range if you are in [Ranged battle
 form](/docs/battles/battle-forms/ranged-weapon).
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::

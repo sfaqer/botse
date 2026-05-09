@@ -1,33 +1,34 @@
 ---
 id: targetable
-title: Targetable
-hoverText: A unit is targetable by another unit if it is in range and sight of the unit that would target it and does not have an effect that prevents it from being targeted.
+title: Доступный для выбора целью
+hoverText: Существо доступно для выбора целью другим существом, если оно находится в пределах дальности и видимости существа, которое выбирает его целью, и не имеет эффекта, запрещающего выбирать его целью.
 ---
 
-A unit is targetable by another unit if it is in [range](/docs/glossary/range)
-and [sight](/docs/glossary/sight) of the unit that would target it and does not
-have an effect that prevents it from being targeted. An adventurer's range is
-limited by their current [battle form](/docs/battle-forms). An enemy's range is
-limited by its range stat. Some abilities can apply effects to targetable units
-outside of an engage action or allow a unit to target allies. Some abilities can
-also deal damage to units without targeting those units
+Существо может быть выбрано целью другим существом, если оно находится в
+пределах [дальности](/docs/glossary/range) и [видимости](/docs/glossary/sight)
+этого существа и не имеет эффекта, запрещающего выбирать его целью. Дальность
+приключенца ограничена его текущей [формой боя](/docs/battle-forms), а дальность
+врага — его характеристикой дальности. Некоторые способности позволяют применять
+эффекты к существам, которые могут быть выбраны целью, вне действия вступления в
+бой или позволяют существу выбирать целью союзников. Некоторые способности также
+могут наносить урон существам, не выбирая их целью.
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-The target has to be in range when selected as a target and when the die is
-resolved.
+Цель должна находиться в пределах дальности как в момент выбора цели, так и в
+момент применения кубика.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1386722677531742249" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1386722677531742249" target="_blank">Источник</a>
 
 ---
 
-**Declaring a Target**
+**Объявление цели**
 
-You only declare a target if the game structure tells you to. i.e. as part of an
-[engage](/docs/battles/adventurer-turn/engage), or if something else in the game
-tells you to select a target. You can't just randomly select yourself a target
-in order to use something that triggers based off of selecting a target.
+Цель объявляется только тогда, когда этого требует структура игры: например, в
+рамках [вступления в бой](/docs/battles/adventurer-turn/engage) или когда другой
+игровой эффект предписывает выбрать цель. Нельзя произвольно выбирать цель
+только для того, чтобы использовать эффект, срабатывающий при выборе цели.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1386823964017561610" target="_blank">Source</a>
 /
@@ -42,11 +43,13 @@ in order to use something that triggers based off of selecting a target.
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Do abilities that affects "targetable units" become your target?**
+**Становятся ли вашей целью существа, на которых действуют способности для
+«доступных для выбора целью» существ?**
 
-If an ability affects "targetable units" those units do not become your target.
+Если способность действует на «существ, доступных для выбора целью», эти
+существа не становятся вашей целью.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291972" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000291972" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

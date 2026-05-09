@@ -60,7 +60,7 @@ You are permitted to move through landmarks on the overland map without
 triggering them. A landmark is triggered if the party ends its movement on it,
 same as [towns](/docs/campaign/day/encounter-phase/town).
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000290533" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000290533" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->

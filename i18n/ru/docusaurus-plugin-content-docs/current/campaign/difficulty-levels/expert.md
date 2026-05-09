@@ -27,7 +27,7 @@ All adventurers participating in an item trade must have an Adventurers Rest
 step, the giver and the receiver. Therefore to participate in a trade, you must
 have discarded an item.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::

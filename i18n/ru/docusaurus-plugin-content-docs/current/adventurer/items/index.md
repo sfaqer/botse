@@ -58,7 +58,7 @@ subtype) and can only interact with abilities that refer to them by name.
 
 No, items cannot be used mid-engage.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::
@@ -72,7 +72,7 @@ No, items cannot be used mid-engage.
 The rulebook says there are 110 common items and 50 legendary. The proper count
 is 100 common items and 60 legendary.
 
-<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292376" target="_blank">Source</a>
+<a href="https://support.chiptheorygames.com/support/solutions/articles/33000292376" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
