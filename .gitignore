@@ -27,3 +27,7 @@ yarn-debug.log*
 yarn-error.log*
 
 tmp/
+
+# Per-locale enemy-skills data, regenerated from markdown frontmatter on
+# every build/start (see scripts/build-enemy-skills-data.mjs).
+src/data/enemySkills.generated.json

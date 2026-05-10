@@ -4,7 +4,10 @@
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
+    "build-data": "node scripts/build-enemy-skills-data.mjs",
+    "prestart": "npm run build-data",
     "start": "docusaurus start",
+    "prebuild": "npm run build-data",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",

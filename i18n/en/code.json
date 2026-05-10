@@ -556,5 +556,29 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "homepage.layout.title": {
+    "message": "BOTSE Helper",
+    "description": "HTML <title> for the homepage and tracker page (the site brand name)"
+  },
+  "homepage.layout.description": {
+    "message": "References and Guides for Betrayal of the Second Era.",
+    "description": "HTML <meta> description for the homepage and tracker page"
+  },
+  "homepage.feature.docs.title": {
+    "message": "Go to References & Guides",
+    "description": "Title of the single feature card on the homepage that links to the docs"
+  },
+  "enemySkillsTracker.heading": {
+    "message": "Enemy Skills Tracker",
+    "description": "<h1> heading on the Enemy Skills Tracker page"
+  },
+  "enemySkillsTracker.description": {
+    "message": "Select enemy skills from the menu below as they appear in battle, to keep track of which skills are currently present in the battle. You can collapse the panel for better visibility.",
+    "description": "Intro paragraph above the tracker UI"
+  },
+  "enemySkillsTracker.addAdditional": {
+    "message": "Add Additional Enemy Skills",
+    "description": "Label of the accordion that toggles which enemy skills are shown in the tracker"
   }
 }

@@ -1,5 +1,6 @@
 import clsx from "clsx";
 import Heading from "@theme/Heading";
+import { translate } from "@docusaurus/Translate";
 import styles from "./styles.module.css";
 import Link from "@docusaurus/Link";
 
@@ -13,7 +14,11 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     url: "/docs/",
-    title: "Go to References & Guides",
+    title: translate({
+      id: "homepage.feature.docs.title",
+      message: "Go to References & Guides",
+      description: "Title of the single feature card on the homepage that links to the docs",
+    }),
     Svg: require("@site/static/img/books.svg").default,
     description: <> </>,
   },

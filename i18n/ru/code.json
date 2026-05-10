@@ -556,5 +556,29 @@
   "theme.tags.tagsPageTitle": {
     "message": "Теги",
     "description": "The title of the tag list page"
+  },
+  "homepage.layout.title": {
+    "message": "BOTSE Помощник",
+    "description": "HTML <title> for the homepage and tracker page (the site brand name)"
+  },
+  "homepage.layout.description": {
+    "message": "Справочники и руководства по The Elder Scrolls: Betrayal of the Second Era.",
+    "description": "HTML <meta> description for the homepage and tracker page"
+  },
+  "homepage.feature.docs.title": {
+    "message": "К справочникам и руководствам",
+    "description": "Title of the single feature card on the homepage that links to the docs"
+  },
+  "enemySkillsTracker.heading": {
+    "message": "Трекер навыков противника",
+    "description": "<h1> heading on the Enemy Skills Tracker page"
+  },
+  "enemySkillsTracker.description": {
+    "message": "Выбирайте навыки противников из меню по мере их появления в бою, чтобы отслеживать какие навыки сейчас в игре. Панель можно свернуть для лучшей видимости.",
+    "description": "Intro paragraph above the tracker UI"
+  },
+  "enemySkillsTracker.addAdditional": {
+    "message": "Добавить ещё навыки противников",
+    "description": "Label of the accordion that toggles which enemy skills are shown in the tracker"
   }
 }
