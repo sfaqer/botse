@@ -1,21 +1,22 @@
 ---
 id: occupied
-title: Занят/свободен
-hoverText: Гекс считается занятым, если в нём находится существо или жетон путешествия, и свободным, если нет.
+title: Занятая/незанятая клетка
+hoverText: Клетка считается занятой, если в ней находится боевая единица или жетон провинции, и незанятой, если в ней ничего такого нет.
 ---
 
-A hex is occupied when it contains a unit (or overland token) and unoccupied
-when it does not.
+Клетка считается занятой, если в ней находится боевая единица или жетон
+провинции, и незанятой, если в ней ничего такого нет.
 
-A unit cannot be deployed to or move through a hex that is occupied by another
-unit. Battle map hexes that do not contain units but contain cache chips are
-unoccupied.
+Боевую единицу нельзя разместить в клетке, занятой другой боевой единицей, или
+передвинуть через неё. Клетки поля боя, в которых нет боевых единиц, но есть
+фишки тайников, считаются незанятыми.
 
-- A token can move into or through a hex on the overland map that is occupied by
-  another token. Note that this is different from units on the battle map.
+- Жетон может перемещаться в клетку или через клетку на атласе провинции,
+  занятую другим жетоном. Обратите внимание: это отличается от правил для боевых
+  единиц на поле боя.
 
-- Some abilities allow a unit to move through occupied hexes. A unit cannot
-  choose to end its movement in an occupied hex. If a unit would be forced to
-  end its movement in an occupied hex, the unit that moved is instead placed in
-  the closest unoccupied hex (if there are multiple closest hexes, the party
-  chooses the hex).
+- Некоторые способности позволяют боевой единице передвигаться через занятые
+  клетки. Боевая единица не может по собственной воле завершить своё
+  передвижение в занятой клетке. Если она вынуждена завершить передвижение в
+  занятой клетке, вместо этого поместите её в ближайшую незанятую клетку. Если
+  ближайших клеток несколько, отряд выбирает клетку.

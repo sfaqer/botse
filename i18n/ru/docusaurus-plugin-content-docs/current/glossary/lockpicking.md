@@ -87,9 +87,9 @@ Yes, you would be that you do need to move off and back on. In some scenarios,
 the caches don't clear when they're failed. So in those cases as well, you need
 to move off and back on to trigger another opportunity to lock pick it.
 
-<a href="https://boardgamegeek.com/thread/3452482/article/45595519#45595519" target="_blank">Source</a>
+<a href="https://boardgamegeek.com/thread/3452482/article/45595519#45595519" target="_blank">Источник</a>
 /
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1339260848631316652" target="_blank">Source
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1339260848631316652" target="_blank">Источник
 2 </a>
 <!-- translate:off -->
 :::

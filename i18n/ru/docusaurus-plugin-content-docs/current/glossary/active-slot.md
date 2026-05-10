@@ -1,58 +1,60 @@
 ---
 id: active-slot
-title: Active Slot
-hoverText: Dice placed in active slots are referred to as active dice. An active die remains in its slot until you remove it as described in its skill line's reference sheet or at the [end of battle](/docs/battles/end-of-battle).
+title: Ячейки активности
+hoverText: Кубики, помещённые в ячейки активности, называются активными кубиками. Активный кубик остаётся в ячейке до конца боя или пока вы не уберёте его так, как описано в памятке по ветке навыка.
 ---
 
-# <img src="/icons/active-slot.svg" alt="Active Slot Icon" /> Active Slot
+# <img src="/icons/active-slot.svg" alt="Active Slot Icon" /> Ячейки активности
 
-Dice placed in active slots are referred to as active dice. An active die
-remains in its slot until you remove it as described in its skill line's
-reference sheet or at the [end of battle](/docs/battles/end-of-battle). You can
-have no more than 4 dice in your active slots at a time.
+Кубики, помещённые в ячейки активности, называются активными кубиками. Активный
+кубик остаётся в ячейке до [конца боя](/docs/battles/end-of-battle) или пока вы
+не уберёте его так, как описано в памятке по ветке навыка. Одновременно в
+ячейках активности может находиться не больше 4 кубиков.
 
-To free up space, you may remove an active die from one of your slots at any
-time during your turn without resolving that die's ability. Certain effects can
-also cause you to remove a die from its slot. When an active skill die is
-removed from its slot without resolving its ability, that die is exhausted and
-placed in the [cooldown track](/docs/glossary/cooldown-track) of the
-[adventurer](/docs/glossary/adventurer) who placed it.
+Чтобы освободить место, вы можете в любой момент своего хода убрать активный
+кубик из одной из своих ячеек, не применяя способность этого кубика. Некоторые
+эффекты также могут заставить вас убрать кубик из ячейки. Когда активный кубик
+навыка убирается из ячейки без применения его способности, этот кубик истощается
+и помещается на [трек перезарядки](/docs/glossary/cooldown-track)
+[персонажа](/docs/glossary/adventurer), который его разместил.
 
-Active dice **must** be removed at the [end of
-battle](/docs/battles/end-of-battle) or if your
-[adventurer](/docs/glossary/adventurer) is [defeated](/docs/glossary/defeated).
-Dice removed in this way must be exhausted.
+Активные кубики **необходимо** убрать в [конце боя](/docs/battles/end-of-battle)
+или если ваш [персонаж](/docs/glossary/adventurer)
+[повержен](/docs/glossary/defeated). Убранные таким образом кубики необходимо
+истощить.
 
-### Fatigue dice in Active Slots
+### Кубики усталости в ячейках активности
 
-Some abilities can place a [fatigue](/docs/glossary/fatigue) die in an active
-slot. While that die is filling an active slot, it is treated like a skill die
-and remains there until it is removed, after which it is placed in the cooldown
-track. As with active skill dice, this happens when:
+Некоторые способности позволяют поместить кубик
+[усталости](/docs/glossary/fatigue) в ячейку активности. Пока такой кубик
+занимает ячейку активности, он считается кубиком навыка и остаётся там, пока не
+будет убран; после этого его помещают на трек перезарядки. Как и в случае с
+активными кубиками навыков, это происходит в следующих случаях:
 
-- the skill's ability describes
-- when you choose to remove that die without resolving an ability
-- when you are [defeated](/docs/glossary/defeated)
-- when the battle ends.
+- когда это указано в способности навыка;
+- когда вы решаете убрать этот кубик, не применяя способность;
+- когда вы [повержены](/docs/glossary/defeated);
+- когда бой заканчивается.
 
-### Active Slot on Skill Abilities
+### Ячейка активности в способностях навыков
 
-This skill die must be placed in 1 of your active slots (or, if specified by the
-skill, the active slot of another [adventurer](/docs/glossary/adventurer)). The
-die's ability is resolved as described in its entry, typically by reducing the
-die's value or removing it from its slot. When a die is removed from an active
-slot, it is exhausted unless its ability specifies otherwise.
+Этот кубик навыка нужно поместить в одну из ваших ячеек активности или, если это
+указано в навыке, в ячейку активности другого
+[персонажа](/docs/glossary/adventurer). Способность кубика применяется так, как
+описано в соответствующей статье; обычно для этого нужно уменьшить значение на
+кубике или убрать его из ячейки. Когда кубик убирается из ячейки активности, он
+истощается, если его способность не указывает иное.
 
 ---
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**When can I choose to exhaust a skill die from an active slot?**
+**Когда я могу решить истощить кубик навыка из ячейки активности?**
 
-At any point during your turn. This means, you may exhaust a die and move it to
-the [cooldown track](/docs/glossary/cooldown-track) prior to the [Recovery
-step](/docs/battles/adventurer-turn/index/#2-recovery).
+В любой момент своего хода. Это означает, что вы можете истощить кубик и
+переместить его на [трек перезарядки](/docs/glossary/cooldown-track) до этапа
+[возвращения кубиков](/docs/battles/adventurer-turn/index/#2-recovery).
 <!-- translate:off -->
 :::
 <!-- translate:on -->

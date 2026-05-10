@@ -1,11 +1,12 @@
 ---
 id: toward
-title: Toward
-hoverText: Move as close as possible to that component along the shortest route possible between hexes.
+title: По направлению к
+hoverText: Передвиньтесь как можно ближе к этому компоненту по кратчайшему возможному пути между клетками.
 ---
 
-When a rule or effect directs a unit (or overland token) to move toward a unit
-or other component, that unit should move as close as possible to that component
-along the shortest route possible between hexes.
+Когда правило или эффект предписывает боевой единице или жетону провинции
+передвинуться по направлению к боевой единице или другому компоненту,
+перемещаемый компонент должен передвинуться как можно ближе к этому компоненту
+по кратчайшему возможному пути между клетками.
 
-If multiple routes are possible, the party chooses the route.
+Если возможно несколько путей, отряд выбирает путь.

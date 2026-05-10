@@ -1,42 +1,42 @@
 ---
 id: trap
-title: Trap
-hoverText: During their turn, an [adventurer](/docs/glossary/adventurer) must trigger a trap when they enter a hex on a tile with a trap effect, either by moving into that hex or being placed there.
+title: Ловушка
+hoverText: В свой ход [персонаж](/docs/glossary/adventurer) должен активировать ловушку, когда входит в клетку на участке местности с эффектом ловушки — передвигаясь в эту клетку или будучи помещённым туда.
 tags:
-  - Delve
+  - Вылазка
 ---
 
-Traps represent harmful mechanical or magical effects. They appear in red boxes
-on many delve cards.
+Ловушки — это вредоносные механические или магические эффекты. Они появляются в
+красных блоках на многих картах вылазки.
 
-Traps have the following elements:
+У ловушек есть следующие элементы:
 
-- A name.
-- A difficulty code (see [Lockpicking](/docs/glossary/lockpicking)).
-- Text describing the effect resolved.
+- Название.
+- Код сложности (см. [Взлом](/docs/glossary/lockpicking)).
+- Текст, описывающий применяемый эффект.
 
-During their turn, an [adventurer](/docs/glossary/adventurer) must trigger a
-trap when they enter a hex on a tile with a trap effect, either by moving into
-that hex or being placed there. Enemies and companions do not trigger traps but
-can be affected by them if specified by the trap's text.
+В свой ход [персонаж](/docs/glossary/adventurer) должен активировать ловушку,
+когда входит в клетку на участке местности с эффектом ловушки — передвигаясь в
+эту клетку или будучи помещённым туда. Враги и компаньоны не активируют ловушки,
+но эффект ловушек может на них влиять, если это указано в описании.
 
-## Trap Sequence
+## Активация ловушки
 
-When a trap is triggered, follow the steps below to resolve that trap. The
-trap's lockpick check and effect must be resolved before any other effects that
-would trigger by an adventurer moving into that hex, such as attempting to
-unlock a cache.
+Когда ловушка активируется, выполните следующие шаги, чтобы разыграть её.
+Проверка взлома ловушки и её эффект должны быть разыграны до любых других
+эффектов, которые сработали бы из-за перемещения персонажа в эту клетку,
+например до попытки взлома тайника.
 
-1. The adventurer who triggered the trap must make a
-   [lockpick](/docs/glossary/lockpicking) check against the trap's difficulty
-   code.
-2. Resolve the trap's effect. A trap's effect will specify whether it triggers
-   when the lockpick check is successful or unsuccessful. Once a trap's effect
-   is resolved, the trap becomes inactive and cannot be triggered again unless
-   otherwise specified.
-   - If the trap is on a card with no remaining effects to resolve,
-     [discard](/docs/glossary/discard) the card.
-   - If the trap does not specify affected units, its ability is resolved only
-     against the adventurer who triggered it. If the trap is resolved against
-     multiple units, resolve it for each in the order chosen by the adventurer
-     who triggered the trap.
+1. Персонаж, который активировал ловушку, должен пройти [проверку
+   взлома](/docs/glossary/lockpicking) против кода сложности ловушки.
+2. Примените эффект ловушки. В описании ловушки указано, срабатывает ли её
+   эффект при успешной или неуспешной проверке взлома. После применения эффекта
+   ловушка становится неактивной и не может быть активирована снова, если не
+   указано иное.
+   - Если ловушка находится на карте, у которой не осталось эффектов для
+     применения, [сбросьте](/docs/glossary/discard) эту карту.
+   - Если в описании ловушки не указано, на какие боевые единицы воздействует её
+     эффект, её способность применяется только к персонажу, который активировал
+     ловушку. Если эффект ловушки применяется к нескольким боевым единицам,
+     примените его к каждой из них в порядке, выбранном персонажем, который
+     активировал ловушку.
