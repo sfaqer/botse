@@ -108,9 +108,9 @@ this die by 1?**
 It is not optional, if it's active, you need to use it and reduce it. The only
 way to get out of that is exhausting it.
 
-<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372226530864005250" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372226530864005250" target="_blank">Источник</a>
 /
-<a href="https://discord.com/channels/273472391403798528/1392918916820369549/1400152445296054422" target="_blank">Source
+<a href="https://discord.com/channels/273472391403798528/1392918916820369549/1400152445296054422" target="_blank">Источник
 2</a>
 <!-- translate:off -->
 :::

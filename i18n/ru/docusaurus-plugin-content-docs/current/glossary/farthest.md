@@ -1,9 +1,10 @@
 ---
 id: farthest
-title: Farthest
-hoverText: The route to that feature or token that consists of the most hexes between that feature and the component being measured to (or from).
+title: Самый дальний / самая дальняя
+hoverText: Путь к этому символу или жетону, содержащий наибольшее количество клеток между ним и компонентом, до которого или от которого выполняется измерение.
 ---
 
-When a rule or effect refers to the farthest hex, feature, or token, it means
-the route to that feature or token that consists of the **most hexes** between
-that feature and the component being measured to (or from).
+Когда правило или эффект упоминает самую дальнюю клетку, символ или жетон,
+имеется в виду путь к этой клетке, символу или жетону, содержащий **наибольшее
+количество клеток** между ним и компонентом, до которого или от которого
+выполняется измерение.

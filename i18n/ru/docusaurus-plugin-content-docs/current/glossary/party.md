@@ -1,11 +1,11 @@
 ---
 id: party
-title: Party
-hoverText: The party can include both adventurer and companion units.
+title: Отряд
+hoverText: В состав отряда могут входить как персонажи, так и компаньоны.
 ---
 
-The party can include both adventurer and companion units.
+В состав отряда могут входить как персонажи, так и компаньоны.
 
-Collectively, all units that belong to the party are referred to as party
-members, and abilities that affect party members can affect both adventurers and
-companion units.
+Все боевые единицы, принадлежащие отряду, называются участниками отряда.
+Способности, действующие на участников отряда, могут действовать как на
+персонажей, так и на компаньонов.

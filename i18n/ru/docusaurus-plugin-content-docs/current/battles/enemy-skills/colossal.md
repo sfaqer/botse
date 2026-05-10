@@ -18,9 +18,9 @@ trained by [adventurers](/docs/glossary/adventurer).
 Trained is the total number you have, no matter where they are - available, in
 cooldown, drained. This includes dice you start with as part of Race selection.
 
-<a href="https://discord.com/channels/273472391403798528/734891265690304634/1331328959643783198" target="_blank">Source</a>
+<a href="https://discord.com/channels/273472391403798528/734891265690304634/1331328959643783198" target="_blank">Источник</a>
 /
-<a href="https://boardgamegeek.com/thread/3463982/article/45684307#45684307" target="_blank">Source
+<a href="https://boardgamegeek.com/thread/3463982/article/45684307#45684307" target="_blank">Источник
 2</a>
 
 ---

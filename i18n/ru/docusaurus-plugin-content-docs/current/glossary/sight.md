@@ -1,15 +1,16 @@
 ---
 id: sight
-title: Sight
-hoverText: A unit has sight to another unit (or hex) if both units are in hexes on the same tile or an adjacent tile.
+title: Видимость
+hoverText: Боевая единица видит другую боевую единицу или клетку, если обе боевые единицы находятся в клетках одного и того же участка местности или соседних участков местности.
 ---
 
-Some actions and abilities require that the unit resolving them has sight to
-another unit or a hex on the battle map. A unit has sight to another unit (or
-hex) if both units are in hexes on the same tile or an
-[adjacent](/docs/glossary/adjacent) tile.
+Некоторые действия и способности требуют, чтобы применяющая их боевая единица
+видела другую боевую единицу или клетку на поле боя. Боевая единица видит другую
+боевую единицу или клетку, если обе боевые единицы находятся в клетках одного и
+того же участка местности или [соседних](/docs/glossary/adjacent) участков
+местности.
 
-For example, in a clash battle, an adventurer on the entrance tile has sight to
-an enemy on the clash tile or the entrance tile.
+Например, в бою-стычке персонаж на участке входа видит врага на участке стычки
+или на участке входа.
 
-A unit is always in sight of itself.
+Боевая единица всегда видит саму себя.

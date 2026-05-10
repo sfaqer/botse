@@ -1,9 +1,9 @@
 ---
 id: bonus-xp
-title: Bonus XP
-hoverText: Bonus XP is not added to the party's XP Dial, but must instead be tracked by individual adventurers. It is otherwise spent and treated like standard XP.
+title: Бонусные ОО
+hoverText: Бонусные ОО не добавляются на счётчик опыта отряда, а отслеживаются у отдельных персонажей. В остальном они тратятся и считаются обычными ОО.
 ---
 
-Bonus XP is not added to the party's XP Dial, but must instead be tracked by
-individual [adventurers](/docs/glossary/adventurer). It is otherwise spent and
-treated like standard XP.
+Бонусные ОО не добавляются на счётчик опыта отряда, а отслеживаются у отдельных
+[персонажей](/docs/glossary/adventurer). В остальном они тратятся и считаются
+обычными ОО.
