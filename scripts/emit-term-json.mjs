@@ -44,6 +44,24 @@ async function* walk(dir) {
   }
 }
 
+// Yield directories that contain a `_category_.json` (Docusaurus auto-generates
+// an index page for these when there's no explicit index.md). The terminology
+// loader still wraps links to such category URLs in <Term> and tries to fetch
+// `<url>.json`; without a stub, the tooltip hangs on "loading..." forever.
+async function* walkCategories(dir) {
+  let hasCategoryFile = false;
+  for (const entry of await readdir(dir)) {
+    const p = join(dir, entry);
+    const s = await stat(p);
+    if (s.isDirectory()) {
+      yield* walkCategories(p);
+    } else if (entry === "_category_.json") {
+      hasCategoryFile = true;
+    }
+  }
+  if (hasCategoryFile) yield dir;
+}
+
 function parseFrontmatter(src) {
   if (!src.startsWith("---")) return null;
   const end = src.indexOf("\n---", 3);
@@ -105,9 +123,46 @@ async function emitForLocale(srcRoot, outRoot, urlPrefix) {
   }
 }
 
+// Category pages live as folders with `_category_.json` under docs/ (not under
+// i18n/), so emit a stub at every locale's URL using the same canonical
+// label. Per-locale category label translations come from the sidebar JSON
+// (i18n/<locale>/.../current.json), not from a per-folder file we could read
+// here; the tooltip will show the English label on translated locales, which
+// is acceptable for a tooltip on a click target the user is about to navigate
+// to anyway.
+async function emitCategoryStubs(catSrcRoot, outRoots) {
+  let count = 0;
+  for await (const catDir of walkCategories(catSrcRoot)) {
+    if (catDir === catSrcRoot) continue;
+    let label = "";
+    try {
+      const cat = JSON.parse(
+        await readFile(join(catDir, "_category_.json"), "utf-8"),
+      );
+      label = cat.label ?? "";
+    } catch {}
+    const rel = relative(catSrcRoot, catDir).replace(/\\/g, "/");
+    const id = rel.split("/").pop();
+    const title = label || id;
+    const body = JSON.stringify({
+      metadata: { id, title, hoverText: "" },
+      content: "",
+    });
+    for (const outRoot of outRoots) {
+      const outFile = join(outRoot, rel + ".json");
+      await mkdir(dirname(outFile), { recursive: true });
+      await writeFile(outFile, body);
+      count++;
+    }
+  }
+  if (count) console.log(`emit-term-json: wrote ${count} category stubs`);
+}
+
 const docsRoot = join(repoRoot, "docs");
 const outDocsRoot = join(buildDir, "docs");
 await emitForLocale(docsRoot, outDocsRoot, "");
+
+const categoryOutRoots = [outDocsRoot];
 
 // non-default locales
 const i18nRoot = join(repoRoot, "i18n");
@@ -127,5 +182,8 @@ try {
     }
     const localeOut = join(buildDir, locale, "docs");
     await emitForLocale(localeDocsSrc, localeOut, `/${locale}/`);
+    categoryOutRoots.push(localeOut);
   }
 } catch {}
+
+await emitCategoryStubs(docsRoot, categoryOutRoots);
