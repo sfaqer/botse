@@ -1,6 +1,6 @@
-# Build gate for the i18n branch: runs `docusaurus build` for both locales on
-# every push and PR targeting i18n. Catches issues that would only otherwise
-# show up at deploy-preview time (a long round trip after merge).
+# Build gate for the i18n branch: runs `docusaurus build` (en+ru) on every PR
+# targeting i18n. Catches issues that would only otherwise show up at
+# deploy-preview time (a long round trip after merge).
 #
 # Translation PRs from Weblate target this branch, so a failure here blocks the
 # merge and makes Weblate auto-resolve / surface the broken commit instead of
@@ -9,8 +9,6 @@
 name: Build check (i18n)
 
 on:
-  push:
-    branches: [i18n]
   pull_request:
     branches: [i18n]
   workflow_dispatch:
