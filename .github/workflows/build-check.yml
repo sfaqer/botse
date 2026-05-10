@@ -1,0 +1,38 @@
+# Build gate for the i18n branch: runs `docusaurus build` for both locales on
+# every push and PR targeting i18n. Catches issues that would only otherwise
+# show up at deploy-preview time (a long round trip after merge).
+#
+# Translation PRs from Weblate target this branch, so a failure here blocks the
+# merge and makes Weblate auto-resolve / surface the broken commit instead of
+# poisoning preview/gh-pages.
+
+name: Build check (i18n)
+
+on:
+  push:
+    branches: [i18n]
+  pull_request:
+    branches: [i18n]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: build-check-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - run: npm run build
