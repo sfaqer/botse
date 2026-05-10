@@ -1,5 +1,4 @@
 import clsx from "clsx";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import { translate } from "@docusaurus/Translate";
 import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
@@ -7,11 +6,17 @@ import HomepageFeatures from "@site/src/components/HomepageFeatures";
 import styles from "./index.module.css";
 
 function HomepageHeader() {
-  const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
       <div className="container">
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className="hero__subtitle">
+          {translate({
+            id: "homepage.tagline",
+            message:
+              "Unofficial references for The Elder Scrolls:Betrayal of the Second Era",
+            description: "Site tagline shown as the homepage hero subtitle",
+          })}
+        </p>
         <div className={styles.buttons}></div>
       </div>
     </header>

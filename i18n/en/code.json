@@ -569,6 +569,10 @@
     "message": "Go to References & Guides",
     "description": "Title of the single feature card on the homepage that links to the docs"
   },
+  "homepage.tagline": {
+    "message": "Unofficial references for The Elder Scrolls:Betrayal of the Second Era",
+    "description": "Site tagline shown as the homepage hero subtitle"
+  },
   "enemySkillsTracker.heading": {
     "message": "Enemy Skills Tracker",
     "description": "<h1> heading on the Enemy Skills Tracker page"
