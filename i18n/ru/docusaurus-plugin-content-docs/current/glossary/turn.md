@@ -1,11 +1,11 @@
 ---
 id: turn
-title: Turn
-hoverText: During a battle [round](/docs/battles/battle-round), each [unit](/docs/glossary/unit) on the battle map takes a turn. Some abilities are limited to a certain number of uses per turn; that limit is reset at the start of each unit's turn.
+title: Ход боевой единицы
+hoverText: Во время [раунда боя](/docs/battles/battle-round) каждая [боевая единица](/docs/glossary/unit) на поле боя совершает ход. Некоторые способности ограничены определённым количеством применений за ход; этот лимит обновляется в начале хода каждой боевой единицы.
 ---
 
-During a battle [round](/docs/battles/battle-round), each
-[unit](/docs/glossary/unit) on the battle map takes a turn. Some abilities are
-limited to a certain number of uses per turn; that limit is reset at the start
-of each unit's turn (not just the turn of the unit that can resolve that
-ability).
+Во время [раунда боя](/docs/battles/battle-round) каждая [боевая
+единица](/docs/glossary/unit) на поле боя совершает ход. Некоторые способности
+ограничены определённым количеством применений за ход; этот лимит обновляется в
+начале хода каждой боевой единицы, а не только в начале хода боевой единицы,
+которая может применить эту способность.

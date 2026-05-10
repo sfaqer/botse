@@ -1,89 +1,92 @@
 ---
 id: adventurer-creation
-title: Adventurer Creation
-hoverText: Each player creates a unique adventurer at the outset of the first session of a campaign.
+title: Создание персонажа
+hoverText: Каждый игрок создаёт уникального персонажа в начале первого эпизода кампании.
 ---
 
-Each player creates a unique adventurer at the outset of the first session of a
-campaign. To create an adventurer, follow the steps below.
+В начале подготовки к первому эпизоду кампании каждый игрок создаёт уникального
+персонажа. Чтобы создать персонажа, выполните следующие этапы.
 
-### 1. Select [Race](/docs/adventurer/races/index)
+### 1. Выберите [расу](/docs/adventurer/races/index)
 
-Select a race sheet and corresponding adventurer chip. Place the sheet along the
-left or right side of your adventurer mat (as you prefer), and place the chip in
-the art area at the top of the sheet.
+Выберите памятку расы и соответствующую фишку персонажа. Положите памятку слева
+или справа от планшета персонажа (как вам удобнее), а фишку поместите в области
+иллюстрации в верхней части памятки.
 
-- Each race's sheets and chips are double-sided, depicting different individuals
-  of that group. There are 2 sheets for each race, allowing up to 2 players to
-  play the same race. Flip the components to the character side you prefer (the
-  information is the same on each side).
+- Памятки и фишки каждой расы двусторонние, на них изображены разные
+  представители этих рас. В игре по 2 памятки каждой расы — на случай, если двое
+  игроков захотят выбрать одну и ту же расу. Кладите эти компоненты вверх
+  стороной персонажа, который вам больше нравится (информация на обеих сторонах
+  одинаковая).
 
-### 2. Add [Stats](/docs/adventurer/stats/)
+### 2. Распределите [характеристики](/docs/adventurer/stats/)
 
-Take the circular attribute tokens for the
-[Health](/docs/adventurer/stats/health),
-[Stamina](/docs/adventurer/stats/stamina), and
-[Magicka](/docs/adventurer/stats/magicka) stats shown on your race's sheet and
-place them in the circular slots of your mat's attribute rows. You may place an
-attribute token in any open circular slot. Stats are explained further below.
-Note: If you place 2 attributes in opposing circular slots in the same row,
-advancements gained in one attribute will limit the potential advancements
-available to the other.
+Возьмите круглые жетоны характеристик —
+[здоровья](/docs/adventurer/stats/health),
+[выносливости](/docs/adventurer/stats/stamina) и
+[магии](/docs/adventurer/stats/magicka), указанных в памятке вашей расы, — и
+разместите их на планшете своего персонажа, в круглых ячейках на концах рядов
+умений. Класть жетоны можно в любые незанятые круглые ячейки. Подробнее о
+характеристиках рассказано ниже. Примечание: если вы разместите 2 жетона
+характеристик на противоположных концах одного ряда, улучшения одной
+характеристики будут ограничивать возможности улучшения другой.
 
-- The Health token has a numeric value; place it so the faceup side matches the
-  starting value shown on your race sheet.
-- The Stamina and Magicka tokens do not have numeric values. Place them in their
-  slots; then, place a number of square stat tokens of each stat's color equal
-  to its starting value as shown on your race reference sheet in the square
-  slots of its row, starting with the slot closest to the corresponding circular
-  token.
+- На жетоне характеристики «Здоровье» есть числовые значения; выложите жетон
+  так, чтобы лицом вверх было стартовое значение, указанное в памятке расы.
+- На жетонах характеристик «Выносливость» и «Магия» нет числовых значений.
+  Разместите их в круглых ячейках, а затем выложите в квадратные ячейки
+  соответствующих рядов столько квадратных жетонов прокачки каждого цвета,
+  сколько указано в памятке расы, начиная с ячейки, ближайшей к соответствующему
+  круглому жетону.
 
-### 3. Add [Combat](/docs/adventurer/skill-lines/warrior/combat) Skill Line
+### 3. Добавьте ветку навыка [Бой](/docs/adventurer/skill-lines/warrior/combat)
 
-Take this skill line's circular token and place it in an open slot. Then, add
-the number of Combat skill dice shown on your race sheet to that row's square
-slots and place that line's reference sheet near your adventurer mat.
+Возьмите круглый жетон этой ветки навыка и положите его в незанятую ячейку.
+Затем выложите в квадратные ячейки этого ряда столько кубиков навыка «Бой»,
+сколько указано в памятке расы, и положите памятку этой ветки рядом с планшетом
+персонажа. Подробнее о навыках, включая «Бой», рассказано ниже.
 
-### 4. Add Starting [Skill Line](/docs/adventurer/skill-lines/index)
+### 4. Добавьте стартовую [ветку навыка](/docs/adventurer/skill-lines/index)
 
-Choose 1 other skill line. Place that line's circular token in an open attribute
-slot. Then, add 2 of that line's level 1 skill dice to that row's square slots.
-Place that line's reference sheet near your adventurer mat. For your first game,
-it is recommended that each player chooses 1 of the following skill lines, as
-dealing damage is crucial in battles:
+Выберите 1 другую ветку навыка. Поместите её круглый жетон в незанятую круглую
+ячейку. Затем выложите в квадратные ячейки этого ряда 2 кубика навыка 1-го
+уровня из этой ветки. Положите памятку этой ветки рядом с планшетом персонажа.
+При подготовке к самой первой партии рекомендуем каждому игроку выбрать одну из
+нижеперечисленных веток навыков: в бою важно умение наносить урон.
 
-- [Bow](/docs/adventurer/skill-lines/warrior/bow)
-  ([<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon))
-- [Destruction Staff](/docs/adventurer/skill-lines/mage/destruction-staff)
-  ([<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic))
-- [One Hand and
-  Shield](/docs/adventurer/skill-lines/warrior/one-hand-and-shield)
-  ([<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon))
-- [Two Handed](/docs/adventurer/skill-lines/warrior/two-handed)
-  ([<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/heavy-weapon))
+- [Лук](/docs/adventurer/skill-lines/warrior/bow)
+  (<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />(/docs/battles/battle-forms/ranged-weapon))
+- [Посох разрушения](/docs/adventurer/skill-lines/mage/destruction-staff)
+  (<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />(/docs/battles/battle-forms/magic))
+- [Одноручное оружие и
+  щит](/docs/adventurer/skill-lines/warrior/one-hand-and-shield)
+  (<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />(/docs/battles/battle-forms/light-weapon))
+- [Двуручное оружие](/docs/adventurer/skill-lines/warrior/two-handed)
+  (<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" className="icon-svg" />(/docs/battles/battle-forms/heavy-weapon))
 
-### 5. Place Pegs
+### 5. Разместите колышки
 
-Place a peg in the slot of your battle form tracker that matches your chosen
-starting skill line. Place another in the slot above the [cooldown
-track](/docs/glossary/cooldown-track) matching your
-[race's](/docs/adventurer/races/index) starting
-[Cooldown](/docs/adventurer/stats/cooldown) stat. Finally, place 2 more in the
-leftmost slots of your [tenacity](/docs/glossary/tenacity) and Saved
-[XP](/docs/glossary/xp) trackers.
+Вставьте колышек в ячейку индикатора боевого режима, соответствующую выбранной
+вами стартовой ветке навыка. Ещё один колышек вставьте в ячейку над [треком
+перезарядки](/docs/glossary/cooldown-track), соответствующую стартовому
+[показателю перезарядки](/docs/adventurer/stats/cooldown) вашей
+[расы](/docs/adventurer/races/index). Затем вставьте ещё 2 колышка в крайние
+левые ячейки на треках [стойкости](/docs/glossary/tenacity) и сохранённых
+[ОО](/docs/glossary/xp).
 
-### 6. Choose [Class](/docs/adventurer/classes/index)
+### 6. Выберите [класс](/docs/adventurer/classes/index)
 
-Choose one of the following methods to determine the starting classes available
-to you. Whichever method you choose, place your starting class sheet with its
-novice side faceup along the opposite side of your adventurer mat from your race
-sheet. Important: This is a permanent choice, so it is recommended you add a
-class that complements your adventurer's stats and fits with the playstyle that
-interests you.
+Выберите один из следующих способов, чтобы определить доступные вам стартовые
+классы. Какой бы способ вы ни выбрали, положите памятку стартового класса
+стороной «Новичок» вверх рядом с планшетом персонажа, на противоположной стороне
+от памятки расы. Важно: этот выбор нельзя изменить, поэтому рекомендуем выбрать
+класс, который дополняет характеристики вашего персонажа и соответствует
+интересующему вас стилю игры.
 
-- **Jailbreak Introduction Encounter:** If you play this encounter, choose from
-  the available class options based on your achievements. This is recommended
-  for your first campaign, but the Jailbreak Introduction encounter can also be
-  played in future campaigns when players wish to make a more thematic choice.
-- **Open Choice:** Choose 1 of the available class sheets and add it to your
-  mat.
+- **«Побег из тюрьмы» (вводная встреча):** Если вы разыгрываете эту встречу,
+  выберите класс из доступных вариантов на основе своих достижений. Мы
+  рекомендуем начать с этой встречи вашу первую кампанию; вы можете использовать
+  её и в последующих кампаниях, если игроки хотят сделать более тематический
+  выбор.
+- **Свободный выбор:** выберите 1 доступную памятку класса и положите её рядом
+  со своим планшетом.
