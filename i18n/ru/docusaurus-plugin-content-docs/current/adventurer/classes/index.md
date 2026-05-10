@@ -30,46 +30,46 @@ A class has 2 types of abilities, each described by its text:
   [<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>](/docs/glossary/tenacity)
   amount next to it.
 
-## <img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" /> <a href="/docs/adventurer/classes/mage">Mage</a>
+## <img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" /> [Mage](/docs/adventurer/classes/mage)
 
-> ### <a href="/docs/adventurer/classes/mage/arcanist">Arcanist</a>
+> ### [Arcanist](/docs/adventurer/classes/mage/arcanist)
 > 
-> ### <a href="/docs/adventurer/classes/mage/healer">Healer</a>
+> ### [Healer](/docs/adventurer/classes/mage/healer)
 > 
-> ### <a href="/docs/adventurer/classes/mage/necromancer">Necromancer</a>
+> ### [Necromancer](/docs/adventurer/classes/mage/necromancer)
 > 
-> ### <a href="/docs/adventurer/classes/mage/nightblade">Nightblade</a>
+> ### [Nightblade](/docs/adventurer/classes/mage/nightblade)
 > 
-> ### <a href="/docs/adventurer/classes/mage/sorcerer">Sorcerer</a>
+> ### [Sorcerer](/docs/adventurer/classes/mage/sorcerer)
 > 
-> ### <a href="/docs/adventurer/classes/mage/warden">Warden</a>
+> ### [Warden](/docs/adventurer/classes/mage/warden)
 
-## <img src="/icons/thief.svg" alt="Thief Icon" className="icon-svg"/> <a href="/docs/adventurer/classes/thief">Thief</a>
+## <img src="/icons/thief.svg" alt="Thief Icon" className="icon-svg"/> [Thief](/docs/adventurer/classes/thief)
 
-> ### <a href="/docs/adventurer/classes/thief/acrobat">Acrobat</a>
+> ### [Acrobat](/docs/adventurer/classes/thief/acrobat)
 > 
-> ### <a href="/docs/adventurer/classes/thief/bard">Bard</a>
+> ### [Bard](/docs/adventurer/classes/thief/bard)
 > 
-> ### <a href="/docs/adventurer/classes/thief/burglar">Burglar</a>
+> ### [Burglar](/docs/adventurer/classes/thief/burglar)
 > 
-> ### <a href="/docs/adventurer/classes/thief/chef">Chef</a>
+> ### [Chef](/docs/adventurer/classes/thief/chef)
 > 
-> ### <a href="/docs/adventurer/classes/thief/pilgrim">Pilgrim</a>
+> ### [Pilgrim](/docs/adventurer/classes/thief/pilgrim)
 > 
-> ### <a href="/docs/adventurer/classes/thief/rogue">Rogue</a>
+> ### [Rogue](/docs/adventurer/classes/thief/rogue)
 > 
-> ### <a href="/docs/adventurer/classes/thief/scout">Scout</a>
+> ### [Scout](/docs/adventurer/classes/thief/scout)
 
-## <img src="/icons/warrior.svg" alt="Warrior Icon" className="icon-svg" /> <a href="/docs/adventurer/classes/warrior">Warrior</a>
+## <img src="/icons/warrior.svg" alt="Warrior Icon" className="icon-svg" /> [Warrior](/docs/adventurer/classes/warrior)
 
-> ### <a href="/docs/adventurer/classes/warrior/archer">Archer</a>
+> ### [Archer](/docs/adventurer/classes/warrior/archer)
 > 
-> ### <a href="/docs/adventurer/classes/warrior/dragonknight">Dragonknight</a>
+> ### [Dragonknight](/docs/adventurer/classes/warrior/dragonknight)
 > 
-> ### <a href="/docs/adventurer/classes/warrior/knight">Knight</a>
+> ### [Knight](/docs/adventurer/classes/warrior/knight)
 > 
-> ### <a href="/docs/adventurer/classes/warrior/ranger">Ranger</a>
+> ### [Ranger](/docs/adventurer/classes/warrior/ranger)
 > 
-> ### <a href="/docs/adventurer/classes/warrior/spellsword">Spellsword</a>
+> ### [Spellsword](/docs/adventurer/classes/warrior/spellsword)
 > 
-> ### <a href="/docs/adventurer/classes/warrior/templar">Templar</a>
+> ### [Templar](/docs/adventurer/classes/warrior/templar)
