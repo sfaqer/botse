@@ -36,12 +36,12 @@ const EnemySkillCards: React.FC<EnemySkillCardsProps> = ({
   ability,
   link,
 }) => {
-  const { siteConfig, i18n } = useDocusaurusContext();
-  const localeSegment =
-    i18n.currentLocale === i18n.defaultLocale
-      ? ""
-      : `${i18n.currentLocale}/`;
-  const urlPrefix = siteConfig.baseUrl + localeSegment;
+  // siteConfig.baseUrl from useDocusaurusContext is already locale-aware at
+  // runtime: on the ru locale it returns "/botse/ru/", on the default locale
+  // it returns "/botse/" (or "/" in prod). Don't append the locale segment
+  // manually — that doubles the prefix to "/botse/ru/ru/...".
+  const { siteConfig } = useDocusaurusContext();
+  const urlPrefix = siteConfig.baseUrl;
 
   return (
     <Card>
