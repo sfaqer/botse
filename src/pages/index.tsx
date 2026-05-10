@@ -1,5 +1,6 @@
 import clsx from "clsx";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import { translate } from "@docusaurus/Translate";
 import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
 
@@ -20,8 +21,16 @@ function HomepageHeader() {
 export default function Home(): JSX.Element {
   return (
     <Layout
-      title={`BOTSE Helper`}
-      description="References and Guides for Betrayal of the Second Era."
+      title={translate({
+        id: "homepage.layout.title",
+        message: "BOTSE Helper",
+        description: "HTML <title> for the homepage and tracker page (the site brand name)",
+      })}
+      description={translate({
+        id: "homepage.layout.description",
+        message: "References and Guides for Betrayal of the Second Era.",
+        description: "HTML <meta> description for the homepage and tracker page",
+      })}
     >
       <HomepageHeader />
       <main>

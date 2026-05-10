@@ -1,6 +1,8 @@
 import React, { useState } from "react";
+import Translate from "@docusaurus/Translate";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import EnemySkillCards from "../EnemySkillCards";
-import enemySkills from "../../data/enemySkills.json";
+import enemySkillsByLocale from "../../data/enemySkills.generated.json";
 
 import Grid from "@mui/material/Grid2";
 import {
@@ -17,7 +19,21 @@ import CloseIcon from "@mui/icons-material/Close";
 
 import { IconButton } from "@mui/material";
 
+type EnemySkill = {
+  id: string;
+  title: string;
+  hoverText: string;
+  filePath: string;
+};
+
 const SkillSelector: React.FC = () => {
+  const { i18n } = useDocusaurusContext();
+  const skillsByLocale = enemySkillsByLocale as Record<string, EnemySkill[]>;
+  const enemySkills: EnemySkill[] =
+    skillsByLocale[i18n.currentLocale] ??
+    skillsByLocale[i18n.defaultLocale] ??
+    [];
+
   const [toggled, setToggled] = useState<boolean[]>(
     Array(enemySkills.length).fill(false)
   );
@@ -36,7 +52,14 @@ const SkillSelector: React.FC = () => {
           aria-controls="panel1a-content"
           id="panel1a-header"
         >
-          <Typography>Add Additional Enemy Skills</Typography>
+          <Typography>
+            <Translate
+              id="enemySkillsTracker.addAdditional"
+              description="Label of the accordion that toggles which enemy skills are shown in the tracker"
+            >
+              Add Additional Enemy Skills
+            </Translate>
+          </Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Grid container spacing={1}>
