@@ -1,7 +1,7 @@
 ---
 id: lockpicking
 title: Взлом
-hoverText: &gt;-
+hoverText:  &gt;
   [Персонажам](/docs/glossary/adventurer) часто приходится проходить проверку взлома, чтобы вскрывать [тайники](/docs/glossary/cache) или обезвреживать [ловушки](/docs/glossary/trap). Для этого персонаж проходит проверку взлома против кода сложности механизма.
 ---
 
