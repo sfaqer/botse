@@ -1,4 +1,11 @@
-// Generate new index with table for enemy skills using 'node createIndex.js' in the terminal
+// Regenerate the Enemy Skills index page (the table at /docs/battles/enemy-skills/)
+// from the per-skill markdown files in this directory. Run after adding,
+// removing, or renaming an enemy skill: `node createIndex.js`.
+//
+// The Enemy Skills Tracker UI used to read its data from a separate
+// `src/data/enemySkills.json` written here, but it now derives that
+// per-locale at build time via `scripts/build-enemy-skills-data.mjs` from
+// the same markdown frontmatter — so this script no longer writes JSON.
 const fs = require("fs");
 const path = require("path");
 
@@ -12,12 +19,8 @@ const enemySkills = files.map((file) => {
   const filePath = path.join(enemySkillsDir, file);
   const content = fs.readFileSync(filePath, "utf-8");
 
-  // Extract front matter and content after front matter
   const frontMatterMatch = content.match(/---\s*([\s\S]*?)\s*---/);
   const frontMatter = frontMatterMatch ? frontMatterMatch[1] : "";
-  const contentAfterFrontMatter = frontMatterMatch
-    ? content.slice(frontMatterMatch[0].length).trim()
-    : content;
 
   const idMatch = frontMatter.match(/id:\s*(\w+)/);
   const titleMatch = frontMatter.match(/title:\s*(.+)/);
@@ -35,11 +38,9 @@ const enemySkills = files.map((file) => {
           path.join(path.dirname(filePath), path.parse(filePath).name)
         )
         .replace(/\\/g, "/"),
-    contentAfterFrontMatter: contentAfterFrontMatter,
   };
 });
 
-// Generate markdown content
 let markdownContent = `---\nid: enemy-skills\ntitle: Enemy Skills\nslug: /battles/enemy-skills/index\nhoverText: An overview of the enemy skills.\n---\n\n`;
 markdownContent += `| Skill | Ability |\n|-------|------------|\n`;
 
@@ -48,10 +49,3 @@ enemySkills.forEach((skill) => {
 });
 
 fs.writeFileSync(path.join(__dirname, "index.md"), markdownContent);
-
-// Generate JSON content
-const jsonContent = JSON.stringify(enemySkills, null, 2);
-fs.writeFileSync(
-  path.join(botseDir, "src", "data", "enemySkills.json"),
-  jsonContent
-);
