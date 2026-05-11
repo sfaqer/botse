@@ -77,6 +77,13 @@ Translators do not need GitHub or git — they work entirely in the Weblate web 
 
 [![Translation status](https://hosted.weblate.org/widget/botse-helper/multi-auto.svg)](https://hosted.weblate.org/engage/botse-helper/)
 
-The image above auto-enumerates every language enabled on the Weblate project, so new locales appear here as they are added — no manual edits needed.
+<!--
+  Maintainer note: the multi-auto.svg widget above auto-enumerates every
+  language enabled on the Weblate project. New locales show up here as they
+  are added — no manual edits needed. Don't replace it with hardcoded
+  per-language badges (.../-/<lang>/svg-badge.svg) unless you want to
+  maintain that list by hand.
+-->
+
 
 > Translated using [Weblate](https://weblate.org/).
