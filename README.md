@@ -1,5 +1,6 @@
 # BOTSE Helper
 
+[![Translation status](https://hosted.weblate.org/widget/botse-helper/svg-badge.svg)](https://hosted.weblate.org/engage/botse-helper/)
 
 Built using [Docusaurus](https://docusaurus.io/)
 
@@ -71,5 +72,11 @@ $ bash scripts/sync-docs-mirror.sh
 ```
 
 Translators do not need GitHub or git — they work entirely in the Weblate web editor.
+
+#### Translation status per language
+
+[![Translation status](https://hosted.weblate.org/widget/botse-helper/multi-auto.svg)](https://hosted.weblate.org/engage/botse-helper/)
+
+The image above auto-enumerates every language enabled on the Weblate project, so new locales appear here as they are added — no manual edits needed.
 
 > Translated using [Weblate](https://weblate.org/).
