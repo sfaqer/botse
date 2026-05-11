@@ -1,7 +1,7 @@
 ---
 id: lockpicking
-title: Lockpicking
-hoverText: '[Adventurers](/docs/glossary/adventurer) frequently need to pick locks in order to open [caches](/docs/glossary/cache) or disarm [traps](/docs/glossary/trap). To do so, the adventurer makes a lockpick check against the mechanism''s difficulty code.'
+title: Взлом
+hoverText: '[Персонажам](/docs/glossary/adventurer) часто приходится проходить проверку взлома, чтобы вскрывать [тайники](/docs/glossary/cache) или обезвреживать [ловушки](/docs/glossary/trap). Для этого персонаж проходит проверку взлома против кода сложности механизма.'
 ---
 
 [Персонажам](/docs/glossary/adventurer) часто приходится проходить проверку
