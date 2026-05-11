@@ -1,13 +1,7 @@
 ---
 id: end-of-battle
 title: End of Battle
-hoverText: >
-  A battle ends after the current [round](/docs/battles/battle-round) when any of the following occur:
-
-
-  The [party](/docs/glossary/party) achieves the encounter's [objectives](/docs/battles/objectives/), or
-  the party [retreats](/docs/battles/retreat) from battle, or 
-  all [adventurers](/docs/glossary/adventurer) are [defeated](/docs/glossary/defeated).
+hoverText: 'A battle ends after the current [round](/docs/battles/battle-round) when any of the following occur: the [party](/docs/glossary/party) achieves the encounter''s [objectives](/docs/battles/objectives/), or the party [retreats](/docs/battles/retreat) from battle, or all [adventurers](/docs/glossary/adventurer) are [defeated](/docs/glossary/defeated).'
 ---
 
 A battle ends after the current [round](/docs/battles/battle-round) when any of
