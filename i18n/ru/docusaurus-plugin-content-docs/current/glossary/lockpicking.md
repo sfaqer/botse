@@ -1,91 +1,91 @@
 ---
 id: lockpicking
-title: Lockpicking
-hoverText: >
-  [Adventurers](/docs/glossary/adventurer) frequently need to pick locks in order to open [caches](/docs/glossary/cache) or disarm [traps](/docs/glossary/trap). To do so, the adventurer makes a lockpick check against the mechanism's difficulty code.
+title: Взлом
+hoverText: &gt;-
+  [Персонажам](/docs/glossary/adventurer) часто приходится проходить проверку взлома, чтобы вскрывать [тайники](/docs/glossary/cache) или обезвреживать [ловушки](/docs/glossary/trap). Для этого персонаж проходит проверку взлома против кода сложности механизма.
 ---
 
-[Adventurers](/docs/glossary/adventurer) frequently need to pick locks in order
-to open [caches](/docs/glossary/cache) or disarm [traps](/docs/glossary/trap).
-To do so, the adventurer makes a lockpick check against the mechanism's
-difficulty code. If they succeed, they pick the lock or disarm the trap, even if
-in the middle of an action. If they fail, that lock remains in place or the
-trap's effect is tripped.
+[Персонажам](/docs/glossary/adventurer) часто приходится проходить проверку
+взлома, чтобы вскрывать [тайники](/docs/glossary/cache) или обезвреживать
+[ловушки](/docs/glossary/trap). Для этого персонаж проходит проверку взлома
+против кода сложности механизма. При успехе персонаж вскрывает замок или
+обезвреживает ловушку, даже если это происходит в середине действия. При провале
+замок остаётся заблокированным или срабатывает эффект ловушки.
 
-During a battle, a lockpick check can be made when an
-[adventurer](/docs/glossary/adventurer) moves into a hex with a
-[cache](/docs/glossary/cache) or [trap](/docs/glossary/trap), even if in the
-middle of an action. During a [town](/docs/campaign/day/encounter-phase/town) or
-peaceful encounter, a lockpick check can be made only when the encounter's text
-describes it.
+Во время боя проверку взлома можно пройти, когда
+[персонаж](/docs/glossary/adventurer) входит в клетку с
+[тайником](/docs/glossary/cache) или [ловушкой](/docs/glossary/trap), даже если
+это происходит в середине действия. Во время [городской
+встречи](/docs/campaign/day/encounter-phase/town) или мирной встречи проверку
+взлома можно пройти только тогда, когда это предписывает текст встречи.
 
-## Difficulty Codes
+## Код взлома
 
-A difficulty code has the following elements, shown on the backs of item cards
-and within the trap effect text of delve cards.
+Код взлома состоит из следующих элементов, которые изображены на рубашках карт
+предметов и в тексте эффекта ловушки на картах вылазки.
 
-### Attempts
+### Попытки взлома
 
-The number of times an [adventurer](/docs/glossary/adventurer) may roll the
-lockpick dice (3 D6) during a lockpick check while trying to match the required
-results.
+Сколько раз [персонаж](/docs/glossary/adventurer) может бросить кубики взлома (3
+кубика D6) во время проверки взлома, пытаясь получить нужные результаты.
 
-The maximum number of lockpick attempts for an item is the top number on the
-back of the item card.
+Максимальное количество попыток взлома предмета указано верхним числом на
+рубашке карты предмета.
 
-The maximum number of trap lockpick attempts is shown as text in parentheses.
+Максимальное количество попыток обезвредить ловушку указано в тексте в скобках.
 
-### Digits
+### Цифры взлома
 
-3 or more digits, each of which the adventurer must match to succeed at their
-check.
+3 или более цифр, каждую из которых персонаж должен получить, чтобы успешно
+пройти проверку.
 
-- Each digit has a value of 1–6.
-- **Key Digit:** Each digit with a spiked border is a key digit and must be
-  matched first, before the [adventurer](/docs/glossary/adventurer) can attempt
-  to match other digit. Key digits are typically only found on legendary items.
+- Каждая цифра может иметь значение от 1 до 6.
+- **Ключевая цифра:** Каждая цифра в рамке с шипами является ключевой цифрой, и
+  [персонаж](/docs/glossary/adventurer) обязан получить её первой, прежде чем
+  пытаться получить другие цифры. Ключевые цифры обычно встречаются только на
+  легендарных предметах.
 
-## Lockpick Sequence
+## Проверка взлома
 
-1. **Roll:** Gather and roll your chosen number of lockpick dice.
-   - If this is your first attempt, you must roll all 3 lockpick dice.
-   - During additional attempts, you may choose to keep 1 or more results from
-     your previous attempt by setting those dice aside. These dice are not
-     rolled during additional attempts.
-   - If there is a key digit (shown in a spiked border), you must keep a die
-     matching that digit before you may keep any other dice. However, you can
-     decide to keep other dice rolled in the same attempt after deciding to keep
-     a die matching the key digit. After you have kept the die matching the key
-     digit and resolved that attempt, you may then roll that die during
-     additional attempts as normal.
-2. **Adjust Results:** You may change die results by gaining light
-   [fatigue](/docs/glossary/fatigue) For each light fatigue gained, you may
-   change 1 die result by 1, rotating that die to either [increase or
-   decrease](/docs/glossary/increase-or-reduce) its result (you cannot rotate a
-   6 to a 1 or vice versa).
-3. **Resolve the Attempt:** Compare your results to the difficulty code.
-   - If your accumulated results match each digit of the code, you succeed at
-     the check.
-   - If your results do not match each digit, you fail this attempt, but you may
-     continue to roll until you have no remaining attempts.
-   - If you fail an attempt and have no remaining attempts or choose not to
-     continue rolling, the check is failed and all die results accumulated for
-     that check are lost.
+1. **Бросьте кубики:** Соберите и бросьте выбранное вами количество кубиков
+   взлома.
+   - Если это первая попытка, вы обязаны бросить все 3 кубика взлома.
+   - При последующих попытках вы можете оставить 1 или несколько результатов
+     предыдущей попытки, отложив эти кубики в сторону. Эти кубики не бросаются
+     во время последующих попыток.
+   - Если в коде есть ключевая цифра (в рамке с шипами), вы обязаны отложить
+     кубик с этой цифрой, прежде чем откладывать любые другие кубики. Однако
+     после того, как вы решили отложить кубик с ключевой цифрой, вы можете также
+     отложить другие кубики, брошенные в той же попытке. После того как вы
+     отложили кубик с ключевой цифрой и разыграли эту попытку, во время
+     дополнительных попыток вы можете снова бросать этот кубик как обычно.
+2. **Измените результаты:** Вы можете менять результаты на кубиках, получая
+   лёгкую [усталость](/docs/glossary/fatigue). За каждую полученную лёгкую
+   усталость вы можете изменить результат на 1 кубике на 1, повернув этот кубик,
+   чтобы [увеличить или уменьшить](/docs/glossary/increase-or-reduce) его
+   результат. Нельзя повернуть 6 на 1 или наоборот.
+3. **Разыграйте попытку:** Сравните свои результаты с кодом сложности.
+   - Если ваши накопленные результаты соответствуют каждой цифре кода, вы
+     успешно проходите проверку.
+   - Если ваши результаты не соответствуют каждой цифре, эта попытка провалена,
+     но вы можете продолжать бросать кубики, пока у вас остаются попытки.
+   - Если вы провалили попытку и у вас не осталось попыток или вы решили больше
+     не бросать кубики, проверка провалена, а все результаты на кубиках,
+     накопленные для этой проверки, теряются.
 
-After the lockpick check is resolved, you resume your turn in your current
-encounter.
+После розыгрыша проверки взлома вы продолжаете свой ход в текущей встрече.
 
 ---
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**If you enter a hex and choose not to lockpick the cache, do you have to
-re-enter the hex to attempt to lockpick it?**
+**Если вы входите в клетку и решаете не взламывать тайник, нужно ли вам выйти из
+этой клетки и снова войти в неё, чтобы попытаться взломать тайник?**
 
-Yes, you would be that you do need to move off and back on. In some scenarios,
-the caches don't clear when they're failed. So in those cases as well, you need
-to move off and back on to trigger another opportunity to lock pick it.
+Да. Нужно выйти из этой клетки и снова войти в неё. В некоторых случаях тайники
+не убираются после провала проверки. Поэтому в таких случаях тоже нужно выйти из
+клетки и снова войти в неё, чтобы получить новую возможность взломать тайник.
 
 <a href="https://boardgamegeek.com/thread/3452482/article/45595519#45595519" target="_blank">Источник</a>
 /

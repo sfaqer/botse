@@ -1,41 +1,41 @@
 ---
 id: recover
-title: Recover
-hoverText: An adventurer may only recover a die from their cooldown track. A drained die can only be recovered by an ability that specifically affects drained dice.
+title: Возвращение кубиков
+hoverText: Персонаж может возвращать кубики только со своего трека перезарядки. Исчерпанный кубик можно вернуть только с помощью способности, которая прямо действует на исчерпанные кубики.
 ---
 
-When an exhausted skill die is removed from the [cooldown
-track](/docs/glossary/cooldown-track) by your [Recovery
-step](/docs/battles/adventurer-turn/index/#2-recovery) or another effect, you
-recover that die. Place it in the correct slot in your attribute rows. That die
-is immediately available to use. When a status effect die is removed from the
-cooldown track, return it to the supply.
+Когда истощённый кубик навыка снимается с [трека
+перезарядки](/docs/glossary/cooldown-track) на этапе [возвращения
+кубиков](/docs/battles/adventurer-turn/index/#2-recovery) или благодаря другому
+эффекту, вы возвращаете этот кубик себе. Поместите его в соответствующую ячейку
+в ряду умений. Этот кубик сразу становится доступным для использования. Когда
+кубик состояния снимается с трека перезарядки, верните его в запас.
 
-A [drained](/docs/glossary/drained) die can only be recovered by an effect that
-specifically recovers drained dice, by visiting an inn during a
-[town](/docs/campaign/day/encounter-phase/town) encounter, or during the [End of
-Battle](/docs/battles/end-of-battle) Cleanup.
+[Исчерпанный](/docs/glossary/drained) кубик можно вернуть только с помощью
+эффекта, который прямо возвращает исчерпанные кубики, при посещении таверны во
+время [городской встречи](/docs/campaign/day/encounter-phase/town) или во время
+процедуры [окончания боя](/docs/battles/end-of-battle).
 
 ---
 
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Remove vs. Recover Overfatigue Dice from Cooldown**
+**Удаление или возвращение кубика переутомления с трека перезарядки**
 
-When game text tells you to recover an overfatigue die in your cooldown track,
-treat it like normal for recovering overfatigue - it goes to the end of your
-cooldown track. When game text tells you to remove an overfatigue die from
-cooldown, you can remove it entirely.
+Когда игровой текст предписывает вернуть кубик переутомления с вашего трека
+перезарядки, применяйте обычное правило возвращения кубиков переутомления: он
+перемещается в конец вашего трека перезарядки. Когда игровой текст предписывает
+убрать кубик переутомления с трека перезарядки, вы можете убрать его полностью.
 
-If game text says to remove a fatigue die, you can choose between light or
-overfatigue.
+Если игровой текст предписывает убрать кубик усталости, вы можете выбрать лёгкую
+усталость или переутомление.
 
-There are a few spots in the rulebook where remove is used when recover would be
-more appropriate, but it should be generally understood that an overfatigue die
-that would leave your cooldown track is placed back at the end of your cooldown
-track, unless it's being removed by a game effect that specifically tells you
-that you can remove it.
+В правилах есть несколько мест, где используется «убрать», хотя точнее было бы
+«вернуть», но в целом следует понимать так: кубик переутомления, который должен
+покинуть ваш трек перезарядки, помещается в конец вашего трека перезарядки, если
+только его не убирает игровой эффект, прямо указывающий, что вы можете его
+убрать.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294279" target="_blank">Источник</a>
 <!-- translate:off -->
