@@ -1,15 +1,15 @@
 ---
 id: day
-title: Day / Phases
-hoverText: Each game session is played over a number of rounds called days.
+title: День / фазы
+hoverText: Каждый эпизод разыгрывается в течение нескольких раундов, которые называются днями.
 slug: /campaign/day/index
 ---
 
-Each game session is played over a number of rounds called days. Each day is
-divided into the five phases:
+Каждый эпизод разыгрывается в течение нескольких раундов, которые называются
+днями. Каждый день делится на пять фаз:
 
-1. [New Day Phase](/docs/campaign/day/new-day-phase)
-2. [Overland Phase](/docs/campaign/day/overland-phase/index/)
-3. [Encounter Phase](/docs/campaign/day/encounter-phase/index/)
-4. [Reward Phase](/docs/campaign/day/reward-phase)
-5. [End of Day Phase](/docs/campaign/day/end-of-day-phase)
+1. [Фаза начала дня](/docs/campaign/day/new-day-phase)
+2. [Фаза провинции](/docs/campaign/day/overland-phase/index/)
+3. [Фаза встречи](/docs/campaign/day/encounter-phase/index/)
+4. [Фаза наград](/docs/campaign/day/reward-phase)
+5. [Фаза конца дня](/docs/campaign/day/end-of-day-phase)

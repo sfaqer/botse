@@ -9,7 +9,7 @@ Each province is represented by an overland map and gazetteer.
 
 ## Released
 
-| Name                                                | Code | Native Skill                                        |
+| Название                                            | Code | Native Skill                                        |
 | --------------------------------------------------- | ---- | --------------------------------------------------- |
 | [Black Marsh](/docs/campaign/provinces/black-marsh) | BM   | [Storm Seer](/docs/battles/enemy-skills/storm-seer) |
 | [Cyrodiil](/docs/campaign/provinces/cyrodiil)       | CY   | [Detain](/docs/battles/enemy-skills/detain)         |
@@ -20,7 +20,7 @@ Each province is represented by an overland map and gazetteer.
 
 ## Unreleased
 
-| Name                                                         | Code | Native Skill |
+| Название                                                     | Code | Native Skill |
 | ------------------------------------------------------------ | ---- | ------------ |
 | [Elsweyr](/docs/campaign/provinces/unreleased/elsweyr)       | EL   | N/a          |
 | [Hammerfell](/docs/campaign/provinces/unreleased/hammerfell) | HF   | N/a          |

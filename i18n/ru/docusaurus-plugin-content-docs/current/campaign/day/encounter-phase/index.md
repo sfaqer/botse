@@ -28,7 +28,7 @@ cannot choose it.
 Encounters have 2 outcome types: peaceful or battle. When an encounter appears
 on an overland card, its outcomes are indicated by an icon.
 
-### Peaceful
+### Мирная встреча
 
 A peaceful
 (<img src="/icons/peaceful-outcome.svg" alt="Peaceful Outcome Icon" className="icon-svg" />)

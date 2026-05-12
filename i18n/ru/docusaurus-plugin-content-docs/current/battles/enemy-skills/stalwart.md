@@ -1,25 +1,26 @@
 ---
 id: stalwart
-title: Stalwart
-hoverText: This [unit](/docs/glossary/unit) [cannot](/docs/glossary/cannot) lose more than 1 HP in a single [turn](/docs/glossary/turn).
+title: Стойкий
+hoverText: Эта [боевая единица](/docs/glossary/unit) [не может](/docs/glossary/cannot) потерять больше 1 ОЗ за один [ход](/docs/glossary/turn).
 ---
 
-This [unit](/docs/glossary/unit) [cannot](/docs/glossary/cannot) lose more than
-1 HP in a single [turn](/docs/glossary/turn).
+Эта [боевая единица](/docs/glossary/unit) [не может](/docs/glossary/cannot)
+потерять больше 1 ОЗ за один [ход](/docs/glossary/turn).
 
 ---
 
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**How does Stalwart work?**
+**Как работает «Стойкий»?**
 
-If a unit can't lose HP, for example by having the enemy skill Stalwart, nothing
-can cause it to lose HP. This includes true damage. This isn't damage prevention
-like defense is, so no type of damage can override this. Only skills/abilities
-that would straight up [defeat](/docs/glossary/defeated) the unit outright can
-get around this (or the [Fear](/docs/battles/status-effects/fear) status effect,
-which would then allow you to ignore the skill entirely).
+Если боевая единица не может терять ОЗ, например из-за вражеского навыка
+«Стойкий», ничто не может заставить её потерять ОЗ. Это включает [неблокируемый
+урон](/docs/glossary/defeated). Это не предотвращение урона в духе защиты,
+поэтому его нельзя обойти. Только навыки/способности, которые прямо
+[повергают](/docs/glossary/defeated) боевую единицу, могут обойти это
+ограничение (или состояние [«Страх»](/docs/battles/status-effects/fear), которое
+затем позволит вам полностью игнорировать этот навык).
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000293224" target="_blank">Источник</a>
 
@@ -29,12 +30,12 @@ which would then allow you to ignore the skill entirely).
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**How does Stalwart and Master
-[Blastbones](/docs/adventurer/classes/mage/necromancer) work?**
+**Как взаимодействуют «Стойкий» и мастерский [«Взрыв
+костей»](/docs/adventurer/classes/mage/necromancer)?**
 
-Stalwart is only applicable to HP lost in a unit's turn. It doesn't apply for
-damage dealt outside of a unit's turn, such as damage dealt by the companions
-summoned through Master Blastbones.
+«Стойкий» применяется только к потере ОЗ в ход боевой единицы. Он не применяется
+к урону, нанесённому вне хода боевой единицы, например к урону, нанесённому
+компаньонами, призванными мастерским «Взрывом костей».
 
 <a href="https://discord.com/channels/273472391403798528/1441490396793540760/1476965853021868208" target="_blank">Источник</a>
 <!-- translate:off -->

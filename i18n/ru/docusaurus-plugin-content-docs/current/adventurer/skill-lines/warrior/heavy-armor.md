@@ -26,7 +26,7 @@ result showing.
 
 <img src="/icons/skills/heavy-armor/resolve-all-results.png" className="skill-icon" />
 
-| Icon                                                                       | Ability                                                                                                                                                                                                                                                                                                                                                |
+| Символ                                                                     | Ability                                                                                                                                                                                                                                                                                                                                                |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="/icons/skills/heavy-armor/resolve.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in your [cooldown track](/docs/glossary/cooldown-track), when you are dealt damage by an [adjacent](/docs/glossary/adjacent) [enemy](/docs/glossary/enemy), you [may](/docs/glossary/may) prevent X damage. |
 
@@ -36,7 +36,7 @@ result showing.
 
 <img src="/icons/skills/heavy-armor/constitution-all-results.png" className="skill-icon" />
 
-| Icon                                                                            | Ability                                                                                                                                                                                                                                                                                                                                                   |
+| Символ                                                                          | Ability                                                                                                                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/heavy-armor/constitution.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in your [cooldown track](/docs/glossary/cooldown-track), when you are dealt damage by a non-[adjacent](/docs/glossary/adjacent) [enemy](/docs/glossary/enemy), you [may](/docs/glossary/may) prevent X damage. |
 
@@ -46,7 +46,7 @@ result showing.
 
 **Dice Supply:** 1
 
-| Icon                                                                         | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Символ                                                                       | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/heavy-armor/immovable.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in your [cooldown track](/docs/glossary/cooldown-track), after an [adjacent](/docs/glossary/adjacent) [enemy](/docs/glossary/enemy) [engages](/docs/battles/enemy-turn) you, deal that enemy damage equal to the number of [available](/docs/glossary/available) [Combat](/docs/adventurer/skill-lines/warrior/combat) skill dice you have. |
 
@@ -65,8 +65,9 @@ Sequence on a [Enemy Turn](/docs/battles/enemy-turn).
 [Blind](/docs/battles/enemy-skills/blind)) still trigger, if you defeat an enemy
 using Immovable?**
 
-After the engage does not trigger if the enemy is defeated, it needs to be on
-the board when the skill would trigger or else it doesn't happen.
+Эффект «после действия атаки» не срабатывает, если враг повержен: он должен
+находиться на поле боя в момент, когда навык должен сработать; иначе эффект не
+применяется.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225248522539058" target="_blank">Источник</a>
 <!-- translate:off -->
@@ -76,7 +77,7 @@ the board when the skill would trigger or else it doesn't happen.
 
 **Dice Supply:** 1
 
-| Icon                                                                        | Ability                                                                                                                                                                                                                                                                                    |
+| Символ                                                                      | Ability                                                                                                                                                                                                                                                                                    |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="/icons/skills/heavy-armor/ironclad.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in your [cooldown track](/docs/glossary/cooldown-track), Resolve and Constitution dice in your cooldown track each prevent 1 additional damage. |
 
@@ -102,7 +103,7 @@ order to add to the damage they are preventing.
 
 **Dice Supply:** 1
 
-| Icon                                                                           | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Символ                                                                         | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/heavy-armor/unstoppable.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in your [cooldown track](/docs/glossary/cooldown-track), you may [move](/docs/battles/adventurer-turn/move) 1 additional hex for each Heavy Armor skill die in your cooldown track, and you may move into hexes [occupied](/docs/glossary/occupied) by non-[quest units](/docs/glossary/quest-unit). When you do, the unit occupying the hex is [placed](/docs/glossary/move-or-place) in the [closest](/docs/glossary/closest) [unoccupied](/docs/glossary/occupied) hex. |
 
@@ -125,7 +126,7 @@ needs to have, just that they are Heavy Armor dice.
 
 **Dice Supply:** 1
 
-| Icon                                                                          | Ability                                                                                                                                                                                                                                                                                                                                                                   |
+| Символ                                                                        | Ability                                                                                                                                                                                                                                                                                                                                                                   |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/heavy-armor/juggernaut.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in your [cooldown track](/docs/glossary/cooldown-track), you may gain 1 light [fatigue](/docs/glossary/fatigue) to gain 2 [tenacity](/docs/glossary/tenacity) each time you change [battle form](/docs/battles/battle-forms/). |
 

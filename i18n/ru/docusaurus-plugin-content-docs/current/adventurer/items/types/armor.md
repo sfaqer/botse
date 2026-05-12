@@ -42,8 +42,9 @@ to be [discarded](/docs/glossary/discard)).
 
 **When do you choose to Overtax?**
 
-When you overtax armor, you can wait to see what the [enemy
-rolls](/docs/battles/enemy-turn) before deciding if you want to overtax it.
+Когда вы применяете «Сверхнагрузку» для брони, вы можете дождаться результата
+[броска врага](/docs/battles/enemy-turn), прежде чем решить, хотите ли применить
+«Сверхнагрузку».
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292496" target="_blank">Источник</a>
 <!-- translate:off -->

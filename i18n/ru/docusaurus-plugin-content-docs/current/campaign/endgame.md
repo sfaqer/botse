@@ -45,7 +45,7 @@ phases with the following exceptions.
   Province Effect step unless instructed. Overland cards are not drawn during
   the endgame.
 
-## Encounters
+## Встречи
 
 Each endgame encounter is labeled with the day when it is resolved. The party
 completes each encounter in order.

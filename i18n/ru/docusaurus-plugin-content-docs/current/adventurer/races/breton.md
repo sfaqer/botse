@@ -22,10 +22,10 @@ return that item to your pack [instead](/docs/glossary/instead) of discarding
 it. You may [then](/docs/glossary/then) move a different item in your pack to a
 ready slot.
 
-| Stat                                                  | Value |
-| ----------------------------------------------------- | ----- |
-| [Health](/docs/adventurer/stats/health)               | 5     |
-| [Stamina](/docs/adventurer/stats/stamina)             | 2     |
-| [Magicka](/docs/adventurer/stats/magicka)             | 3     |
-| [Combat](/docs/adventurer/skill-lines/warrior/combat) | 1     |
-| [Cooldown](/docs/adventurer/stats/cooldown)           | 2     |
+| Stat                                               | Value |
+| -------------------------------------------------- | ----- |
+| [Health](/docs/adventurer/stats/health)            | 5     |
+| [Stamina](/docs/adventurer/stats/stamina)          | 2     |
+| [Magicka](/docs/adventurer/stats/magicka)          | 3     |
+| [Бой](/docs/adventurer/skill-lines/warrior/combat) | 1     |
+| [Cooldown](/docs/adventurer/stats/cooldown)        | 2     |

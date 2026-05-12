@@ -14,7 +14,7 @@ deal 2 damage to a targetable enemy.
 
 <div className="class-table-wrapper">
 
-| Tenacity Cost | Name                | Ability                                                                                                                                                                                                                                                |
+| Tenacity Cost | Название            | Ability                                                                                                                                                                                                                                                |
 | ------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1             | Accuracy            | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon) **[Interrupt](/docs/glossary/interrupt):** When selecting a target, increase your [range](/docs/glossary/range) by 1. |
 | 2             | Hawk Eye            | [Heal](/docs/glossary/healing) for HP equal to the number of enemies within your [range](/docs/glossary/range).                                                                                                                                        |
@@ -32,7 +32,7 @@ deal 2 damage to an enemy in [sight](/docs/glossary/sight).
 
 <div className="class-table-wrapper">
 
-| Tenacity Cost | Name                | Ability                                                                                                                                                                                                                                              | Upgrade effect            |
+| Tenacity Cost | Название            | Ability                                                                                                                                                                                                                                              | Upgrade effect            |
 | ------------- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
 | 1             | Accuracy            | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon) **[Enduring](/docs/glossary/enduring):** When selecting a target, increase your [range](/docs/glossary/range) by 1. | Interrupt → Enduring      |
 | 2             | Hawk Eye            | [Heal](/docs/glossary/healing) for HP equal to the number of enemies within your [range](/docs/glossary/range).                                                                                                                                      | —                         |

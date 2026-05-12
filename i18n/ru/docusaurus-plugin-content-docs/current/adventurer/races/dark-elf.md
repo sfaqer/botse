@@ -17,13 +17,13 @@ their readiness for conflict, often mastering magic, the blade, or both.
 track](/docs/glossary/cooldown-track), replacing each with light
 [fatigue](/docs/glossary/fatigue).
 
-| Stat                                                  | Value |
-| ----------------------------------------------------- | ----- |
-| [Health](/docs/adventurer/stats/health)               | 4     |
-| [Stamina](/docs/adventurer/stats/stamina)             | 2     |
-| [Magicka](/docs/adventurer/stats/magicka)             | 3     |
-| [Combat](/docs/adventurer/skill-lines/warrior/combat) | 2     |
-| [Cooldown](/docs/adventurer/stats/cooldown)           | 2     |
+| Stat                                               | Value |
+| -------------------------------------------------- | ----- |
+| [Health](/docs/adventurer/stats/health)            | 4     |
+| [Stamina](/docs/adventurer/stats/stamina)          | 2     |
+| [Magicka](/docs/adventurer/stats/magicka)          | 3     |
+| [Бой](/docs/adventurer/skill-lines/warrior/combat) | 2     |
+| [Cooldown](/docs/adventurer/stats/cooldown)        | 2     |
 
 ---
 
