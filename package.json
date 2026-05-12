@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
+    "postinstall": "patch-package",
     "build-data": "node scripts/build-enemy-skills-data.mjs",
     "prestart": "npm run build-data",
     "start": "docusaurus start",
@@ -40,6 +41,7 @@
     "@docusaurus/tsconfig": "^3.8.1",
     "@docusaurus/types": "^3.9.2",
     "@svgr/webpack": "^8.1.0",
+    "patch-package": "^8.0.1",
     "typescript": "^5.8.3"
   },
   "browserslist": {
