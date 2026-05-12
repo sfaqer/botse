@@ -4,7 +4,7 @@ title: Miscellaneous
 hoverText: Miscellaneous items encompass a broad range of abilities that do not use the mechanics of the other subtypes. Each Miscellaneous item ability functions as described.
 ---
 
-# <img src="/icons/miscellaneous.svg" alt="Miscellaneous Icon" /> Miscellaneous
+# <img src="/icons/miscellaneous.svg" alt="Miscellaneous Icon" /> Разное
 
 Miscellaneous items encompass a broad range of abilities that do not use the
 mechanics of the other subtypes. Each

@@ -142,13 +142,13 @@ the die is resolved (step 5).
 <!-- translate:off -->
 :::
 <!-- translate:on -->
-| Icon                                                              | Name                                            |
-| ----------------------------------------------------------------- | ----------------------------------------------- |
-| <img src="/icons/active-slot.svg" alt="Active Slot Icon" />       | [Active Slot](/docs/glossary/active-slot)       |
-| <img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" /> | [Cooldown Track](/docs/glossary/cooldown-track) |
-| <img src="/icons/drained.svg" alt="Drained Icon" />               | [Drained](/docs/glossary/drained)               |
-| <img src="/icons/instant.svg" alt="Instant Icon" />               | [Instant](/docs/glossary/instant)               |
-| <img src="/icons/status-effect.svg" alt="Status Effect Icon" />   | [Status Effect](/docs/glossary/status-effect)   |
+| Символ                                                            | Название                                          |
+| ----------------------------------------------------------------- | ------------------------------------------------- |
+| <img src="/icons/active-slot.svg" alt="Active Slot Icon" />       | [Ячейки активности](/docs/glossary/active-slot)   |
+| <img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" /> | [Трек перезарядки](/docs/glossary/cooldown-track) |
+| <img src="/icons/drained.svg" alt="Drained Icon" />               | [Исчерпаемый](/docs/glossary/drained)             |
+| <img src="/icons/instant.svg" alt="Instant Icon" />               | [Мгновенный](/docs/glossary/instant)              |
+| <img src="/icons/status-effect.svg" alt="Status Effect Icon" />   | [Эффект состояния](/docs/glossary/status-effect)  |
 
 ## Rolling Skill Dice Outside of Battle
 
@@ -168,10 +168,11 @@ with the following exceptions:
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Do enemy skills trigger after engage if they are defeated?**
+**Срабатывают ли навыки врага после действия атаки, если он повержен?**
 
-If an enemy has a skill that triggers **after** it is engaged, that skill does
-not trigger if the enemy is defeated during that engage.
+Если у врага есть навык, который срабатывает **после** того, как он подвергся
+действию атаки, этот навык не срабатывает, если враг повержен во время этого
+действия атаки.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000291973" target="_blank">Источник</a>
 

@@ -14,7 +14,7 @@ hoverText: ""
 
 <div className="class-table-wrapper">
 
-| Tenacity Cost | Name                | Ability                                                                                                                                                                                     |
+| Tenacity Cost | Название            | Ability                                                                                                                                                                                     |
 | ------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1             | Honor Duel          | If there is only 1 enemy within 3 hexes of you, deal 3 damage to that enemy.                                                                                                                |
 | 1             | Solemn Vow          | Remove a status die from your cooldown track and apply it to a non-quest enemy within 2 hexes of you.                                                                                       |
@@ -33,7 +33,7 @@ party, [heal](/docs/glossary/healing) to full HP and clear your cooldown track.
 
 <div className="class-table-wrapper">
 
-| Tenacity Cost | Name                | Ability                                                                                                                                                                                                                                                                                       | Upgrade effect                                                                                             |
+| Tenacity Cost | Название            | Ability                                                                                                                                                                                                                                                                                       | Upgrade effect                                                                                             |
 | ------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | 1             | Honor Duel          | If there is only 1 enemy within 3 hexes of you, deal 3 damage to that enemy.                                                                                                                                                                                                                  | —                                                                                                          |
 | 1             | Solemn Vow          | Remove a status die from your cooldown track and apply it to a non-quest enemy within 2 hexes of you.                                                                                                                                                                                         | —                                                                                                          |

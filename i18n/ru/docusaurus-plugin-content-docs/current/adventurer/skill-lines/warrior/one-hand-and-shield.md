@@ -18,7 +18,7 @@ title: One Hand and Shield
 
 <img src="/icons/skills/one-hand-and-shield/shield-discipline-all-results.png" className="skill-icon" />
 
-| Icon                                                                                         | Ability                                                                                                                                                                                                                                                                                                                             |
+| Символ                                                                                       | Ability                                                                                                                                                                                                                                                                                                                             |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/one-hand-and-shield/shield-discipline.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): When you place this die in an [active slot](/docs/glossary/active-slot), deal X damage to your target. When you are dealt damage by an [enemy](/docs/glossary/enemy), you may exhaust this die to prevent X damage. |
 
@@ -40,7 +40,7 @@ damage prevention.
 
 **Dice Supply:** 2
 
-| Icon                                                                                      | Ability                                                                                                                                                                                                                                                                 |
+| Символ                                                                                    | Ability                                                                                                                                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/one-hand-and-shield/heroic-slash-1.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal 2 damage to your target for each Shield Discipline die in your [active slots](/docs/glossary/active-slot).                                                     |
 | <img src="/icons/skills/one-hand-and-shield/heroic-slash-2.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Exhaust any number of Shield Discipline dice from your [active slots](/docs/glossary/active-slot) and deal 3 damage to your target for each die exhausted this way. |
@@ -51,7 +51,7 @@ damage prevention.
 
 **Dice Supply:** 1
 
-| Icon                                                                                         | Ability                                                                                                                                                                                                                                                                                                                                                                                   |
+| Символ                                                                                       | Ability                                                                                                                                                                                                                                                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/one-hand-and-shield/defensive-posture.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): After you are [engaged](/docs/battles/enemy-turn) by an [adjacent](/docs/glossary/adjacent) [enemy](/docs/glossary/enemy), roll 1 enemy Combat die for each damage dealt to you. Deal the rolled damage back to the enemy. [Then](/docs/glossary/then), exhaust this die. |
 
@@ -79,8 +79,9 @@ No, it is optional.
 [Blind](/docs/battles/enemy-skills/blind)) still trigger, if you defeat an enemy
 using Defensive Posture?**
 
-After the engage does not trigger if the enemy is defeated, it needs to be on
-the board when the skill would trigger or else it doesn't happen.
+Эффект «после действия атаки» не срабатывает, если враг повержен: он должен
+находиться на поле боя в момент, когда навык должен сработать; иначе эффект не
+применяется.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225248522539058" target="_blank">Источник</a>
 <!-- translate:off -->
@@ -90,7 +91,7 @@ the board when the skill would trigger or else it doesn't happen.
 
 **Dice Supply:** 1
 
-| Icon                                                                                       | Ability                                                                                                                                                                                                                                                                                                                                                              |
+| Символ                                                                                     | Ability                                                                                                                                                                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/one-hand-and-shield/shield-charge-1.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): [Recover](/docs/glossary/recover) any number of Shield Discipline dice from your [active slots](/docs/glossary/active-slot) and [cooldown track](/docs/glossary/cooldown-track). Deal 1 damage to your target for each Shield Discipline die recovered this way. |
 | <img src="/icons/skills/one-hand-and-shield/shield-charge-2.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal 1 damage to your target for each One Hand and Shield skill die you have [trained](/docs/glossary/trained/).                                                                                                                                                 |
@@ -101,7 +102,7 @@ the board when the skill would trigger or else it doesn't happen.
 
 **Dice Supply:** 1
 
-| Icon                                                                                  | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Символ                                                                                | Ability                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/one-hand-and-shield/power-bash.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): After this [engage](/docs/battles/adventurer-turn/engage), remove all Shield Discipline dice from your [cooldown track](/docs/glossary/cooldown-track) and [active slots](/docs/glossary/active-slot). [Then](/docs/glossary/then), declare a target and roll the Shield Discipline dice as a [free](/docs/glossary/free) engage, applying the results as normal. |
 

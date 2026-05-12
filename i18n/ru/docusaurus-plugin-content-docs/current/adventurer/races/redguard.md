@@ -20,10 +20,10 @@ HP for each die removed. If the total HP recovered exceeds your
 [Health](/docs/adventurer/stats/health) stat, it is gained as [bonus
 HP](/docs/glossary/bonus-hp).
 
-| Stat                                                  | Value |
-| ----------------------------------------------------- | ----- |
-| [Health](/docs/adventurer/stats/health)               | 4     |
-| [Stamina](/docs/adventurer/stats/stamina)             | 3     |
-| [Magicka](/docs/adventurer/stats/magicka)             | 2     |
-| [Combat](/docs/adventurer/skill-lines/warrior/combat) | 3     |
-| [Cooldown](/docs/adventurer/stats/cooldown)           | 1     |
+| Stat                                               | Value |
+| -------------------------------------------------- | ----- |
+| [Health](/docs/adventurer/stats/health)            | 4     |
+| [Stamina](/docs/adventurer/stats/stamina)          | 3     |
+| [Magicka](/docs/adventurer/stats/magicka)          | 2     |
+| [Бой](/docs/adventurer/skill-lines/warrior/combat) | 3     |
+| [Cooldown](/docs/adventurer/stats/cooldown)        | 1     |

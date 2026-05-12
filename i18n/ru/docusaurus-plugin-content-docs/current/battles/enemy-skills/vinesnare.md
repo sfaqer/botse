@@ -1,34 +1,36 @@
 ---
 id: vinesnare
-title: Vinesnare
-hoverText: After this [unit's](/docs/glossary/unit) [engage](/docs/battles/enemy-turn), its target must [drain](/docs/glossary/drained) 1 [available](/docs/glossary/available) [Combat](/docs/adventurer/skill-lines/warrior/combat) skill die.
+title: Ловчая лоза
+hoverText: После того как эта [боевая единица](/docs/glossary/unit) выполняет [действие атаки](/docs/battles/enemy-turn), её цель должна [исчерпать](/docs/glossary/drained) 1 [доступный](/docs/glossary/available) кубик навыка [«Бой»](/docs/adventurer/skill-lines/warrior/combat).
 ---
 
-After this [unit's](/docs/glossary/unit) [engage](/docs/battles/enemy-turn), its
-target must [drain](/docs/glossary/drained) 1
-[available](/docs/glossary/available)
-[Combat](/docs/adventurer/skill-lines/warrior/combat) skill die.
+После того как эта [боевая единица](/docs/glossary/unit) выполняет [действие
+атаки](/docs/battles/enemy-turn), её цель должна
+[исчерпать](/docs/glossary/drained) 1 [доступный](/docs/glossary/available)
+кубик навыка [«Бой»](/docs/adventurer/skill-lines/warrior/combat).
 
 ---
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Does this skill effect companions?**
+**Действует ли эффект этого навыка на компаньонов?**
 
-Since this skill drains a Combat skill die, it does not have any effect against
-non-[adventurer](/docs/glossary/adventurer) units, e.g.
-[companions](/docs/glossary/companion)
+Поскольку этот навык исчерпывает кубик навыка «Бой», он не действует на боевые
+единицы, не являющиеся [персонажами](/docs/glossary/adventurer), например
+[компаньонов](/docs/glossary/companion)
 
 <a href="https://boardgamegeek.com/thread/3445750/article/45528193#45528193" target="_blank">Источник</a>
 
 ---
 
-**Does this skill still trigger if the unit is defeated during the engage, e.g.
-'Reflect' damage dealt via items or abilities**
+**Срабатывает ли этот навык, если боевая единица повержена во время действия
+атаки, например из-за урона «Отражения», нанесённого предметами или
+способностями?**
 
-After the engage does not trigger if the enemy is defeated, it needs to be on
-the board when the skill would trigger or else it doesn't happen.
+Эффект «после действия атаки» не срабатывает, если враг повержен: он должен
+находиться на поле боя в момент, когда навык должен сработать; иначе эффект не
+применяется.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225248522539058" target="_blank">Источник</a>
 <!-- translate:off -->

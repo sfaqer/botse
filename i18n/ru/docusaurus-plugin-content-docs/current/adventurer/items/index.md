@@ -30,18 +30,18 @@ used unless required by that item's ability. When either the Common or Legendary
 Item Deck is emptied, that deck's discard pile must be reshuffled and placed
 back into the card tray.
 
-## Item Types
+## Типы предметов
 
-| Icon                                                            | Name                                                        |
-| --------------------------------------------------------------- | ----------------------------------------------------------- |
-| <img src="/icons/armor.svg" alt="Armor Icon" />                 | [Armor](/docs/adventurer/items/types/armor)                 |
-| <img src="/icons/consumable.svg" alt="Consumable Icon" />       | [Consumable](/docs/adventurer/items/types/consumable)       |
-| <img src="/icons/clothing.svg" alt="Clothing Icon" />           | [Clothing](/docs/adventurer/items/types/clothing)           |
-| <img src="/icons/enchantment.svg" alt="Enchantment Icon" />     | [Enchantment](/docs/adventurer/items/types/enchantment)     |
-| <img src="/icons/miscellaneous.svg" alt="Miscellaneous Icon" /> | [Miscellaneous](/docs/adventurer/items/types/miscellaneous) |
-| <img src="/icons/pet.svg" alt="Pet Icon" />                     | [Pet](/docs/adventurer/items/types/pet)                     |
-| <img src="/icons/potion.svg" alt="Potion Icon" />               | [Potion](/docs/adventurer/items/types/potion)               |
-| <img src="/icons/weapon.svg" alt="Weapon Icon" />               | [Weapon](/docs/adventurer/items/types/weapon)               |
+| Символ                                                          | Название                                                |
+| --------------------------------------------------------------- | ------------------------------------------------------- |
+| <img src="/icons/armor.svg" alt="Armor Icon" />                 | [Броня](/docs/adventurer/items/types/armor)             |
+| <img src="/icons/consumable.svg" alt="Consumable Icon" />       | [Расходник](/docs/adventurer/items/types/consumable)    |
+| <img src="/icons/clothing.svg" alt="Clothing Icon" />           | [Одежда](/docs/adventurer/items/types/clothing)         |
+| <img src="/icons/enchantment.svg" alt="Enchantment Icon" />     | [Зачарование](/docs/adventurer/items/types/enchantment) |
+| <img src="/icons/miscellaneous.svg" alt="Miscellaneous Icon" /> | [Разное](/docs/adventurer/items/types/miscellaneous)    |
+| <img src="/icons/pet.svg" alt="Pet Icon" />                     | [Питомец](/docs/adventurer/items/types/pet)             |
+| <img src="/icons/potion.svg" alt="Potion Icon" />               | [Зелье](/docs/adventurer/items/types/potion)            |
+| <img src="/icons/weapon.svg" alt="Weapon Icon" />               | [Оружие](/docs/adventurer/items/types/weapon)           |
 
 ## Traits
 

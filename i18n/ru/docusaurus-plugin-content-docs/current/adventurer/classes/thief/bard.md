@@ -29,7 +29,7 @@ this innate.
 <!-- translate:on -->
 <div className="class-table-wrapper">
 
-| Tenacity Cost | Name                       | Ability                                                                                                                                                                                                                                                                     |
+| Tenacity Cost | Название                   | Ability                                                                                                                                                                                                                                                                     |
 | ------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1             | Red Mountain Drinking Song | **[Interrupt](/docs/glossary/interrupt):** After deploying enemies, deal 1 [true damage](/docs/glossary/true-damage) to up to 2 enemies that were just deployed.                                                                                                            |
 | 1             | Stagger and Sway           | **[Interrupt](/docs/glossary/interrupt):** When a party member engages an enemy, they may ignore 1 defense on that enemy.                                                                                                                                                   |
@@ -46,7 +46,7 @@ within 4 hexes of you, including yourself.
 
 <div className="class-table-wrapper">
 
-| Tenacity Cost | Name                       | Ability                                                                                                                                                                                                                                                                     | Upgrade effect             |
+| Tenacity Cost | Название                   | Ability                                                                                                                                                                                                                                                                     | Upgrade effect             |
 | ------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
 | 1             | Red Mountain Drinking Song | **[Interrupt](/docs/glossary/interrupt):** After deploying enemies, deal 1 [true damage](/docs/glossary/true-damage) to up to 3 enemies that were just deployed.                                                                                                            | Affects 1 additional enemy |
 | 1             | Stagger and Sway           | **[Interrupt](/docs/glossary/interrupt):** When a party member engages an enemy, they may ignore 1 defense on that enemy.                                                                                                                                                   | —                          |
@@ -75,10 +75,10 @@ time during that engage, so you can wait and see what the roll is.
 **How does Elusive work with damage that happens outside of a turn (e.g Red
 Mountain Drinking Song)?**
 
-Elusive is only able to prevent damage that happens within a turn. It's not
-applicable to damage that happens outside of a unit's turn. So Bard's Red
-Mountain Drinking Song is not affected by Elusive when used after the initial
-enemy deployment that happens outside of a turn.
+«Неуловимость» может предотвращать только урон, который наносится во время хода.
+Она не применяется к урону, нанесённому вне хода боевой единицы. Поэтому
+«Застольная песня Красной горы» барда не взаимодействует с «Неуловимостью»,
+когда применяется после начального размещения врагов, происходящего вне хода.
 
 <a href="https://discord.com/channels/273472391403798528/1441482687356338236/1476963219599003682" target="_blank">Источник</a>
 
