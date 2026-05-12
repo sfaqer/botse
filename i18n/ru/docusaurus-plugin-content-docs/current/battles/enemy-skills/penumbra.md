@@ -1,32 +1,34 @@
 ---
 id: penumbra
-title: Penumbra
-hoverText: After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated), it replaces the [weakest](/docs/glossary/weakest) allied non-[quest unit](/docs/glossary/quest-unit) and assumes that unit's HP and status dice. The replaced unit is returned to its enemy bag.
+title: Полутень
+hoverText: После того как эта [боевая единица](/docs/glossary/unit) [повержена](/docs/glossary/defeated), она заменяет [слабейшую](/docs/glossary/weakest) союзную не-[сюжетную боевую единицу](/docs/glossary/quest-unit) и получает её фишки ОЗ и кубики состояний. Заменённая боевая единица возвращается в мешочек врагов.
 tags:
   - Quest Unit Skill
 ---
 
-After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated),
-it replaces the [weakest](/docs/glossary/weakest) allied non-[quest
-unit](/docs/glossary/quest-unit) and assumes that unit's HP and status dice. The
-replaced unit is returned to its enemy bag.
+После того как эта [боевая единица](/docs/glossary/unit)
+[повержена](/docs/glossary/defeated), она заменяет
+[слабейшую](/docs/glossary/weakest) союзную не-[сюжетную боевую
+единицу](/docs/glossary/quest-unit) и получает её фишки ОЗ и кубики состояний.
+Заменённая боевая единица возвращается в мешочек врагов.
 
 ---
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**What happens if this skill is on a companion when they are defeated?**
+**Что происходит, если этот навык находится на компаньоне, когда тот повержен?**
 
-Nothing happens as a result of Penumbra.
+В результате действия «Полутени» ничего не происходит.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1366888290275430463" target="_blank">Источник</a>
 
 ---
 
-**Can a Penumbra unit get a [Fear](/docs/battles/status-effects/fear) status?**
+**Может ли боевая единица с «Полутенью» получить состояние
+[«Страх»](/docs/battles/status-effects/fear)?**
 
-Yes, Penumbra allows for quest units to end up with status effects on them.
+Да, «Полутень» позволяет сюжетным боевым единицам в итоге иметь состояния.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Источник</a>
 <!-- translate:off -->

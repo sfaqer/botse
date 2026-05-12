@@ -17,10 +17,10 @@ advantage when navigating the shifting tides of war.
 fewer damage, prevent that damage and [instead](/docs/glossary/instead) gain
 that much [tenacity](/docs/glossary/tenacity).
 
-| Stat                                                  | Value |
-| ----------------------------------------------------- | ----- |
-| [Health](/docs/adventurer/stats/health)               | 5     |
-| [Stamina](/docs/adventurer/stats/stamina)             | 2     |
-| [Magicka](/docs/adventurer/stats/magicka)             | 2     |
-| [Combat](/docs/adventurer/skill-lines/warrior/combat) | 2     |
-| [Cooldown](/docs/adventurer/stats/cooldown)           | 2     |
+| Stat                                               | Value |
+| -------------------------------------------------- | ----- |
+| [Health](/docs/adventurer/stats/health)            | 5     |
+| [Stamina](/docs/adventurer/stats/stamina)          | 2     |
+| [Magicka](/docs/adventurer/stats/magicka)          | 2     |
+| [Бой](/docs/adventurer/skill-lines/warrior/combat) | 2     |
+| [Cooldown](/docs/adventurer/stats/cooldown)        | 2     |

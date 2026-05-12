@@ -51,7 +51,7 @@ form except for
 
 <img src="/icons/skills/combat/combat-all-results.png" className="skill-icon" />
 
-| Icon                                                                 | Ability                                                                                                                                                        |
+| Символ                                                               | Ability                                                                                                                                                        |
 | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/combat/combat.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal X damage to your [target](/docs/glossary/targetable). |
 
@@ -61,7 +61,7 @@ form except for
 
 <img src="/icons/skills/combat/combat-all-results.png" className="skill-icon" />
 
-| Icon                                                                 | Ability                                                                                                                                                                                                                      |
+| Символ                                                               | Ability                                                                                                                                                                                                                      |
 | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/combat/combat.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): When you are dealt damage by an [enemy](/docs/glossary/enemy), you may exhaust this die to prevent X damage. |
 

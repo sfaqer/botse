@@ -30,7 +30,7 @@ A class has 2 types of abilities, each described by its text:
   [<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>](/docs/glossary/tenacity)
   amount next to it.
 
-## <img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" /> [Mage](/docs/adventurer/classes/mage)
+## <img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" /> [Маг](/docs/adventurer/classes/mage)
 
 > ### [Arcanist](/docs/adventurer/classes/mage/arcanist)
 > 
@@ -44,7 +44,7 @@ A class has 2 types of abilities, each described by its text:
 > 
 > ### [Warden](/docs/adventurer/classes/mage/warden)
 
-## <img src="/icons/thief.svg" alt="Thief Icon" className="icon-svg"/> [Thief](/docs/adventurer/classes/thief)
+## <img src="/icons/thief.svg" alt="Thief Icon" className="icon-svg"/> [Вор](/docs/adventurer/classes/thief)
 
 > ### [Acrobat](/docs/adventurer/classes/thief/acrobat)
 > 
@@ -60,7 +60,7 @@ A class has 2 types of abilities, each described by its text:
 > 
 > ### [Scout](/docs/adventurer/classes/thief/scout)
 
-## <img src="/icons/warrior.svg" alt="Warrior Icon" className="icon-svg" /> [Warrior](/docs/adventurer/classes/warrior)
+## <img src="/icons/warrior.svg" alt="Warrior Icon" className="icon-svg" /> [Воин](/docs/adventurer/classes/warrior)
 
 > ### [Archer](/docs/adventurer/classes/warrior/archer)
 > 

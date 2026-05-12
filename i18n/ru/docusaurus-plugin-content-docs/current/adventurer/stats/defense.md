@@ -1,24 +1,24 @@
 ---
 id: defense
-title: Defense
-hoverText: "The amount of damage prevented each time an engage or ability deals damage to a unit."
+title: Защита
+hoverText: Количество урона, предотвращаемое каждый раз, когда действие атаки или способность наносит урон боевой единице.
 ---
 
-The amount of damage prevented each time an engage or ability deals damage to a
-unit.
+Количество урона, предотвращаемое каждый раз, когда действие атаки или
+способность наносит урон боевой единице.
 
 ---
 
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**How often enemy defense get applied?**
+**Как часто применяется защита врага?**
 
-Defense applies to each instance of damage that you deal to a unit, preventing
-damage equal to the stat. Note that an
-[engage](/docs/battles/adventurer-turn/engage) is considered a single instance
-of damage even if multiple different skills deal damage within the engage. This
-damage prevention applies even outside of turns.
+Защита применяется к каждому случаю нанесения урона боевой единице: она
+предотвращает количество урона, равное значению защиты. Обратите внимание:
+[действие атаки](/docs/battles/adventurer-turn/engage) считается одним случаем
+нанесения урона, даже если во время этого действия атаки урон наносят несколько
+разных навыков. Это предотвращение урона применяется даже вне хода.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000290396" target="_blank">Источник</a>
 <!-- translate:off -->

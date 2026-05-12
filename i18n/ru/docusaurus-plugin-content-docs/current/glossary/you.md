@@ -1,17 +1,18 @@
 ---
 id: you
-title: You
-hoverText: Overland cards, side quest cards, and quest steps use you to refer to the [party](/docs/glossary/party) collectively. Class cards, item cards, skill abilities, and similar effects use you to refer to the individual [adventurer](/docs/glossary/adventurer).
+title: Вы
+hoverText: Карты встреч в провинции, карты побочных заданий и этапы заданий используют обращение «вы», имея в виду [отряд](/docs/glossary/party) в целом. Карты классов, карты предметов, способности навыков и подобные эффекты используют обращение «вы», имея в виду отдельного [персонажа](/docs/glossary/adventurer).
 ---
 
-Card text and other effects frequently address the player or players as
-**"you"**. This can mean different things depending on the context.
+Тексты карт и другие эффекты часто обращаются к игроку или игрокам как **«вы»**.
+В зависимости от контекста это может означать разные вещи.
 
-- **Overland cards, side quest cards, and quest steps** use "you" to refer to
-  the [party](/docs/glossary/party) collectively. For example, if a quest step
-  refers to you traveling to a location, it is referring to the movement of the
-  party's token on the overland map.
+- **Карты встреч в провинции, карты побочных заданий и этапы заданий**
+  используют обращение «вы», имея в виду [отряд](/docs/glossary/party) в целом.
+  Например, если этап задания говорит, что «вы» путешествуете в определённую
+  локацию, имеется в виду передвижение жетона отряда по атласу провинции.
 
-- **Class cards, item cards, skill abilities, and similar effects** use "you" to
-  refer to the individual [adventurer](/docs/glossary/adventurer). That
-  adventurer's player makes any decisions involving these effects.
+- **Карты классов, карты предметов, способности навыков и подобные эффекты**
+  используют обращение «вы», имея в виду отдельного
+  [персонажа](/docs/glossary/adventurer). Игрок этого персонажа принимает все
+  решения, связанные с такими эффектами.

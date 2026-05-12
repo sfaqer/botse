@@ -44,7 +44,7 @@ it to your attribute rows.
 
 You may roll this die when making a lockpick attempt.
 
-| Icon                                                                         | Ability                                                            |
+| Символ                                                                       | Ability                                                            |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | <img src="/icons/skills/legerdemain/locksmith.png" className="skill-icon" /> | Adjust any rolled [lockpick](/docs/glossary/lockpicking) die by 1. |
 
@@ -56,7 +56,7 @@ You may roll this die when making a lockpick attempt.
 
 You may roll this die when making a lockpick attempt.
 
-| Icon                                                                                 | Ability                                                                                            |
+| Символ                                                                               | Ability                                                                                            |
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/legerdemain/finders-keepers-1.png" className="skill-icon" /> | Flip 1 rolled die to its opposite side.                                                            |
 | <img src="/icons/skills/legerdemain/finders-keepers-2.png" className="skill-icon" /> | Modify any rolled die by up to 2.                                                                  |
@@ -73,7 +73,7 @@ You may roll this die when making a lockpick attempt.
 You may roll this die during a [town](/docs/campaign/day/encounter-phase/town)
 encounter with a shop before taking town actions.
 
-| Icon                                                                               | Ability                                                                                                                                   |
+| Символ                                                                             | Ability                                                                                                                                   |
 | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/skills/legerdemain/light-fingers-1.png" className="skill-icon" /> | Gain 1 <img src="/icons/common-item.svg" alt="Common Item Icon" className="icon-svg" /> from the shop. You may roll this die again.       |
 | <img src="/icons/skills/legerdemain/light-fingers-2.png" className="skill-icon" /> | Gain 1 <img src="/icons/legendary-item.svg" alt="Legendary Item Icon" className="icon-svg" /> from the shop. You may roll this die again. |
@@ -89,6 +89,6 @@ encounter with a shop before taking town actions.
 You may roll this die at the start of a
 [town](/docs/campaign/day/encounter-phase/town) encounter.
 
-| Icon                                                                                     | Ability                        |
+| Символ                                                                                   | Ability                        |
 | ---------------------------------------------------------------------------------------- | ------------------------------ |
 | <img src="/icons/skills/legerdemain/friends-in-low-places.png" className="skill-icon" /> | Gain 1 additional town action. |

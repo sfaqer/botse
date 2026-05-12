@@ -16,10 +16,11 @@ that adventurer gains light [fatigue](/docs/glossary/fatigue) equal to
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Do enemy skills trigger after engage if they are defeated?**
+**Срабатывают ли навыки врага после действия атаки, если он повержен?**
 
-If an enemy has a skill that triggers **after** it is engaged, that skill does
-not trigger if the enemy is defeated during that engage.
+Если у врага есть навык, который срабатывает **после** того, как он подвергся
+действию атаки, этот навык не срабатывает, если враг повержен во время этого
+действия атаки.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000291973" target="_blank">Источник</a>
 <!-- translate:off -->

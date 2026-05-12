@@ -19,13 +19,13 @@ and toughness, to potentially fatal ends.
 **Ability [Argonian Resistance]**: Once per battle, when you would be dealt
 damage, prevent all of that damage.
 
-| Stat                                                  | Value |
-| ----------------------------------------------------- | ----- |
-| [Health](/docs/adventurer/stats/health)               | 5     |
-| [Stamina](/docs/adventurer/stats/stamina)             | 3     |
-| [Magicka](/docs/adventurer/stats/magicka)             | 2     |
-| [Combat](/docs/adventurer/skill-lines/warrior/combat) | 1     |
-| [Cooldown](/docs/adventurer/stats/cooldown)           | 2     |
+| Stat                                               | Value |
+| -------------------------------------------------- | ----- |
+| [Health](/docs/adventurer/stats/health)            | 5     |
+| [Stamina](/docs/adventurer/stats/stamina)          | 3     |
+| [Magicka](/docs/adventurer/stats/magicka)          | 2     |
+| [Бой](/docs/adventurer/skill-lines/warrior/combat) | 1     |
+| [Cooldown](/docs/adventurer/stats/cooldown)        | 2     |
 
 ---
 

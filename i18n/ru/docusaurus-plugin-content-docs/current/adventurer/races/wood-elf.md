@@ -21,10 +21,10 @@ concerns of the forest.
 (<img src="/icons/stealth.svg" alt="Stealth Icon" className="icon-svg" />)
 status die to up to 2 [party members](/docs/glossary/party) in play.
 
-| Stat                                                  | Value |
-| ----------------------------------------------------- | ----- |
-| [Health](/docs/adventurer/stats/health)               | 5     |
-| [Stamina](/docs/adventurer/stats/stamina)             | 3     |
-| [Magicka](/docs/adventurer/stats/magicka)             | 1     |
-| [Combat](/docs/adventurer/skill-lines/warrior/combat) | 2     |
-| [Cooldown](/docs/adventurer/stats/cooldown)           | 2     |
+| Stat                                               | Value |
+| -------------------------------------------------- | ----- |
+| [Health](/docs/adventurer/stats/health)            | 5     |
+| [Stamina](/docs/adventurer/stats/stamina)          | 3     |
+| [Magicka](/docs/adventurer/stats/magicka)          | 1     |
+| [Бой](/docs/adventurer/skill-lines/warrior/combat) | 2     |
+| [Cooldown](/docs/adventurer/stats/cooldown)        | 2     |

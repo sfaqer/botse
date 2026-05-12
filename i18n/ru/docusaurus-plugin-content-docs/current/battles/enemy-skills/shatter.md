@@ -1,27 +1,27 @@
 ---
 id: shatter
-title: Shatter
-hoverText: Each [turn](/docs/glossary/turn), the first time this unit is [engaged](/docs/battles/adventurer-turn/engage) by an [adventurer](/docs/glossary/adventurer) who is not [overtaxing](/docs/adventurer/items/overtax) a Weapon item, that adventurer must [discard](/docs/glossary/discard) a weapon from a [ready slot](/docs/adventurer/items/index) after the engage.
+title: Раскол
+hoverText: Каждый [ход](/docs/glossary/turn), когда эта боевая единица впервые подвергается [действию атаки](/docs/battles/adventurer-turn/engage) со стороны [персонажа](/docs/glossary/adventurer), который не применяет [Сверхнагрузку](/docs/adventurer/items/overtax) для предмета-оружия, этот персонаж должен [сбросить](/docs/glossary/discard) оружие из [ячейки активного снаряжения](/docs/adventurer/items/index) после действия атаки.
 ---
 
-Each [turn](/docs/glossary/turn), the first time this unit is
-[engaged](/docs/battles/adventurer-turn/engage) by an
-[adventurer](/docs/glossary/adventurer) who is not
-[overtaxing](/docs/adventurer/items/overtax) a
+Каждый [ход](/docs/glossary/turn), когда эта боевая единица впервые подвергается
+[действию атаки](/docs/battles/adventurer-turn/engage) со стороны
+[персонажа](/docs/glossary/adventurer), который не применяет
+[Сверхнагрузку](/docs/adventurer/items/overtax) для предмета
 [<img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" />](/docs/adventurer/items/types/weapon),
-that adventurer must [discard](/docs/glossary/discard) a weapon from a [ready
-slot](/docs/adventurer/items/index) after the engage.
+этот персонаж должен [сбросить](/docs/glossary/discard) оружие из [ячейки
+активного снаряжения](/docs/adventurer/items/index) после действия атаки.
 
 ---
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Does Shatter still trigger even if the enemy is defeated during the engage?**
+**Срабатывает ли «Раскол», если враг повержен во время действия атаки?**
 
-Yes, Shatter will still trigger even if the enemy is defeated. "...after the
-engage" is to clarify that you can still use the weapon and it's abilities for
-the engage action.
+Да, «Раскол» всё равно срабатывает, даже если враг повержен. Формулировка «после
+действия атаки» уточняет, что оружие и его способности всё ещё можно
+использовать для этого действия атаки.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1343703038447190046" target="_blank">Источник</a>
 <!-- translate:off -->

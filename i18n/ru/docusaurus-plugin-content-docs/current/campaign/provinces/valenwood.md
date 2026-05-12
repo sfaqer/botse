@@ -1,44 +1,48 @@
 ---
 id: valenwood
-title: Valenwood [VW]
-hoverText: Native Skill - [Iron Bark](/docs/battles/enemy-skills/iron-bark)
+title: Валенвуд [VW]
+hoverText: Местный навык — [Железная кора](/docs/battles/enemy-skills/iron-bark)
 tags:
   - Valenwood
 ---
 
-**Native Skill:** [Iron Bark](/docs/battles/enemy-skills/iron-bark)
+**Местный навык:** [Железная кора](/docs/battles/enemy-skills/iron-bark)
 
 ---
 
 <!-- translate:off -->
 :::warning[Errata]
 <!-- translate:on -->
-**Valenwood B35 ([Eyes of the Queen](/docs/campaign/guilds/eyes-of-the-queen)
-guild quest, pg. 32)**
+**Валенвуд B35 (задание гильдии [«Глаза
+королевы»](/docs/campaign/guilds/eyes-of-the-queen), с. 32)**
 
-A couple sentences in this section have missing words, making them not make
-sense as written. Where it says "Then, count the number of agents remaining in
-the level 10/20 bag, and remove 1 of the level 5/10 enemies agent. For each also
-remove Anchorite Deslandra." It should instead say: "Then, count the number of
-agents remaining in the level 10/20 bag, and remove 1 of the level 5/10 enemies
-on the lettered hexes for each remaining agent. If at least 4 agents remain in
-the bag, also remove Anchorite Deslandra."
+В нескольких предложениях этого раздела пропущены слова, из-за чего в текущем
+виде текст не имеет смысла. Там, где сказано: «Затем подсчитайте количество
+агентов, оставшихся в мешочке 10/20 уровня, и уберите 1 агента-врага 5/10
+уровня. За каждого также уберите Анхоритку Десландру», вместо этого должно быть
+сказано: «Затем подсчитайте количество агентов, оставшихся в мешочке 10/20
+уровня, и уберите 1 агента-врага 5/10 уровня с буквенных клеток за каждого
+оставшегося агента. Если в мешочке осталось хотя бы 4 агента, также уберите
+Анхоритку Десландру.»
 
-The full Quest Objective should read:
+Полный текст цели задания должен быть таким:
 
-> Travel to City of Ash and initiate the City of Ash dungeon, using the end of
-> session difficulty EP (recommended by day 12, initiates the end of the quest).
+> Отправьтесь в Город Праха и начните подземелье «Город Праха», используя ЛВС по
+> сложности конца эпизода. Рекомендуется сделать это к 12-му дню; начало этого
+> подземелья запускает конец задания.
 > 
-> After deploying enemies from the EP, deploy 3 additional level 5 (if in
-> Session 1) or level 10 (if in Session 2) enemies to Hex C, Hex D, and Hex E,
-> and deploy quest unit: Anchorite Deslandra to Hex B. Then, count the number of
-> agents remaining in the level 10/20 bag, and remove 1 of the level 5/10
-> enemies on the lettered hexes for each remaining agent. If at least 4 agents
-> remain in the bag, also remove Anchorite Deslandra. For each additional agent
-> remaining beyond 4, each adventurer gains 1 tenacity. Return the agents to the
-> level 10/20 enemy bag after counting them.
+> После размещения врагов из ЛВС разместите 3 дополнительных врагов 5-го уровня,
+> если это эпизод 1, или 3 дополнительных врагов 10-го уровня, если это эпизод
+> 2, в клетки C, D и E, а также разместите сюжетную боевую единицу Анхоритка
+> Десландра в клетку B. Затем подсчитайте количество агентов, оставшихся в
+> мешочке 10/20 уровня, и уберите 1 агента-врага 5/10 уровня с буквенных клеток
+> за каждого оставшегося агента. Если в мешочке осталось хотя бы 4 агента, также
+> уберите Анхоритку Десландру. За каждого дополнительного агента сверх 4 каждый
+> персонаж получает 1 стойкость. После подсчёта верните агентов в мешочек врагов
+> 10/20 уровня.
 > 
-> During this dungeon, Anchorite Deslandra can move up to 4 hexes.
+> Во время этого подземелья Анхоритка Десландра может передвигаться на
+> расстояние до 4 клеток.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292465" target="_blank">Источник</a>
 <!-- translate:off -->
