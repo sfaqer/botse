@@ -83,7 +83,15 @@ function parseFrontmatter(src) {
   if (key) data[key] = buf.trim();
   for (const k of Object.keys(data)) {
     const v = data[k];
-    if (v.startsWith('"') && v.endsWith('"')) data[k] = v.slice(1, -1);
+    if (typeof v !== "string" || v.length < 2) continue;
+    // Strip outer YAML quoting and unescape the doubled-quote convention
+    // (single-quoted YAML uses '' for a literal '). Without this, the outer
+    // quotes leak into the rendered hover tooltip.
+    if (v.startsWith('"') && v.endsWith('"')) {
+      data[k] = v.slice(1, -1);
+    } else if (v.startsWith("'") && v.endsWith("'")) {
+      data[k] = v.slice(1, -1).replace(/''/g, "'");
+    }
   }
   return data;
 }
