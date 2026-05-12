@@ -1,19 +1,20 @@
 ---
 id: party-size
-title: Party Size
-hoverText: Party size is a variable that represents a number equal to the number of adventurers in the party (whether defeated or not)
+title: Размер отряда
+hoverText: Размер отряда — это переменная, равная количеству персонажей в отряде, независимо от того, повержены они или нет.
 ---
 
-# <img src="/icons/party-size.svg" alt="Party Size Icon" /> Party Size
+# <img src="/icons/party-size.svg" alt="Party Size Icon" /> Размер отряда
 
-Throughout your game, you will frequently see encounter and effect text
-referring to the party size
-(<img src="/icons/party-size.svg" alt="Party Size Icon" className="icon-svg" />)
-icon. This icon is a variable that represents a number equal to the number of
-adventurers in the party (whether defeated or not). Companions are not counted
-when determining this number.
+В ходе игры в тексте встреч и эффектов вам часто будет встречаться символ
+размера отряда
+(<img src="/icons/party-size.svg" alt="Party Size Icon" className="icon-svg" />).
+Этот символ — переменная, равная количеству персонажей в отряде, независимо от
+того, повержены они или нет. Компаньоны при определении этого числа не
+учитываются.
 
-This icon is used to balance game effects with the number of players. When this
-icon appears, you will frequently be required to add, subtract, or multiply
-<img src="/icons/party-size.svg" alt="Party Size Icon" className="icon-svg" />
-with another value.
+Этот символ используется, чтобы масштабировать игровые эффекты по количеству
+игроков. Когда встречается этот символ, вам часто нужно будет прибавить, вычесть
+или
+умножить<img src="/icons/party-size.svg" alt="Party Size Icon" className="icon-svg" />
+его на другое значение.

@@ -1,21 +1,22 @@
 ---
 id: unit
-title: Unit
-hoverText: "Units fall under 2 categories: party and enemy. These 2 categories, in relation to one another, are referred to as opposing units."
+title: Боевая единица
+hoverText: '"Боевые единицы делятся на 2 категории: отряд и враги. Эти две категории по отношению друг к другу называются противниками."'
 ---
 
-A unit is defined as any chip in the game with the following characteristics:
+Боевая единица — это любая находящаяся в игре фишка, обладающая следующими
+признаками:
 
-- A unit has stats, abilities, or both.
-- A unit either takes its own turn on the battle map or is controlled during
-  another unit's turn.
+- У боевой единицы есть характеристики, способности — или и то, и другое.
+- Боевая единица на поле боя либо совершает ходы самостоятельно, либо
+  подконтрольна другой боевой единице и управляется ею в её ход.
 
-Chips used for tracking purposes that do not have these characteristics are not
-units.
+Фишки, используемые для отслеживания и не обладающие этими признаками, не
+являются боевыми единицами.
 
-All units fall under 2 categories: [party](/docs/glossary/party) and
-[enemy](/docs/glossary/enemy).
+Все боевые единицы делятся на 2 категории: [отряд](/docs/glossary/party) и
+[враги](/docs/glossary/enemy).
 
-These 2 categories, in relation to one another, are referred to as **opposing
-units**. Units that are not opposing cannot target one another unless an effect
-specifically allows them to.
+Эти 2 категории по отношению друг к другу называются **противниками**. Боевые
+единицы, которые не являются противниками, не могут выбирать друг друга целью,
+если только эффект прямо этого не позволяет.

@@ -1,18 +1,22 @@
 ---
 id: impassable
-title: Impassable
-hoverText: A battle map hex is impassable when a rule specifies that it is or contains an [obstacle](/docs/glossary/obstacle) that is impassable, such as another tile used as an obstacle. Red hexes shown in clash or dungeon setup diagrams are impassable hexes. Place a facedown tile of the same shape as the red area over these hexes during setup to indicate this Impassable hexes cannot contain chips. If a hex that contains a chip becomes impassable, remove that chip and place it in the closest [unoccupied](/docs/glossary/occupied) hex.
+title: Непроходимая клетка
+hoverText: Клетка на поле боя считается непроходимой, если её таковой называют правила или если она содержит непроходимое [препятствие](/docs/glossary/obstacle), например другой участок местности, используемый как препятствие. Красные клетки в схемах подготовки стычек и боёв в подземельях считаются непроходимыми. Во время подготовки поместите поверх этих клеток участок местности такой же формы лицевой стороной вниз, чтобы обозначить их. В непроходимых клетках не может находиться ни одна фишка. Если клетка, в которой находится фишка, становится непроходимой, уберите эту фишку и поместите её в ближайшую [незанятую](/docs/glossary/occupied) клетку.
 ---
 
-A battle map hex is impassable when a rule specifies that it is or contains an
-[obstacle](/docs/glossary/obstacle) that is impassable, such as another tile
-used as an obstacle. Red hexes shown in clash or dungeon setup diagrams are
-impassable hexes. Place a facedown tile of the same shape as the red area over
-these hexes during setup to indicate this Impassable hexes cannot contain chips.
-If a hex that contains a chip becomes impassable, remove that chip and place it
-in the closest [unoccupied](/docs/glossary/occupied) hex.
+Клетка на поле боя считается непроходимой, если её таковой называют правила или
+если она содержит непроходимое [препятствие](/docs/glossary/obstacle), например
+другой участок местности, используемый как препятствие. Красные клетки в схемах
+подготовки стычек и боёв в подземельях считаются непроходимыми. Во время
+подготовки поместите поверх этих клеток участок местности такой же формы лицевой
+стороной вниз, чтобы обозначить их. В непроходимых клетках не может находиться
+ни одна фишка. Если клетка, в которой находится фишка, становится непроходимой,
+уберите эту фишку и поместите её в ближайшую
+[незанятую](/docs/glossary/occupied) клетку.
 
-- A [unit](/docs/glossary/unit) cannot move through a hex that is impassable.
-- Distance and [range](/docs/glossary/range) cannot be counted through
-  impassable hexes.
-- Impassable hexes cannot be targeted or affected by other abilities.
+- [Боевая единица](/docs/glossary/unit) не может передвигаться через
+  непроходимую клетку.
+- Расстояние и [дальность](/docs/glossary/range) нельзя считать через
+  непроходимые клетки.
+- Непроходимые клетки нельзя выбирать целью или подвергать воздействию других
+  способностей.

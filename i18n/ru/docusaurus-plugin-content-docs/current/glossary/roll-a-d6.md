@@ -1,22 +1,23 @@
 ---
 id: roll-a-d6
-title: Roll a D6
-hoverText: Use the same six-sided dice used for lockpick checks. When rolling one of these dice as a D6 outside of a lockpick check, players cannot use skills or other effects that can manipulate those dice during lockpick checks.
+title: Бросок кубика D6
+hoverText: Используйте те же шестигранные кубики, что и для проверок взлома. Когда один из этих кубиков бросается как D6 вне проверки взлома, игроки не могут использовать навыки или другие эффекты, позволяющие менять результаты этих кубиков во время проверок взлома.
 ---
 
-If a player is ever instructed to roll a D6, that player should use the same
-six-sided dice used for lockpick checks. When rolling one of these dice as a D6
-outside of a lockpick check, players cannot use skills or other effects that can
-manipulate those dice during lockpick checks.
+Если игроку дано указание бросить кубик D6, он должен использовать те же
+шестигранные кубики, что и для проверок взлома. Когда один из этих кубиков
+бросается как D6 вне проверки взлома, игроки не могут использовать навыки или
+другие эффекты, позволяющие менять результаты этих кубиков во время проверок
+взлома.
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
 
-**What does "Roll a D6 + X" mean?**
+**Что означает «Бросьте D6 + X»?**
 
-The +X, is the number of additional dice you roll. E.g. "Roll a d6 +2", would
-mean to roll 3 dice total (1+2).
+«+X» — это количество дополнительных кубиков, которые вы бросаете. Например,
+«Бросьте D6 + 2» означает, что нужно бросить 3 кубика всего: 1 + 2.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1329334920228769854" target="_blank">Источник</a>
 

@@ -17,21 +17,21 @@ is not the same as defeating a unit, so follow the rules below.
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Remove vs. Recover Overfatigue Dice from Cooldown**
+**Удаление или возвращение кубика переутомления с трека перезарядки**
 
-When game text tells you to recover an overfatigue die in your cooldown track,
-treat it like normal for recovering overfatigue - it goes to the end of your
-cooldown track. When game text tells you to remove an overfatigue die from
-cooldown, you can remove it entirely.
+Когда игровой текст предписывает вернуть кубик переутомления с вашего трека
+перезарядки, применяйте обычное правило возвращения кубиков переутомления: он
+перемещается в конец вашего трека перезарядки. Когда игровой текст предписывает
+убрать кубик переутомления с трека перезарядки, вы можете убрать его полностью.
 
-If game text says to remove a fatigue die, you can choose between light or
-overfatigue.
+Если игровой текст предписывает убрать кубик усталости, вы можете выбрать лёгкую
+усталость или переутомление.
 
-There are a few spots in the rulebook where remove is used when recover would be
-more appropriate, but it should be generally understood that an overfatigue die
-that would leave your cooldown track is placed back at the end of your cooldown
-track, unless it's being removed by a game effect that specifically tells you
-that you can remove it.
+В правилах есть несколько мест, где используется «убрать», хотя точнее было бы
+«вернуть», но в целом следует понимать так: кубик переутомления, который должен
+покинуть ваш трек перезарядки, помещается в конец вашего трека перезарядки, если
+только его не убирает игровой эффект, прямо указывающий, что вы можете его
+убрать.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294279" target="_blank">Источник</a>
 <!-- translate:off -->

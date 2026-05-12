@@ -1,21 +1,23 @@
 ---
 id: effect-timing
-title: Effect Timing
-hoverText: Effects must be resolved one at a time. Each effect must be completely resolved before resolving the next effect.
+title: Моменты применения эффектов
+hoverText: Эффекты нужно применять по одному. Каждый эффект должен быть полностью применён до применения следующего эффекта.
 ---
 
-Some abilities have effects that depend on others for timing or have multiple
-effects. These abilities are resolved following the rules below:
+Некоторые способности имеют эффекты, момент применения которых зависит от других
+эффектов, или содержат несколько эффектов. Такие способности применяются по
+следующим правилам:
 
-- Effects must be resolved one at a time. Each effect must be completely
-  resolved before resolving the next effect.
-  - A "when" effect is resolved immediately when the triggering event occurs.
-  - An "after" effect is resolved immediately following the triggering event.
-  - A "before" effect is resolved immediately before the triggering event.
-- If different effects are resolved with the same timing, the players decide the
-  order in which those effects are resolved.
-- Some abilities have multiple effects with the same timing, such as the Purge
-  skill in the [Restoring
-  Light](/docs/adventurer/skill-lines/mage/restoring-light) skill line. If some
-  of these effects can be resolved and others cannot, the effects that can be
-  resolved are resolved. Effects that cannot be resolved are ignored.
+- Эффекты нужно применять по одному. Каждый эффект должен быть полностью
+  применён до применения следующего эффекта.
+  - Эффект «когда» применяется немедленно, когда происходит вызвавшее его
+    событие.
+  - Эффект «после» применяется немедленно после вызвавшего его события.
+  - Эффект «до» применяется немедленно до вызвавшего его события.
+- Если разные эффекты применяются в один и тот же момент, игроки выбирают
+  порядок их применения.
+- У некоторых способностей есть несколько эффектов с одним и тем же моментом
+  применения, например навык «Очищение» из ветки навыков [«Исцеляющий
+  свет»](/docs/adventurer/skill-lines/mage/restoring-light). Если одни из этих
+  эффектов можно применить, а другие нельзя, применяются те эффекты, которые
+  можно применить. Эффекты, которые нельзя применить, игнорируются.

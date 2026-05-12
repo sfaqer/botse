@@ -1,11 +1,12 @@
 ---
 id: adventurer
-title: Adventurer
-hoverText: Each character created by a player is an Adventurer. Each adventurer is a [party member](/docs/glossary/party).
+title: Персонаж
+hoverText: Каждый созданный игроком персонаж — это персонаж. Каждый персонаж является [участником отряда](/docs/glossary/party).
 ---
 
-Each player-created adventurer is a [party member](/docs/glossary/party),
-whether they are your specific adventurer or another player's. If an effect's
-value is determined using the [party size icon
+Каждый созданный игроком персонаж является [участником
+отряда](/docs/glossary/party), независимо от того, ваш ли это персонаж или
+персонаж другого игрока. Если значение эффекта определяется с помощью [символа
+размера отряда
 (<img src="/icons/party-size.svg" alt="Party Size Icon" className="icon-svg" />)](/docs/glossary/party-size),
-it is based only on the number of adventurers in the party.
+оно зависит только от количества персонажей в отряде.
