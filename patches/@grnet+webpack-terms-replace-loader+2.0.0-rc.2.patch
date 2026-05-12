@@ -1,0 +1,22 @@
+diff --git a/node_modules/@grnet/webpack-terms-replace-loader/index.js b/node_modules/@grnet/webpack-terms-replace-loader/index.js
+index bbf0f71..784fe0e 100644
+--- a/node_modules/@grnet/webpack-terms-replace-loader/index.js
++++ b/node_modules/@grnet/webpack-terms-replace-loader/index.js
+@@ -14,7 +14,16 @@ import Term from "${ this.query.termPreviewComponentPath || "@grnet/docusaurus-t
+   `;
+   if (urls.length > 0) {
+     const { content } = parseMD(source);
+-    source = source.replace(content, importStatement + content);
++    // Only inject the Term import if it isn't already there. The plugin's
++    // configureWebpack mutates the rule.use chain on each call, so this
++    // loader can run multiple times against the same source on a single
++    // build (server + client compiles share the rule object). Without this
++    // guard, two consecutive `import Term from "..."` declarations land in
++    // the source — acorn rejects the duplicate identifier with a confusing
++    // "Could not parse import/exports with acorn" error inside MDX.
++    if (!source.includes(importStatement.trim())) {
++      source = source.replace(content, importStatement + content);
++    }
+     for (const url of urls) {
+       const [mdUrl, title, urlPath] = url.match(urlRegex);
+       const newLineRegex = /\n/g;
