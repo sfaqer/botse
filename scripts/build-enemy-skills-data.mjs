@@ -45,14 +45,13 @@ function parseFrontmatter(src) {
   if (key) data[key] = buf.trim();
   for (const k of Object.keys(data)) {
     const v = data[k];
-    if (typeof v !== "string") continue;
-    // Strip outer matching quotes (YAML allows either) so the runtime
-    // value is the bare string.
-    if (
-      (v.startsWith('"') && v.endsWith('"')) ||
-      (v.startsWith("'") && v.endsWith("'"))
-    ) {
+    if (typeof v !== "string" || v.length < 2) continue;
+    // Strip outer YAML quoting and unescape the doubled-quote convention
+    // (single-quoted YAML uses '' for a literal ').
+    if (v.startsWith('"') && v.endsWith('"')) {
       data[k] = v.slice(1, -1);
+    } else if (v.startsWith("'") && v.endsWith("'")) {
+      data[k] = v.slice(1, -1).replace(/''/g, "'");
     }
   }
   return data;
