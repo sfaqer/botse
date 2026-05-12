@@ -1,17 +1,17 @@
 ---
 id: enemy
-title: Enemy
-hoverText: All opposing units to the [party](/docs/glossary/party) are considered enemies, regardless of their level.
+title: Враг
+hoverText: Все боевые единицы, являющиеся противниками по отношению к [отряду](/docs/glossary/party), считаются врагами независимо от их уровня.
 ---
 
-All opposing [units](/docs/glossary/unit) to the [party](/docs/glossary/party)
-are considered enemies, regardless of their level.
+Все [боевые единицы](/docs/glossary/unit), являющиеся противниками по отношению
+к [отряду](/docs/glossary/party), считаются врагами независимо от их уровня.
 
-Some units that otherwise belong to the party can be temporarily designated as
-enemies by game effects. These units behave as instructed by the specific
-effect.
+Некоторые боевые единицы, обычно принадлежащие отряду, могут временно считаться
+врагами под действием игровых эффектов. Такие боевые единицы действуют так, как
+указано в конкретном эффекте.
 
-In battle, the party's enemies are represented by double-sided chips, with each
-side showing an enemy of a different level. Level 1 and level 5 enemies back to
-each other and share a draw bag, as do level 10 and level 20 enemies. The higher
-the level is, the more difficult the enemy.
+В бою враги отряда представлены двусторонними фишками: на каждой стороне такой
+фишки изображён враг другого уровня. Враги 1-го и 5-го уровней находятся на
+разных сторонах одной фишки и хранятся в одном мешочке; то же касается врагов
+10-го и 20-го уровней. Чем выше уровень врага, тем он сложнее.

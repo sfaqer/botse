@@ -1,97 +1,100 @@
 ---
 id: town
-title: Town
-hoverText: These encounters are described in the gazetteer and are triggered when the party ends its overland movement in a town or rolls a <img src="/icons/town.svg" alt="Town Icon" className="icon-svg" /> result on the unstable die while at an unstable landmark (see [Traveling Caravans](/docs/campaign/day/encounter-phase/travelling-caravan)).
----
+title: Город
+hoverText: Эти встречи описаны в буклете провинции и активируются, когда отряд завершает передвижение по атласу провинции в городе или когда, находясь в клетке с символом случайного события, выбрасывает результат <img src="/icons/town.svg" alt="Town Icon" classname="icon-svg"> на кубике случайных событий (см. [Бродячие караваны](/docs/campaign/day/encounter-phase/travelling-caravan)).
+----
 
-These encounters are described in the gazetteer and are triggered when the party
-ends its overland movement in a town or rolls a
-<img src="/icons/town.svg" alt="Town Icon" className="icon-svg" /> result on the
-unstable die while at an unstable landmark (see [Traveling
-Caravans](/docs/campaign/day/encounter-phase/travelling-caravan)).
+Эти встречи описаны в буклете провинции и активируются, когда отряд завершает
+передвижение по атласу провинции в городе или когда, находясь в клетке с
+символом случайного события, выбрасывает результат
+<img src="/icons/town.svg" alt="Town Icon" className="icon-svg" /> на кубике
+случайных событий (см. [Бродячие
+караваны](/docs/campaign/day/encounter-phase/travelling-caravan)).
 
-Some towns can become closed as a result of encounters or quests. When this
-happens, the party must note it in the campaign journal. While a town is closed,
-the party cannot move into that town's hex.
+Некоторые города могут стать недоступны в результате встреч или заданий. Когда
+это происходит, отряд должен отметить это в дневнике кампании. Пока город
+недоступен, отряд не может передвинуться в клетку этого города.
 
-To resolve a town encounter, refer to the town's entry in the gazetteer and
-follow these steps:
+Чтобы разыграть городскую встречу, найдите в буклете запись о городе и выполните
+следующие шаги:
 
-## 1. Check Town Effect
+## 1. Проверьте эффект города
 
-Resolve this effect if it is triggered at the start of the encounter.
+Разыграйте этот эффект, если он активируется в начале встречи.
 
-Some town encounters have an effect section that can trigger an event before
-adventurers take their individual actions. This section of the town entry
-describes how it is triggered. Some town effects can only be resolved once
-during a session. If this is the case, that encounter will instruct the party to
-record the effects in its journal.
+В некоторых городских встречах есть раздел эффекта, который может активировать
+событие до того, как персонажи выполнят свои индивидуальные действия. В этом
+разделе города описано, как он срабатывает. Некоторые эффекты можно применить
+только один раз за эпизод. В таком случае встреча укажет отряду записать этот
+эффект в дневник.
 
-Some town effects offer multiple choices. If so, the party must choose **only
-1** when it resolves that event.
+Некоторые эффекты города предлагают несколько вариантов. В таком случае при
+розыгрыше этого события отряд должен выбрать **только 1** из них.
 
-## 2. Reveal Trainer and Shop
+## 2. Подготовьте наставника и магазин
 
-Most towns have a shop feature and a trainer feature, each of which has
-components that must be revealed.
+В большинстве городов есть городские точки «Магазин» и «Наставник». С каждой из
+них связаны компоненты, которые нужно раскрыть.
 
-### Shop
+### Магазин
 
-Draw a number of common item
+Возьмите столько карт обычных предметов
 (<img src="/icons/common-item.svg" alt="Common Item Icon" className="icon-svg" />)
-and legendary item
-(<img src="/icons/legendary-item.svg" alt="Legendary Item Icon" className="icon-svg" />)
-cards equal to the shop's values for each type and place those cards faceup.
-Items not taken from the shop are [discarded](/docs/glossary/discard) at the end
-of the town encounter.
+и легендарных предметов
+(<img src="/icons/legendary-item.svg" alt="Legendary Item Icon" className="icon-svg" />),
+сколько указано для каждого типа в значениях магазина, и выложите эти карты
+лицевой стороной вверх. Предметы, не взятые из магазина,
+[сбрасываются](/docs/glossary/discard) в конце городской встречи.
 
-### Trainer
+### Наставник
 
-Draw the number of skill line tokens specified in the gazetteer entry from the
-trainer bag and place them within reach of all players. If a trainer's
-constellation icon is faded out, set aside any skill line token of that
-constellation that is drawn and redraw another, returning the set-aside tokens
-to the bag when done. Tokens not taken from the trainer are returned to the
-trainer bag at the end of the town encounter.
+Возьмите из мешочка наставника столько жетонов веток навыков, сколько указано в
+записи буклета, и положите их в пределах досягаемости всех игроков. Если символ
+созвездия наставника напечатан неярким цветом, отложите в сторону любой
+вытянутый жетон ветки навыка этого созвездия и вытяните другой; когда закончите,
+верните отложенные жетоны в мешочек. Жетоны, не взятые у наставника,
+возвращаются в мешочек наставника в конце городской встречи.
 
-## 3. Complete Side Quests
+## 3. Завершите побочные задания
 
-If the party has side quest cards that can be completed during a town encounter,
-gain those quests' rewards and discard those cards now.
+Если у отряда есть карты побочных заданий, которые можно завершить во время
+городской встречи, получите награды за эти задания и сбросьте эти карты сейчас.
 
-## 4. Town Actions
+## 4. Выполните городские действия
 
-Each adventurer may take up to 2 actions during a town encounter—representing
-the resources provided by your guild to purchase services and supplies in towns.
-For each action, an adventurer can use 1 of the town's features, which are shown
-in the gazetteer, or use the guild town action on the party's guild card.
+Во время городской встречи каждый персонаж может выполнить до 2 городских
+действий: считается, что гильдия предоставляет ресурсы для покупки услуг и
+припасов в городах. За каждое действие персонаж может использовать 1 городскую
+точку из этого города, указанную в буклете, или выполнить городское действие
+гильдии на карте гильдии отряда.
 
-There are 2 types of action:
+Есть 2 типа действий:
 
-### Personal Actions
+### Личные действия
 
-These actions are chosen individually and can be resolved simultaneously with
-those of other adventurers. Using a town feature is a personal action unless
-otherwise noted. An adventurer can spend multiple actions to use the same town
-feature during an encounter, except the town square, which each adventurer can
-choose once per town encounter.
+Эти действия выбираются индивидуально и могут применяться одновременно с
+действиями других персонажей. Использование городской точки считается личным
+действием, если не указано иное. Персонаж может потратить несколько действий,
+чтобы использовать одну и ту же городскую точку во время встречи, кроме
+городской площади: её каждый персонаж может выбрать только один раз за городскую
+встречу.
 
-### Group Actions
+### Групповые действия
 
-These actions must be taken cooperatively and appear with the word "group" after
-their name (some quest steps also require the party to take a group town
-action). Each adventurer must contribute 1 of their town actions towards a group
-action.
+Эти действия нужно выполнять совместно; после их названия стоит слово
+«групповое». Некоторые этапы задания также требуют, чтобы отряд выполнил
+групповое городское действие. Каждый персонаж должен потратить 1 из своих
+городских действий на групповое действие.
 
 ---
 
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Which town actions are group actions?**
+**Какие городские действия являются групповыми?**
 
-All town actions are considered to be personal town actions unless otherwise
-stated. A group town action will be specifically labelled as a group action.
+Все городские действия считаются личными городскими действиями, если не указано
+иное. Групповое городское действие будет явно помечено как групповое.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292500" target="_blank">Источник</a>
 <!-- translate:off -->

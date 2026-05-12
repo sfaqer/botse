@@ -1,13 +1,13 @@
 ---
 id: adjacent
-title: Adjacent
-hoverText: Hexes are adjacent to each other when they share a common edge. [Units](/docs/glossary/unit), overland tokens, chips, or features in adjacent hexes are adjacent to each other. Battle map tiles are adjacent when at least 1 hex on a tile is adjacent to at least 1 on the other tile.
----
+title: Соседний
+hoverText: Клетки считаются соседними друг с другом, если у них есть общая сторона. [Боевые единицы](/docs/glossary/unit), жетоны провинции, фишки или символы в соседних клетках считаются соседними друг с другом. Участки местности на поле боя считаются соседними, если хотя бы 1 клетка на одном участке соседствует хотя бы с 1 клеткой на другом участке.
+----
 
-Hexes are adjacent to each other when they share a common edge.
+Клетки считаются соседними друг с другом, если у них есть общая сторона.
 
-[Units](/docs/glossary/unit), overland tokens, chips, or features in adjacent
-hexes are adjacent to each other.
+[Боевые единицы](/docs/glossary/unit), жетоны провинции, фишки или символы в
+соседних клетках считаются соседними друг с другом.
 
-Battle map tiles are adjacent when at least 1 hex on a tile is adjacent to at
-least 1 on the other tile.
+Участки местности на поле боя считаются соседними, если хотя бы 1 клетка на
+одном участке соседствует хотя бы с 1 клеткой на другом участке.

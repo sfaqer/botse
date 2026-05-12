@@ -1,31 +1,34 @@
 ---
 id: bonus-hp
-title: Bonus HP
-hoverText: Bonus HP chips are not added to the stack beneath the [adventurer's](/docs/glossary/adventurer) chip, but instead are placed near their battle form tracker on the adventurer mat.
+title: Дополнительное здоровье
+hoverText: Дополнительные фишки ОЗ не кладутся в стопку под фишкой [персонажа](/docs/glossary/adventurer), а размещаются рядом с индикатором боевого режима на планшете персонажа.
 ---
 
-Some abilities cause an [adventurer](/docs/glossary/adventurer) to gain bonus
-HP. These HP chips are not added to the stack beneath the adventurer's chip, but
-instead are placed near their battle form tracker on the adventurer mat. When an
-adventurer with bonus HP takes damage, the bonus HP chips must be removed first,
-before removing HP chips from under the adventurer chip. However, if the
-adventurer takes [true damage](/docs/glossary/true-damage), their regular HP
-must be removed instead of bonus HP.
+Некоторые способности позволяют [персонажу](/docs/glossary/adventurer) получить
+дополнительные фишки ОЗ. Эти фишки ОЗ не кладутся в стопку под фишкой персонажа,
+а размещаются рядом с индикатором боевого режима на планшете персонажа. Когда
+персонаж с дополнительными фишками ОЗ получает урон, сначала нужно убрать
+дополнительные фишки ОЗ, прежде чем убирать фишки ОЗ из-под фишки персонажа.
+Однако если персонаж получает [неблокируемый урон](/docs/glossary/true-damage),
+вместо дополнительных фишек ОЗ нужно убрать обычные фишки ОЗ.
 
-- Bonus HP is not counted when determining enemy targeting priority, such as the
-  [strongest](/docs/glossary/strongest) or [weakest](/docs/glossary/weakest)
-  unit or any effect that counts how much HP a unit has.
-- Bonus HP remains until it is lost or the next time a battle ends.
+- Дополнительные фишки ОЗ не учитываются при определении приоритета выбора цели
+  врагом, например по [сильнейшей](/docs/glossary/strongest) или
+  [слабейшей](/docs/glossary/weakest) боевой единице, а также для любых
+  эффектов, которые подсчитывают, сколько ОЗ есть у боевой единицы.
+- Дополнительные фишки ОЗ сохраняются, пока не будут потеряны или пока не
+  закончится следующий бой.
 
 ---
 
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Does Bonus HP count as HP?**
+**Считается ли дополнительное здоровье ОЗ?**
 
-Bonus HP is not counted as HP for any effect that counts how much HP you have.
-Gaining bonus HP does not count as [healing](/docs/glossary/).
+Дополнительное здоровье не считается ОЗ для эффектов, которые подсчитывают,
+сколько у вас ОЗ. Получение дополнительного здоровья не считается
+[лечением](/docs/glossary/).
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000291579" target="_blank">Источник</a>
 <!-- translate:off -->
@@ -34,17 +37,21 @@ Gaining bonus HP does not count as [healing](/docs/glossary/).
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**If an adventurer no HP remaining but still has Bonus HP, are they defeated?**
+**Если у персонажа не осталось ОЗ, но всё ещё есть дополнительное здоровье,
+считается ли он поверженным?**
 
-If you have no HP left, you're defeated, even if you have bonus HP.
+Если у вас не осталось ОЗ, вы повержены, даже если у вас есть дополнительное
+здоровье.
 
 <a href="https://boardgamegeek.com/thread/3459687/article/45681416#45681416" target="_blank">Источник</a>
 
 ---
 
-**Can non-adventurer units gain Bonus HP?**
+**Могут ли боевые единицы, не являющиеся персонажами, получать дополнительное
+здоровье?**
 
-Non-adventurer [units](/docs/glossary/unit) cannot gain bonus HP.
+[Боевые единицы](/docs/glossary/unit), не являющиеся персонажами, не могут
+получать дополнительное здоровье.
 <!-- translate:off -->
 :::
 <!-- translate:on -->
