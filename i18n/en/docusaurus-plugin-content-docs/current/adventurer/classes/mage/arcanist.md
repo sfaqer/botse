@@ -62,3 +62,8 @@ Gibbering Shield is optional. You choose if you want to discard a crux token to 
 <!-- translate:off -->
 :::
 <!-- translate:on -->
+## Related Content
+
+<div className="responsive-embed">
+	<iframe src="https://www.youtube.com/embed/Xf6PfJLw4W0?si=-rTShalBET-7nGK7" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+</div>
