@@ -18,13 +18,26 @@ import { fileURLToPath } from "node:url";
 // Minimal markdown subset → HTML for tooltip hoverText: paragraphs, links,
 // inline code, bold/italic. Anything more elaborate isn't used in glossary
 // frontmatter today; if that changes, swap this for a real markdown parser.
-function mdToHtml(src) {
+function mdToHtml(src, urlPrefix = "") {
   const escape = (s) =>
     s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
   let html = escape(src);
   html = html.replace(
     /\[([^\]]+)\]\(([^)]+)\)/g,
-    (_, text, href) => `<a href="${href}">${text}</a>`,
+    (_, text, href) => {
+      // Internal /docs/... links inside hoverText are rendered into the
+      // tooltip via dangerouslySetInnerHTML, so they bypass <Link> and the
+      // markdown.preprocessor that handles baseUrl/locale rewriting for
+      // normal markdown content. Prefix root-relative URLs here so the
+      // tooltip's anchors land at /botse/<locale>/docs/... instead of the
+      // bare /docs/... which the browser resolves against the GH Pages
+      // root, missing both baseUrl and the active locale segment.
+      const resolved =
+        href.startsWith("/") && !href.startsWith("//")
+          ? urlPrefix + href.slice(1)
+          : href;
+      return `<a href="${resolved}">${text}</a>`;
+    },
   );
   html = html.replace(/`([^`]+)`/g, "<code>$1</code>");
   html = html.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
@@ -113,7 +126,7 @@ async function emitForLocale(srcRoot, outRoot, urlPrefix) {
       .pop();
     const id = fm.id || fallbackId;
     const title = fm.title || id;
-    const hoverHtml = fm.hoverText ? mdToHtml(fm.hoverText) : "";
+    const hoverHtml = fm.hoverText ? mdToHtml(fm.hoverText, urlPrefix) : "";
     const rel = relative(srcRoot, file).replace(/\\/g, "/").replace(/\.mdx?$/, "");
     const outFile = join(outRoot, rel + ".json");
     await mkdir(dirname(outFile), { recursive: true });
@@ -166,9 +179,21 @@ async function emitCategoryStubs(catSrcRoot, outRoots) {
   if (count) console.log(`emit-term-json: wrote ${count} category stubs`);
 }
 
+// Read baseUrl from the preview Docusaurus config so the urlPrefix matches
+// what's actually deployed. Tooltip anchors land at <baseUrl><locale>/docs/...
+// — without baseUrl/locale they resolve against the GH Pages root and 404.
+const previewConfigSrc = await readFile(
+  join(repoRoot, "docusaurus.preview.config.ts"),
+  "utf-8",
+);
+const baseUrlMatch = previewConfigSrc.match(
+  /(?:PREVIEW_BASE_URL\s*=\s*|baseUrl:\s*)["']([^"']+)["']/,
+);
+const baseUrl = baseUrlMatch ? baseUrlMatch[1] : "/";
+
 const docsRoot = join(repoRoot, "docs");
 const outDocsRoot = join(buildDir, "docs");
-await emitForLocale(docsRoot, outDocsRoot, "");
+await emitForLocale(docsRoot, outDocsRoot, baseUrl);
 
 const categoryOutRoots = [outDocsRoot];
 
@@ -189,7 +214,7 @@ try {
       continue;
     }
     const localeOut = join(buildDir, locale, "docs");
-    await emitForLocale(localeDocsSrc, localeOut, `/${locale}/`);
+    await emitForLocale(localeDocsSrc, localeOut, `${baseUrl}${locale}/`);
     categoryOutRoots.push(localeOut);
   }
 } catch {}
