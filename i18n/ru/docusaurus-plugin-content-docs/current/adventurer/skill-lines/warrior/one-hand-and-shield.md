@@ -7,8 +7,7 @@ title: One Hand and Shield
 
 **Associated Stat:** [Stamina](/docs/adventurer/stats/stamina)
 
-**Required Battle Form:**
-[<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon)
+**Required Battle Form:** [<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon)
 
 ## Level 1
 
@@ -27,8 +26,7 @@ title: One Hand and Shield
 <!-- translate:on -->
 **If I don't have a target, am I able to roll Shield Discipline dice?**
 
-Yes you may roll them without a target and place them in an active slot for the
-damage prevention.
+Yes you may roll them without a target and place them in an active slot for the damage prevention.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1342163322375635045" target="_blank">Источник</a>
 <!-- translate:off -->
@@ -66,8 +64,7 @@ No, it is optional.
 
 ---
 
-**Would damage dealt by this skill trigger
-[Riposte](/docs/battles/enemy-skills/riposte)?**
+**Would damage dealt by this skill trigger [Riposte](/docs/battles/enemy-skills/riposte)?**
 
 Да.
 
@@ -75,13 +72,9 @@ No, it is optional.
 
 ---
 
-**Do enemy skills that happen “After this unit's engage” (e.g.
-[Blind](/docs/battles/enemy-skills/blind)) still trigger, if you defeat an enemy
-using Defensive Posture?**
+**Do enemy skills that happen “After this unit's engage” (e.g. [Blind](/docs/battles/enemy-skills/blind)) still trigger, if you defeat an enemy using Defensive Posture?**
 
-Эффект «после действия атаки» не срабатывает, если враг повержен: он должен
-находиться на поле боя в момент, когда навык должен сработать; иначе эффект не
-применяется.
+Эффект «после действия атаки» не срабатывает, если враг повержен: он должен находиться на поле боя в момент, когда навык должен сработать; иначе эффект не применяется.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225248522539058" target="_blank">Источник</a>
 <!-- translate:off -->

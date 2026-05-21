@@ -6,13 +6,9 @@ hoverText: ""
 
 ## Novice
 
-**Upgrade**: Have a level 2 skill die [trained](/docs/glossary/trained/) in 2
-different
-[<img src="/icons/thief.svg" alt="Thief Icon" className="icon-svg" />](/docs/adventurer/skill-lines/thief)
-type skill lines.
+**Upgrade**: Have a level 2 skill die [trained](/docs/glossary/trained/) in 2 different [<img src="/icons/thief.svg" alt="Thief Icon" className="icon-svg" />](/docs/adventurer/skill-lines/thief) type skill lines.
 
-**Innate Ability**: When engaged by an [adjacent](/docs/glossary/adjacent)
-enemy, prevent 1 damage dealt to you for each miss rolled.
+**Innate Ability**: When engaged by an [adjacent](/docs/glossary/adjacent) enemy, prevent 1 damage dealt to you for each miss rolled.
 
 <div className="class-table-wrapper">
 
@@ -28,8 +24,7 @@ enemy, prevent 1 damage dealt to you for each miss rolled.
 
 ## Master
 
-**Innate Ability**: When engaged by an enemy, prevent 1 damage dealt to you for
-each miss rolled.
+**Innate Ability**: When engaged by an enemy, prevent 1 damage dealt to you for each miss rolled.
 
 <div className="class-table-wrapper">
 
@@ -49,22 +44,17 @@ each miss rolled.
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Can the "Veil of Shadows" ability be triggered when another unit defeats an
-enemy?**
+**Can the "Veil of Shadows" ability be triggered when another unit defeats an enemy?**
 
-No, "After defeating a level 10/20 enemy" is the same as "After **you** defeat
-an enemy". Therefore, the Rogue must be the one to defeat an enemy for this
-class ability to be triggered.
+No, "After defeating a level 10/20 enemy" is the same as "After **you** defeat an enemy". Therefore, the Rogue must be the one to defeat an enemy for this class ability to be triggered.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1343989850218434593" target="_blank">Источник</a>
 
 ---
 
-**Does the damage from Caltrops (Rogue) count as being dealt by the
-adventurer?**
+**Does the damage from Caltrops (Rogue) count as being dealt by the adventurer?**
 
-This damage is not being dealt by the adventurer, the enemy is dealing this
-damage to itself.
+This damage is not being dealt by the adventurer, the enemy is dealing this damage to itself.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183417933955143" target="_blank">Источник</a>
 

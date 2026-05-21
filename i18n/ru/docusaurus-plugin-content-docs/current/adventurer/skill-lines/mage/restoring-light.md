@@ -7,8 +7,7 @@ title: Restoring Light
 
 **Associated Stat:** [Magicka](/docs/adventurer/stats/magicka)
 
-**Required Battle Form:**
-[<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)
+**Required Battle Form:** [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)
 
 ## Level 1
 
@@ -25,10 +24,7 @@ title: Restoring Light
 <!-- translate:on -->
 **What is the timing of "At any time..."?**
 
-"At any time" includes outside of your turn. However, you cannot interrupt
-something else that is currently resolving. (The one exception to this, of
-course, would be your own engage, as you are generally always allowed to resolve
-dice in active slots as you are resolving the different dice of your engage)
+"At any time" includes outside of your turn. However, you cannot interrupt something else that is currently resolving. (The one exception to this, of course, would be your own engage, as you are generally always allowed to resolve dice in active slots as you are resolving the different dice of your engage)
 
 <a href="https://discord.com/channels/273472391403798528/1392799821441663016/1428069890337669343" target="_blank">Источник</a>
 <!-- translate:off -->
@@ -69,11 +65,9 @@ dice in active slots as you are resolving the different dice of your engage)
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**When recovered from a cooldown track (any adventurers), where does the die
-go?**
+**When recovered from a cooldown track (any adventurers), where does the die go?**
 
-After it is recovered from a cooldown track, this counts as its cooldown time
-and it returns to the adventurer's mat (it doesn't go back into cooldown track).
+After it is recovered from a cooldown track, this counts as its cooldown time and it returns to the adventurer's mat (it doesn't go back into cooldown track).
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1334930549047034022" target="_blank">Источник</a>
 <!-- translate:off -->
@@ -110,12 +104,9 @@ and it returns to the adventurer's mat (it doesn't go back into cooldown track).
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Does this die need to be set in the active slot before an adventurer is
-defeated, or can you roll, put it in the active slot, and immediately drain it
-to resurrect a defeated adventurer?**
+**Does this die need to be set in the active slot before an adventurer is defeated, or can you roll, put it in the active slot, and immediately drain it to resurrect a defeated adventurer?**
 
-The die needs to already be active when the adventurer is defeated, in order to
-use its ability.
+The die needs to already be active when the adventurer is defeated, in order to use its ability.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372224678479003669" target="_blank">Источник</a>
 <!-- translate:off -->
@@ -128,14 +119,9 @@ use its ability.
 <!-- translate:on -->
 **Master Ritualist - Where do you resurrect?**
 
-When a defeated adventurer regains HP so that it is not defeated, it is deployed
-to the same hex it occupied previously.
+When a defeated adventurer regains HP so that it is not defeated, it is deployed to the same hex it occupied previously.
 
-Note, in some very rare cases, adventurers may be defeated by a game effect that
-defeats units on specific hexes so that other units can go there. A unit cannot
-be deployed to an occupied hex, so a unit defeated in this way cannot be
-resurrected with Master Ritualist, since it cannot be deployed to the hex it
-needs to be deployed to.
+Note, in some very rare cases, adventurers may be defeated by a game effect that defeats units on specific hexes so that other units can go there. A unit cannot be deployed to an occupied hex, so a unit defeated in this way cannot be resurrected with Master Ritualist, since it cannot be deployed to the hex it needs to be deployed to.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000291977" target="_blank">Источник</a>
 <!-- translate:off -->
