@@ -1,31 +1,31 @@
 ---
 id: drained
-title: Drained
-hoverText: The ability is resolved instantly as described in its entry. Then, that die is placed on the [adventurer's](/docs/glossary/adventurer) race sheet. It is unavailable for the remainder of the battle and is considered drained.
+title: Исчерпаемый
+hoverText: Способность применяется мгновенно, как описано в её тексте. Затем этот кубик помещается на памятку расы [персонажа](/docs/glossary/adventurer). Он недоступен до конца боя и считается исчерпанным.
 ---
 
-# <img src="/icons/drained.svg" alt="Drained Icon" /> Drained
+# <img src="/icons/drained.svg" alt="Drained Icon" /> Исчерпаемый
 
-This skill die's ability is resolved instantly as described in its entry. Then, that die is placed on the [adventurer's](/docs/glossary/adventurer) race sheet. It is unavailable for the remainder of the battle and is considered drained.
+Способность этого кубика навыка применяется мгновенно, как описано в её тексте. Затем этот кубик помещается на памятку расы [персонажа](/docs/glossary/adventurer). Он недоступен до конца боя и считается исчерпанным.
 
 ---
 
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Recover Dice section in rulebook (pg. 23) re: drained dice**
+**Раздел о возвращении кубиков в правилах, с. 23: исчерпанные кубики**
 
-This section says that you can recover drained dice during the Adventurers Rest step of the [End of Day Phase](/docs/campaign/day/end-of-day-phase).
+В этом разделе сказано, что вы можете вернуть исчерпанные кубики во время этапа отдыха персонажей в [фазе конца дня](/docs/campaign/day/end-of-day-phase).
 
-This should instead say you recover drained dice during [End of Battle Cleanup](/docs/battles/end-of-battle). No drained dice recovery happens during Adventurers Rest step.
+Вместо этого там должно быть сказано, что вы возвращаете исчерпанные кубики во время [процедуры окончания боя](/docs/battles/end-of-battle). Во время этапа отдыха персонажей исчерпанные кубики не возвращаются.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292517" target="_blank">Источник</a>
 
 ---
 
-**Is it possible to drain a status or fatigue die?**
+**Можно ли исчерпать кубик состояния или кубик усталости?**
 
-When given the option to drain dice, only skill dice can be selected.
+Когда вам предлагают исчерпать кубик, можно выбрать только кубик навыка.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294282" target="_blank">Источник</a>
 <!-- translate:off -->
