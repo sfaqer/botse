@@ -29,9 +29,7 @@ hoverText: Guild Kiosk Town Action - Spend 1 saved [XP](/docs/glossary/xp) to tr
 
 ### Guild Kiosk Town Action
 
-**Guild Hall Sparring:** Spend 1 saved [XP](/docs/glossary/xp) to train any
-[<img src="/icons/warrior.svg" alt="Warrior Icon" className="icon-svg" />](/docs/adventurer/skill-lines/warrior)
-type skill line from the trainer bag.
+**Guild Hall Sparring:** Spend 1 saved [XP](/docs/glossary/xp) to train any [<img src="/icons/warrior.svg" alt="Warrior Icon" className="icon-svg" />](/docs/adventurer/skill-lines/warrior) type skill line from the trainer bag.
 
 ### Guild Focus
 

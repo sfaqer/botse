@@ -7,6 +7,4 @@ tags:
   - Native
 ---
 
-After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated),
-all allied units [heal](/docs/glossary/healing) for HP equal to the current
-unrest.
+After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated), all allied units [heal](/docs/glossary/healing) for HP equal to the current unrest.
