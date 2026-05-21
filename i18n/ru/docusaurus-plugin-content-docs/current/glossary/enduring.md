@@ -1,24 +1,24 @@
 ---
 id: enduring
-title: Enduring
-hoverText: Does not require [tenacity](/docs/glossary/tenacity) to be spent. Instead, it is active while your tenacity is equal to or greater than the required value. The ability is no longer in effect if your tenacity drops below this number.
+title: Постоянная
+hoverText: Не требует траты [стойкости](/docs/glossary/tenacity). Вместо этого способность действует, пока ваша стойкость равна требуемому значению или превышает его. Способность перестаёт действовать, если ваша стойкость опускается ниже этого значения.
 ---
 
-This [class ability](/docs/battles/adventurer-turn/class-ability) does not
-require [tenacity](/docs/glossary/tenacity) to be spent. Instead, it is active
-while your tenacity is equal to or greater than the required value. The ability
-is no longer in effect if your tenacity drops below this number.
+Эта [способность класса](/docs/battles/adventurer-turn/class-ability) не требует
+траты [стойкости](/docs/glossary/tenacity). Вместо этого она действует, пока
+ваша стойкость равна требуемому значению или превышает его. Способность
+перестаёт действовать, если ваша стойкость опускается ниже этого значения.
 
 ---
 
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Do I have to use an Enduring ability?**
+**Обязан ли я использовать постоянную способность?**
 
-Even if they do not use the word "may", innate abilities (from class sheets) as
-well as any "Enduring" class abilities, are optional. You are not forced to use
-them if you do not want to.
+Даже если в них не используется слово «можно», врождённые способности с памяток
+классов, а также любые постоянные способности класса являются необязательными.
+Вы не обязаны использовать их, если не хотите.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000293229" target="_blank">Источник</a>
 <!-- translate:off -->

@@ -1,24 +1,25 @@
 ---
 id: cornered
-title: Cornered
-hoverText: This [unit](/docs/glossary/unit) deploys with an additional 2 HP for each [undefeated](/docs/glossary/defeated) [adventurer](/docs/glossary/adventurer).
+title: Загнанный в угол
+hoverText: Эта [боевая единица](/docs/glossary/unit) размещается с 2 дополнительными фишками ОЗ за каждого [неповерженного](/docs/glossary/defeated) [персонажа](/docs/glossary/adventurer).
 tags:
   - Quest Unit Skill
 ---
 
-This [unit](/docs/glossary/unit) deploys with an additional 2 HP for each
-[undefeated](/docs/glossary/defeated) [adventurer](/docs/glossary/adventurer).
+Эта [боевая единица](/docs/glossary/unit) размещается с 2 дополнительными
+фишками ОЗ за каждого [неповерженного](/docs/glossary/defeated)
+[персонажа](/docs/glossary/adventurer).
 
 ---
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**What happens when a unit with Cornered heals?**
+**Что происходит, когда боевая единица с «Загнанным в угол» лечится?**
 
-The HP granted by the skill Cornered is **additional** HP. The unit's Health
-stat (printed on chip) is what limits healing, so it will only heal up it's
-Health stat.
+ОЗ, полученные благодаря навыку «Загнанный в угол», являются **дополнительными**
+ОЗ. Лечение ограничено характеристикой «Здоровье» боевой единицы, поэтому она
+может восстановить ОЗ только до значения своей характеристики «Здоровье».
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1403548887150759936" target="_blank">Источник</a>
 <!-- translate:off -->

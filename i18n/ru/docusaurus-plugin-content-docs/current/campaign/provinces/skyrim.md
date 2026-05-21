@@ -1,49 +1,53 @@
 ---
 id: skyrim
-title: Skyrim [SK]
-hoverText: Native Skill - [Freeze](/docs/battles/enemy-skills/freeze)
+title: Скайрим [SK]
+hoverText: Местный навык — [Заморозка](/docs/battles/enemy-skills/freeze)
 tags:
   - Skyrim
 ---
 
-**Native Skill:** [Freeze](/docs/battles/enemy-skills/freeze)
+**Местный навык:** [Заморозка](/docs/battles/enemy-skills/freeze)
 
 ---
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**In under siege town encounters, when do you reveal items and trainers?**
+**Во время городских встреч в осаждённых городах когда раскрываются предметы и
+наставники?**
 
-You reveal items and trainers at the beginning of the town encounter as normal.
+Предметы и наставники раскрываются в начале городской встречи как обычно.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225968755835012" target="_blank">Источник</a>
 
 ---
 
-**Skyrim's caravan encounter may flip your class sheet. What happens if you
-still meet the requirements to promote from Novice to Master?**
+**Встреча с караваном в Скайриме может перевернуть вашу памятку класса. Что
+происходит, если вы всё ещё выполняете требования для повышения с новичка до
+мастера?**
 
-If your class sheet is flipped to Novice, and you still meet the upgrade
-requirements, you may instantly flip back to Master.
+Если ваша памятка класса перевёрнута на сторону новичка, но вы всё ещё
+выполняете требования для улучшения, вы можете немедленно перевернуть её обратно
+на сторону мастера.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372226530864005250" target="_blank">Источник</a>
 
 ---
 
-**Skyrim Town Siege Encounter and defeated adventurer interaction**
+**Взаимодействие городской встречи с осадой в Скайриме и поверженного
+персонажа**
 
-A defeated adventurer can still take advantage of the 1 free town action granted
-if all enemies are defeated in a siege encounter.
+Поверженный персонаж всё ещё может воспользоваться 1 бесплатным городским
+действием, предоставляемым, если все враги побеждены в осадной встрече.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Источник</a>
 
 ---
 
-**When a quest says "draw and initiate a Conflict" (e.g. SK Circle A31), do you
-get the XP for both or just the quest?**
+**Если задание говорит: «возьмите и начните конфликт» — например, SK, круг A31,
+— получаете ли вы ОО и за конфликт, и за задание, или только за задание?**
 
-You get XP for both.
+Вы получаете ОО за оба.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Источник</a>
 
@@ -53,10 +57,10 @@ You get XP for both.
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Does Icy Buildup clear between delves?**
+**Сбрасывается ли «Накопление льда» между вылазками?**
 
-Chips on the Icy Buildup card should be cleared after each
-[delve](/docs/battles/types/delve/) (unless instructed not to clear it).
+Фишки на карте «Накопление льда» нужно сбрасывать после каждой
+[вылазки](/docs/battles/types/delve/), если не указано не сбрасывать их.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000291979" target="_blank">Источник</a>
 
@@ -66,10 +70,10 @@ Chips on the Icy Buildup card should be cleared after each
 <!-- translate:off -->
 :::warning[Errata]
 <!-- translate:on -->
-**Quest Step C11 (Fighters Guild) - Bloodthorns take 1 damage**
+**Этап задания C11, Гильдия бойцов — кровошипы получают 1 урон**
 
-Bloodthorns in this scenario are defeated if the take at least 1 damage. This
-information is missing from the scenario instructions.
+Кровошипы в этом сценарии считаются поверженными, если получают хотя бы 1 урон.
+Эта информация отсутствует в инструкциях сценария.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294287" target="_blank">Источник</a>
 <!-- translate:off -->
