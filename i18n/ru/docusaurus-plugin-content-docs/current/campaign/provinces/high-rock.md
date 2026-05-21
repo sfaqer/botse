@@ -1,28 +1,30 @@
 ---
 id: high-rock
-title: High Rock [HR]
-hoverText: Native Skill - [Incite](/docs/battles/enemy-skills/incite)
+title: Хай Рок [HR]
+hoverText: Местный навык — [Подстрекательство](/docs/battles/enemy-skills/incite)
 tags:
   - High Rock
 ---
 
-**Native Skill:** [Incite](/docs/battles/enemy-skills/incite)
+**Местный навык:** [Подстрекательство](/docs/battles/enemy-skills/incite)
 
 ---
 
 <!-- translate:off -->
 :::warning[Errata]
 <!-- translate:on -->
-**Endgame - what to do if Shadowscale Akisha is in play?**
+**Финал — что делать, если Тенечешуйка Акиша в игре?**
 
-If you completed Black Marsh Dark Brotherhood in your first session and got the
-keyword "Gain Ally: Shadowscale Akisha," you may have Shadowscale Akisha in play
-at the time when Lich Deslandra would come out. This is an issue because these
-two units are the backs of each other.
+Если в первом эпизоде вы завершили задание Тёмного Братства в Чернотопье и
+получили ключевое слово «Получите союзника: Тенечешуйка Акиша», Тенечешуйка
+Акиша может находиться в игре в момент, когда должен появиться Лич Десландра.
+Это проблема, потому что эти две боевые единицы находятся на оборотных сторонах
+одной фишки.
 
-If quest unit: Shadowscale Akisha is in play when quest unit: Lich Deslandra
-would be deployed, defeat Shadowscale Akisha and split her remaining HP as bonus
-HP among adventurers. Then, deploy Lich Deslandra as normal.
+Если сюжетная боевая единица Тенечешуйка Акиша находится в игре, когда должна
+быть размещена сюжетная боевая единица Лич Десландра, повергните Тенечешуйку
+Акишу и распределите её оставшиеся ОЗ как дополнительное здоровье между
+персонажами. Затем разместите Лича Десландру как обычно.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294281" target="_blank">Источник</a>
 <!-- translate:off -->

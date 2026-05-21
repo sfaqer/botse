@@ -1,39 +1,43 @@
 ---
 id: siphon
-title: Siphon
-hoverText: At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), remove 1 HP from each non-[quest unit](/docs/glossary/quest-unit) within [range](/docs/glossary/range). Place all HP removed under this unit's chip (may exceed [Health](/docs/adventurer/stats/health) stat).
+title: Поглощение
+hoverText: В конце [хода](/docs/glossary/turn) этой [боевой единицы](/docs/glossary/unit) уберите 1 ОЗ с каждой не-[сюжетной боевой единицы](/docs/glossary/quest-unit) в пределах [дальности](/docs/glossary/range). Поместите все убранные ОЗ под фишку этой боевой единицы; это может превысить её характеристику [«Здоровье»](/docs/adventurer/stats/health).
 ---
 
-At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn),
-remove 1 HP from each non-[quest unit](/docs/glossary/quest-unit) within
-[range](/docs/glossary/range). Place all HP removed under this unit's chip (may
-exceed [Health](/docs/adventurer/stats/health) stat).
+В конце [хода](/docs/glossary/turn) этой [боевой единицы](/docs/glossary/unit)
+уберите 1 ОЗ с каждой не-[сюжетной боевой единицы](/docs/glossary/quest-unit) в
+пределах [дальности](/docs/glossary/range). Поместите все убранные ОЗ под фишку
+этой боевой единицы; это может превысить её характеристику
+[«Здоровье»](/docs/adventurer/stats/health).
 
 ---
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Is Siphon considering taking damage?**
+**Считается ли «Поглощение» получением урона?**
 
-"Remove 1 HP" is not considered taking damage.
+«Уберите 1 ОЗ» не считается получением урона.
 
 ---
 
-**Does Siphon effect units that are untargetable (e.g. Stealth)?**
+**Действует ли «Поглощение» на боевые единицы, которых нельзя выбрать целью,
+например из-за «Скрытности»?**
 
-Untargetable units are still effected. Siphon is not a targeting skill and
-Stealth just prevents you from being targeted, not from being affected by any
-skill.
+Боевые единицы, которых нельзя выбрать целью, всё равно подвергаются эффекту.
+«Поглощение» не является навыком, выбирающим цель, а «Скрытность» только не
+позволяет выбрать вас целью, но не защищает от воздействия навыков.
 
 <a href="https://boardgamegeek.com/thread/3464004/article/45684929#45684929" target="_blank">Источник</a>
 
 ---
 
-**Will a unit with Siphon remove it's last HP and defeat itself?**
+**Может ли боевая единица с «Поглощением» убрать своё последнее ОЗ и повергнуть
+себя?**
 
-Siphon affects each other non-quest unit in range. It's not meant to defeat
-itself at 1 HP.
+«Поглощение» действует на каждую другую не-сюжетную боевую единицу в пределах
+дальности. Оно не предназначено для того, чтобы боевая единица повергала саму
+себя при 1 ОЗ.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1346557892966220049" target="_blank">Источник</a>
 

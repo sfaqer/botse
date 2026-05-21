@@ -1,22 +1,22 @@
 ---
 id: ritual
-title: "Ritual #"
-hoverText: At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), all allied units in [sight](/docs/glossary/sight) [heal](/docs/glossary/healing) for \#.
+title: "Ритуал #"
+hoverText: В конце [хода](/docs/glossary/turn) этой [боевой единицы](/docs/glossary/unit) все союзные боевые единицы в пределах [видимости](/docs/glossary/sight) [лечатся](/docs/glossary/healing) на #.
 ---
 
-At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn),
-all allied units in [sight](/docs/glossary/sight) [heal](/docs/glossary/healing)
-for #.
+В конце [хода](/docs/glossary/turn) этой [боевой единицы](/docs/glossary/unit)
+все союзные боевые единицы в пределах [видимости](/docs/glossary/sight)
+[лечатся](/docs/glossary/healing) на #.
 
 ---
 
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Does a unit with Ritual heal itself?**
+**Лечит ли боевая единица с «Ритуалом» саму себя?**
 
-Ritual heals all allies in sight. The enemy with Ritual does not heal - it is
-not considered an ally to itself.
+«Ритуал» лечит всех союзников в пределах видимости. Враг с «Ритуалом» не лечит
+себя: он не считается союзником самому себе.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294293" target="_blank">Источник</a>
 <!-- translate:off -->
