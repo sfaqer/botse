@@ -6,5 +6,4 @@ hoverText: This skill die's ability is resolved instantly as described in its en
 
 # <img src="/icons/instant.svg" alt="Instant Icon" /> Instant
 
-This skill die's ability is resolved instantly as described in its entry. Then,
-that die is exhausted.
+This skill die's ability is resolved instantly as described in its entry. Then, that die is exhausted.
