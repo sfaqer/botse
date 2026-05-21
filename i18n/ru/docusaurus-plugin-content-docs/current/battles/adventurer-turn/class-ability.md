@@ -40,9 +40,9 @@ be the cost.
 <!-- translate:on -->
 **Do I have to use an Enduring or Innate ability?**
 
-Even if they do not use the word "may", innate abilities (from class sheets) as
-well as any "Enduring" class abilities, are optional. You are not forced to use
-them if you do not want to.
+Даже если в них не используется слово «можно», врождённые способности с памяток
+классов, а также любые постоянные способности класса являются необязательными.
+Вы не обязаны использовать их, если не хотите.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000293229" target="_blank">Источник</a>
 

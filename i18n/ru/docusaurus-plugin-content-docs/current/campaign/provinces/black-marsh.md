@@ -1,37 +1,35 @@
 ---
 id: black-marsh
-title: Black Marsh [BM]
-hoverText: Native Skill - [Storm Seer](/docs/battles/enemy-skills/storm-seer)
+title: Чернотопье [BM]
+hoverText: Местный навык — [Провидец бури](/docs/battles/enemy-skills/storm-seer)
 tags:
   - Black Marsh
 ---
 
-**Native Skill:** [Storm Seer](/docs/battles/enemy-skills/storm-seer)
+**Местный навык:** [Провидец бури](/docs/battles/enemy-skills/storm-seer)
 
 ---
 
 <!-- translate:off -->
 :::warning[Errata]
 <!-- translate:on -->
-**Black Marsh A01 ([Mages Guild](/docs/campaign/guilds/mages-guild), pg. 18)**
+**Чернотопье A01 (Гильдия магов(/docs/campaign/guilds/mages-guild), с. 18)**
 
-This quest step singles out the Bright-Throat Poultice item. this item is
-labelled as a [Potion](/docs/adventurer/items/types/potion)
-(<img src="/icons/potion.svg" alt="Potion Icon" className="icon-svg" />) in the
-gazetteer, but it is actually a
-[Miscellaneous](/docs/adventurer/items/types/miscellaneous)
-(<img src="/icons/miscellaneous.svg" alt="Miscellaneous Icon" className="icon-svg" />)
-item.
+В этом этапе задания отдельно упоминается предмет «Припарка Яркогорлых». В
+буклете он указан как [зелье](/docs/adventurer/items/types/potion)
+(<img src="/icons/potion.svg" alt="Potion Icon" className="icon-svg" />), но на
+самом деле это предмет [разное](/docs/adventurer/items/types/miscellaneous)
+(<img src="/icons/miscellaneous.svg" alt="Miscellaneous Icon" className="icon-svg" />).
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292580" target="_blank">Источник</a>
 
 ---
 
-**Black Marsh E27 ([Outer Watch](/docs/campaign/guilds/outer-watch), pg. 43)**
+**Чернотопье E27 (Внешний дозор(/docs/campaign/guilds/outer-watch), с. 43)**
 
-The paragraph for Session 2 ends with "Proceed to the Black Marsh endgame quest
-for Session 2." This should instead say "Proceed to the Black Marsh endgame
-quest for **Session 3**."
+Абзац для эпизода 2 заканчивается фразой: «Перейдите к финальному заданию
+Чернотопья для эпизода 2.» Вместо этого там должно быть сказано: «Перейдите к
+финальному заданию Чернотопья для **эпизода 3**.»
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294807" target="_blank">Источник</a>
 <!-- translate:off -->

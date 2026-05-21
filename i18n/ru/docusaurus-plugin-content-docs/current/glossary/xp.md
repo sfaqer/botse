@@ -17,10 +17,10 @@ party XP starts at 1, otherwise it starts at 2.
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**When a quest says "draw and initiate a Conflict" (e.g. SK Circle A31), do you
-get the XP for both or just the quest?**
+**Если задание говорит: «возьмите и начните конфликт» — например, SK, круг A31,
+— получаете ли вы ОО и за конфликт, и за задание, или только за задание?**
 
-You get XP for both.
+Вы получаете ОО за оба.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Источник</a>
 <!-- translate:off -->
