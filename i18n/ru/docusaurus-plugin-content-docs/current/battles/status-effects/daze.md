@@ -15,7 +15,7 @@ This [unit](/docs/glossary/unit) cannot roll dice on the same [turn](/docs/gloss
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**How does Daze and Steal interact?**
+**Как взаимодействуют «Оглушение» и «Кража»?**
 
 The Daze status effect says that if an enemy moves on its turn, it can't roll dice that turn. Using [Steal](/docs/battles/enemy-skills/steal) requires a die to be rolled, so a Dazed enemy that moves cannot use its Steal skill.
 

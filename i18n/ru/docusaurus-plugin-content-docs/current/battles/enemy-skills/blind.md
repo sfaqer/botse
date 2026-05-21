@@ -1,21 +1,21 @@
 ---
 id: blind
-title: Blind
-hoverText: After this [unit's](/docs/glossary/unit) engage, apply a [Blind](/docs/battles/status-effects/blind) status die to this unit's target.
+title: Слепота
+hoverText: После действия атаки этой [боевой единицы](/docs/glossary/unit) примените к цели этой боевой единицы кубик состояния [«Слепота»](/docs/battles/status-effects/blind).
 tags:
   - Quest Unit Skill
 ---
 
-After this [unit's](/docs/glossary/unit) engage, apply a [Blind](/docs/battles/status-effects/blind) (<img src="/icons/blind.svg" alt="Blind Icon" className="icon-svg" />) status die to this unit's target.
+После действия атаки этой [боевой единицы](/docs/glossary/unit) примените к цели этой боевой единицы кубик состояния [«Слепота»](/docs/battles/status-effects/blind) (<img src="/icons/blind.svg" alt="Blind Icon" className="icon-svg" />).
 
 ---
 
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**How does Blind effect enemy targeting?**
+**Как «Слепота» влияет на выбор цели врагом?**
 
-When an enemy has the Blind status effect on them, they use their movement to get adjacent to the closest opposing unit (which is all other units) and then attack that unit. For ties, it prioritizes strongest. Even if its chip shows multiple targets, while blind it has only one target.
+Если на враге есть эффект состояния «Слепота», он использует своё передвижение, чтобы стать соседним с ближайшей противостоящей боевой единицей — то есть с любой другой боевой единицей, — а затем атакует её. При ничьей он отдаёт приоритет сильнейшей цели. Даже если на его фишке указано несколько целей, пока он ослеплён, у него только одна цель.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000293226" target="_blank">Источник</a>
 <!-- translate:off -->

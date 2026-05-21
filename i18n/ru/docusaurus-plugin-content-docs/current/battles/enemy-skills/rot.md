@@ -1,19 +1,19 @@
 ---
 id: rot
-title: Rot
-hoverText: After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated) by an [adventurer](/docs/glossary/adventurer), that adventurer gains 1 [overfatigue](/docs/glossary/fatigue).
+title: Гниль
+hoverText: После того как эта [боевая единица](/docs/glossary/unit) [повержена](/docs/glossary/defeated) [персонажем](/docs/glossary/adventurer), этот персонаж получает 1 [кубик переутомления](/docs/glossary/fatigue).
 ---
 
-After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated) by an [adventurer](/docs/glossary/adventurer), that adventurer gains 1 [overfatigue](/docs/glossary/fatigue).
+После того как эта [боевая единица](/docs/glossary/unit) [повержена](/docs/glossary/defeated) [персонажем](/docs/glossary/adventurer), этот персонаж получает 1 [кубик переутомления](/docs/glossary/fatigue).
 
 ---
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Does the overfatigue go into your cooldown track before or after the dice that defeated the enemy?**
+**Кубик переутомления помещается на трек перезарядки до или после кубика, который поверг врага?**
 
-The overfatigue goes into your [cooldown track](/docs/glossary/cooldown-track) after the dice that dealt damage to defeat it.
+Кубик переутомления помещается на ваш [трек перезарядки](/docs/glossary/cooldown-track) после кубиков, которые нанесли урон, повергший этого врага.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1341464197573378049" target="_blank">Источник</a>
 <!-- translate:off -->
