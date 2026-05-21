@@ -1,19 +1,19 @@
 ---
 id: divert
-title: Divert
-hoverText: This [unit](/docs/glossary/unit) cannot lose its last HP unless it is already at 1 HP prior to taking damage.
+title: Отведение
+hoverText: Эта [боевая единица](/docs/glossary/unit) не может потерять свою последнюю фишку ОЗ, если перед получением урона у неё было больше 1 ОЗ.
 ---
 
-This [unit](/docs/glossary/unit) cannot lose its last HP unless it is already at 1 HP prior to taking damage.
+Эта [боевая единица](/docs/glossary/unit) не может потерять свою последнюю фишку ОЗ, если перед получением урона у неё было больше 1 ОЗ.
 
 ---
 
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Can I use multiple dice in a single engage to defeat an enemy with Divert?**
+**Могу ли я использовать несколько кубиков в одном действии атаки, чтобы повергнуть врага с «Отведением»?**
 
-Any damage dealt to a unit within an engage is considered a single instance of damage. Therefore, it is not possible to defeat an enemy with Divert and more than 1 HP with a single engage, no matter how many different damage-dealing skills you use. You must get it down to 1 HP, then use a new instance of damage (a new engage, a class ability, an item, etc.) to be able to defeat it.
+Любой урон, нанесённый боевой единице в рамках одного действия атаки, считается одним случаем нанесения урона. Поэтому невозможно повергнуть врага с «Отведением» и более чем 1 ОЗ одним действием атаки, сколько бы разных навыков, наносящих урон, вы ни использовали. Нужно сначала снизить его ОЗ до 1, а затем использовать новый случай нанесения урона — новое действие атаки, способность класса, предмет и т. п., — чтобы повергнуть его.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000293228" target="_blank">Источник</a>
 <!-- translate:off -->

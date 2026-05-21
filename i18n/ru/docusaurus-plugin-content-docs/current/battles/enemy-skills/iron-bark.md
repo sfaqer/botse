@@ -1,23 +1,23 @@
 ---
 id: iron-bark
-title: Iron Bark
-hoverText: When this [unit](/docs/glossary/unit) is dealt damage by non-[adjacent](/docs/glossary/adjacent) units, its defense is increased by 1 for that engage.
+title: Железная кора
+hoverText: Когда этой [боевой единице](/docs/glossary/unit) наносят урон не-[соседние](/docs/glossary/adjacent) боевые единицы, её защита увеличивается на 1 для этого действия атаки.
 tags:
   - Valenwood
   - Native
   - Quest Unit Skill
 ---
 
-When this [unit](/docs/glossary/unit) is dealt damage by non-[adjacent](/docs/glossary/adjacent) units, its defense is increased by 1 for that engage.
+Когда этой [боевой единице](/docs/glossary/unit) наносят урон не-[соседние](/docs/glossary/adjacent) боевые единицы, её защита увеличивается на 1 для этого действия атаки.
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**How does Iron Bark work with the [Bow](/docs/adventurer/skill-lines/warrior/bow) skill Volley?**
+**Как «Железная кора» взаимодействует с залпом навыка [«Лук»](/docs/adventurer/skill-lines/warrior/bow)?**
 
-Any restrictions regarding which units a die can be resolved against (for example, if a result requires adjacency) are assessed at the time the die is resolved, not at the time the damage is applied. Volley damages an adjacent enemy. Therefore the enemy must be adjacent at the time that Volley is resolved - even if that damage is pooled and then later applied after you are no longer adjacent.
+Любые ограничения на то, против каких боевых единиц можно применить кубик, например если результат требует соседства, проверяются в момент применения кубика, а не в момент нанесения урона. «Залп» наносит урон соседнему врагу. Поэтому враг должен быть соседним в момент применения «Залпа», даже если этот урон суммируется и применяется позже, когда вы уже не соседние.
 
-Iron Bark wouldn't trigger because you were adjacent when the damage was dealt.
+«Железная кора» не сработает, потому что вы были соседними, когда был нанесён урон.
 
 <a href="https://discord.com/channels/273472391403798528/1394290053613879366/1405222483912687716" target="_blank">Источник</a>
 <!-- translate:off -->

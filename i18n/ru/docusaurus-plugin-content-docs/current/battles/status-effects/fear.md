@@ -1,23 +1,23 @@
 ---
 id: fear
-title: Fear
-hoverText: The effects of this [unit's](/docs/glossary/unit) non-[Combat](/docs/adventurer/skill-lines/warrior/combat) skills are ignored. This effect does not apply to skill dice already in [active slots](/docs/glossary/active-slot) or the [cooldown track](/docs/glossary/cooldown-track).
+title: Страх
+hoverText: Эффекты навыков этой [боевой единицы](/docs/glossary/unit), не относящихся к [«Бою»](/docs/adventurer/skill-lines/warrior/combat), игнорируются. Этот эффект не применяется к кубикам навыков, уже находящимся в [ячейках активности](/docs/glossary/active-slot) или на [треке перезарядки](/docs/glossary/cooldown-track).
 tags:
   - Status Effects
 ---
 
-# <img src="/icons/fear.svg" alt="Fear Icon" /> Fear
+# <img src="/icons/fear.svg" alt="Fear Icon" /> Страх
 
-The effects of this [unit's](/docs/glossary/unit) non-[Combat](/docs/adventurer/skill-lines/warrior/combat) skills are ignored. This effect does not apply to skill dice already in [active slots](/docs/glossary/active-slot) or the [cooldown track](/docs/glossary/cooldown-track).
+Эффекты навыков этой [боевой единицы](/docs/glossary/unit), не относящихся к [«Бою»](/docs/adventurer/skill-lines/warrior/combat), игнорируются. Этот эффект не применяется к кубикам навыков, уже находящимся в [ячейках активности](/docs/glossary/active-slot) или на [треке перезарядки](/docs/glossary/cooldown-track).
 
 ---
 
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**What are non-Combat skills?**
+**Что считается навыками, не относящимися к «Бою»?**
 
-All skills except the skill line called Combat that all adventurers have by default. So an enemy with Fear ignores all of its skills. An adventurer with Fear can only use their Combat skill line, no other skills.
+Все навыки, кроме ветки навыка «Бой», которая есть у всех персонажей по умолчанию. Поэтому враг со «Страхом» игнорирует все свои навыки. Персонаж со «Страхом» может использовать только ветку навыка «Бой» и никакие другие навыки.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292468" target="_blank">Источник</a>
 
@@ -28,17 +28,17 @@ All skills except the skill line called Combat that all adventurers have by defa
 :::info
 <!-- translate:on -->
 
-**Can an adventurer with Fear still roll skill dice and benefit from tenacity results?**
+**Может ли персонаж со «Страхом» всё ещё бросать кубики навыков и получать пользу от результатов стойкости?**
 
-You cannot gain benefits from tenacity results rolled on skill dice either.
+Вы также не можете получать пользу от результатов стойкости, выпавших на кубиках навыков.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1346557892966220049" target="_blank">Источник</a>
 
 ---
 
-**Does Fear work on "after this unit is defeated..." enemy skills?**
+**Работает ли «Страх» на навыки врагов «после того как эта боевая единица повержена...»?**
 
-Fear is meant to prevent even "after defeat" skills from triggering.
+«Страх» должен предотвращать срабатывание даже навыков «после поражения».
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Источник</a>
 

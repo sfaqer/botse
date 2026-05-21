@@ -1,21 +1,21 @@
 ---
-id: eliminate
-title: Eliminate X
-hoverText: To accomplish the Eliminate objective, the specified objective [unit](/docs/glossary/unit) (or units) must be [defeated](/docs/glossary/defeated) or otherwise removed from the battle map.
+id: eliminate-x
+title: Устранить X
+hoverText: Чтобы выполнить задачу «Устранить», указанная целевая [боевая единица](/docs/glossary/unit) или боевые единицы должны быть [повержены](/docs/glossary/defeated) или иным образом удалены с поля боя.
 ---
 
-To accomplish the Eliminate objective, the specified objective [unit](/docs/glossary/unit) (or units) must be [defeated](/docs/glossary/defeated) or otherwise removed from the battle map.
+Чтобы выполнить задачу «Устранить», указанная целевая [боевая единица](/docs/glossary/unit) или боевые единицы должны быть [повержены](/docs/glossary/defeated) или иным образом удалены с поля боя.
 
 ---
 
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**If the unit is defeated and subsequently redeployed (e.g. [Necromancy](/docs/battles/enemy-skills/necromancy)), is the objective considered completed?**
+**Если боевая единица повержена, а затем размещена снова, например из-за [Некромантии](/docs/battles/enemy-skills/necromancy), считается ли задача выполненной?**
 
-No. The battle objective needs to be completed and remain completed at the end of the round. If the unit is brought back (for example by the enemy skill [Necromancy](/docs/battles/enemy-skills/necromancy)) and is back in play at the end of the round, the objective is not considered completed.
+Нет. Задача боя должна быть выполнена и оставаться выполненной в конце раунда. Если боевая единица возвращена, например навыком врага [Некромантия](/docs/battles/enemy-skills/necromancy), и снова находится в игре в конце раунда, задача не считается выполненной.
 
-The same logic applies to the [Conquer](/docs/battles/objectives/conquer) objective. If all units are defeated but then more are deployed (for example by the enemy skill [Instigate](/docs/battles/enemy-skills/instigate)), you need to defeat these newly deployed enemies in order to complete the Conquer objective.
+Та же логика применяется к задаче [Зачистка](/docs/battles/objectives/conquer). Если все боевые единицы повержены, но затем размещаются новые, например из-за навыка врага [Подстрекательство](/docs/battles/enemy-skills/instigate), вам нужно повергнуть этих новых врагов, чтобы выполнить задачу «Зачистка».
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294925" target="_blank">Источник</a>
 <!-- translate:off -->

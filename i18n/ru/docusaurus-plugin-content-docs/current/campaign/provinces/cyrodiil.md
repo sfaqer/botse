@@ -1,45 +1,45 @@
 ---
 id: cyrodiil
-title: Cyrodiil [CY]
-hoverText: Native Skill - [Detain](/docs/battles/enemy-skills/detain).
+title: Сиродил [CY]
+hoverText: Местный навык — [Задержание](/docs/battles/enemy-skills/detain)
 tags:
   - Cyrodiil
 ---
 
-**Native Skill:** [Detain](/docs/battles/enemy-skills/detain)
+**Местный навык:** [Задержание](/docs/battles/enemy-skills/detain)
 
 ---
 
 <!-- translate:off -->
 :::warning[Errata]
 <!-- translate:on -->
-**Endgame Day 1 - Breton Marauder should be Wood Elf**
+**Финал, день 1 — бретонец-мародёр должен быть лесным эльфом**
 
-In Encounter Setup for Cyrodiil's Endgame Day 1, when you are told to deploy a level 5: Breton Marauder, you should instead deploy a level 5: Wood Elf Marauder.
+Во время подготовки встречи для финала Сиродила, день 1, когда вам предписано разместить врага 5-го уровня «Бретонец-мародёр», вместо этого нужно разместить врага 5-го уровня «Лесной эльф-мародёр».
 
-The Breton cannot be used because it is on the backside of the level 1: Breton Bandit which is also used in this encounter. The Wood Elf is also what was intended for thematic purposes.
+Бретонца нельзя использовать, потому что на обратной стороне этой фишки находится враг 1-го уровня «Бретонец-бандит», который также используется в этой встрече. Кроме того, лесной эльф лучше соответствует задуманной тематике.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292578" target="_blank">Источник</a>
 
 ---
 
-**Fort Warden - Should auto-succeed social check on day 1**
+**Форт Стражей — проверка общения в день 1 должна автоматически быть успешной**
 
-Fort Warden's [social check](/docs/campaign/day/encounter-phase/social-checks) should be automatically successful on day 1.
+[Проверка общения](/docs/campaign/day/encounter-phase/social-checks) в Форте Стражей должна автоматически быть успешной в день 1.
 
-The text for this [town](/docs/campaign/day/encounter-phase/town) should say "If the Daggerfall Covenant is dominant, or if it is day 1, this check is automatically successful." This matches the other starting towns in Cyrodiil with social checks.
+Текст для этого [города](/docs/campaign/day/encounter-phase/town) должен гласить: «Если Даггерфолльский Ковенант является доминирующим, или если сейчас день 1, эта проверка автоматически успешна». Это соответствует другим стартовым городам Сиродила с проверками общения.
 
-The guilds that start you in Fort Warden are the [Mages Guild](/docs/campaign/guilds/mages-guild) (A01), [Undaunted](/docs/campaign/guilds/undaunted) (A20), and [Circle of Champions](/docs/campaign/guilds/circle-of-champions) (A33).
+Гильдии, с которыми вы начинаете в Форте Стражей, — это [Гильдия магов](/docs/campaign/guilds/mages-guild) (A01), [Неустрашимые](/docs/campaign/guilds/undaunted) (A20) и [Круг чемпионов](/docs/campaign/guilds/circle-of-champions) (A33).
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292579" target="_blank">Источник</a>
 
 ---
 
-**Cyrodiil D04 (Mages Guild) - companions can't block enemies from spawning**
+**Сиродил D04 (Гильдия магов) — компаньоны не могут блокировать появление врагов**
 
-By normal rules, if an enemy would deploy to a numbered hex that is already occupied, you would skip that hex and deploy the enemy to the next numbered hex instead. However, in this quest step, it is meant to be stated that if a numbered hex is occupied/blocked, the enemy deploys to the closest unoccupied hex.
+По обычным правилам, если враг должен быть размещён в пронумерованной клетке, которая уже занята, вы пропускаете эту клетку и размещаете врага в следующей пронумерованной клетке. Однако на этом этапе задания подразумевается, что если пронумерованная клетка занята или заблокирована, враг размещается в ближайшей незанятой клетке.
 
-With so few numbered hexes on this map (4 as opposed to the normal 8), it's is not intended that you can just block those hexes to avoid the enemies deploying altogether.
+Поскольку на этой карте так мало пронумерованных клеток — 4 вместо обычных 8, — не предполагалось, что вы сможете просто заблокировать эти клетки, чтобы полностью избежать размещения врагов.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000293225" target="_blank">Источник</a>
 <!-- translate:off -->
