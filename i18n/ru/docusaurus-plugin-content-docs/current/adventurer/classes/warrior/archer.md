@@ -4,7 +4,7 @@ title: Archer
 hoverText: ""
 ---
 
-## Novice
+## Новичок
 
 **Upgrade**: Defeat an enemy that is 6 or more hexes away.
 
@@ -12,29 +12,29 @@ hoverText: ""
 
 <div className="class-table-wrapper">
 
-| Tenacity Cost | Название            | Ability                                                                                                                                                                                                                                                |
-| ------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1             | Accuracy            | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon) **[Interrupt](/docs/glossary/interrupt):** When selecting a target, increase your [range](/docs/glossary/range) by 1. |
-| 2             | Hawk Eye            | [Heal](/docs/glossary/healing) for HP equal to the number of enemies within your [range](/docs/glossary/range).                                                                                                                                        |
-| 3             | Lethal Arrow        | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon): Roll 2 enemy Combat dice against a targetable enemy. Rolled damage is [true damage](/docs/glossary/true-damage).     |
-| 3             | Hunter's Discipline | **[Interrupt](/docs/glossary/interrupt):** When a non-quest enemy is deployed, remove it and deploy a random enemy of the same level to the same hex. Heal for 3 HP.                                                                                   |
-| 5             | Venom Arrow         | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon): Roll 3 status dice and apply them to targetable enemies.                                                             |
+| Стоимость стойкости | Название            | Способность                                                                                                                                                                                                                                            |
+| ------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1                   | Accuracy            | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon) **[Interrupt](/docs/glossary/interrupt):** When selecting a target, increase your [range](/docs/glossary/range) by 1. |
+| 2                   | Hawk Eye            | [Heal](/docs/glossary/healing) for HP equal to the number of enemies within your [range](/docs/glossary/range).                                                                                                                                        |
+| 3                   | Lethal Arrow        | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon): Roll 2 enemy Combat dice against a targetable enemy. Rolled damage is [true damage](/docs/glossary/true-damage).     |
+| 3                   | Hunter's Discipline | **[Interrupt](/docs/glossary/interrupt):** When a non-quest enemy is deployed, remove it and deploy a random enemy of the same level to the same hex. Heal for 3 HP.                                                                                   |
+| 5                   | Venom Arrow         | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon): Roll 3 status dice and apply them to targetable enemies.                                                             |
 
 </div>
 
-## Master
+## Мастер
 
 **Innate Ability**: At the start of your turn, if you are in [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon), deal 2 damage to an enemy in [sight](/docs/glossary/sight).
 
 <div className="class-table-wrapper">
 
-| Tenacity Cost | Название            | Ability                                                                                                                                                                                                                                              | Upgrade effect            |
-| ------------- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| 1             | Accuracy            | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon) **[Enduring](/docs/glossary/enduring):** When selecting a target, increase your [range](/docs/glossary/range) by 1. | Interrupt → Enduring      |
-| 2             | Hawk Eye            | [Heal](/docs/glossary/healing) for HP equal to the number of enemies within your [range](/docs/glossary/range).                                                                                                                                      | —                         |
-| 2             | Lethal Arrow        | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon): Roll 2 enemy Combat dice against a targetable enemy. Rolled damage is [true damage](/docs/glossary/true-damage).   | Tenacity cost<br/>(3 → 2) |
-| 3             | Hunter's Discipline | **[Interrupt](/docs/glossary/interrupt):** When a non-quest enemy is deployed, remove it and deploy a random enemy of the same level to the same hex. Gain 3 [bonus HP](/docs/glossary/bonus-hp).                                                    | Heal HP → Gain Bonus HP   |
-| 4             | Venom Arrow         | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon): Roll 3 status dice and apply them to targetable enemies.                                                           | Tenacity cost<br/>(5 → 4) |
+| Стоимость стойкости | Название            | Способность                                                                                                                                                                                                                                          | Эффект повышения          |
+| ------------------- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| 1                   | Accuracy            | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon) **[Enduring](/docs/glossary/enduring):** When selecting a target, increase your [range](/docs/glossary/range) by 1. | Interrupt → Enduring      |
+| 2                   | Hawk Eye            | [Heal](/docs/glossary/healing) for HP equal to the number of enemies within your [range](/docs/glossary/range).                                                                                                                                      | —                         |
+| 2                   | Lethal Arrow        | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon): Roll 2 enemy Combat dice against a targetable enemy. Rolled damage is [true damage](/docs/glossary/true-damage).   | Tenacity cost<br/>(3 → 2) |
+| 3                   | Hunter's Discipline | **[Interrupt](/docs/glossary/interrupt):** When a non-quest enemy is deployed, remove it and deploy a random enemy of the same level to the same hex. Gain 3 [bonus HP](/docs/glossary/bonus-hp).                                                    | Heal HP → Gain Bonus HP   |
+| 4                   | Venom Arrow         | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon): Roll 3 status dice and apply them to targetable enemies.                                                           | Tenacity cost<br/>(5 → 4) |
 
 </div>
 
@@ -76,7 +76,7 @@ No, adjacent units are not within your range if you are in [Ranged battle form](
 <!-- translate:off -->
 :::
 <!-- translate:on -->
-## Related Content
+## Связанные материалы
 
 <div className="responsive-embed">
 	<iframe src="https://www.youtube.com/embed/dP45vWL4yHg?si=FobVJFIVDVvosyX6" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
