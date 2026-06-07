@@ -1,57 +1,57 @@
 ---
 id: index
-title: Classes
-hoverText: Your [adventurer's](/docs/glossary/adventurer) class adds special class abilities you can use, typically by spending a resource called [tenacity](/docs/glossary/tenacity) that you accrue over the course of the game.
+title: Классы
+hoverText: Класс вашего [персонажа](/docs/glossary/adventurer) добавляет особые способности класса, которые можно использовать, обычно тратя ресурс под названием [стойкость](/docs/glossary/tenacity), накапливаемый в ходе игры.
 slug: /adventurer/classes/index
 ---
 
-Your [adventurer's](/docs/glossary/adventurer) class adds special class abilities you can use, typically by spending a resource called [tenacity (<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>)](/docs/glossary/tenacity) that you accrue over the course of the game. An adventurer can have only 1 class sheet during a campaign, but each sheet is double-sided. An adventurer's class begins with its novice side faceup. When your adventurer meets the promotion requirements on its novice side, you can flip the sheet to its master side. This promotion advancement can happen at any time and is permanent for the rest of the campaign. When you promote your class to its master side, many of your class abilities improve. Each tenacity ability that improves has a short bar under its title on the novice side of the sheet and a striped bar on the master side.
+Класс вашего [персонажа](/docs/glossary/adventurer) добавляет особые способности класса, которые можно использовать, обычно тратя ресурс под названием [стойкость (<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>)](/docs/glossary/tenacity), накапливаемый в ходе игры. В течение кампании у персонажа может быть только 1 памятка класса, но каждая памятка двусторонняя. Класс персонажа начинает игру стороной новичка вверх. Когда ваш персонаж выполняет требования повышения на стороне новичка, вы можете перевернуть памятку на сторону мастера. Это повышение может произойти в любой момент и остаётся постоянным до конца кампании. Когда вы повышаете класс до стороны мастера, многие способности класса улучшаются. Каждая улучшаемая способность имеет короткую черту под названием на стороне новичка и полосатую черту на стороне мастера.
 
-A class has 2 types of abilities, each described by its text:
+У класса есть 2 типа способностей, каждый описан своим текстом:
 
-- A unique innate ability, printed at the top of the class sheet, provides a passive, ongoing bonus that can be triggered at its specified timing. This ability has no [tenacity (<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>)](/docs/glossary/tenacity) cost.
-- Several [class abilities](/docs/battles/adventurer-turn/class-ability) that may be triggered by spending or retaining tenacity. Each ability has its required [<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>](/docs/glossary/tenacity) amount next to it.
+- Уникальная неотъемлемая способность, напечатанная вверху памятки класса, даёт пассивный постоянный бонус, который может сработать в указанный момент. Эта способность не требует затрат [стойкости (<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>)](/docs/glossary/tenacity).
+- Несколько [способностей класса](/docs/battles/adventurer-turn/class-ability), которые могут срабатывать при трате или удержании стойкости. Рядом с каждой способностью указано требуемое [значение (<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>)](/docs/glossary/tenacity).
 
 ## <img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" /> [Маг](/docs/adventurer/classes/mage)
 
-> ### [Arcanist](/docs/adventurer/classes/mage/arcanist)
+> ### [Арканист](/docs/adventurer/classes/mage/arcanist)
 > 
-> ### [Healer](/docs/adventurer/classes/mage/healer)
+> ### [Целитель](/docs/adventurer/classes/mage/healer)
 > 
-> ### [Necromancer](/docs/adventurer/classes/mage/necromancer)
+> ### [Некромант](/docs/adventurer/classes/mage/necromancer)
 > 
-> ### [Nightblade](/docs/adventurer/classes/mage/nightblade)
+> ### [Клинок ночи](/docs/adventurer/classes/mage/nightblade)
 > 
-> ### [Sorcerer](/docs/adventurer/classes/mage/sorcerer)
+> ### [Чародей](/docs/adventurer/classes/mage/sorcerer)
 > 
-> ### [Warden](/docs/adventurer/classes/mage/warden)
+> ### [Хранитель](/docs/adventurer/classes/mage/warden)
 
 ## <img src="/icons/thief.svg" alt="Thief Icon" className="icon-svg"/> [Вор](/docs/adventurer/classes/thief)
 
-> ### [Acrobat](/docs/adventurer/classes/thief/acrobat)
+> ### [Акробат](/docs/adventurer/classes/thief/acrobat)
 > 
-> ### [Bard](/docs/adventurer/classes/thief/bard)
+> ### [Бард](/docs/adventurer/classes/thief/bard)
 > 
-> ### [Burglar](/docs/adventurer/classes/thief/burglar)
+> ### [Грабитель](/docs/adventurer/classes/thief/burglar)
 > 
-> ### [Chef](/docs/adventurer/classes/thief/chef)
+> ### [Повар](/docs/adventurer/classes/thief/chef)
 > 
-> ### [Pilgrim](/docs/adventurer/classes/thief/pilgrim)
+> ### [Пилигрим](/docs/adventurer/classes/thief/pilgrim)
 > 
-> ### [Rogue](/docs/adventurer/classes/thief/rogue)
+> ### [Жулик](/docs/adventurer/classes/thief/rogue)
 > 
-> ### [Scout](/docs/adventurer/classes/thief/scout)
+> ### [Разведчик](/docs/adventurer/classes/thief/scout)
 
 ## <img src="/icons/warrior.svg" alt="Warrior Icon" className="icon-svg" /> [Воин](/docs/adventurer/classes/warrior)
 
-> ### [Archer](/docs/adventurer/classes/warrior/archer)
+> ### [Лучник](/docs/adventurer/classes/warrior/archer)
 > 
-> ### [Dragonknight](/docs/adventurer/classes/warrior/dragonknight)
+> ### [Рыцарь-дракон](/docs/adventurer/classes/warrior/dragonknight)
 > 
-> ### [Knight](/docs/adventurer/classes/warrior/knight)
+> ### [Рыцарь](/docs/adventurer/classes/warrior/knight)
 > 
-> ### [Ranger](/docs/adventurer/classes/warrior/ranger)
+> ### [Рейнджер](/docs/adventurer/classes/warrior/ranger)
 > 
-> ### [Spellsword](/docs/adventurer/classes/warrior/spellsword)
+> ### [Воин-маг](/docs/adventurer/classes/warrior/spellsword)
 > 
-> ### [Templar](/docs/adventurer/classes/warrior/templar)
+> ### [Храмовник](/docs/adventurer/classes/warrior/templar)
