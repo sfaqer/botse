@@ -1,0 +1,104 @@
+{
+  "version.label": {
+    "message": "அடுத்தது"
+  },
+  "sidebar.defaultSidebar.category.Adventurer": {
+    "message": "சாகசக்காரர்"
+  },
+  "sidebar.defaultSidebar.category.Classes": {
+    "message": "வகுப்புகள்"
+  },
+  "sidebar.defaultSidebar.category.classes-mage": {
+    "message": "மந்திரவாதி"
+  },
+  "sidebar.defaultSidebar.category.classes-thief": {
+    "message": "திருடன்"
+  },
+  "sidebar.defaultSidebar.category.classes-warrior": {
+    "message": "போர்வீரன்"
+  },
+  "sidebar.defaultSidebar.category.Items": {
+    "message": "பொருட்கள்"
+  },
+  "sidebar.defaultSidebar.category.items-types": {
+    "message": "வகைகள்"
+  },
+  "sidebar.defaultSidebar.category.Races": {
+    "message": "இனங்கள்"
+  },
+  "sidebar.defaultSidebar.category.Skill Lines": {
+    "message": "திறன் கோடுகள்"
+  },
+  "sidebar.defaultSidebar.category.skill-lines-mage": {
+    "message": "மந்திரவாதி"
+  },
+  "sidebar.defaultSidebar.category.skill-lines-thief": {
+    "message": "திருடன்"
+  },
+  "sidebar.defaultSidebar.category.skill-lines-warrior": {
+    "message": "போர்வீரன்"
+  },
+  "sidebar.defaultSidebar.category.Stats": {
+    "message": "புள்ளிவிவரங்கள்"
+  },
+  "sidebar.defaultSidebar.category.Stats.link.generated-index.description": {
+    "message": "புள்ளிவிவரங்கள் உங்கள் சாகசக்காரரின் முக்கிய திறன்கள். ஒவ்வொரு புள்ளிவிவரத்தின் மொத்தமும் அதன் வட்ட டோக்கனின் அடிப்படை மதிப்பு (ஏதேனும் இருந்தால்) மற்றும் அதன் பண்புக்கூறு வரிசையில் அதன் நிறத்தின் சதுர டோக்கன்களின் எண்ணிக்கை. இந்த மொத்தமானது புள்ளிவிவரத்தின் அதிகபட்ச மதிப்பாகும். ஒவ்வொரு புள்ளிவிவரமும் கீழே விவரிக்கப்பட்டுள்ளது."
+  },
+  "sidebar.defaultSidebar.category.Battles": {
+    "message": "போர்கள்"
+  },
+  "sidebar.defaultSidebar.category.battles-types": {
+    "message": "வகைகள்"
+  },
+  "sidebar.defaultSidebar.category.Delve": {
+    "message": "ஆழ்ந்து சிந்தியுங்கள்"
+  },
+  "sidebar.defaultSidebar.category.Objectives": {
+    "message": "நோக்கங்கள்"
+  },
+  "sidebar.defaultSidebar.category.Adventurer Turn": {
+    "message": "சாகசக்காரர் திருப்பம்"
+  },
+  "sidebar.defaultSidebar.category.Battle Forms": {
+    "message": "போர் வடிவங்கள்"
+  },
+  "sidebar.defaultSidebar.category.Enemy Skills": {
+    "message": "எதிரி திறன்கள்"
+  },
+  "sidebar.defaultSidebar.category.Status Effects": {
+    "message": "நிலை விளைவுகள்"
+  },
+  "sidebar.defaultSidebar.category.Campaign / Session": {
+    "message": "பிரச்சாரம் / அமர்வு"
+  },
+  "sidebar.defaultSidebar.category.Day / Phases": {
+    "message": "நாள் / கட்டங்கள்"
+  },
+  "sidebar.defaultSidebar.category.2. Overland Phase": {
+    "message": "2. ஓவர்லேண்ட் ஃபேச்"
+  },
+  "sidebar.defaultSidebar.category.3. Encounter Phase": {
+    "message": "3. என்கவுண்டர் கட்டம்"
+  },
+  "sidebar.defaultSidebar.category.Difficulty Levels": {
+    "message": "தொல்லை நிலைகள்"
+  },
+  "sidebar.defaultSidebar.category.Guilds": {
+    "message": "கில்ட்ச்"
+  },
+  "sidebar.defaultSidebar.category.Provinces": {
+    "message": "மாகாணங்கள்"
+  },
+  "sidebar.defaultSidebar.category.Unreleased": {
+    "message": "வெளியிடப்படவில்லை"
+  },
+  "sidebar.defaultSidebar.category.Quests": {
+    "message": "தேடல்கள்"
+  },
+  "sidebar.defaultSidebar.category.Glossary": {
+    "message": "சொற்களஞ்சியம்"
+  },
+  "sidebar.defaultSidebar.category.Glossary.link.generated-index.description": {
+    "message": "அடிக்கடி குறிப்பிடப்படும் பிற சொற்கள்."
+  }
+}
