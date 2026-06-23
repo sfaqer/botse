@@ -1,0 +1,443 @@
+{
+  "theme.SearchBar.seeAll": {
+    "message": "அனைத்து {count} முடிவுகளையும் காண்க"
+  },
+  "theme.ErrorPageContent.title": {
+    "message": "இந்தப் பக்கம் செயலிழந்தது."
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "மேலே மீண்டும் உருட்டவும்"
+  },
+  "theme.blog.archive.title": {
+    "message": "காப்பகம்"
+  },
+  "theme.blog.archive.description": {
+    "message": "காப்பகம்"
+  },
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "வலைப்பதிவு பட்டியல் பக்க வழிசெலுத்தல்"
+  },
+  "theme.blog.paginator.newerEntries": {
+    "message": "புதிய பதிவுகள்"
+  },
+  "theme.blog.paginator.olderEntries": {
+    "message": "பழைய பதிவுகள்"
+  },
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "வலைப்பதிவு இடுகை பக்க வழிசெலுத்தல்"
+  },
+  "theme.blog.post.paginator.newerPost": {
+    "message": "புதிய இடுகை"
+  },
+  "theme.blog.post.paginator.olderPost": {
+    "message": "பழைய இடுகை"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "அனைத்து குறிச்சொற்களையும் காண்க"
+  },
+  "theme.colorToggle.ariaLabel.mode.system": {
+    "message": "அமைப்பு முறை"
+  },
+  "theme.colorToggle.ariaLabel.mode.light": {
+    "message": "ஒளி முறை"
+  },
+  "theme.colorToggle.ariaLabel.mode.dark": {
+    "message": "இருண்ட முறை"
+  },
+  "theme.colorToggle.ariaLabel": {
+    "message": "இருண்ட மற்றும் ஒளி பயன்முறைக்கு இடையில் மாறவும் (தற்போது {mode})"
+  },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "ரொட்டிதூள்கள்"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "டாக்ச் பக்கங்கள்"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "முந்தைய"
+  },
+  "theme.docs.paginator.next": {
+    "message": "அடுத்தது"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "ஒரு ஆவணம் குறியிடப்பட்டது|{count} ஆவணங்கள் குறியிடப்பட்டுள்ளன"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "\"{tagName}\" உடன் {nDocsTagged}"
+  },
+  "theme.docs.versionBadge.label": {
+    "message": "பதிப்பு: {versionLabel}"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "இது {siteTitle} {versionLabel} பதிப்பிற்கான வெளியிடப்படாத ஆவணமாகும்."
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "இது {siteTitle} {versionLabel} க்கான ஆவணமாகும், இது இனி செயலில் பராமரிக்கப்படாது."
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "புதுப்பித்த ஆவணங்களுக்கு, {latestVersionLink} ({versionLabel}) ஐப் பார்க்கவும்."
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "அண்மைக் கால பதிப்பு"
+  },
+  "theme.common.editThisPage": {
+    "message": "இந்தப் பக்கத்தைத் திருத்தவும்"
+  },
+  "theme.common.headingLinkTitle": {
+    "message": "{heading} க்கான நேரடி இணைப்பு"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": " {date} அன்று"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": " {user} மூலம்"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "கடைசியாக புதுப்பிக்கப்பட்டது{atDate}{byUser}"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "பதிப்புகள்"
+  },
+  "theme.NotFound.title": {
+    "message": "பக்கம் கிடைக்கவில்லை"
+  },
+  "theme.tags.tagsListLabel": {
+    "message": "குறிச்சொற்கள்:"
+  },
+  "theme.admonition.caution": {
+    "message": "முன்னறிவிப்பு"
+  },
+  "theme.admonition.danger": {
+    "message": "இடர்"
+  },
+  "theme.admonition.info": {
+    "message": "தகவல்"
+  },
+  "theme.admonition.note": {
+    "message": "குறிப்பு"
+  },
+  "theme.admonition.tip": {
+    "message": "முனை"
+  },
+  "theme.admonition.warning": {
+    "message": "எச்சரிக்கை"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "மூடு"
+  },
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "வலைப்பதிவு அண்மைக் கால இடுகைகள் வழிசெலுத்தல்"
+  },
+  "theme.DocSidebarItem.expandCategoryAriaLabel": {
+    "message": "'{label}' பக்கப்பட்டி வகையை விரிவாக்கு"
+  },
+  "theme.DocSidebarItem.collapseCategoryAriaLabel": {
+    "message": "'{label}' பக்கப்பட்டி வகையைச் சுருக்கு"
+  },
+  "theme.IconExternalLink.ariaLabel": {
+    "message": "(புதிய தாவலில் திறக்கும்)"
+  },
+  "theme.NavBar.navAriaLabel": {
+    "message": "முக்கிய"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "மொழிகள்"
+  },
+  "theme.NotFound.p1": {
+    "message": "நீங்கள் தேடுவதை எங்களால் கண்டுபிடிக்க முடியவில்லை."
+  },
+  "theme.NotFound.p2": {
+    "message": "அசல் முகவரி உடன் உங்களை இணைத்த தளத்தின் உரிமையாளரைத் தொடர்புகொண்டு, அவர்களின் இணைப்பு உடைந்துவிட்டது என்பதை அவர்களுக்குத் தெரிவிக்கவும்."
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "இந்தப் பக்கத்தில்"
+  },
+  "theme.blog.post.readMore": {
+    "message": "மேலும் படிக்கவும்"
+  },
+  "theme.blog.post.readMoreLabel": {
+    "message": "{title} பற்றி மேலும் படிக்கவும்"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "ஒரு மணித்துளி படித்தது|{readingTime} மணித்துளி படித்தது"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "நகலெடு"
+  },
+  "theme.CodeBlock.copied": {
+    "message": "நகலெடுக்கப்பட்டது"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "குறியீட்டை இடைநிலைப்பலகைக்கு நகலெடுக்கவும்"
+  },
+  "theme.CodeBlock.wordWrapToggle": {
+    "message": "சொல் மடக்கு மாறு"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "முகப்பு பக்கம்"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "பக்கப்பட்டியைச் சுருக்கவும்"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "பக்கப்பட்டியைச் சுருக்கவும்"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "டாக்ச் பக்கப்பட்டி"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "வழிசெலுத்தல் பட்டியை மூடு"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← முதன்மை மெனுவுக்குத் திரும்பு"
+  },
+  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+    "message": "வழிசெலுத்தல் பட்டியை நிலைமாற்று"
+  },
+  "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
+    "message": "கீழ்தோன்றலை விரிவாக்கு"
+  },
+  "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
+    "message": "கீழ்தோன்றலைச் சுருக்கவும்"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "பக்கப்பட்டியை விரிவாக்கு"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "பக்கப்பட்டியை விரிவாக்கு"
+  },
+  "theme.SearchPage.documentsFound.plurals": {
+    "message": "ஒரு ஆவணம் கிடைத்தது|{count} ஆவணங்கள் கிடைத்தன"
+  },
+  "theme.SearchPage.existingResultsTitle": {
+    "message": "\"{query}\" க்கான தேடல் முடிவுகள்"
+  },
+  "theme.SearchPage.emptyResultsTitle": {
+    "message": "ஆவணங்களைத் தேடுங்கள்"
+  },
+  "theme.SearchPage.inputPlaceholder": {
+    "message": "உங்கள் தேடலை இங்கே தட்டச்சு செய்யவும்"
+  },
+  "theme.SearchPage.inputLabel": {
+    "message": "தேடல்"
+  },
+  "theme.SearchPage.algoliaLabel": {
+    "message": "அல்கோலியா மூலம் இயக்கப்படுகிறது"
+  },
+  "theme.SearchPage.noResultsText": {
+    "message": "முடிவுகள் எதுவும் கிடைக்கவில்லை"
+  },
+  "theme.SearchPage.fetchingNewResults": {
+    "message": "புதிய முடிவுகளைப் பெறுகிறது..."
+  },
+  "theme.SearchBar.label": {
+    "message": "தேடல்"
+  },
+  "theme.SearchModal.searchBox.resetButtonTitle": {
+    "message": "வினவலை அழிக்கவும்"
+  },
+  "theme.SearchModal.searchBox.cancelButtonText": {
+    "message": "ரத்துசெய்"
+  },
+  "theme.SearchModal.searchBox.placeholderText": {
+    "message": "ஆவணங்களைத் தேடுங்கள்"
+  },
+  "theme.SearchModal.searchBox.placeholderTextAskAi": {
+    "message": "இன்னொரு கேள்வி கேளுங்க..."
+  },
+  "theme.SearchModal.searchBox.placeholderTextAskAiStreaming": {
+    "message": "பதிலளிக்கிறது..."
+  },
+  "theme.SearchModal.searchBox.enterKeyHint": {
+    "message": "தேடல்"
+  },
+  "theme.SearchModal.searchBox.enterKeyHintAskAi": {
+    "message": "நுழைய"
+  },
+  "theme.SearchModal.searchBox.searchInputLabel": {
+    "message": "தேடல்"
+  },
+  "theme.SearchModal.searchBox.backToKeywordSearchButtonText": {
+    "message": "முக்கிய சொல் தேடலுக்குத் திரும்பு"
+  },
+  "theme.SearchModal.searchBox.backToKeywordSearchButtonAriaLabel": {
+    "message": "முக்கிய சொல் தேடலுக்குத் திரும்பு"
+  },
+  "theme.SearchModal.startScreen.recentSearchesTitle": {
+    "message": "அண்மைக் கால"
+  },
+  "theme.SearchModal.startScreen.noRecentSearchesText": {
+    "message": "அண்மைக் கால தேடல்கள் இல்லை"
+  },
+  "theme.SearchModal.startScreen.saveRecentSearchButtonTitle": {
+    "message": "இந்தத் தேடலைச் சேமிக்கவும்"
+  },
+  "theme.SearchModal.startScreen.removeRecentSearchButtonTitle": {
+    "message": "வரலாற்றிலிருந்து இந்தத் தேடலை அகற்றவும்"
+  },
+  "theme.SearchModal.startScreen.favoriteSearchesTitle": {
+    "message": "பிடித்தது"
+  },
+  "theme.SearchModal.startScreen.removeFavoriteSearchButtonTitle": {
+    "message": "பிடித்தவற்றிலிருந்து இந்தத் தேடலை அகற்றவும்"
+  },
+  "theme.SearchModal.startScreen.recentConversationsTitle": {
+    "message": "அண்மைக் கால உரையாடல்கள்"
+  },
+  "theme.SearchModal.startScreen.removeRecentConversationButtonTitle": {
+    "message": "இந்த உரையாடலை வரலாற்றிலிருந்து அகற்றவும்"
+  },
+  "theme.SearchModal.errorScreen.titleText": {
+    "message": "முடிவுகளைப் பெற முடியவில்லை"
+  },
+  "theme.SearchModal.errorScreen.helpText": {
+    "message": "உங்கள் பிணையம் இணைப்பை நீங்கள் சரிபார்க்க விரும்பலாம்."
+  },
+  "theme.SearchModal.resultsScreen.askAiPlaceholder": {
+    "message": "AI ஐக் கேளுங்கள்: "
+  },
+  "theme.SearchModal.askAiScreen.disclaimerText": {
+    "message": "AI உடன் பதில்கள் உருவாக்கப்படுகின்றன, அவை தவறுகளைச் செய்யலாம். பதில்களைச் சரிபார்க்கவும்."
+  },
+  "theme.SearchModal.askAiScreen.relatedSourcesText": {
+    "message": "தொடர்புடைய ஆதாரங்கள்"
+  },
+  "theme.SearchModal.askAiScreen.thinkingText": {
+    "message": "நினைத்து..."
+  },
+  "theme.SearchModal.askAiScreen.copyButtonText": {
+    "message": "நகலெடு"
+  },
+  "theme.SearchModal.askAiScreen.copyButtonCopiedText": {
+    "message": "நகலெடுக்கப்பட்டது!"
+  },
+  "theme.SearchModal.askAiScreen.copyButtonTitle": {
+    "message": "நகலெடு"
+  },
+  "theme.SearchModal.askAiScreen.likeButtonTitle": {
+    "message": "பிடிக்கும்"
+  },
+  "theme.SearchModal.askAiScreen.dislikeButtonTitle": {
+    "message": "பிடிக்காதது"
+  },
+  "theme.SearchModal.askAiScreen.thanksForFeedbackText": {
+    "message": "உங்கள் கருத்துக்கு நன்றி!"
+  },
+  "theme.SearchModal.askAiScreen.preToolCallText": {
+    "message": "தேடுகிறது..."
+  },
+  "theme.SearchModal.askAiScreen.duringToolCallText": {
+    "message": "தேடுகிறது "
+  },
+  "theme.SearchModal.askAiScreen.afterToolCallText": {
+    "message": "தேடினார்"
+  },
+  "theme.SearchModal.footer.selectText": {
+    "message": "தேர்ந்தெடு"
+  },
+  "theme.SearchModal.footer.submitQuestionText": {
+    "message": "கேள்வியை சமர்ப்பிக்கவும்"
+  },
+  "theme.SearchModal.footer.selectKeyAriaLabel": {
+    "message": "விசையை உள்ளிடவும்"
+  },
+  "theme.SearchModal.footer.navigateText": {
+    "message": "வழிசெலுத்தவும்"
+  },
+  "theme.SearchModal.footer.navigateUpKeyAriaLabel": {
+    "message": "மேலே அம்பு"
+  },
+  "theme.SearchModal.footer.navigateDownKeyAriaLabel": {
+    "message": "கீழே அம்புக்குறி"
+  },
+  "theme.SearchModal.footer.closeText": {
+    "message": "மூடு"
+  },
+  "theme.SearchModal.footer.closeKeyAriaLabel": {
+    "message": "எச்கேப் கீ"
+  },
+  "theme.SearchModal.footer.searchByText": {
+    "message": "மூலம் இயக்கப்படுகிறது"
+  },
+  "theme.SearchModal.footer.backToSearchText": {
+    "message": "தேடலுக்குத் திரும்பு"
+  },
+  "theme.SearchModal.noResultsScreen.noResultsText": {
+    "message": "இதற்கான முடிவுகள் எதுவும் கிடைக்கவில்லை"
+  },
+  "theme.SearchModal.noResultsScreen.suggestedQueryText": {
+    "message": "தேட முயற்சிக்கவும்"
+  },
+  "theme.SearchModal.noResultsScreen.reportMissingResultsText": {
+    "message": "இந்த வினவல் முடிவுகளைத் தரும் என்று நம்புகிறீர்களா?"
+  },
+  "theme.SearchModal.noResultsScreen.reportMissingResultsLinkText": {
+    "message": "எங்களுக்கு தெரியப்படுத்துங்கள்."
+  },
+  "theme.SearchModal.placeholder": {
+    "message": "ஆவணங்களைத் தேடுங்கள்"
+  },
+  "theme.blog.post.plurals": {
+    "message": "ஒரு இடுகை|{count} இடுகைகள்"
+  },
+  "theme.blog.tagTitle": {
+    "message": "{nPosts} \"{tagName}\" உடன் குறியிடப்பட்டது"
+  },
+  "theme.blog.author.pageTitle": {
+    "message": "{authorName} - {nPosts}"
+  },
+  "theme.blog.authorsList.pageTitle": {
+    "message": "ஆசிரியர்கள்"
+  },
+  "theme.blog.authorsList.viewAll": {
+    "message": "அனைத்து ஆசிரியர்களையும் பார்க்கவும்"
+  },
+  "theme.blog.author.noPosts": {
+    "message": "இந்த ஆசிரியர் இதுவரை எந்த இடுகைகளையும் எழுதவில்லை."
+  },
+  "theme.contentVisibility.unlistedBanner.title": {
+    "message": "பட்டியலிடப்படாத பக்கம்"
+  },
+  "theme.contentVisibility.unlistedBanner.message": {
+    "message": "இந்தப் பக்கம் பட்டியலிடப்படவில்லை. தேடுபொறிகள் அதை அட்டவணைப்படுத்தாது, மேலும் நேரடி இணைப்பு உள்ள பயனர்கள் மட்டுமே அதை அணுக முடியும்."
+  },
+  "theme.contentVisibility.draftBanner.title": {
+    "message": "வரைவு பக்கம்"
+  },
+  "theme.contentVisibility.draftBanner.message": {
+    "message": "இந்தப் பக்கம் ஒரு வரைவு. இது dev இல் மட்டுமே தெரியும் மற்றும் விளைவாக்கம் உருவாக்கத்தில் இருந்து விலக்கப்படும்."
+  },
+  "theme.docs.DocCard.categoryDescription.plurals": {
+    "message": "1 உருப்படி|{count} உருப்படிகள்"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "மீண்டும் முயற்சிக்கவும்"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "முக்கிய உள்ளடக்கத்திற்கு செல்க"
+  },
+  "theme.tags.tagsPageTitle": {
+    "message": "குறிச்சொற்கள்"
+  },
+  "homepage.layout.title": {
+    "message": "உதவியாளரைக் கேளுங்கள்"
+  },
+  "homepage.layout.description": {
+    "message": "இரண்டாம் சகாப்தத்தின் துரோகத்திற்கான குறிப்புகள் மற்றும் வழிகாட்டிகள்."
+  },
+  "homepage.feature.docs.title": {
+    "message": "குறிப்புகள் மற்றும் வழிகாட்டிகளுக்குச் செல்லவும்"
+  },
+  "homepage.tagline": {
+    "message": "தி எல்டர் ச்க்ரோல்களுக்கான அதிகாரப்பூர்வமற்ற குறிப்புகள்: இரண்டாம் சகாப்தத்தின் வஞ்சனை"
+  },
+  "enemySkillsTracker.heading": {
+    "message": "எதிரி திறன் கண்காணிப்பாளர்"
+  },
+  "enemySkillsTracker.description": {
+    "message": "கீழே உள்ள மெனுவிலிருந்து எதிரிகளின் திறன்களைத் தேர்ந்தெடுக்கவும், போரில் தற்போது இருக்கும் திறன்களைக் கண்காணிக்கவும். சிறந்த தெரிவுநிலைக்கு பேனலைச் சுருக்கலாம்."
+  },
+  "enemySkillsTracker.addAdditional": {
+    "message": "கூடுதல் எதிரி திறன்களைச் சேர்க்கவும்"
+  }
+}
