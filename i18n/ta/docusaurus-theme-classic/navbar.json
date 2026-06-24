@@ -1,1 +1,14 @@
-{}
+{
+  "title": {
+    "message": "உதவியாளரைக் கேளுங்கள்"
+  },
+  "logo.alt": {
+    "message": "ASK உதவிக்கான லோகோ"
+  },
+  "item.label.BOTSE Tracker": {
+    "message": "டிராக்கரைக் கேளுங்கள்"
+  },
+  "item.label.Enemy Skills Tracker": {
+    "message": "எதிரி திறன் கண்காணிப்பாளர்"
+  }
+}

@@ -1,1 +1,11 @@
-{}
+{
+  "link.item.label.Feedback / Suggestions": {
+    "message": "கருத்து / பரிந்துரைகள்"
+  },
+  "link.item.label.GitHub": {
+    "message": "அறிவிலிமையம்"
+  },
+  "copyright": {
+    "message": "இந்த தளம் சிப் தியரி கேம்சுடன் தொடர்பில்லாத சமூக திட்டமாகும்."
+  }
+}
