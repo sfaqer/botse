@@ -1,5 +1,32 @@
+import fs from "fs";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
+
+const RTL_LANGS = new Set(["ar", "he", "fa", "ur"]);
+const HTML_LANG_OVERRIDES: Record<string, string> = {
+  en: "en-US",
+  ru: "ru-RU",
+};
+
+const discoveredLocales = fs
+  .readdirSync("i18n", { withFileTypes: true })
+  .filter((d) => d.isDirectory())
+  .map((d) => d.name);
+const locales = ["en", ...discoveredLocales.filter((l) => l !== "en")];
+
+const labelOf = (locale: string): string =>
+  new Intl.DisplayNames([locale], { type: "language" }).of(locale) ?? locale;
+
+const localeConfigs = Object.fromEntries(
+  locales.map((locale) => [
+    locale,
+    {
+      label: labelOf(locale),
+      direction: (RTL_LANGS.has(locale) ? "rtl" : "ltr") as "rtl" | "ltr",
+      htmlLang: HTML_LANG_OVERRIDES[locale] ?? locale,
+    },
+  ]),
+);
 
 const config: Config = {
   title: "BOTSE Helper",
@@ -18,11 +45,8 @@ const config: Config = {
 
   i18n: {
     defaultLocale: "en",
-    locales: ["en", "ru"],
-    localeConfigs: {
-      en: { label: "English", direction: "ltr", htmlLang: "en-US" },
-      ru: { label: "Русский", direction: "ltr", htmlLang: "ru-RU" },
-    },
+    locales,
+    localeConfigs,
   },
 
   presets: [
