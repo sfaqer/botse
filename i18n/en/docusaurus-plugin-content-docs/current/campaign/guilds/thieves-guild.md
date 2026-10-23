@@ -22,8 +22,11 @@ hoverText: Guild Kiosk Town Action - [Discard](/docs/glossary/discard) 1 Common 
   <div style={{
     flex: "2 1 350px"
   }}>
-    # Thieves Guild
-   The Thieves Guild is a continent-spanning association of criminals dedicated to theft and duplicity. Its members are guided by the guild's professional code, which keeps larceny levels "acceptable" for most local authorities.
+
+# Thieves Guild
+
+The Thieves Guild is a continent-spanning association of criminals dedicated to theft and duplicity. Its members are guided by the guild's professional code, which keeps larceny levels "acceptable" for most local authorities.
+
   </div>
 </div>
 

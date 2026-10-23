@@ -22,8 +22,11 @@ hoverText: Guild Kiosk Town Action - [Discard](/docs/glossary/discard) all [item
   <div style={{
     flex: "2 1 350px"
   }}>
-    # Undaunted
-   Knowing no fear of beast or blade, the Undaunted are a group of daring treasure hunters who throw themselves headlong into delves and dungeons for fame and fortune. They laugh in the faces of death and Daedra for a chance at glory, honor, and treasure.
+
+# Undaunted
+
+Knowing no fear of beast or blade, the Undaunted are a group of daring treasure hunters who throw themselves headlong into delves and dungeons for fame and fortune. They laugh in the faces of death and Daedra for a chance at glory, honor, and treasure.
+
   </div>
 </div>
 

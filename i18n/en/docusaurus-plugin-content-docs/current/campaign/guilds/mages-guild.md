@@ -22,8 +22,11 @@ hoverText: Guild Kiosk Town Action - [Discard](/docs/glossary/discard) 1 [Consum
   <div style={{
     flex: "2 1 350px"
   }}>
-    # Mages Guild
-    A diverse collection of magic wielders brought together for the common purposes of research, magical experimentation, and teaching, the Mages Guild is the most well-known assembly of sorcerers and mystics in all of Tamriel.
+
+# Mages Guild
+
+A diverse collection of magic wielders brought together for the common purposes of research, magical experimentation, and teaching, the Mages Guild is the most well-known assembly of sorcerers and mystics in all of Tamriel.
+
   </div>
 </div>
 

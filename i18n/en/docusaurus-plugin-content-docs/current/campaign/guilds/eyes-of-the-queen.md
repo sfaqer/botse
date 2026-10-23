@@ -1,6 +1,6 @@
 ---
 id: eyes-of-the-queen
-title: Eye of the Queen
+title: Eyes of the Queen
 hoverText: Guild Kiosk Town Action - Look at the top 2 cards of either the Peaceful (<img src="/icons/peaceful.svg" alt="Peaceful Icon" className="icon-svg" />) or Conflict (<img src="/icons/conflict.svg" alt="Conflict Icon" className="icon-svg" />) overland deck. In any order, place each card on either top or the bottom of the deck.
 ---
 
@@ -22,8 +22,11 @@ hoverText: Guild Kiosk Town Action - Look at the top 2 cards of either the Peace
   <div style={{
     flex: "2 1 350px"
   }}>
-    # Eyes of the Queen
-    Though nominally in service to the Aldmeri Dominion's Queen Ayreen, the Eyes often act as independent operatives. Striking from the shadows, these spies do what they think is best for Tamriel, no matter the cost.
+
+# Eyes of the Queen
+
+Though nominally in service to the Aldmeri Dominion's Queen Ayreen, the Eyes often act as independent operatives. Striking from the shadows, these spies do what they think is best for Tamriel, no matter the cost.
+
   </div>
 </div>
 
