@@ -1,11 +1,11 @@
 ---
 id: defensive
-title: Defensive
-hoverText: '[Range](/docs/glossary/range): N/a. This form represents using the Combat skill to prevent damage instead of dealing it, or setting up other defensive skills such as Heavy Armor.'
+title: 'Оборона'
+hoverText: '[Дальность](/docs/glossary/range): не применяется. Этот режим позволяет использовать навык «Бой» для предотвращения урона вместо его нанесения или подготавливать другие защитные навыки, например «Тяжёлую броню».'
 ---
 
-# <img src="/icons/defensive.svg" alt="Defensive Icon" /> Defensive
+# <img src="/icons/defensive.svg" alt="Defensive Icon" /> Оборона {#defensive}
 
-**[Range](/docs/glossary/range):** N/a.
+**[Дальность](/docs/glossary/range):** не применяется.
 
-Represents using the [Combat](/docs/adventurer/skill-lines/warrior/combat) skill to prevent damage instead of dealing it, or setting up other defensive skills such as [Heavy Armor](/docs/adventurer/skill-lines/warrior/heavy-armor).
+Этот режим позволяет использовать навык [«Бой»](/docs/adventurer/skill-lines/warrior/combat) для предотвращения урона вместо его нанесения или подготавливать другие защитные навыки, например [«Тяжёлую броню»](/docs/adventurer/skill-lines/warrior/heavy-armor).

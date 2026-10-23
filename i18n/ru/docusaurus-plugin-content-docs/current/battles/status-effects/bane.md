@@ -1,11 +1,11 @@
 ---
 id: bane
-title: Bane
-hoverText: This [unit](/docs/glossary/unit) is dealt 1 [true damage](/docs/glossary/true-damage) at the start of each of its [turns](/docs/glossary/turn).
+title: 'Проклятие'
+hoverText: 'Эта [боевая единица](/docs/glossary/unit) получает 1 единицу [неблокируемого урона](/docs/glossary/true-damage) в начале каждого своего [хода](/docs/glossary/turn).'
 tags:
   - Status Effects
 ---
 
-# <img src="/icons/bane.svg" alt="Bane Icon"  /> Bane
+# <img src="/icons/bane.svg" alt="Bane Icon"  /> Проклятие {#bane}
 
-This [unit](/docs/glossary/unit) is dealt 1 [true damage](/docs/glossary/true-damage) at the start of each of its [turns](/docs/glossary/turn).
+Эта [боевая единица](/docs/glossary/unit) получает 1 единицу [неблокируемого урона](/docs/glossary/true-damage) в начале каждого своего [хода](/docs/glossary/turn).
