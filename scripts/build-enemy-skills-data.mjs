@@ -11,18 +11,15 @@
 // in sync).
 //
 // Output: src/data/enemySkills.generated.json — { <locale>: Skill[] }.
-// Locales discovered automatically from the i18n.locales array of
-// docusaurus.config.ts; default locale data is read from docs/.
+// Locales are discovered from i18n/ using the same helper as Docusaurus.
+// Missing translations fall back to the corresponding files in docs/.
 //
 // Runs as a prebuild/prestart hook (see package.json). Output file is
 // gitignored — always derived from source markdown at build time.
 
-import { readFile, writeFile, readdir } from "node:fs/promises";
-import { existsSync } from "node:fs";
-import { join, dirname } from "node:path";
-import { fileURLToPath } from "node:url";
-
-const repoRoot = fileURLToPath(new URL("..", import.meta.url));
+import { readFile, writeFile } from "node:fs/promises";
+import { join } from "node:path";
+import { discoverLocales, localeDocFiles, repoRoot } from "./i18n-utils.mjs";
 
 function parseFrontmatter(src) {
   if (!src.startsWith("---")) return null;
@@ -57,67 +54,34 @@ function parseFrontmatter(src) {
   return data;
 }
 
-async function loadLocale(skillsDir, urlPrefix) {
-  if (!existsSync(skillsDir)) return [];
-  const files = (await readdir(skillsDir))
-    .filter((f) => f.endsWith(".md") && f !== "index.md")
-    .sort();
+async function loadLocale(locale) {
+  const files = await localeDocFiles(locale, "battles/enemy-skills");
   const out = [];
-  for (const f of files) {
-    const raw = await readFile(join(skillsDir, f), "utf-8");
+  for (const [relativePath, file] of [...files].sort(([a], [b]) =>
+    a.localeCompare(b)
+  )) {
+    if (/^index\.mdx?$/.test(relativePath)) continue;
+    const raw = await readFile(file, "utf-8");
     const fm = parseFrontmatter(raw) ?? {};
-    const id = fm.id || f.replace(/\.md$/, "");
+    const id = fm.id || relativePath.replace(/\.mdx?$/, "");
     out.push({
       id,
       title: fm.title ?? id,
       hoverText: fm.hoverText ?? "",
-      filePath: `${urlPrefix}/docs/battles/enemy-skills/${id}`,
+      // Docusaurus Link adds the deployment baseUrl and active locale.
+      filePath: `/docs/battles/enemy-skills/${id}`,
     });
   }
   return out;
 }
 
-// Discover locales from docusaurus.config.ts. Cheap: just regex out the
-// `locales: [...]` array — the file is tiny and the format is stable.
-async function discoverLocales() {
-  const cfg = await readFile(join(repoRoot, "docusaurus.config.ts"), "utf-8");
-  const m = cfg.match(/locales:\s*\[([^\]]+)\]/);
-  if (!m) return ["en"];
-  return m[1]
-    .split(",")
-    .map((s) => s.trim().replace(/^["']|["']$/g, ""))
-    .filter(Boolean);
-}
-
 async function main() {
-  const locales = await discoverLocales();
-  const defaultLocaleMatch = (
-    await readFile(join(repoRoot, "docusaurus.config.ts"), "utf-8")
-  ).match(/defaultLocale:\s*["']([^"']+)["']/);
-  const defaultLocale = defaultLocaleMatch ? defaultLocaleMatch[1] : "en";
-
+  const locales = discoverLocales();
   const result = {};
   for (const locale of locales) {
-    let skillsDir;
-    let urlPrefix;
-    if (locale === defaultLocale) {
-      skillsDir = join(repoRoot, "docs", "battles", "enemy-skills");
-      urlPrefix = "";
-    } else {
-      skillsDir = join(
-        repoRoot,
-        "i18n",
-        locale,
-        "docusaurus-plugin-content-docs",
-        "current",
-        "battles",
-        "enemy-skills",
-      );
-      urlPrefix = ""; // Docusaurus router prepends /<locale>/ at runtime
-    }
-    result[locale] = await loadLocale(skillsDir, urlPrefix);
+    result[locale] = await loadLocale(locale);
     console.log(
-      `build-enemy-skills-data: ${locale} → ${result[locale].length} skills`,
+      `build-enemy-skills-data: ${locale} → ${result[locale].length} skills`
     );
   }
 

@@ -6,6 +6,8 @@
     "docusaurus": "docusaurus",
     "postinstall": "patch-package",
     "build-data": "node scripts/build-enemy-skills-data.mjs",
+    "sync-docs": "node scripts/sync-docs-mirror.mjs",
+    "test:i18n": "node --test scripts/i18n.test.mjs",
     "prestart": "npm run build-data",
     "start": "docusaurus start",
     "prebuild": "npm run build-data",

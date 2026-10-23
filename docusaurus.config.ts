@@ -1,6 +1,6 @@
-import fs from "fs";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
+import { defaultLocale, discoverLocales } from "./scripts/i18n-utils.mjs";
 
 const RTL_LANGS = new Set(["ar", "he", "fa", "ur"]);
 const HTML_LANG_OVERRIDES: Record<string, string> = {
@@ -8,11 +8,7 @@ const HTML_LANG_OVERRIDES: Record<string, string> = {
   ru: "ru-RU",
 };
 
-const discoveredLocales = fs
-  .readdirSync("i18n", { withFileTypes: true })
-  .filter((d) => d.isDirectory())
-  .map((d) => d.name);
-const locales = ["en", ...discoveredLocales.filter((l) => l !== "en")];
+const locales = discoverLocales();
 
 const labelOf = (locale: string): string =>
   new Intl.DisplayNames([locale], { type: "language" }).of(locale) ?? locale;
@@ -25,7 +21,7 @@ const localeConfigs = Object.fromEntries(
       direction: (RTL_LANGS.has(locale) ? "rtl" : "ltr") as "rtl" | "ltr",
       htmlLang: HTML_LANG_OVERRIDES[locale] ?? locale,
     },
-  ]),
+  ])
 );
 
 const config: Config = {
@@ -44,7 +40,7 @@ const config: Config = {
   onBrokenMarkdownLinks: "warn",
 
   i18n: {
-    defaultLocale: "en",
+    defaultLocale,
     locales,
     localeConfigs,
   },
