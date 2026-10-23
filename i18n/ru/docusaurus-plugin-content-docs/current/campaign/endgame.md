@@ -1,35 +1,35 @@
 ---
 id: endgame
-title: Endgame
-hoverText: Each [province](/docs/campaign/provinces/index) has its own endgame rules, which are described in its gazetteer.
+title: 'Финальный эпизод'
+hoverText: 'У каждой [провинции](/docs/campaign/provinces/index) свои правила финального эпизода, описанные в её буклете.'
 ---
 
-The crisis currently affecting Tamriel is far more vast than a single session can uncover. Your party can move on to the endgame of the campaign only after completing 2 game sessions, after which it will have earned enough success and experience to (hopefully) thwart a major threat to Tamriel.
+Масштабы кризиса, охватившего Тамриэль, невозможно полностью раскрыть за один эпизод. Отряд может перейти к финальному эпизоду кампании только после завершения 2 игровых эпизодов. К этому моменту он, будем надеяться, добьётся достаточных успехов и накопит достаточно опыта, чтобы предотвратить серьёзную угрозу Тамриэлю.
 
-Each [province](/docs/campaign/provinces/index) has its own endgame rules, which are described in its gazetteer. Endgame quests are different in several important ways. Each has a shorter day limit than a guild quest session, which is stated in its rules. Endgame quests represent a more intense session that presents the party with encounter after encounter. For this reason, endgame quests do not use overland movement for the party.
+У каждой [провинции](/docs/campaign/provinces/index) свои правила финального эпизода, описанные в её буклете. Финальные задания имеют несколько важных отличий. На них отводится меньше дней, чем на эпизод с заданием гильдии; точный предел указан в правилах финала. Финальный эпизод напряжённее обычного: отряд проходит одну встречу за другой. Поэтому отряд не использует передвижение по атласу провинции.
 
 ## Подготовка {#setup}
 
-Follow these steps to begin the endgame:
+Перед началом финального эпизода выполните следующие шаги:
 
-1. Read the endgame rules for your province and reset the Day Dial to 1 (or to a value assigned by the endgame rules).
-2. Set up the province's map and follow any additional setup instructions. Place tokens on each overland track for that province—such as [Black Marsh's](/docs/campaign/provinces/black-marsh) weather track. Do not place a party token on the overland map.
-3. Refer to the endgame section to find your first step.
+1. Прочитайте правила финального эпизода своей провинции и установите счётчик дней на 1 или на значение, указанное в этих правилах.
+2. Подготовьте атлас провинции и выполните дополнительные указания по подготовке. Разместите жетоны на каждой шкале этой провинции, например на шкале погоды [Чернотопья](/docs/campaign/provinces/black-marsh). Не размещайте на атласе жетон отряда.
+3. Найдите первый этап в разделе финального эпизода.
 
-## Phases
+## Фазы {#phases}
 
-During each day of the endgame quest, the players complete each of the game's phases with the following exceptions.
+Каждый день финального эпизода игроки разыгрывают все фазы дня со следующими исключениями:
 
-- **[New Day Phase](/docs/campaign/day/new-day-phase):** The party still advances the Day Dial, but it does not need to compare the dial to the day limit.
-- **[Overland Phase](/docs/campaign/day/overland-phase/index):** Skip the Move Party step; the party's location is not represented by a token on the map, and abilities related to overland movement are ignored. During the Trigger Encounter step, the party automatically triggers the next endgame encounter in order.
-- **[End of Day Phase](/docs/campaign/day/end-of-day-phase):** Skip the Activate Province Effect step unless instructed. Overland cards are not drawn during the endgame.
+- **[Фаза начала дня](/docs/campaign/day/new-day-phase):** отряд по-прежнему продвигает счётчик дней, но не сравнивает его значение с пределом дней.
+- **[Фаза провинции](/docs/campaign/day/overland-phase/index):** пропустите этап «Передвижение отряда». Местоположение отряда не обозначается жетоном на атласе, а способности, связанные с передвижением по атласу, игнорируются. На этапе «Активация встречи» отряд автоматически активирует следующую по порядку встречу финального эпизода.
+- **[Фаза конца дня](/docs/campaign/day/end-of-day-phase):** пропустите этап «Активация эффекта провинции», если нет иных указаний. В финальном эпизоде карты встреч в провинции не вытягиваются.
 
 ## Встречи
 
-Each endgame encounter is labeled with the day when it is resolved. The party completes each encounter in order.
+В описании каждой встречи финального эпизода указан день её розыгрыша. Отряд разыгрывает встречи по порядку.
 
-Read the endgame encounter and complete any setup described. Then, refer to the [keywords](/docs/campaign/quests/keywords) section of that day's encounter and resolve any effects for your party's keywords before or during the encounter.
+Прочитайте описание встречи финального эпизода и выполните указанную подготовку. Затем обратитесь к разделу [ключевых слов](/docs/campaign/quests/keywords) встречи этого дня и разыграйте эффекты, соответствующие ключевым словам отряда, до встречи или во время неё.
 
-## Final Victory and Defeat
+## Итоговая победа и поражение {#final-victory-and-defeat}
 
-If your party successfully completes the endgame, you win the campaign! You have ended the crisis and saved Tamriel from utter disaster—at least for the moment. If your party fails the endgame, either by being defeated or failing to successfully complete the objective of an endgame step, your campaign ends in failure.
+Если отряд успешно завершил финальный эпизод, вы победили в кампании! Вы положили конец кризису и спасли Тамриэль от катастрофы — по крайней мере, на время. Если отряд провалил финальный эпизод, будучи поверженным или не выполнив задачу одного из его этапов, кампания заканчивается поражением.
