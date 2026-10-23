@@ -1,7 +1,7 @@
 ---
 id: mages-guild
 title: Mages Guild
-hoverText: Guild Kiosk Town Action - [Discard](/docs/glossary/discard) 1 [Consumable](/docs/adventurer/items/types/consumable) or [Enchantment](/docs/adventurer/items/types/enchantment) [item](/docs/adventurer/items/index) to train any [Mage](/docs/adventurer/skill-lines/mage) type skill line from the trainer bag.
+hoverText: Guild Kiosk Town Action - [Discard](/docs/glossary/discard) 1 [Potion](/docs/adventurer/items/types/potion) or [Enchantment](/docs/adventurer/items/types/enchantment) [item](/docs/adventurer/items/index) to train any [Mage](/docs/adventurer/skill-lines/mage) type skill line from the trainer bag.
 ---
 
 <div className="guild-banner" style={{
