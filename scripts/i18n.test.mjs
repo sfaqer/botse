@@ -126,6 +126,9 @@ test(
       `docs/${docsPath}/legacy-name.md`,
       "---\nid: canonical-name\ntitle: Custom route\nhoverText: A tooltip.\n---\n"
     );
+    await put(root, "docs/iconography/index.md", "---\nid: iconography\ntitle: Iconography\n---\n");
+    await put(root, "docs/index.md", "---\nid: overview\ntitle: Overview\n---\n");
+    await put(root, "docs/old-location.md", "---\nid: old-location\ntitle: Custom slug\nslug: /new-location\n---\n");
     run(root, "emit-term-json.mjs", "build");
     const ru = await json(root, `build/ru/docs/${docsPath}/blind.json`);
     assert.equal(ru.metadata.title, "Слепота");
@@ -148,6 +151,9 @@ test(
         canonical,
         await json(root, `build/${prefix}docs/${docsPath}/legacy-name.json`)
       );
+      assert.equal((await json(root, `build/${prefix}docs/iconography.json`)).metadata.title, "Iconography");
+      assert.equal((await json(root, `build/${prefix}docs.json`)).metadata.title, "Overview");
+      assert.equal((await json(root, `build/${prefix}docs/new-location.json`)).metadata.title, "Custom slug");
     }
   }
 );

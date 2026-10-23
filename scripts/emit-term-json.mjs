@@ -13,12 +13,15 @@
 
 import { readFile, writeFile, mkdir, readdir, stat } from "node:fs/promises";
 import { join, relative, dirname } from "node:path";
+import { createRequire } from "node:module";
 import {
   defaultLocale,
   discoverLocales,
   localeDocFiles,
   repoRoot,
 } from "./i18n-utils.mjs";
+const require = createRequire(import.meta.url);
+const getSlug = require("@docusaurus/plugin-content-docs/lib/slug.js").default;
 
 // Minimal markdown subset → HTML for tooltip hoverText: paragraphs, links,
 // inline code, bold/italic. Anything more elaborate isn't used in glossary
@@ -119,18 +122,24 @@ async function emitForLocale(locale, outRoot, urlPrefix) {
     const title = fm.title || id;
     const hoverHtml = fm.hoverText ? mdToHtml(fm.hoverText, urlPrefix) : "";
     const rel = relativePath.replace(/\.mdx?$/, "");
-    const outputs = new Set([rel]);
+    const outputs = new Set([join(outRoot, rel + ".json")]);
+    const canonical = getSlug({
+      baseID: id,
+      source: relativePath,
+      sourceDirName: dirname(relativePath).replace(/\\/g, "/"),
+      frontMatterSlug: fm.slug,
+    }).replace(/^\//, "").replace(/\/$/, "");
+    outputs.add(canonical ? join(outRoot, canonical + ".json") : outRoot + ".json");
     // Docusaurus uses an explicit document id in the route even when the
     // filename differs. Retain the filename alias for existing consumers.
     if (fm.id && fallbackId !== "index" && fm.id !== fallbackId) {
-      outputs.add(join(dirname(rel), fm.id));
+      outputs.add(join(outRoot, dirname(rel), fm.id + ".json"));
     }
     const body = JSON.stringify({
       metadata: { ...fm, id, title, hoverText: hoverHtml },
       content: "",
     });
-    for (const output of outputs) {
-      const outFile = join(outRoot, output + ".json");
+    for (const outFile of outputs) {
       await mkdir(dirname(outFile), { recursive: true });
       await writeFile(outFile, body);
       count++;
