@@ -1,17 +1,17 @@
 ---
 id: keywords
-title: Keywords
-hoverText: Every guild quest, along with several side quests and encounters, allows the party to gain a quest keyword upon completion.
+title: 'Ключевые слова заданий'
+hoverText: 'Завершение каждого задания гильдии, а также некоторых побочных заданий и встреч позволяет отряду получить ключевое слово задания.'
 ---
 
-Every guild quest, along with several side quests and encounters, allows the party to gain a quest keyword upon completion. These keywords do not have rules themselves but can be referenced by other quests or encounters. Most importantly, they can modify the endgame's difficulty. During the endgame, each encounter's setup describes which keywords affect it and how. The party compares its keywords to those listed in encounter setup and resolves the relevant effects.
+Завершение каждого задания гильдии, а также некоторых побочных заданий и встреч позволяет отряду получить ключевое слово задания. У этих слов нет собственных правил, но на них могут ссылаться другие задания и встречи. Прежде всего, они могут изменять сложность финального эпизода. При подготовке к каждой встрече финального эпизода указывается, какие ключевые слова влияют на неё и каким образом. Отряд сверяет свои ключевые слова с перечисленными в подготовке к встрече и применяет соответствующие эффекты.
 
-## Major Keywords
+## Сюжетные ключевые слова {#major-keywords}
 
-These are gained from completing a guild quest and provide a benefit to your campaign's endgame. You only gain 1 major keyword during a session.
+Эти слова получают за выполнение задания гильдии. Они дают преимущество в финальном эпизоде кампании. За один эпизод можно получить только 1 сюжетное ключевое слово.
 
-Important: If your party uses its [guild assist](/docs/glossary/guild-assist) ability during a session, it **must** record that in the Major Keyword field in the journal and **cannot** gain a major keyword from its guild quest for that session.
+Важно: если в этом эпизоде отряд воспользовался [помощью гильдии](/docs/glossary/guild-assist), он **обязан** записать это в раздел «Сюжетные ключевые слова» дневника и **не может** получить сюжетное ключевое слово за задание гильдии в этом эпизоде.
 
-## Minor Keywords
+## Путевые ключевые слова {#minor-keywords}
 
-These are gained from side quests or other encounters. They can have either a positive or negative impact on your endgame, but are not guaranteed to appear in it; players should weigh this when deciding whether to pursue minor keywords􀀀 There is no limit to the number of minor keywords you can gain during a session. Note that if a minor keyword is gained multiple times, you must record it in the campaign journal each time it is gained.
+Эти слова получают за побочные задания или другие встречи. Они могут как положительно, так и отрицательно влиять на финальный эпизод, но могут и вовсе не использоваться в нём. Учитывайте это, решая, стоит ли добиваться путевых ключевых слов. Количество путевых ключевых слов, которые можно получить за эпизод, не ограничено. Если одно и то же путевое ключевое слово получено несколько раз, записывайте его в дневник кампании при каждом получении.
