@@ -1,10 +1,10 @@
 ---
 id: town
 title: Town
-hoverText: These encounters are described in the gazetteer and are triggered when the party ends its overland movement in a town or rolls a <img src="/icons/town.svg" alt="Town Icon" className="icon-svg" /> result on the unstable die while at an unstable landmark (see [Traveling Caravans](/docs/campaign/day/encounter-phase/travelling-caravan)).
+hoverText: These encounters are described in the gazetteer and are triggered when the party ends its overland movement in a town or rolls a <img src="/icons/town.svg" alt="Town Icon" className="icon-svg" /> result on the unstable die while at an unstable landmark (see [Traveling Caravans](/docs/campaign/day/encounter-phase/traveling-caravan)).
 ---
 
-These encounters are described in the gazetteer and are triggered when the party ends its overland movement in a town or rolls a <img src="/icons/town.svg" alt="Town Icon" className="icon-svg" /> result on the unstable die while at an unstable landmark (see [Traveling Caravans](/docs/campaign/day/encounter-phase/travelling-caravan)).
+These encounters are described in the gazetteer and are triggered when the party ends its overland movement in a town or rolls a <img src="/icons/town.svg" alt="Town Icon" className="icon-svg" /> result on the unstable die while at an unstable landmark (see [Traveling Caravans](/docs/campaign/day/encounter-phase/traveling-caravan)).
 
 Some towns can become closed as a result of encounters or quests. When this happens, the party must note it in the campaign journal. While a town is closed, the party cannot move into that town's hex.
 
