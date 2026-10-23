@@ -23,7 +23,7 @@ slug: /campaign/day/overland-phase/index
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Can you choose to stay at the same hex as the prior day?**
+**Можно ли остаться в той же клетке, что и в предыдущий день?**
 
 Да. Передвигаться необязательно: отряд может остаться в той же клетке, что и в предыдущий день.
 
@@ -31,7 +31,7 @@ slug: /campaign/day/overland-phase/index
 
 **Можно ли закончить день в клетке без символа?**
 
-Yes, it is possible for the party to end its movement in a hex with no icon and trigger no encounter; these hexes without icons have no game effect.
+Да. Отряд может закончить передвижение в клетке без символа и не активировать ни одной встречи. Такие клетки не оказывают игрового эффекта.
 <!-- translate:off -->
 :::
 <!-- translate:on -->
