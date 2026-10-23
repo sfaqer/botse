@@ -1,41 +1,41 @@
 ---
 id: skyshard
-title: Skyshard
-hoverText: A delve is fully explored when all of its skyshards have been revealed and gained. Unless the encounter specifies otherwise, 3 skyshards are required.
+title: 'Небесный осколок'
+hoverText: 'Вылазка считается полностью исследованной, когда все её небесные осколки раскрыты и получены. Если описание встречи не указывает иное, требуется 3 осколка.'
 tags:
   - Delve
 ---
 
-# <img src="/icons/skyshard.svg" alt="Skyshard Icon" /> Skyshard
+# <img src="/icons/skyshard.svg" alt="Skyshard Icon" /> Небесный осколок {#skyshard}
 
-Skyshards (<img src="/icons/skyshard.svg" alt="Skyshard Icon" className="icon-svg" />) are fragments of Aetherial Magicka that fell to Nirn. You can find them scattered across Tamriel, especially in hidden places. They are represented as icons on some delve cards, which identify the tile revealed by that card as a skyshard location. A delve is fully [explored](/docs/battles/types/delve/exploration) when all of its skyshards have been revealed and gained. Unless the encounter specifies otherwise, 3 skyshards are required. This can be any combination of skyshard icons gained on faceup delve cards or facedown delve cards treated as skyshards.
+Небесные осколки (<img src="/icons/skyshard.svg" alt="Skyshard Icon" className="icon-svg" />) — фрагменты чистой кристаллизованной магии, упавшие на Нирн. Они рассеяны по всему Тамриэлю, особенно по укромным местам. Символы небесных осколков на некоторых картах вылазки указывают, что на раскрываемом этой картой участке есть осколок. Вылазка считается полностью [исследованной](/docs/battles/types/delve/exploration), когда все её небесные осколки раскрыты и получены. Если описание встречи не указывает иное, требуется 3 осколка. Это может быть любое сочетание символов осколков на открытых картах вылазки и закрытых карт, считающихся осколками.
 
-## Gaining Skyshards
+## Получение небесных осколков {#gaining-skyshards}
 
-When an adventurer moves into a hex on a tile with a skyshard, they immediately gain that tile's skyshards and resolve the tile's skyshard effect; this interrupts the adventurer's action but does not end it, similar to a [lockpick](/docs/glossary/lockpicking) check.
+Когда персонаж передвигается в клетку на участке с небесным осколком, он немедленно получает осколки этого участка и разыгрывает его эффект небесного осколка. Это прерывает действие персонажа, но не заканчивает его, как и проверка [взлома](/docs/glossary/lockpicking).
 
-Place the skyshard card near the delve encounter text to show the total number the party has gained. Some cards may grant more than 1 skyshard. If these additional skyshards exceed the maximum for the current delve, they are ignored.
+Положите карту небесного осколка рядом с текстом встречи вылазки, чтобы отслеживать общее количество осколков, полученных отрядом. Некоторые карты дают больше 1 осколка. Если дополнительные осколки превышают максимум для текущей вылазки, лишние осколки игнорируются.
 
 ---
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Do you get XP for Skyshards if an encounter was failed?**
+**Дают ли небесные осколки ОО, если встреча провалена?**
 
-If the battle had an Uncover objective even if the encounter was failed, so long as the party was not defeated you gain Skyshard XP.
-
----
-
-**Can you gain more Skyshards than required by the objective**
-
-No, the maximum Skyshards you may have is determined by the encounter's objective.
+Если задачей боя было «Открытие», вы получаете ОО за небесные осколки даже при провале встречи, если отряд не был повержен.
 
 ---
 
-**Can I choose not to pick up a Skyshard?**
+**Можно ли получить больше небесных осколков, чем требует задача боя?**
 
-No, when you enter a tile with a skyshard you must pick it up. Even if the delve has a battle objective that does not relate to Skyshards.
+Нет. Максимальное количество небесных осколков определяется задачей встречи.
+
+---
+
+**Можно ли отказаться от получения небесного осколка?**
+
+Нет. Войдя на участок с небесным осколком, вы обязаны его получить, даже если задача этой вылазки не связана с небесными осколками.
 
 <a href="https://boardgamegeek.com/thread/3454660/article/45601458#45601458" target="_blank">Источник</a>
 <!-- translate:off -->

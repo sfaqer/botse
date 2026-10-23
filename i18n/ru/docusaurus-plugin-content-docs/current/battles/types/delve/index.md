@@ -1,28 +1,28 @@
 ---
 id: index
-title: Delve
-hoverText: Delve battles represent adventurers navigating an uncharted, labyrinthine space.
+title: 'Вылазка'
+hoverText: 'Бои-вылазки представляют исследование персонажами неизведанных пространств со сложной сетью ходов.'
 slug: /battles/types/delve/index
 tags:
   - Delve
 ---
 
-Delve battles represent adventurers navigating an uncharted, labyrinthine space. In a delve battle, the map is composed of multiple tiles marked with icons. These icons interact with delve cards and are used as reference points when additional tiles are revealed. The adventurers move through the delve, exploring new rooms, unlocking [caches](/docs/glossary/cache), and gaining [skyshards](/docs/battles/types/delve/skyshard)—pieces of crystalized Magicka that are used to track the party's progress.
+Бои-вылазки представляют исследование персонажами неизведанных пространств со сложной сетью ходов. При вылазке поле боя состоит из нескольких участков с символами. Эти символы взаимодействуют с картами вылазки и служат ориентирами при раскрытии дополнительных участков. Персонажи продвигаются по вылазке, исследуют новые помещения, вскрывают [тайники](/docs/glossary/cache) и получают [небесные осколки](/docs/battles/types/delve/skyshard) — кусочки кристаллизованной магии, по которым отслеживается прогресс отряда.
 
-## Enemy Pool
+## Лимит вражеских сил {#enemy-pool}
 
-Unlike in the other battle modes it is not calculated once at the beginning of the battle, but for each individual tile as that tile is explored. Each delve card has a challenge scale, which shows the maximum number of enemies that can be drawn for a revealed tile and their maximum levels. The number of enemies that are actually deployed depends on the EP available, the drawn card's challenge scale, and the number of hexes on the revealed tile. The procedure for deploying enemies in a delve is described under Delve Exploration.
+В отличие от других типов боя, ЛВС рассчитывается не один раз в начале боя, а отдельно для каждого участка при его исследовании. На каждой карте вылазки есть шкала сложности, показывающая максимальное количество врагов, которых можно вытянуть для раскрытого участка, и их максимальные уровни. Фактическое количество размещаемых врагов зависит от доступного ЛВС, шкалы сложности вытянутой карты и количества клеток на раскрытом участке. Процедура размещения врагов при вылазке описана в разделе «Исследование территории».
 
-## Setup
+## Подготовка {#setup}
 
-1. **Set Up the Battle Map:** Separate the delve tiles by shape into separate stacks, keeping them facedown. Then, place the entrance tile in the play area (leaving plenty of room to expand the map). Some [provinces](/docs/campaign/provinces/index) use additional setup rules for delves. Refer to the province's Delve Feature section at the front of the gazetteer for these rules.
-2. **Place Cache Chips:** No cache chips are placed.
-3. **Deploy Enemies:** No enemy chips are deployed. These are deployed as additional tiles are explored.
-4. **Deploy Adventurers:** Deploy each [adventurer](/docs/glossary/adventurer) to the entrance tile. Start by choosing an adventurer to take the first player token and deploy their chip so that they occupy any single hex. Then, proceed to deploy each other adventurer in clockwise order around the table. This becomes the permanent turn order for the rest of the battle. Each adventurer may set their [battle form](/docs/battles/battle-forms/index) when deployed and choose which [item](/docs/adventurer/items/index) cards to place in their ready slots.
-   - In a delve battle, an adventurer in a <img src="/icons/door.svg" alt="Door Icon" className="icon-svg" /> hex may explore and connect the next tile at the start of their first [turn](/docs/glossary/turn).
-5. **Deploy Companions:** If adventurers have [companion](/docs/glossary/companion) units that are deployed during battle setup, deploy those companions to the entrance tile, if able. If multiple players have companions to deploy, deploy those companions in player turn order.
-   - If there are no [unoccupied](/docs/glossary/occupied) hexes remaining on the entrance tile, set undeployed companions next to the entrance tile. They can enter the battle map during later [rounds](/docs/battles/battle-round).
-6. **Set Round Counter:** Set the party's Round Counter die to 1 and place it in the square slot on the dial chip holder. Then, begin battle rounds. Trigger skills and other abilities with "start of battle" timing now.
+1. **Подготовка поля боя:** разделите участки вылазки по форме на отдельные стопки, оставляя их лицевой стороной вниз. Затем поместите участок входа в игровую зону, оставив достаточно места для расширения поля. В некоторых [провинциях](/docs/campaign/provinces/index) действуют дополнительные правила подготовки вылазок. Они приведены в разделе «Особенность вылазки» в начале буклета провинции.
+2. **Размещение фишек тайников:** фишки тайников не размещаются.
+3. **Размещение врагов:** фишки врагов не размещаются. Они будут размещаться при исследовании дополнительных участков.
+4. **Размещение персонажей:** разместите каждого [персонажа](/docs/glossary/adventurer) на участке входа. Сначала выберите персонажа, который получит жетон первого игрока, и поместите его фишку в любую одну клетку. Затем разместите остальных персонажей по часовой стрелке вокруг стола. Этот порядок ходов сохраняется до конца боя. При размещении каждый персонаж может выбрать свой [боевой режим](/docs/battles/battle-forms/index) и карты [предметов](/docs/adventurer/items/index), которые он поместит в ячейки активного снаряжения.
+   - При вылазке персонаж в клетке <img src="/icons/door.svg" alt="Door Icon" className="icon-svg" /> может исследовать и присоединить следующий участок в начале своего первого [хода](/docs/glossary/turn).
+5. **Размещение компаньонов:** если у персонажей есть [компаньоны](/docs/glossary/companion), размещаемые при подготовке к бою, по возможности разместите их на участке входа. Если компаньонов нужно разместить нескольким игрокам, делайте это в порядке ходов игроков.
+   - Если на участке входа не осталось [незанятых](/docs/glossary/occupied) клеток, поставьте неразмещённых компаньонов рядом с ним. Они смогут войти на поле боя в следующих [раундах](/docs/battles/battle-round).
+6. **Подготовка счётчика раундов:** установите на кубике раундов отряда значение 1 и поместите его в квадратную ячейку подставки счётчика. Затем начинайте раунды боя. В этот момент примените навыки и другие способности, срабатывающие «в начале боя».
 
 ## Сравнение целей «Открытие» и «Изучение» {#uncover-vs-survey}
 
@@ -37,17 +37,17 @@ Unlike in the other battle modes it is not calculated once at the beginning of t
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Do you always get XP for skyshards?**
+**Всегда ли небесные осколки дают ОО?**
 
-The only battle objective which gives you XP for the number of skyshards collected is the [Uncover](/docs/battles/objectives/uncover) objective. Delves with the [Survey](/docs/battles/objectives/survey), [Eliminate](/docs/battles/objectives/eliminate), or any other objective, only give the XP as stated in the encounter.
+Единственная задача боя, дающая ОО за количество полученных небесных осколков, — [«Открытие»](/docs/battles/objectives/uncover). Вылазки с задачами [«Изучение»](/docs/battles/objectives/survey), [«Устранить X»](/docs/battles/objectives/eliminate) или любой другой задачей дают только ОО, указанные в описании встречи.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292564" target="_blank">Источник</a>
 
 ---
 
-**Delve GE-07 Throne Room - populate enemies first**
+**Карта вылазки GE-07 «Тронный зал» (Throne Room): сначала разместите врагов**
 
-For the Throne Room delve card, populate the enemies first, before resolving the "When Revealed" text.
+Для карты вылазки «Тронный зал» (Throne Room) сначала разместите врагов, а затем разыграйте текст эффекта «При раскрытии».
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294284" target="_blank">Источник</a>
 <!-- translate:off -->
@@ -56,9 +56,9 @@ For the Throne Room delve card, populate the enemies first, before resolving the
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Do you shuffle the delve deck at the end of a delve?**
+**Нужно ли перемешивать колоду вылазки после её завершения?**
 
-Yes, see step 3 of [End of Battle Cleanup.](/docs/battles/end-of-battle)
+Да, см. шаг 3 [процедуры окончания боя.](/docs/battles/end-of-battle)
 <!-- translate:off -->
 :::
 <!-- translate:on -->
