@@ -1,7 +1,7 @@
 ---
 id: conquer
-title: Conquer
-hoverText: The [party](/docs/glossary/party) must [defeat](/docs/glossary/defeated) or otherwise remove all enemies on the battle map. This is the most common objective for [clashes](/docs/battles/types/clash), and it can occasionally appear in [dungeon](/docs/battles/types/dungeon) battles.
+title: 'Зачистка'
+hoverText: '[Отряд](/docs/glossary/party) должен [повергнуть](/docs/glossary/defeated) или иным образом удалить с поля боя всех врагов. Это самая распространённая задача для [стычек](/docs/battles/types/clash); иногда она встречается и в боях в [подземельях](/docs/battles/types/dungeon).'
 ---
 
-The [party](/docs/glossary/party) must [defeat](/docs/glossary/defeated) or otherwise remove all enemies on the battle map. This is the most common objective for [clashes](/docs/battles/types/clash), and it can occasionally appear in [dungeon](/docs/battles/types/dungeon) battles.
+[Отряд](/docs/glossary/party) должен [повергнуть](/docs/glossary/defeated) или иным образом удалить с поля боя всех врагов. Это самая распространённая задача для [стычек](/docs/battles/types/clash); иногда она встречается и в боях в [подземельях](/docs/battles/types/dungeon).

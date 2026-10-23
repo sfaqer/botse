@@ -24,13 +24,13 @@ Unlike in the other battle modes it is not calculated once at the beginning of t
    - If there are no [unoccupied](/docs/glossary/occupied) hexes remaining on the entrance tile, set undeployed companions next to the entrance tile. They can enter the battle map during later [rounds](/docs/battles/battle-round).
 6. **Set Round Counter:** Set the party's Round Counter die to 1 and place it in the square slot on the dial chip holder. Then, begin battle rounds. Trigger skills and other abilities with "start of battle" timing now.
 
-## Uncover vs Survey
+## Сравнение целей «Открытие» и «Изучение» {#uncover-vs-survey}
 
-| Aspect             | Uncover                                                                                                                                                         | Survey                             |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| XP Rewards         | 1 XP for each collected skyshard and encounter reward (if successful). You still gain XP for skyshards if you retreat with at least 1 party member still alive. | Encounter Reward XP only           |
-| Partial Completion | You gain XP for each skyshard even if retreating before completing the encounter.                                                                               | Not possible, encounter is failed. |
-| Encounter Duration | End of battle round, however it is optional even after objective is met.                                                                                        | End of battle round, not optional. |
+| Параметр             | Открытие                                                                                                                                                                                      | Изучение                                                    |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| Награды в ОО         | По 1 ОО за каждый полученный небесный осколок и награда за встречу, если она завершена успешно. При отступлении ОО за осколки сохраняются, если хотя бы один участник отряда остался в живых. | Только ОО из награды за встречу.                            |
+| Частичное выполнение | Вы получаете ОО за каждый небесный осколок, даже если отступаете до завершения встречи.                                                                                                       | Не засчитывается: встреча считается проваленной.            |
+| Завершение встречи   | В конце раунда боя. После сбора необходимых осколков можно продолжить бой.                                                                                                                    | Обязательно в конце раунда боя, в котором выполнена задача. |
 
 ---
 
