@@ -8,7 +8,7 @@ The crisis currently affecting Tamriel is far more vast than a single session ca
 
 Each [province](/docs/campaign/provinces/index) has its own endgame rules, which are described in its gazetteer. Endgame quests are different in several important ways. Each has a shorter day limit than a guild quest session, which is stated in its rules. Endgame quests represent a more intense session that presents the party with encounter after encounter. For this reason, endgame quests do not use overland movement for the party.
 
-## Setup
+## Подготовка {#setup}
 
 Follow these steps to begin the endgame:
 
