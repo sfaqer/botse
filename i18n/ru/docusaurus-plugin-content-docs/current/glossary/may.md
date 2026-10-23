@@ -1,7 +1,7 @@
 ---
 id: may
-title: May
-hoverText: The word may always indicates a choice.
+title: 'Может'
+hoverText: 'Слово «может» всегда означает, что есть выбор.'
 ---
 
-The word "may" always indicates a choice.
+Слово «может» всегда означает, что есть выбор.

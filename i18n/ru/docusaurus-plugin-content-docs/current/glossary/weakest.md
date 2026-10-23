@@ -1,7 +1,7 @@
 ---
 id: weakest
-title: Weakest
-hoverText: The opposing unit with the lowest HP (not including bonus HP).
+title: 'Слабейший'
+hoverText: 'Противостоящая боевая единица с наименьшим количеством ОЗ без учёта дополнительного здоровья.'
 ---
 
-The opposing unit with the **lowest** HP (not including [bonus HP](/docs/glossary/bonus-hp)).
+Противостоящая боевая единица с **наименьшим** количеством ОЗ без учёта [дополнительного здоровья](/docs/glossary/bonus-hp).

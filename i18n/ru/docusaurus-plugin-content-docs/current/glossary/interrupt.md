@@ -1,9 +1,9 @@
 ---
 id: interrupt
-title: Interrupt
-hoverText: Triggered according to its text's timing, either during a [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn) or outside battle. If another ability or game effect would be resolved, the interrupt ability is resolved first. If 2 interrupt abilities would be resolved at the same time, the [party](/docs/glossary/party) decides which ability is resolved first.
+title: 'Прерывающая способность'
+hoverText: 'Активируется в момент, указанный в описании: во время [хода](/docs/glossary/turn) [боевой единицы](/docs/glossary/unit) или вне боя. Если в этот момент должна быть применена другая способность или игровой эффект, прерывающая способность применяется первой. Если одновременно должны быть применены 2 прерывающие способности, [отряд](/docs/glossary/party) решает, какая из них применяется первой.'
 ---
 
-This [class ability](/docs/battles/adventurer-turn/class-ability) may be triggered according to its text's timing, either during a [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn) or outside battle. If another ability or game effect would be resolved, the interrupt ability is resolved first. If 2 interrupt abilities would be resolved at the same time, the [party](/docs/glossary/party) decides which ability is resolved first.
+Эту [способность класса](/docs/battles/adventurer-turn/class-ability) можно активировать в момент, указанный в её описании: во время [хода](/docs/glossary/turn) [боевой единицы](/docs/glossary/unit) или вне боя. Если в этот момент должна быть применена другая способность или игровой эффект, прерывающая способность применяется первой. Если одновременно должны быть применены 2 прерывающие способности, [отряд](/docs/glossary/party) решает, какая из них применяется первой.
 
-**Interrupt abilities may only be triggered once per timing.**
+**Каждую прерывающую способность можно активировать только один раз в один и тот же момент применения.**

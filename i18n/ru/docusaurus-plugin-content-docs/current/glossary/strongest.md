@@ -1,7 +1,7 @@
 ---
 id: strongest
-title: Strongest
-hoverText: The opposing unit with the highest HP (not including bonus HP).
+title: 'Сильнейший'
+hoverText: 'Противостоящая боевая единица с наибольшим количеством ОЗ без учёта дополнительного здоровья.'
 ---
 
-The opposing unit with the **highest** HP (not including [bonus HP](/docs/glossary/bonus-hp)).
+Противостоящая боевая единица с **наибольшим** количеством ОЗ без учёта [дополнительного здоровья](/docs/glossary/bonus-hp).
