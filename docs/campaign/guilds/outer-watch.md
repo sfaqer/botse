@@ -34,6 +34,6 @@ The Outer Watch is a newer guild, first founded to provide aid to those in need 
 
 **Community Outreach:** [Discard](/docs/glossary/discard) 1 [<img src="/icons/consumable.svg" alt="Consumable Icon" className="icon-svg" />](/docs/adventurer/items/types/consumable) or [<img src="/icons/clothing.svg" alt="Clothing Icon" className="icon-svg" />](/docs/adventurer/items/types/clothing) [item](/docs/adventurer/items/index) to gain 3 [tenacity](/docs/glossary/tenacity).
 
-### Guild Focus
+### Guild Focus {#guild-focus}
 
 The party focuses on single-step quests that allow players to have all information up front.
