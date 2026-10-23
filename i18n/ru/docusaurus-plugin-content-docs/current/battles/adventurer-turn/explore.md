@@ -1,19 +1,19 @@
 ---
 id: explore
-title: Explore
-hoverText: This action is only available during delves. When you perform this action, you count the distance to an explorable hex in [sight](/docs/glossary/sight). If it is equal to or less than your [Stamina](/docs/adventurer/stats/stamina), you trigger an exploration on that hex.
+title: 'Исследование'
+hoverText: 'Это действие доступно только во время вылазок. Выполняя его, посчитайте расстояние до доступной для исследования клетки в пределах [видимости](/docs/glossary/sight). Если расстояние не превышает вашу [выносливость](/docs/adventurer/stats/stamina), исследуйте эту клетку.'
 tags:
   - Delve
 ---
 
-This action is only available during delves. When you perform this action, you count the distance to an explorable hex in [sight](/docs/glossary/sight). If it is equal to or less than your [Stamina](/docs/adventurer/stats/stamina), you trigger an exploration on that hex.
+Это действие доступно только во время вылазок. Выполняя его, посчитайте расстояние до доступной для исследования клетки в пределах [видимости](/docs/glossary/sight). Если расстояние не превышает вашу [выносливость](/docs/adventurer/stats/stamina), исследуйте эту клетку.
 
-The explore action is **once per turn.** You cannot perform an explore action if you have already performed a move action that [turn](/docs/glossary/turn); you also cannot perform a move action if you have performed an explore action.
+Действие «Исследование» можно выполнить **один раз за ход**. Вы не можете выполнить его, если уже передвигались действием «Передвижение» в этот [ход](/docs/glossary/turn); также вы не можете выполнить действие «Передвижение», если уже выполнили действие «Исследование».
 
 <!-- translate:off -->
 :::warning[Important]
 <!-- translate:on -->
-The explore action and exploration are related concepts but are not identical terms. The explore action triggers an exploration, but exploration can also be triggered in other ways, such as moving into a <img src="/icons/door.svg" alt="Door Icon" className="icon-svg" /> hex.
+Действие «Исследование» и исследование территории при вылазке — связанные понятия, но это не одно и то же. Действие «Исследование» запускает исследование территории, однако его можно запустить и другими способами, например передвинувшись в клетку <img src="/icons/door.svg" alt="Door Icon" className="icon-svg" />.
 <!-- translate:off -->
 :::
 <!-- translate:on -->

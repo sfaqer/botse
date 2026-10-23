@@ -1,21 +1,21 @@
 ---
 id: battle-round
-title: Battle Round
-hoverText: During a round, each [adventurer](/docs/glossary/adventurer) takes a [turn](/docs/glossary/turn). After your [party](/docs/glossary/party) has finished its turns, each [enemy](/docs/glossary/enemy) takes its own turn. After all [units](/docs/glossary/unit) have completed a single turn, the round ends
+title: 'Раунд боя'
+hoverText: 'Во время раунда каждый [персонаж](/docs/glossary/adventurer) совершает [ход](/docs/glossary/turn). После того как ваш [отряд](/docs/glossary/party) завершит свои ходы, каждый [враг](/docs/glossary/enemy) совершает свой ход. Когда все [боевые единицы](/docs/glossary/unit) сделают по одному ходу, раунд заканчивается.'
 ---
 
-Battles are divided into rounds. During a round, each [adventurer](/docs/glossary/adventurer) takes a [turn](/docs/glossary/turn). After your [party](/docs/glossary/party) has finished its turns, each [enemy](/docs/glossary/enemy) takes its own turn. After all [units](/docs/glossary/unit) have completed a single turn, the round ends. Rounds continue until your party has achieved its objective, [retreated](/docs/battles/retreat), or been [defeated](/docs/glossary/defeated).
+Бои делятся на раунды. Во время раунда каждый [персонаж](/docs/glossary/adventurer) совершает [ход](/docs/glossary/turn). После того как ваш [отряд](/docs/glossary/party) завершит свои ходы, каждый [враг](/docs/glossary/enemy) совершает свой ход. Когда все [боевые единицы](/docs/glossary/unit) сделают по одному ходу, раунд заканчивается. Раунды продолжаются, пока отряд не выполнит задачу боя, не [отступит](/docs/battles/retreat) или не будет [повержен](/docs/glossary/defeated).
 
-## Round Sequence
+## Порядок раунда {#round-sequence}
 
-1.  **Start of Round:**
-    - Increase the Round Counter die by 1 (**Important**: skip this during the first round of a battle).
-    - Trigger any abilities with this timing.
-    - After Round 5, set the Round Counter to the fatigue round icon (<img src="/icons/fatigue.svg" alt="Fatigue Icon" className="icon-svg" />). This is a fatigue round; unless the Round Counter is reduced to 5 or lower, each subsequent round is a fatigue round until the end of the battle. For any effect that depends on the round number, all fatigue rounds are considered to be Round 6. At the start of fatigue round each [adventurer](/docs/glossary/adventurer) will suffer [fatigue damage](/docs/glossary/fatigue-damage).
-2.  **Adventurer Turns:** Each [adventurer](/docs/glossary/adventurer) takes their [turn](/docs/glossary/turn), starting with the first player and continuing clockwise around the table until each adventurer has taken 1 turn.
-3.  **Companion Turns**: If the party has [companion](/docs/glossary/companion) units, each companion takes a [turn](/docs/glossary/turn) in the order of the party's choosing. See: [Companion Turns](/docs/glossary/companion#companion-turns)
-    - **Undeployed Companions**: If a [companion](/docs/glossary/companion) was not deployed at the start of battle and there is an [unoccupied](/docs/glossary/occupied) hex on the entrance tile, deploy that companion when it would take its turn.
-4.  **Enemy Turns**: Each [enemy](/docs/glossary/enemy) on the battle map takes a [turn](/docs/glossary/turn), starting with the highest-level enemy and working downwards in level until all enemies have taken a turn. If multiple enemies have the same level, the party decides in which order those enemies take their turns..
-5.  **End of Round:** Trigger any effects that occur with this timing.
-    - Determine whether the encounter is complete; if it is, the battle ends.
-    - The party may [retreat](/docs/battles/retreat) and end the encounter at this time.
+1.  **Начало раунда:**
+    - Увеличьте значение на кубике раундов на 1. **Важно:** пропустите этот шаг в первом раунде боя.
+    - Примените все способности, срабатывающие в этот момент.
+    - После 5-го раунда поверните кубик раундов гранью с символом раунда усталости (<img src="/icons/fatigue.svg" alt="Fatigue Icon" className="icon-svg" />) вверх. Это раунд усталости; если значение счётчика раундов не уменьшится до 5 или ниже, каждый следующий раунд до конца боя также будет раундом усталости. Для любых эффектов, зависящих от номера раунда, все раунды усталости считаются 6-м раундом. В начале каждого раунда усталости каждый [персонаж](/docs/glossary/adventurer) получает [урон от усталости](/docs/glossary/fatigue-damage).
+2.  **Ходы персонажей:** каждый [персонаж](/docs/glossary/adventurer) совершает свой [ход](/docs/glossary/turn), начиная с первого игрока и далее по часовой стрелке, пока каждый персонаж не сделает по одному ходу.
+3.  **Ходы компаньонов:** если в отряде есть [компаньоны](/docs/glossary/companion), каждый из них совершает [ход](/docs/glossary/turn) в порядке, выбранном отрядом. См. [«Ходы компаньонов»](/docs/glossary/companion#companion-turns).
+    - **Неразмещённые компаньоны:** если [компаньон](/docs/glossary/companion) не был размещён в начале боя, а на участке входа есть [незанятая](/docs/glossary/occupied) клетка, разместите его в тот момент, когда должен начаться его ход.
+4.  **Ходы врагов:** каждый [враг](/docs/glossary/enemy) на поле боя совершает [ход](/docs/glossary/turn), начиная с врага самого высокого уровня и далее в порядке убывания уровней, пока все враги не сделают по одному ходу. Если у нескольких врагов одинаковый уровень, отряд определяет порядок их ходов.
+5.  **Конец раунда:** примените все эффекты, срабатывающие в этот момент.
+    - Определите, завершена ли встреча. Если да, бой заканчивается.
+    - В этот момент отряд может [отступить](/docs/battles/retreat) и закончить встречу.

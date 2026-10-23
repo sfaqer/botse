@@ -10,7 +10,7 @@ tags:
 
 See also: [Status Effect](/docs/glossary/status-effect).
 
-| Символ                                              | Название                                           | Description                                                                                                                                                                                                      |
+| Символ                                              | Название                                           | Описание                                                                                                                                                                                                         |
 | --------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="/icons/bane.svg" alt="Bane Icon" />       | [Проклятие](/docs/battles/status-effects/bane)     | This unit is dealt 1 [true damage](/docs/glossary/true-damage) at the start of each of its turns.                                                                                                                |
 | <img src="/icons/blind.svg" alt="Blind Icon" />     | [Слепота](/docs/battles/status-effects/blind)      | This unit considers all units to be opposing units. If this unit engages, it can only target the [strongest](/docs/glossary/strongest) [adjacent](/docs/glossary/adjacent) unit.                                 |

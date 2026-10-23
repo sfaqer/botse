@@ -35,9 +35,9 @@ Each skill die ability has at least 1 of the following codes that determines how
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Resolving Partial Skills and Abilities**
+**Частичное применение навыков и способностей**
 
-When you resolve a skill or ability, you must do as much of the skill or ability as is possible, ignoring any portion that you are unable to resolve. If the skill or ability has a cost associated with it, you must be able to fully resolve the cost in order to resolve the skill or ability. If a skill or ability is worded such that you must do one thing **to** do another, or do one thing **then** do another, the first portion of that skill or ability is considered to be the cost.
+Применяя навык или способность, вы должны выполнить всё, что возможно, пропуская только те части, которые выполнить нельзя. Если у навыка или способности есть цена, вы должны иметь возможность полностью её оплатить, чтобы применить этот навык или способность. Если формулировка требует сделать одно **для того, чтобы** сделать другое, или сделать одно, **затем** другое, первая часть навыка или способности считается ценой.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Источник</a>
 
@@ -95,13 +95,13 @@ Only a unit's target is considered to be engaged. If a unit deals damage to a no
 
 ---
 
-**How are dice and damage resolved on your turn?**
+**Как применяются результаты кубиков и наносится урон во время вашего хода?**
 
-Dice are resolved one at a time in the order the player chooses. For dice that deal damage, pool all damage that would be dealt to each non-adventurer, and apply that damage after the last die dealing damage to that unit is resolved. If any rolled dice allow non-adventurers to prevent damage, also pool these dice when calculating damage taken. Any restrictions regarding which units a die can be resolved against (for example, if a result requires adjacency) are assessed at the time the die is resolved.
+Результаты кубиков применяются по одному в порядке, выбранном игроком. Для кубиков, наносящих урон, суммируйте весь урон, который должен быть нанесён каждой боевой единице, не являющейся персонажем. Нанесите этот урон после применения результата последнего кубика, наносящего урон этой боевой единице. Если какие-либо брошенные кубики позволяют боевым единицам, не являющимся персонажами, предотвратить урон, их результаты также суммируются при расчёте получаемого урона. Любые ограничения на то, к каким боевым единицам можно применить результат кубика, проверяются в момент применения этого результата. Например, так проверяется требование находиться в соседних клетках.
 
-This replaces the b. point under Resolve the Roll on pg. 60 of the rulebook.
+Это уточнение заменяет пункт «б» раздела «Применение результатов броска» на с. 60 книги правил.
 
-Damage dealt by adventurers is pooled when dealt to **enemies or companions**. Damage is is not pooled when dealt to adventurers.
+Урон, наносимый персонажами **врагам или компаньонам**, суммируется. Урон, наносимый персонажам, не суммируется.
 
 <a href="https://discord.com/channels/273472391403798528/1392759133953986590/1400147849597030481" target="_blank">Источник</a>
 

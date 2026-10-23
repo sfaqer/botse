@@ -1,11 +1,11 @@
 ---
 id: magic
-title: Magic
-hoverText: '[Range](/docs/glossary/range): Up to Magicka stat. This represents engages using Magicka, such as Destruction Staff. Combat dice cannot be gathered to roll with this form.'
+title: 'Магия'
+hoverText: '[Дальность](/docs/glossary/range): в пределах значения магии. Этот режим представляет атаки с использованием магии, например ветки навыков «Посох разрушения». В этом режиме кубики боя нельзя собирать для броска.'
 ---
 
-# <img src="/icons/magic.svg" alt="Magic Icon" /> Magic
+# <img src="/icons/magic.svg" alt="Magic Icon" /> Магия {#magic}
 
-**[Range](/docs/glossary/range):** Up to [Magicka](/docs/adventurer/stats/magicka) stat.
+**[Дальность](/docs/glossary/range):** в пределах значения [магии](/docs/adventurer/stats/magicka).
 
-Represents engages using Magicka, such as [Destruction Staff](/docs/adventurer/skill-lines/mage/destruction-staff). [Combat](/docs/adventurer/skill-lines/warrior/combat) dice cannot be gathered to roll with this form.
+Этот режим представляет атаки с использованием магии, например ветки навыков [«Посох разрушения»](/docs/adventurer/skill-lines/mage/destruction-staff). В этом режиме кубики [боя](/docs/adventurer/skill-lines/warrior/combat) нельзя собирать для броска.
