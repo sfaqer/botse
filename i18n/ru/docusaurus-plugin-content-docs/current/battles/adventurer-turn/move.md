@@ -1,29 +1,29 @@
 ---
 id: move
-title: Move
-hoverText: Move a number of hexes up to the value of their [Stamina](/docs/adventurer/stats/stamina). An ability that gives additional hexes of free movement to an adventurer outside of their move action is not treated as a move action.
+title: 'Передвижение'
+hoverText: 'Передвиньтесь на число клеток, не превышающее вашу [выносливость](/docs/adventurer/stats/stamina). Способность, дающая персонажу дополнительные клетки свободного передвижения вне действия «Передвижение», не считается таким действием.'
 ---
 
-When your [adventurer](/docs/glossary/adventurer) performs a move action, they move a number of hexes up to the value of their [Stamina](/docs/adventurer/stats/stamina). An ability that gives additional hexes of free movement to an adventurer outside of their move action is not treated as a move action.
+Выполняя действие «Передвижение», ваш [персонаж](/docs/glossary/adventurer) передвигается на число клеток, не превышающее его [выносливость](/docs/adventurer/stats/stamina). Способность, дающая персонажу дополнительные клетки свободного передвижения вне действия «Передвижение», не считается таким действием.
 
-For each hex of movement your adventurer is allowed, you may move to 1 [unoccupied](/docs/glossary/occupied), [adjacent](/docs/glossary/adjacent) hex.
+За каждую разрешённую персонажу клетку передвижения вы можете передвинуть его в одну [незанятую](/docs/glossary/occupied) [соседнюю](/docs/glossary/adjacent) клетку.
 
-A move action (or ability) ends when you cannot or choose not to move additional hexes. You may perform move actions up to twice per turn, but there are limitations on the move action.
+Передвижение в рамках действия или способности заканчивается, когда вы больше не можете или не хотите передвигаться дальше. Действие «Передвижение» можно выполнять до двух раз за ход с учётом следующих ограничений.
 
-- If you perform no [engage](/docs/battles/adventurer-turn/engage) actions on your current turn, you may take a second move action. If you have taken a second move action in a turn, you cannot perform any engage actions that turn.
-- You cannot perform a move action if you have performed an [explore](/docs/battles/adventurer-turn/explore) action that turn; you also cannot perform an explore action if you have performed a move action.
-- Your adventurer's movement cannot be interrupted by other actions, but it can be interrupted by abilities or events; if this happens, the interruption is resolved after the adventurer moves into the hex where the interruption is triggered. For example, if you move into a hex and trigger an exploration or [lockpick](/docs/glossary/lockpicking) check, you must resolve that event before continuing your move.
+- Если в текущем ходу вы не выполняете действий [атаки](/docs/battles/adventurer-turn/engage), вы можете выполнить второе действие «Передвижение». Если вы уже выполнили второе действие «Передвижение», в этот ход нельзя выполнять действия атаки.
+- Вы не можете выполнить действие «Передвижение», если в этом ходу уже выполнили действие [«Исследование»](/docs/battles/adventurer-turn/explore); также нельзя выполнить действие «Исследование», если вы уже выполнили действие «Передвижение».
+- Передвижение персонажа нельзя прерывать другими действиями, но его могут прервать способности или события. В таком случае прерывающий эффект разыгрывается после того, как персонаж передвинется в клетку, где он срабатывает. Например, если вход в клетку запускает исследование территории или проверку [взлома](/docs/glossary/lockpicking), сначала нужно разыграть это событие, а затем продолжить передвижение.
 
 ---
 
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Movement - you can engage, then move, then engage again**
+**Передвижение: можно атаковать, затем передвинуться, затем снова атаковать**
 
-On pg. 59 of the rulebook, in the Engage section, it says: "You may perform a move action before or after you perform an engage action, but not both."
+На с. 59 книги правил в разделе «Атака» сказано: «Вы можете выполнить действие передвижения до или после действия атаки, но не и до, и после».
 
-This text is meant to reinforce the rule that you cannot take two move actions in a single turn if you engage, nor can you interrupt a move action with an engage action. However, you are allowed to engage, then move, then engage again.
+Эта формулировка подчёркивает, что в ход, когда вы атакуете, нельзя выполнить два действия передвижения, а также нельзя прервать действие передвижения атакой. При этом атаковать, затем передвинуться, затем снова атаковать разрешается.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294289" target="_blank">Источник</a>
 <!-- translate:off -->
