@@ -1,10 +1,10 @@
 ---
 id: adept
-title: Adept
+title: 'Адепты'
 sidebar_position: 2
-hoverText: This is average difficulty. [Adventurers](/docs/glossary/adventurer) remove 1 die from their [cooldown track](/docs/glossary/cooldown-track) and [heal](/docs/glossary/healing) for 1 HP during the [Adventurers Rest](/docs/campaign/day/end-of-day-phase) step at the end of each day.
+hoverText: 'Это средний уровень сложности. [Персонажи](/docs/glossary/adventurer) снимают 1 кубик со своего [трека перезарядки](/docs/glossary/cooldown-track) и [восстанавливают](/docs/glossary/healing) 1 ОЗ на этапе [«Отдых персонажей»](/docs/campaign/day/end-of-day-phase) в конце каждого дня.'
 ---
 
-This is average difficulty.
+Это средний уровень сложности.
 
 [Персонажи](/docs/glossary/adventurer) снимают 1 кубик со своего [трека перезарядки](/docs/glossary/cooldown-track) и [восстанавливают](/docs/glossary/healing) 1 ОЗ на этапе [«Отдых персонажей»](/docs/campaign/day/end-of-day-phase) в конце каждого дня.
