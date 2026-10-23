@@ -1,7 +1,7 @@
 ---
 id: undaunted
-title: Undaunted
-hoverText: Guild Kiosk Town Action - [Discard](/docs/glossary/discard) all [items](/docs/adventurer/items/index) in the shop and refill it with new items equal to the shop's values. Then, gain 1 item from the new selection.
+title: 'Неустрашимые'
+hoverText: 'Городское действие павильона гильдии: [сбросьте](/docs/glossary/discard) все [предметы](/docs/adventurer/items/index) в магазине и пополните его новыми предметами в соответствии со значениями магазина. Затем получите 1 предмет из нового набора.'
 ---
 
 <div className="guild-banner" style={{
@@ -22,15 +22,18 @@ hoverText: Guild Kiosk Town Action - [Discard](/docs/glossary/discard) all [item
   <div style={{
     flex: "2 1 350px"
   }}>
-    # Undaunted
-   Knowing no fear of beast or blade, the Undaunted are a group of daring treasure hunters who throw themselves headlong into delves and dungeons for fame and fortune. They laugh in the faces of death and Daedra for a chance at glory, honor, and treasure.
+
+# Неустрашимые
+
+Неустрашимые — дерзкие искатели сокровищ, не ведающие страха ни перед чудовищами, ни перед клинком. Ради славы и богатства они безоглядно отправляются в вылазки и подземелья. Они смеются в лицо смерти и даэдра ради шанса обрести славу, честь и сокровища.
+
   </div>
 </div>
 
-### Guild Kiosk Town Action
+### Городское действие павильона гильдии {#guild-kiosk-town-action}
 
-**Pledged:** [Discard](/docs/glossary/discard) all [items](/docs/adventurer/items/index) in the shop and refill it with new items equal to the shop's values. Then, gain 1 item from the new selection.
+**Pledged:** [сбросьте](/docs/glossary/discard) все [предметы](/docs/adventurer/items/index) в магазине и пополните его новыми предметами в соответствии со значениями магазина. Затем получите 1 предмет из нового набора.
 
-### Guild Focus
+### Особенности заданий гильдии {#guild-focus}
 
-The party focuses on [delves](/docs/battles/types/delve/index).
+Основные задания отряда связаны с [вылазками](/docs/battles/types/delve/index).

@@ -1,7 +1,7 @@
 ---
 id: fighters-guild
-title: Fighters Guild
-hoverText: Guild Kiosk Town Action - Spend 1 saved [XP](/docs/glossary/xp) to train any [Warrior](/docs/adventurer/skill-lines/warrior) type skill line from the trainer bag.
+title: 'Гильдия бойцов'
+hoverText: 'Городское действие павильона гильдии: потратьте 1 сохранённое [ОО](/docs/glossary/xp), чтобы освоить любую ветку навыков [Воина](/docs/adventurer/skill-lines/warrior) из мешочка наставника.'
 ---
 
 <div className="guild-banner" style={{
@@ -22,15 +22,18 @@ hoverText: Guild Kiosk Town Action - Spend 1 saved [XP](/docs/glossary/xp) to tr
   <div style={{
     flex: "2 1 350px"
   }}>
-    # Fighters Guild
-    The Fighter's Guild trains and organizes mercenary soldiers across Tamriel, regularly taking on contracts that benefit both its pockets and the public. Its large roster is endlessly busy with providing security, hunting monsters, and more.
+
+# Гильдия бойцов
+
+Гильдия бойцов обучает и объединяет наёмников по всему Тамриэлю, регулярно берясь за заказы, которые приносят деньги гильдии и пользу обществу. Её многочисленные члены постоянно заняты охраной, охотой на чудовищ и другими делами.
+
   </div>
 </div>
 
-### Guild Kiosk Town Action
+### Городское действие павильона гильдии {#guild-kiosk-town-action}
 
-**Guild Hall Sparring:** Spend 1 saved [XP](/docs/glossary/xp) to train any [<img src="/icons/warrior.svg" alt="Warrior Icon" className="icon-svg" />](/docs/adventurer/skill-lines/warrior) type skill line from the trainer bag.
+**Guild Hall Sparring:** потратьте 1 сохранённое [ОО](/docs/glossary/xp), чтобы освоить любую ветку навыков Воина ([<img src="/icons/warrior.svg" alt="Warrior Icon" className="icon-svg" />](/docs/adventurer/skill-lines/warrior)) из мешочка наставника.
 
-### Guild Focus
+### Особенности заданий гильдии {#guild-focus}
 
-The party focuses on a wide variety of battle-heavy quests.
+Отряд выполняет разнообразные задания, в которых основное внимание уделяется боям.
