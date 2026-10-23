@@ -1,17 +1,17 @@
 ---
 id: survey
-title: Survey
-hoverText: The [party](/docs/glossary/party) must fully explore the battle map by gaining all required [skyshards](/docs/battles/types/delve/skyshard). The default number of required skyshards is 3, although the encounter may specify a different amount.
+title: 'Изучение'
+hoverText: '[Отряд](/docs/glossary/party) должен полностью исследовать поле боя, получив все необходимые [небесные осколки](/docs/battles/types/delve/skyshard). По умолчанию требуется 3 осколка, но описание встречи может указывать другое количество.'
 tags:
   - Delve
 ---
 
-The [party](/docs/glossary/party) must fully explore the battle map by gaining all required [skyshards](/docs/battles/types/delve/skyshard). The default number of required skyshards is 3, although the encounter may specify a different amount. The encounter is failed if the party does not gain all of the required skyshards. This is the most common objective for delve battles found in guild quests.
+[Отряд](/docs/glossary/party) должен полностью исследовать поле боя, получив все необходимые [небесные осколки](/docs/battles/types/delve/skyshard). По умолчанию требуется 3 осколка, но описание встречи может указывать другое количество. Если отряд не получит все необходимые осколки, встреча считается проваленной. Это самая распространённая задача для вылазок в заданиях гильдий.
 
-## Uncover vs Survey
+## Сравнение целей «Открытие» и «Изучение» {#uncover-vs-survey}
 
-| Aspect             | Uncover                                                                                                                                                         | Survey                             |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| XP Rewards         | 1 XP for each collected skyshard and encounter reward (if successful). You still gain XP for skyshards if you retreat with at least 1 party member still alive. | Encounter Reward XP only           |
-| Partial Completion | You gain XP for each skyshard even if retreating before completing the encounter.                                                                               | Not possible, encounter is failed. |
-| Encounter Duration | End of battle round, however it is optional even after objective is met.                                                                                        | End of battle round, not optional. |
+| Параметр             | Открытие                                                                                                                                                                                      | Изучение                                                    |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| Награды в ОО         | По 1 ОО за каждый полученный небесный осколок и награда за встречу, если она завершена успешно. При отступлении ОО за осколки сохраняются, если хотя бы один участник отряда остался в живых. | Только ОО из награды за встречу.                            |
+| Частичное выполнение | Вы получаете ОО за каждый небесный осколок, даже если отступаете до завершения встречи.                                                                                                       | Не засчитывается: встреча считается проваленной.            |
+| Завершение встречи   | В конце раунда боя. После сбора необходимых осколков можно продолжить бой.                                                                                                                    | Обязательно в конце раунда боя, в котором выполнена задача. |

@@ -1,38 +1,38 @@
 ---
 id: end-of-battle
-title: End of Battle
-hoverText: 'A battle ends after the current [round](/docs/battles/battle-round) when any of the following occur: the [party](/docs/glossary/party) achieves the encounter''s [objectives](/docs/battles/objectives/), or the party [retreats](/docs/battles/retreat) from battle, or all [adventurers](/docs/glossary/adventurer) are [defeated](/docs/glossary/defeated).'
+title: 'Конец боя'
+hoverText: 'Бой заканчивается после текущего [раунда](/docs/battles/battle-round), если происходит одно из следующих событий: [отряд](/docs/glossary/party) выполняет [задачи](/docs/battles/objectives/) встречи, отряд [отступает](/docs/battles/retreat) из боя или все [персонажи](/docs/glossary/adventurer) оказываются [повержены](/docs/glossary/defeated).'
 ---
 
-A battle ends after the current [round](/docs/battles/battle-round) when any of the following occur:
+Бой заканчивается после текущего [раунда](/docs/battles/battle-round), если происходит одно из следующих событий:
 
-- The [party](/docs/glossary/party) achieves the encounter's [objectives](/docs/battles/objectives/).
-- The party [retreats](/docs/battles/retreat) from battle.
-- All [adventurers](/docs/glossary/adventurer) are [defeated](/docs/glossary/defeated).
+- [Отряд](/docs/glossary/party) выполняет [задачи](/docs/battles/objectives/) встречи.
+- Отряд [отступает](/docs/battles/retreat) из боя.
+- Все [персонажи](/docs/glossary/adventurer) [повержены](/docs/glossary/defeated).
 
-Since the battle ends after the current round in which 1 of these events occurs, the battle does not necessarily end immediately after the last enemy is defeated, even if the party has a [Conquer](/docs/battles/objectives/conquer) objective.
+Бой заканчивается после текущего раунда, в котором произошло одно из этих событий. Поэтому он не обязательно заканчивается сразу после поражения последнего врага, даже если задачей отряда была [«Зачистка»](/docs/battles/objectives/conquer).
 
-## End of Battle Cleanup
+## Процедура окончания боя {#end-of-battle-cleanup}
 
-After a battle ends (whether successfully or not), follow the steps below and then proceed to the [Reward Phase](/docs/campaign/day/reward-phase).
+После окончания боя, успешного или нет, выполните следующие действия, а затем перейдите к [фазе наград](/docs/campaign/day/reward-phase).
 
-1. Remove all remaining [bonus HP](/docs/glossary/bonus-hp) from each [adventurer's](/docs/glossary/adventurer) mat and any HP exceeding the adventurer's maximum. Then, place each adventurer's chip, with its remaining HP, back in the art area of their race sheet. If the party has permanent [companion](/docs/glossary/companion) units that can appear in later battles, place each companion's chip near an adventurer mat, removing all [status](/docs/glossary/status-effect) dice or excess HP from that chip.
-2. Each adventurer removes and exhausts any remaining dice from their [active slots](/docs/glossary/active-slot). Then, they [recover](/docs/glossary/recover) all of their [drained](/docs/glossary/drained) skill dice. Note: Dice still in an adventurer's [cooldown track](/docs/glossary/cooldown-track) at the end of a battle remain there until the next battle or until they are removed by other means, such as during the [End of Day Phase](/docs/campaign/day/end-of-day-phase) or visiting a [town's](/docs/campaign/day/encounter-phase/town) inn.
-3. Disassemble the battle map.
-   - Place [enemy](/docs/glossary/enemy) chips back into their correct draw bags and place [cache](/docs/glossary/cache) chips back in the supply.
-   - Sort the map tiles by shape. If [delve](/docs/battles/types/delve/) tiles were used, shuffle each shape facedown. Then place the tiles back in their area.
-   - Gather the delve cards, setting aside any cards marked with "SP" or otherwise required by the Delve Feature section at the front of your province's gazetteer. Then, shuffle the Delve Deck and place it back in its area.
+1. Уберите с планшета каждого [персонажа](/docs/glossary/adventurer) все оставшиеся фишки [дополнительного здоровья](/docs/glossary/bonus-hp), а также любые ОЗ сверх максимума персонажа. Затем верните фишку персонажа с оставшимися ОЗ в область портрета на его памятке расы. Если у отряда есть постоянные [компаньоны](/docs/glossary/companion), которые могут участвовать в следующих боях, поместите фишку каждого из них рядом с планшетом персонажа, убрав с неё все кубики [состояний](/docs/glossary/status-effect) и лишние ОЗ.
+2. Каждый персонаж убирает и истощает все кубики, оставшиеся в его [ячейках активности](/docs/glossary/active-slot). Затем он [возвращает](/docs/glossary/recover) все свои [исчерпанные](/docs/glossary/drained) кубики навыков. Примечание: кубики, оставшиеся на [треке перезарядки](/docs/glossary/cooldown-track) персонажа в конце боя, остаются там до следующего боя или до тех пор, пока их не снимут другим способом, например в [фазе конца дня](/docs/campaign/day/end-of-day-phase) или при посещении таверны в [городе](/docs/campaign/day/encounter-phase/town).
+3. Разберите поле боя.
+   - Верните фишки [врагов](/docs/glossary/enemy) в соответствующие мешочки, а фишки [тайников](/docs/glossary/cache) — в запас.
+   - Рассортируйте участки местности по форме. Если использовались участки [вылазки](/docs/battles/types/delve/), перемешайте участки каждой формы лицевой стороной вниз. Затем верните участки в место их хранения.
+   - Соберите карты вылазки, отложив в сторону карты с пометкой «SP», а также другие карты, требуемые разделом «Особенность вылазки» в начале буклета вашей провинции. Затем перемешайте колоду вылазки и верните её на место.
 
-This cleanup procedure only occurs after a battle, not after a peaceful encounter.
+Эта процедура выполняется только после боя; после мирной встречи она не проводится.
 
 ---
 
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Success - one adventurer must survive**
+**Для успеха должен выжить хотя бы один персонаж**
 
-In order for a combat to be successful, one adventurer must survive. If only companions survive, or the last adventurer is defeated at the same time as the last enemy, the combat fails.
+Чтобы бой считался успешным, должен выжить хотя бы один персонаж. Если выжили только компаньоны или последний персонаж повержен одновременно с последним врагом, бой считается проваленным.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294286" target="_blank">Источник</a>
 <!-- translate:off -->
