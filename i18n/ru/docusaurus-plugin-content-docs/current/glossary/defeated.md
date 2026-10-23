@@ -24,7 +24,7 @@ hoverText: '[Боевая единица](/docs/glossary/unit) считаетс�
 
 1.  Поместите жетон отряда в [ближайший](/docs/glossary/closest) [город](/docs/campaign/day/encounter-phase/town) (<img src="/icons/town.svg" alt="Town Icon" className="icon-svg" />) от текущего местоположения отряда на атласе провинции.
 2.  Разыграйте [фазу наград](/docs/campaign/day/reward-phase).
-3.  Разыграйте этап «Отдых персонажей» [фазы конца дня](/docs/campaign/day/end-of-day-phase) как обычно. Если игра проходит на уровне сложности [«Эксперты»](/docs/campaign/difficulty-levels/expert) и весь отряд повержен, [персонажи](/docs/glossary/adventurer) восстанавливают 1 ОЗ, даже если не [сбрасывают](/docs/glossary/discard) предмет. Однако, чтобы [вернуть](/docs/glossary/recover) кубик со своего [трека перезарядки](/docs/glossary/cooldown-track), они всё равно должны сбросить предмет.
+3.  Разыграйте этап «Отдых персонажей» [фазы конца дня](/docs/campaign/day/end-of-day-phase) как обычно. Если игра проходит на уровне сложности [«Эксперты»](/docs/campaign/difficulty-levels/Expert) и весь отряд повержен, [персонажи](/docs/glossary/adventurer) восстанавливают 1 ОЗ, даже если не [сбрасывают](/docs/glossary/discard) предмет. Однако, чтобы [вернуть](/docs/glossary/recover) кубик со своего [трека перезарядки](/docs/glossary/cooldown-track), они всё равно должны сбросить предмет.
 
 ### Поражение боевых единиц
 

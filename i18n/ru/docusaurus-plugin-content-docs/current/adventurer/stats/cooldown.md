@@ -1,7 +1,7 @@
 ---
 id: cooldown
-title: Cooldown
-hoverText: The number of dice removed from your cooldown track during the [Recovery step](/docs/battles/adventurer-turn/index/#2-recovery) of each of your turns in battle.
+title: 'Перезарядка'
+hoverText: 'Количество кубиков, которые вы снимаете со своего трека перезарядки на этапе [возвращения кубиков](/docs/battles/adventurer-turn/index/#2-recovery) в каждый свой ход в бою.'
 ---
 
-The value of the slot where your peg is placed above the [cooldown track](/docs/glossary/cooldown-track) is your Cooldown stat. This is the number of dice removed from your cooldown track during the [Recovery step](/docs/battles/adventurer-turn/index/#2-recovery) of each of your turns in battle. Start from the left and remove dice equal to your stat value. Slide the remaining dice as far left as possible toward the edge of the track.
+Значение ячейки, в которую вставлен ваш колышек над [треком перезарядки](/docs/glossary/cooldown-track), — это ваш показатель перезарядки. Он определяет, сколько кубиков вы снимаете с трека на этапе [возвращения кубиков](/docs/battles/adventurer-turn/index/#2-recovery) в каждый свой ход в бою. Начиная слева, снимите столько кубиков, сколько указано вашим показателем. Оставшиеся кубики сдвиньте как можно дальше влево, к краю трека.

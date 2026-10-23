@@ -1,27 +1,27 @@
 ---
 id: fatigue
-title: Fatigue
-hoverText: These dice are placed in your [adventurer's](/docs/glossary/adventurer) [cooldown track](/docs/glossary/cooldown-track) when they gain fatigue. There are 2 types of fatigue (light fatigue and overfatigue).
+title: 'Усталость'
+hoverText: 'Эти кубики помещаются на [трек перезарядки](/docs/glossary/cooldown-track) [персонажа](/docs/glossary/adventurer), когда он получает усталость. Есть 2 типа таких кубиков: серебристые кубики усталости и чёрные кубики переутомления.'
 ---
 
-These dice are placed in your [adventurer's](/docs/glossary/adventurer) [cooldown track](/docs/glossary/cooldown-track) when they gain fatigue. There are 2 types of fatigue. If a game effect refers to fatigue without specifying its type, that effect can apply to either type.
+Эти кубики помещаются на [трек перезарядки](/docs/glossary/cooldown-track) [персонажа](/docs/glossary/adventurer), когда он получает усталость. Есть 2 типа усталости. Если игровой эффект упоминает усталость без уточнения типа, он может применяться к любому из них.
 
-### Light Fatigue
+### Усталость (серебристые кубики) {#light-fatigue}
 
-These are silver. When a light fatigue die is removed from the [cooldown track](/docs/glossary/cooldown-track), that die is returned to the supply. If there are no silver dice in the supply when light fatigue is gained, gain overfatigue.
+Это серебристые кубики. Снимая такой кубик усталости с [трека перезарядки](/docs/glossary/cooldown-track), верните его в общий запас. Если при получении усталости серебристых кубиков в запасе нет, вместо этого получите кубик переутомления.
 
-### Overfatigue
+### Переутомление {#overfatigue}
 
-These are black. When an overfatigue die would be removed from the [cooldown track](/docs/glossary/cooldown-track) during the [Recovery step](/docs/battles/adventurer-turn/index/#2-recovery), it is instead placed in the track's leftmost open position. Overfatigue in the cooldown track deals damage to the adventurer during fatigue rounds in battle. It can only be removed during the Adventurers Rest step, by taking an inn [town](/docs/campaign/day/encounter-phase/town) action, or by a game effect or special ability.
+Это чёрные кубики. Когда кубик переутомления должен быть снят с [трека перезарядки](/docs/glossary/cooldown-track) на этапе [возвращения кубиков](/docs/battles/adventurer-turn/index/#2-recovery), вместо этого поместите его в крайнюю слева свободную ячейку трека. Кубики переутомления на треке наносят персонажу урон во время раундов усталости в бою. Их можно снять только на этапе «Отдых персонажей», посетив таверну в качестве [городского](/docs/campaign/day/encounter-phase/town) действия, либо с помощью игрового эффекта или особой способности.
 
 ---
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Is gaining any amount of light fatigue on demand considered an abuse/exploit of the rules as written?**
+**Считается ли возможность получать любое количество серебристых кубиков усталости по своему желанию лазейкой в правилах?**
 
-This is getting an adjustment. On page 21 of the rulebook it says: If no black overfatigue dice remain in the supply, no fatigue dice are placed." This is being replaced with: "If no black overfatigue dice remain in the supply, adventurers must take 1 true damage for each overfatigue they are unable to place in their cooldown."
+Это правило уточняется. На с. 21 правил сказано: «Если в запасе не осталось чёрных кубиков переутомления, кубики усталости не размещаются». Эту формулировку заменяют на: «Если в запасе не осталось чёрных кубиков переутомления, персонажи должны получить 1 единицу неблокируемого урона за каждый кубик переутомления, который они не могут поместить на свой трек перезарядки».
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Источник</a>
 
@@ -32,11 +32,11 @@ This is getting an adjustment. On page 21 of the rulebook it says: If no black o
 :::tip[FAQ]
 <!-- translate:on -->
 
-**When you can take "any amount" of fatigue, is there a limit to this?**
+**Есть ли предел, когда можно получить «любое количество» усталости?**
 
-In a situation where you can take "any amount" of fatigue, there is **no limit** to how much fatigue you can take. The rules tell you what to do if you can't take a light fatigue or overfatigue, and also what to do if you'd take fatigue when your cooldown is full. Outside of those consequences, there is no limit.
+Если вы можете получить «любое количество» усталости, её количество **не ограничено**. Правила указывают, что делать, если невозможно получить кубик усталости или переутомления, а также если вы получаете усталость при заполненном треке перезарядки. Кроме этих последствий, ограничений нет.
 
-This is particularly of note for the Palefrost Elk [pet](/docs/adventurer/items/types/pet) item which, when you would take any amount of fatigue, allows you to ignore the fatigue and put an HP chip on the pet instead. In combination with a situation where you can take any amount of fatigue, you can declare you are taking as much fatigue as you would like, and then ignore all of that fatigue.
+Это особенно важно для карты [питомца](/docs/adventurer/items/types/pet) «Снежный лось» (Palefrost Elk): когда вы должны получить любое количество усталости, она позволяет проигнорировать эту усталость и вместо этого положить на питомца фишку ОЗ. Если при этом вы можете получить любое количество усталости, вы вправе объявить любое желаемое количество, а затем проигнорировать его целиком.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000291580" target="_blank">Источник</a>
 <!-- translate:off -->

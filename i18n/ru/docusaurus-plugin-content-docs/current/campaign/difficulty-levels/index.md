@@ -1,18 +1,18 @@
 ---
 id: index
-title: Difficulty Levels
-hoverText: Learn about the games difficulty levels.
+title: 'Уровни сложности'
+hoverText: 'Описание уровней сложности игры.'
 slug: /campaign/difficulty-levels/index
 ---
 
-### Apprentice (Easy)
+### Ученики (низкая сложность) {#apprentice-easy}
 
-[Adventurers](/docs/glossary/adventurer) remove 2 dice from their [cooldown track](/docs/glossary/cooldown-track) and [heal](/docs/glossary/healing) for 2 HP during the [Adventurers Rest](/docs/campaign/day/end-of-day-phase) step at the end of each day. Quest steps also occasionally contain modified rules for Apprentice difficulty level.
+[Персонажи](/docs/glossary/adventurer) снимают 2 кубика со своего [трека перезарядки](/docs/glossary/cooldown-track) и [восстанавливают](/docs/glossary/healing) 2 ОЗ на этапе [«Отдых персонажей»](/docs/campaign/day/end-of-day-phase) в конце каждого дня. Некоторые этапы заданий также содержат изменённые правила для уровня сложности «Ученики».
 
-### Adept (Average)
+### Адепты (средняя сложность) {#adept-average}
 
-[Adventurers](/docs/glossary/adventurer) remove 1 die from their [cooldown track](/docs/glossary/cooldown-track) and [heal](/docs/glossary/healing) for 1 HP during the [Adventurers Rest](/docs/campaign/day/end-of-day-phase) step at the end of each day.
+[Персонажи](/docs/glossary/adventurer) снимают 1 кубик со своего [трека перезарядки](/docs/glossary/cooldown-track) и [восстанавливают](/docs/glossary/healing) 1 ОЗ на этапе [«Отдых персонажей»](/docs/campaign/day/end-of-day-phase) в конце каждого дня.
 
-### Expert (Difficult)
+### Эксперты (высокая сложность) {#expert-difficult}
 
-[Adventurers](/docs/glossary/adventurer) gain 2 [fatigue](/docs/glossary/fatigue) for each additional [engage](/docs/battles/adventurer-turn/engage) action taken in battle. To resolve their individual [Adventurers Rest](/docs/campaign/day/end-of-day-phase) step, an adventurer must [discard](/docs/glossary/discard) an [item](/docs/adventurer/items/index). Adventurers remove 1 die from their cooldown track and [heal](/docs/glossary/healing) for 1 HP during the Adventurers Rest step at the end of each day.
+За каждое дополнительное действие [«Атака»](/docs/battles/adventurer-turn/engage) в бою [персонаж](/docs/glossary/adventurer) получает 2 кубика [усталости](/docs/glossary/fatigue). Чтобы разыграть свой этап [«Отдых персонажей»](/docs/campaign/day/end-of-day-phase), персонаж должен [сбросить](/docs/glossary/discard) [предмет](/docs/adventurer/items/index). На этапе отдыха в конце каждого дня персонажи снимают 1 кубик со своего трека перезарядки и [восстанавливают](/docs/glossary/healing) 1 ОЗ.
