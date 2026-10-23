@@ -1,11 +1,11 @@
 ---
 id: new-day-phase
-title: New Day Phase
-sidebar_label: "1. New Day Phase"
+title: 'Фаза начала дня'
+sidebar_label: '1. Фаза начала дня'
 sidebar_position: 1
-hoverText: Increase the Day Dial by 1 day. If the dial is at 12, the quest will be failed at the end of this day if it is not completed.
+hoverText: 'Продвиньте счётчик дней на 1 деление. Если счётчик указывает на 12, задание будет провалено в конце этого дня, если вы его не завершите.'
 ---
 
-Increase the Day Dial by 1 day.
+Продвиньте счётчик дней на 1 деление.
 
-The party starts the session on day 1, so if this is the first day, set the Day Dial so the chip's notch points to 1. No quest can extend beyond 12 days, so if the dial is at 12, that quest will be failed at the end of this day if it is not completed.
+Отряд начинает эпизод с дня 1. Если сейчас первый день, установите счётчик дней так, чтобы выемка на фишке указывала на 1. Ни одно задание не может длиться больше 12 дней. Если счётчик указывает на 12, задание будет провалено в конце этого дня, если вы его не завершите.

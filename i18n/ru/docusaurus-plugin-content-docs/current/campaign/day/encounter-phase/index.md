@@ -1,32 +1,32 @@
 ---
 id: index
-title: Encounter Phase
-sidebar_label: "3. Encounter Phase"
+title: 'Фаза встречи'
+sidebar_label: '3. Фаза встречи'
 sidebar_position: 3
-hoverText: The party resolves the encounter it triggered during the previous phase.
+hoverText: 'Отряд разыгрывает встречу, активированную в предыдущей фазе.'
 slug: /campaign/day/encounter-phase/index
 ---
 
-The party resolves the encounter it triggered during the previous phase. [Town](/docs/campaign/day/encounter-phase/town) encounters are resolved by taking actions in that town. Other encounters are resolved as described by their text, either in the gazetteer or on the overland card.
+Отряд разыгрывает встречу, активированную в предыдущей фазе. При [городской](/docs/campaign/day/encounter-phase/town) встрече персонажи выполняют действия в городе. Другие встречи разыгрываются по их описанию в буклете провинции или на карте встречи в провинции.
 
-After resolving the encounter, determine its success before proceeding to the [Rewards Phase](/docs/campaign/day/reward-phase).
+После розыгрыша встречи определите, была ли она успешной, прежде чем переходить к [фазе наград](/docs/campaign/day/reward-phase).
 
-If the party triggered no encounter, it **skips** this phase.
+Если отряд не активировал ни одной встречи, он **пропускает** эту фазу.
 
-## Resolving Encounters
+## Розыгрыш встреч {#resolving-encounters}
 
-[Quest](/docs/campaign/quests/index) and overland encounters must be successfully completed to earn their [XP](/docs/glossary/xp) or other rewards. If an encounter allows the party to choose how to complete it, the party must choose 1 option. If the party does not meet the requirements for a choice, it cannot choose it.
+[Сюжетные встречи](/docs/campaign/quests/index) и встречи в провинции нужно успешно завершить, чтобы получить за них [ОО](/docs/glossary/xp) и другие награды. Если встреча предлагает несколько вариантов прохождения, отряд должен выбрать 1 из них. Если отряд не выполняет требования варианта, выбрать его нельзя.
 
-Encounters have 2 outcome types: peaceful or battle. When an encounter appears on an overland card, its outcomes are indicated by an icon.
+У встреч есть 2 типа исхода: мирный или боевой. На картах встреч в провинции исходы обозначены символами.
 
 ### Мирная встреча
 
-A peaceful (<img src="/icons/peaceful-outcome.svg" alt="Peaceful Outcome Icon" className="icon-svg" />) outcome resolves the encounter without the players taking part in a battle. A peaceful encounter is automatically successful unless otherwise noted. If the party does not fulfill a peaceful encounter's requirements, the encounter is failed.
+При мирном исходе (<img src="/icons/peaceful-outcome.svg" alt="Peaceful Outcome Icon" className="icon-svg" />) встреча разыгрывается без боя. Если не указано иное, мирная встреча автоматически считается успешной. Если отряд не выполняет требования мирной встречи, она считается проваленной.
 
-### Battle
+### Бой {#battle}
 
-A battle outcome is resolved on the battle map. There are 3 modes of battle: [clashes](/docs/battles/types/clash) (<img src="/icons/clash.svg" alt="Clash Icon" className="icon-svg" />), [delves](/docs/battles/types/delve/index) (<img src="/icons/delve.svg" alt="Delve Icon" className="icon-svg" />), and [dungeons](/docs/battles/types/dungeon) (which do not appear on overland cards and have no icon).
+Боевой исход разыгрывается на поле боя. Есть 3 режима боя: [стычка](/docs/battles/types/clash) (<img src="/icons/clash.svg" alt="Clash Icon" className="icon-svg" />), [вылазка](/docs/battles/types/delve/index) (<img src="/icons/delve.svg" alt="Delve Icon" className="icon-svg" />) и [подземелье](/docs/battles/types/dungeon). Подземелья не встречаются на картах встреч в провинции и не имеют своего символа.
 
-Quest encounters are described either in their [province's](/docs/campaign/provinces/index) gazetteer or on a [side quest](/docs/campaign/quests/side-quests) card and are triggered and resolved as their text specifies.
+Сюжетные встречи описаны в буклете соответствующей [провинции](/docs/campaign/provinces/index) или на карте [побочного задания](/docs/campaign/quests/side-quests). Они активируются и разыгрываются согласно своему описанию.
 
-A battle encounter is successful if at least 1 [adventurer](/docs/glossary/adventurer) remains undefeated on the battle map and the party has achieved the objective for that encounter. If the party does not achieve a battle's objective, the encounter is failed.
+Боевая встреча считается успешной, если на поле боя остался хотя бы 1 неповерженный [персонаж](/docs/glossary/adventurer) и отряд выполнил задачу этой встречи. Если отряд не выполнил задачу боя, встреча считается проваленной.
