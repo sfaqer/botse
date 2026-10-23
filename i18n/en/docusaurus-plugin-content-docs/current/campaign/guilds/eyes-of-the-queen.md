@@ -30,7 +30,7 @@ Though nominally in service to the Aldmeri Dominion's Queen Ayreen, the Eyes oft
   </div>
 </div>
 
-### Guild Kiosk Town Action
+### Guild Kiosk Town Action {#guild-kiosk-town-action}
 
 **Reconnoiter:** Look at the top 2 cards of either the Peaceful (<img src="/icons/peaceful.svg" alt="Peaceful Icon" className="icon-svg" />) or Conflict (<img src="/icons/conflict.svg" alt="Conflict Icon" className="icon-svg" />) overland deck. In any order, place each card on either top or the bottom of the deck.
 

@@ -30,7 +30,7 @@ The Fighter's Guild trains and organizes mercenary soldiers across Tamriel, regu
   </div>
 </div>
 
-### Guild Kiosk Town Action
+### Guild Kiosk Town Action {#guild-kiosk-town-action}
 
 **Guild Hall Sparring:** Spend 1 saved [XP](/docs/glossary/xp) to train any [<img src="/icons/warrior.svg" alt="Warrior Icon" className="icon-svg" />](/docs/adventurer/skill-lines/warrior) type skill line from the trainer bag.
 

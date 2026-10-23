@@ -30,7 +30,7 @@ A guild of zealous assassins, these amoral professionals will take on any contra
   </div>
 </div>
 
-### Guild Kiosk Town Action
+### Guild Kiosk Town Action {#guild-kiosk-town-action}
 
 **Mark of the Black Hand:** Place a [Fear](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" className="icon-svg" />) status die into a ready slot as an [item](/docs/adventurer/items/index). On your [turn](/docs/glossary/turn) in battle, you may use this item to apply the [Fear](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" className="icon-svg" />) status die to an [adjacent](/docs/glossary/adjacent) [enemy](/docs/glossary/enemy).
 

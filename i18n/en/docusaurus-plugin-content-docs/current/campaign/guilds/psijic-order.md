@@ -30,7 +30,7 @@ The Psijic Order is a secretive sect dedicated to studying magic in what its mem
   </div>
 </div>
 
-### Guild Kiosk Town Action
+### Guild Kiosk Town Action {#guild-kiosk-town-action}
 
 **The Old Ways:** Untrain a level 1 [<img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" />](/docs/adventurer/skill-lines/mage) type skill die to train a level 2 [<img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" />](/docs/adventurer/skill-lines/mage) in the same skill line.
 

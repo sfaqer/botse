@@ -30,7 +30,7 @@ The Thieves Guild is a continent-spanning association of criminals dedicated to 
   </div>
 </div>
 
-### Guild Kiosk Town Action
+### Guild Kiosk Town Action {#guild-kiosk-town-action}
 
 **Scoundrels:** [Discard](/docs/glossary/discard) 1 <img src="/icons/common-item.svg" alt="Common Item Icon" className="icon-svg" /> to train any [<img src="/icons/thief.svg" alt="Thief Icon" className="icon-svg" />](/docs/adventurer/skill-lines/thief) type skill line from the trainer bag.
 
