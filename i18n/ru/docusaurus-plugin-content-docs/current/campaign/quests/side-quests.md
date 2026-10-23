@@ -1,25 +1,25 @@
 ---
 id: side-quests
-title: Side Quests
-hoverText: Side quests are optional opportunities for rewards that are independent of the party's guild quest. Each side quest has its own requirements for completion.
+title: 'Побочные задания'
+hoverText: 'Побочные задания дают необязательные возможности получить награды независимо от задания гильдии. У каждого побочного задания свои требования к выполнению.'
 ---
 
-Side quests are typically chosen at [town](/docs/campaign/day/encounter-phase/town) quest boards. They are optional opportunities for rewards that are independent of the party's guild quest. Each side quest has its own requirements for completion. The party completes its side quest at the end of an [Encounter Phase](/docs/campaign/day/encounter-phase/index) in which that quest's requirements are met (unless the quest specifies a different timing).
+Побочные задания обычно выбирают на досках объявлений в [городах](/docs/campaign/day/encounter-phase/town). Это необязательные возможности получить награды независимо от задания гильдии. У каждого побочного задания свои требования к выполнению. Отряд завершает побочное задание в конце [фазы встречи](/docs/campaign/day/encounter-phase/index), в которой выполнены его требования, если само задание не указывает другой момент.
 
-Though individual adventurers may choose which side quests to gain, active side quests are shared between the entire party. Your party can have up to 4 active side quests at a time. If the party would gain a side quest and exceed this limit, it must either discard 1 of its current side quests or the side quest it would gain. The party can also choose to discard 1 or more side quests at any time.
+Отдельные персонажи могут выбирать, какие побочные задания получить, но активные задания являются общими для всего отряда. У отряда может быть до 4 активных побочных заданий одновременно. Если получение нового задания превысит этот предел, отряд должен сбросить либо 1 из текущих побочных заданий, либо новое задание. Отряд также может в любой момент по своему выбору сбросить 1 или несколько побочных заданий.
 
-There is no inherent penalty for leaving an active side quest uncompleted unless that quest's card says otherwise. If you cannot meet the requirements to complete a side quest, you cannot complete that quest but may keep the card until the end of the session.
+За незавершённое активное побочное задание нет штрафа, если его карта не указывает иное. Если вы не можете выполнить требования задания, завершить его нельзя, но карту можно оставить до конца эпизода.
 
-Side quests are not specific to a single [province](/docs/campaign/provinces/index). Instead, they often refer to map features, such as landmarks, that are found across Tamriel.
+Побочные задания не привязаны к одной конкретной [провинции](/docs/campaign/provinces/index). Они часто ссылаются на объекты атласа, например клетки с символами событий, которые встречаются по всему Тамриэлю.
 
 ---
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Are side quests optional to trigger?**
+**Можно ли по своему желанию не активировать побочное задание?**
 
-Side quests are only optional if the text says so. If it says "next clash" or similar, you have to do it in the next clash. The only way to opt out is to discard it.
+Активация побочного задания необязательна только в том случае, если это указано в его тексте. Если там написано «следующая стычка» или подобное условие, задание нужно разыграть в следующей стычке. Единственный способ отказаться — сбросить его.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1335318484070039634" target="_blank">Источник</a>
 <!-- translate:off -->
@@ -28,9 +28,9 @@ Side quests are only optional if the text says so. If it says "next clash" or si
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**SQ-20 Dice! - this card is allowed to be discarded**
+**Карту побочного задания SQ-20 Dice! можно сбросить**
 
-This side quest has text that reads: "Keep this quest until the end of the session, as it may be initiated multiple times." This text is intending to tell you that you are allowed to keep it, as normally you would discard a side quest once it's completed. However, you are also allowed to discard this side quest as normal. You are not obligated to hold onto it until the end of the session if you wish to discard it.
+На этом побочном задании написано: «Храните это задание до конца эпизода, поскольку его можно активировать несколько раз». Здесь имеется в виду, что вам разрешено оставить карту, хотя обычно побочное задание сбрасывается после выполнения. Однако вы также можете сбросить эту карту по обычным правилам. Если хотите её сбросить, вы не обязаны хранить её до конца эпизода.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294283" target="_blank">Источник</a>
 <!-- translate:off -->

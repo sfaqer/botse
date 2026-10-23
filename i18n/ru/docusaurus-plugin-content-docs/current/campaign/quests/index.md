@@ -1,51 +1,51 @@
 ---
 id: index
-title: Quests
-hoverText: Quests are the goals your party is tasked with completing. Quests that your party has accepted but not completed or [discarded](/docs/glossary/discard) are active quests.
+title: 'Задания'
+hoverText: 'Задания — это цели, которые должен выполнить отряд. Задания, которые отряд принял, но ещё не завершил и не [сбросил](/docs/glossary/discard), считаются активными.'
 slug: /campaign/quests/index
 ---
 
-Quests are the goals your party is tasked with completing. Quests that your party has accepted but not completed or [discarded](/docs/glossary/discard) are active quests.
+Задания — это цели, которые должен выполнить отряд. Задания, которые отряд принял, но ещё не завершил и не [сбросил](/docs/glossary/discard), считаются активными.
 
-## Guild Quests
+## Задания гильдии {#guild-quests}
 
-Your party can have only 1 active [guild](/docs/campaign/guilds/index) quest at a time, which defines the party's main quest for that session. If the party is unable to complete its guild quest by the end of day 12 or fails any of that quest's steps, it has failed at the session's goal, which ends both the session and [campaign](/docs/campaign/index).
+У отряда может быть только 1 активное задание [гильдии](/docs/campaign/guilds/index). Оно определяет главную цель отряда в текущем эпизоде. Если отряд не завершил задание гильдии к концу дня 12 или провалил любой из его этапов, цель эпизода считается проваленной. На этом заканчиваются и эпизод, и [кампания](/docs/campaign/index).
 
-Guild quests are specific to a single province of Tamriel. They also frequently identify 1 or more [quest units](/docs/glossary/quest-unit)—unique, powerful units who need to be located and either defeated or aided to complete that quest and the session.
+Каждое задание гильдии связано с одной провинцией Тамриэля. В таких заданиях часто фигурируют 1 или несколько [сюжетных боевых единиц](/docs/glossary/quest-unit): уникальных и сильных боевых единиц, которых нужно найти, а затем победить или помочь им, чтобы завершить задание и эпизод.
 
-The guild quest's steps appear in the current [province's](/docs/campaign/provinces/index) gazetteer. Your party's guild is represented by the guild card, which shows the guild's icon. Each guild card also describes an ability the party's adventurers can use as an action during [town](/docs/campaign/day/encounter-phase/town) encounters.
+Этапы задания гильдии приведены в буклете текущей [провинции](/docs/campaign/provinces/index). Гильдию отряда представляет карта с её символом. На каждой карте гильдии также описана способность, которую персонажи отряда могут использовать в качестве действия во время [городской](/docs/campaign/day/encounter-phase/town) встречи.
 
-Once during each campaign, the party can call on its guild's support for a dramatic, sudden assist either during battle or to help it move quickly across the overland map. This is called a [guild assist](/docs/glossary/guild-assist).
+Один раз за кампанию отряд может обратиться за поддержкой своей гильдии, чтобы получить мощную немедленную помощь в бою или быстро передвинуться по атласу провинции. Эта способность называется [«Помощь гильдии»](/docs/glossary/guild-assist).
 
-### Quest Steps
+### Этапы задания {#quest-steps}
 
-Guild quests are broken into multiple steps in the gazetteer that must each be completed one at a time by following specific instructions. Players are not permitted to read ahead to future quest steps unless specifically instructed. Each step has a code with a letter and number, identifying its order within its quest and number within its gazetteer. Steps within a quest are resolved in alphabetical order, beginning with Step A. The party completes its quest step at the **end of an [Encounter Phase](/docs/campaign/day/encounter-phase/index)** in which that step's objective requirements are met or that step is failed (unless the quest specifies a different timing).
+Задание гильдии разделено в буклете на несколько этапов, которые нужно выполнять по очереди, следуя их указаниям. Читать будущие этапы заранее нельзя, если это прямо не разрешено. У каждого этапа есть код из буквы и числа: буква обозначает его порядок в задании, а число — номер в буклете. Этапы выполняются в алфавитном порядке, начиная с этапа A. Отряд завершает этап задания **в конце [фазы встречи](/docs/campaign/day/encounter-phase/index)**, в которой выполнены требования его задачи или этот этап провален, если задание не указывает другой момент.
 
-When the current step is completed, proceed to the next as directed; then, read that step's instructions. The final step of a quest is the epilogue step. This does not trigger an encounter, but instead completes the quest's story and gives the party a [quest keyword](/docs/campaign/quests/keywords) that may come in handy in a future session.
+Завершив текущий этап, перейдите к следующему согласно указаниям и прочитайте его текст. Последний этап задания — эпилог. Он не активирует встречу, а завершает историю задания и даёт отряду [ключевое слово задания](/docs/campaign/quests/keywords), которое может пригодиться в следующем эпизоде.
 
-Quest keywords do not have inherent rules but can affect the choices available in future quests and the conditions for the campaign's [endgame](/docs/campaign/endgame). Epilogue steps also control the choices available to the party for its next guild quest.
+У ключевых слов заданий нет собственных правил, но они могут влиять на доступные варианты выбора в будущих заданиях и на условия [финального эпизода](/docs/campaign/endgame) кампании. Эпилог также определяет доступные отряду варианты следующего задания гильдии.
 
-The party fails its quest step if it fails that step's quest encounter unless that quest step says otherwise, regardless of if it is a peaceful or battle encounter. The quest step describes if a peaceful quest encounter can be failed, or if a battle encounter can be failed without that quest also failing. If the party fails its quest step, its session and [campaign end](/docs/campaign/index). While a guild quest remains active, leave the gazetteer open to the current step or bookmark it so that it is ready to reference.
+Если отряд провалил сюжетную встречу этапа, он проваливает и сам этап, если его описание не указывает иное. Это относится как к мирным, так и к боевым встречам. Описание этапа указывает, может ли мирная сюжетная встреча быть провалена, либо можно ли проиграть боевую встречу без провала самого задания. При провале этапа заканчиваются и эпизод, и [кампания](/docs/campaign/index). Пока задание гильдии активно, держите буклет открытым на текущем этапе или отметьте его закладкой, чтобы быстро сверяться с ним.
 
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**What happens if you lose a quest step encounter?**
+**Что происходит, если проиграть встречу этапа задания?**
 
-If you lose a quest step encounter, unless otherwise stated, you lose the game and cannot continue.
+Если вы проиграли встречу этапа задания, то, если не указано иное, вы проиграли игру и не можете продолжать.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292504" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
-### Linked Steps
+### Связанные этапы {#linked-steps}
 
-Some quest steps are directly linked to the previous step and must be completed during the same day. If a step is linked in this way, its instructions will indicate that its encounter must be triggered immediately after completing the current step and explain how this affects the current day's phases (such as delaying the [Reward Phase](/docs/campaign/day/reward-phase)).
+Некоторые этапы задания напрямую связаны с предыдущим и должны быть выполнены в тот же день. В описании такого этапа будет указано, что его встречу нужно активировать сразу после завершения текущего этапа. Там же объясняется, как это влияет на фазы дня, например откладывает [фазу наград](/docs/campaign/day/reward-phase).
 
-## Ending the Session
+## Завершение эпизода {#ending-the-session}
 
-A game session ends after the party either succeeds or fails at its guild quest. If you succeed, complete that day's [Reward Phase](/docs/campaign/day/reward-phase) but skip the [End of Day Phase](/docs/campaign/day/end-of-day-phase). Instead, follow the steps under [Successfully Completing a Session](/docs/campaign/index) to save your game for the next session in the campaign.
+Игровой эпизод заканчивается после выполнения или провала задания гильдии. При успехе разыграйте [фазу наград](/docs/campaign/day/reward-phase) этого дня, но пропустите [фазу конца дня](/docs/campaign/day/end-of-day-phase). Вместо неё следуйте правилам раздела [«Успешное завершение эпизода»](/docs/campaign/index), чтобы сохранить прогресс для следующего эпизода кампании.
 
-If you succeed at your second session's guild quest, you can proceed to the [endgame](/docs/campaign/endgame) at the start of your next session. You must succeed at that session's quest to win the campaign.
+Если вы успешно завершили задание гильдии во втором эпизоде, в начале следующего эпизода можно перейти к [финалу кампании](/docs/campaign/endgame). Чтобы победить в кампании, нужно успешно выполнить задание финального эпизода.
 
-If you fail any of your guild quest's steps or have not succeeded at your guild quest by the end of the session's 12-day limit, you fail that quest. This ends the game session and the campaign.
+Если вы провалили любой этап задания гильдии или не завершили его до конца последнего из 12 дней эпизода, задание провалено. На этом заканчиваются и игровой эпизод, и кампания.
