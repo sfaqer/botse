@@ -1,7 +1,7 @@
 ---
 id: traveling-caravan
-title: Traveling Caravan
-hoverText: Each [province](/docs/campaign/provinces/index/) has a caravan entry in its gazetteer. When the party encounters a caravan, it is resolved as a [town](/docs/campaign/day/encounter-phase/town) encounter using that entry.
+title: 'Бродячий караван'
+hoverText: 'В буклете каждой [провинции](/docs/campaign/provinces/index/) есть запись о караване. Встреча с караваном разыгрывается как [городская](/docs/campaign/day/encounter-phase/town) встреча по этой записи.'
 ---
 
-Adventurers may sometimes encounter traveling caravans in the wilderness of Tamriel, especially at unstable landmarks (<img src="/icons/unstable-landmark.svg" alt="Unstable Landmark Icon" className="icon-svg" />). Each [province](/docs/campaign/provinces/index/) has a caravan entry in its gazetteer. When the party encounters a caravan, it is resolved as a [town](/docs/campaign/day/encounter-phase/town) encounter using that entry.
+Персонажи могут встретить бродячие караваны на просторах Тамриэля, особенно в клетках с символом случайного события (<img src="/icons/unstable-landmark.svg" alt="Unstable Landmark Icon" className="icon-svg" />). В буклете каждой [провинции](/docs/campaign/provinces/index/) есть запись о караване. Встреча с караваном разыгрывается как [городская](/docs/campaign/day/encounter-phase/town) встреча по этой записи.

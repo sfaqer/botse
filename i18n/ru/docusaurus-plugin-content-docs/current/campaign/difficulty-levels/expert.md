@@ -14,9 +14,9 @@ This is the hardest difficulty.
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Trading items and Expert difficulty**
+**Обмен предметами на уровне сложности «Эксперты»**
 
-All adventurers participating in an item trade must have an Adventurers Rest step, the giver and the receiver. Therefore to participate in a trade, you must have discarded an item.
+Все участники обмена предметами должны разыгрывать этап «Отдых персонажей»: и тот, кто передаёт предмет, и тот, кто его получает. Поэтому для участия в обмене каждый из них должен предварительно сбросить предмет.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Источник</a>
 

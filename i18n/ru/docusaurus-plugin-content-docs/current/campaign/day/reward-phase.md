@@ -1,55 +1,55 @@
 ---
 id: reward-phase
-title: Reward Phase
-sidebar_label: "4. Reward Phase"
+title: 'Фаза наград'
+sidebar_label: '4. Фаза наград'
 sidebar_position: 4
-hoverText: The party gains any rewards from the encounter it resolved during the previous phase.
+hoverText: 'Отряд получает награды за встречу, разыгранную в предыдущей фазе.'
 ---
 
-The party gains any rewards from the encounter it resolved during the previous phase. Then, the party members update their adventurers, following the steps below in order.
+Отряд получает награды за встречу, разыгранную в предыдущей фазе. Затем игроки обновляют планшеты своих персонажей, выполняя следующие шаги по порядку.
 
-If an encounter has a reward, it is shown as an <img src="/icons/xp.svg" alt="XP Icon" className="icon-svg" /> icon next to the encounter or described in its text.
+Если за встречу полагается награда, она обозначена символом <img src="/icons/xp.svg" alt="XP Icon" className="icon-svg" /> рядом с описанием встречи или указана в её тексте.
 
-## 1. Gain Rewards
+## 1. Получение наград {#1-gain-rewards}
 
-Gain all XP or other rewards for succeeding at the encounter. If you failed, do not gain the encounter's rewards. The party leader increases the party's total [XP](/docs/glossary/xp) earned on the XP Dial by the value next to the <img src="/icons/xp.svg" alt="XP Icon" className="icon-svg" /> icon. Each player also adds this amount to their current unspent XP balance on their adventurer mat. This unspent amount can exceed 3 until the end of the Reward Phase. If it does, the player keeps track of the total themselves. Players may spend XP in the Gain Advancements step.
+Получите все ОО и другие награды за успешное прохождение встречи. Если встреча провалена, вы не получаете её наград. Вожак отряда увеличивает общее количество заработанных отрядом [ОО](/docs/glossary/xp) на счётчике опыта на значение рядом с символом <img src="/icons/xp.svg" alt="XP Icon" className="icon-svg" />. Каждый игрок также прибавляет столько же к сохранённым ОО на своём планшете персонажа. До конца фазы наград количество сохранённых ОО может превышать 3. В таком случае игрок самостоятельно отслеживает их общее количество. Потратить ОО можно на этапе «Получение улучшений».
 
-- Some encounters refer to gaining [bonus XP](/docs/glossary/bonus-xp). This XP is not added to the party's XP Dial, but must instead be tracked by individual adventurers. It is otherwise spent and treated like standard XP.
+- Некоторые встречи дают [бонусные ОО](/docs/glossary/bonus-xp). Они не добавляются на счётчик опыта отряда: каждый персонаж учитывает их отдельно. В остальном они используются и тратятся как обычные ОО.
 
-- [Skyshard](/docs/battles/types/delve/skyshard) XP rewards in delves are gained after an encounter with an Uncover objective even if the encounter was failed, so long as the party was not defeated.
+- При вылазке с задачей «Открытие» награды в ОО за [небесные осколки](/docs/battles/types/delve/skyshard) выдаются после встречи, даже если она провалена, при условии, что отряд не был повержен.
 
-- If other rewards are gained, such as item cards or advancements; do as the encounter instructs. If an advancement is gained, add it to each affected adventurer's mat during this step.
+- Если вы получаете другие награды, например карты предметов или улучшения, следуйте указаниям встречи. Если наградой стало улучшение, примените его к планшету каждого соответствующего персонажа на этом этапе.
 
-- If the party's overland token is at an unstable landmark (<img src="/icons/unstable-landmark.svg" alt="Unstable Landmark Icon" className="icon-svg" />) and it completes a peaceful or conflict overland encounter, or [traveling caravan](/docs/campaign/day/encounter-phase/traveling-caravan) town encounter, each adventurer gains 2 [tenacity](/docs/glossary/tenacity), regardless of whether the encounter was successful.
+- Если жетон отряда находится в клетке с символом случайного события (<img src="/icons/unstable-landmark.svg" alt="Unstable Landmark Icon" className="icon-svg" />) и отряд завершает мирную или конфликтную встречу в провинции либо городскую встречу с [бродячим караваном](/docs/campaign/day/encounter-phase/traveling-caravan), каждый персонаж получает 2 пункта [стойкости](/docs/glossary/tenacity), независимо от того, была ли встреча успешной.
 
-- If the party gains a special achievement, such as a quest keyword or access to a closed town—record it in the campaign journal.
+- Если отряд получает особое достижение, например ключевое слово задания или доступ в закрытый город, запишите его в дневник кампании.
 
-## 2. Untrain
+## 2. Утрата навыков {#2-untrain}
 
-Each adventurer may untrain and remove (at no [XP](/docs/glossary/xp) cost) any skill lines, skill dice, or stat tokens to make room for other advancements.
+Каждый персонаж может без затраты [ОО](/docs/glossary/xp) утратить и убрать любые ветки навыков, кубики навыков или жетоны характеристик, чтобы освободить место для других улучшений.
 
-- Skill lines can be untrained. If a skill line is untrained, all of the dice for that line must be removed. [XP](/docs/glossary/xp) spent on those advancements is not regained. Skill lines and dice that have been previously untrained can be added again by training and spending XP.
+- Ветки навыков можно утратить. При утрате ветки нужно убрать все её кубики. [ОО](/docs/glossary/xp), потраченные на эти улучшения, не возвращаются. Ранее утраченные ветки навыков и кубики можно снова освоить, потратив ОО.
 
-- If skill dice are untrained, slide the remaining dice along the row toward the skill line token to fill any gaps between that line's dice, so that the farthest slots along that line are empty and there are no gaps between that line's dice.
+- Если вы утратили кубики навыка, сдвиньте оставшиеся кубики вдоль ряда к жетону ветки навыка, заполнив промежутки. Между кубиками этой ветки не должно быть пустых ячеек, а самые дальние ячейки ветки должны остаться свободными.
 
-- The [Health](/docs/adventurer/stats/health) and [Stamina](/docs/adventurer/stats/stamina) stats, as well as the Combat skill line, cannot be untrained, but their square tokens or dice can be. The [Magicka](/docs/adventurer/stats/magicka) stat can be untrained.
+- Нельзя утратить сами характеристики [«Здоровье»](/docs/adventurer/stats/health) и [«Выносливость»](/docs/adventurer/stats/stamina), а также ветку навыков «Бой», но можно убрать их квадратные жетоны или кубики. Характеристику [«Магия»](/docs/adventurer/stats/magicka) можно утратить.
 
-## 3. Gain Advancements
+## 3. Получение улучшений {#3-gain-advancements}
 
-Each adventurer may spend [XP](/docs/glossary/xp) on advancements. An adventurer's saved XP cannot exceed 3. At the end of the Reward Phase, each unspent [XP](/docs/glossary/xp) in excess of 3 increases your [tenacity](/docs/glossary/tenacity) tracker by 1, up to that track's maximum. Each adventurer may spend [XP](/docs/glossary/xp) on advancements or complete any other advancements gained from the encounter's rewards. Saved XP may be spent, whether gained from this encounter or unspent from previous encounters.
+Каждый персонаж может потратить [ОО](/docs/glossary/xp) на улучшения. В конце фазы наград у персонажа может остаться не больше 3 сохранённых ОО. Каждое неизрасходованное [ОО](/docs/glossary/xp) сверх 3 повышает значение на треке [стойкости](/docs/glossary/tenacity) на 1, но не выше максимума трека. Каждый персонаж может потратить [ОО](/docs/glossary/xp) на улучшения или применить другие улучшения, полученные в награду за встречу. Можно тратить как ОО, полученные за эту встречу, так и сохранённые после предыдущих встреч.
 
-## 4. Track Quests
+## 4. Отслеживание заданий {#4-track-quests}
 
-Track any progress made toward the party's quests that requires notes in the party's journal, such as tallying encounters.
+Отметьте прогресс в заданиях отряда, который требует записей в дневнике кампании, например количество пройденных встреч.
 
 ---
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Does a defeated adventurer still gain XP for an encounter?**
+**Получает ли поверженный персонаж ОО за встречу?**
 
-Yes, all adventurers get rewards if the encounter was successful, even if they themselves were defeated.
+Да. Если встреча завершилась успешно, награды получают все персонажи, включая поверженных.
 
 <a href="https://boardgamegeek.com/thread/3442027/article/45495467#45495467" target="_blank">Источник</a>
 
@@ -63,9 +63,9 @@ Yes, all adventurers get rewards if the encounter was successful, even if they t
 
 ---
 
-**Can you spend XP after finishing a session guild quest?**
+**Можно ли потратить ОО после завершения задания гильдии в эпизоде?**
 
-Yes, you get a Reward Phase as normal.
+Да. Вы разыгрываете фазу наград как обычно.
 
 <a href="https://boardgamegeek.com/thread/3534373/article/46270184#46270184" target="_blank">Источник</a>
 
