@@ -1,64 +1,64 @@
 ---
 id: end-of-day-phase
-title: End of Day Phase
-sidebar_label: "5. End of Day Phase"
+title: 'Фаза конца дня'
+sidebar_label: '5. Фаза конца дня'
 sidebar_position: 5
-hoverText: Activation of any province effect on the overland map is resolved. Then, the party rests and may trade items.
+hoverText: 'Разыграйте эффект провинции на атласе. Затем отряд отдыхает и может обменяться предметами.'
 ---
 
-This phase is divided into 2 parts. First, the activation of any province effect on the overland map is resolved. Then, the party rests and may trade items.
+Эта фаза состоит из 2 частей. Сначала разыгрывается эффект провинции на атласе. Затем отряд отдыхает и может обменяться предметами.
 
-## 1. Activate Province Effect
+## 1. Активация эффекта провинции {#1-activate-province-effect}
 
-[Provinces](/docs/campaign/provinces/index) have province effects that are resolved during the End of Day Phase. You can learn more about each individual province's effect by checking for this information in the related gazetteer. If the effect is tracked using tokens on the map's hexes or a gauge along its edge, check whether those tokens activate.
+У [провинций](/docs/campaign/provinces/index) есть эффекты, которые разыгрываются в фазе конца дня. Описание эффекта каждой провинции приведено в её буклете. Если эффект отслеживается с помощью жетонов в клетках атласа или шкалы вдоль его края, проверьте, активируются ли эти жетоны.
 
-To do so, follow the substeps below in order:
+Для этого выполните следующие действия по порядку:
 
-- Refer to the overland icon on the current **peaceful** overland card. If the party drew a peaceful encounter card during the [Overland Phase](/docs/campaign/day/overland-phase/index), refer to that card's icon. If the party did not draw a peaceful overland card, draw 1 now. Then, compare the overland icon to the key in the front of the gazetteer to determine if the province effect activates. If it does, follow the province's rules to resolve the activation. Some cards have no icon, and the effect of this is also explained in the province's rules. If the card has multiple icons, resolve each icon in the order they appear from left to right.
+- Посмотрите на символ провинции на текущей карте **мирной** встречи. Если отряд вытянул карту мирной встречи в [фазе провинции](/docs/campaign/day/overland-phase/index), используйте символ этой карты. Если такой карты не было, вытяните её сейчас. Сверьте символ с условными обозначениями в начале буклета провинции, чтобы определить, активируется ли эффект провинции. Если да, разыграйте его по правилам провинции. На некоторых картах нет символа; что делать в этом случае, также объясняется в правилах провинции. Если на карте несколько символов, разыграйте их все по порядку слева направо.
 
-- [Discard](/docs/glossary/discard) or cycle the current overland card(s). If the party resolved a card's encounter during the [Encounter Phase](/docs/campaign/day/encounter-phase/index), discard it. If the party drew a separate peaceful overland card for this phase (to resolve its overland icon), cycle it to the bottom of the deck.
+- [Сбросьте](/docs/glossary/discard) текущие карты встреч в провинции или верните их под низ колоды. Если отряд разыграл встречу с карты в [фазе встречи](/docs/campaign/day/encounter-phase/index), сбросьте эту карту. Если отряд вытянул отдельную карту мирной встречи для этой фазы, чтобы разыграть её символ провинции, положите её под низ колоды.
 
-## 2. Adventurers Rest
+## 2. Отдых персонажей {#2-adventurers-rest}
 
-During this step, the adventurers [heal](/docs/glossary/healing), remove dice from their cooldown tracks, and exchange items with each other.
+На этом этапе персонажи [восстанавливают здоровье](/docs/glossary/healing), снимают кубики со своих треков перезарядки и обмениваются предметами.
 
 <!-- translate:off -->
 :::warning[Expert Difficulty]
 <!-- translate:on -->
-On **Expert** difficulty, an adventurer must discard an item to resolve this step. If the discarded item is a [<img src="/icons/consumable.svg" alt="Consumable Icon" className="icon-svg" />](/docs/adventurer/items/types/consumable), the adventurer may resolve that item's effects before discarding it (if applicable).
+На уровне сложности **«Эксперты»** персонаж должен сбросить предмет, чтобы разыграть этот этап. Если сбрасываемый предмет — расходник ([<img src="/icons/consumable.svg" alt="Consumable Icon" className="icon-svg" />](/docs/adventurer/items/types/consumable)), персонаж может разыграть его эффекты перед сбросом, если это применимо.
 
 ---
 
-**Trading items and Expert difficulty**
+**Обмен предметами на уровне сложности «Эксперты»**
 
-All adventurers participating in an item trade must have an Adventurers Rest step, the giver and the receiver. Therefore to participate in a trade, you must have discarded an item.
+Все участники обмена предметами должны разыгрывать этап «Отдых персонажей»: и тот, кто передаёт предмет, и тот, кто его получает. Поэтому для участия в обмене каждый из них должен предварительно сбросить предмет.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Источник</a>
 
 <!-- translate:off -->
 :::
 <!-- translate:on -->
-- Each adventurer heals for a number of HP based on the game's difficulty—including defeated adventurers, who are revived when their HP is raised above 0.
+- Каждый персонаж восстанавливает количество ОЗ, определяемое уровнем сложности игры. Это относится и к поверженным персонажам: они возрождаются, когда их ОЗ становятся выше 0.
 
-  - **Apprentice**: Heal for 2 HP
-  - **Adept and Expert**: Heal for 1 HP
+  - **«Ученики»:** восстановите 2 ОЗ.
+  - **«Адепты» и «Эксперты»:** восстановите 1 ОЗ.
 
-- Each adventurer chooses and removes a number of dice from their cooldown track based on the game's difficulty. The dice can be of any type and in any position in their cooldown track, so this is not a Recovery step and is not impacted by their [Cooldown](/docs/adventurer/stats/cooldown) stat.
+- Каждый персонаж выбирает и снимает со своего трека перезарядки количество кубиков, определяемое уровнем сложности игры. Это могут быть кубики любого типа в любом месте трека. Это не этап возвращения кубиков, поэтому характеристика [«Перезарядка»](/docs/adventurer/stats/cooldown) на него не влияет.
 
-  - **Apprentice**: Remove 2 dice.
-  - **Adept and Expert**: Remove 1 die.
+  - **«Ученики»:** снимите 2 кубика.
+  - **«Адепты» и «Эксперты»:** снимите 1 кубик.
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Can I remove [overfatigue](/docs/glossary/fatigue) dice?**
+**Можно ли снять кубики [переутомления](/docs/glossary/fatigue)?**
 
-Yes, you may remove any die from your cooldown track, including overfatigue.
+Да. Можно снять любой кубик со своего трека перезарядки, в том числе кубик переутомления.
 <!-- translate:off -->
 :::
 <!-- translate:on -->
-- Each adventurer may trade any number of item cards with other adventurers, move items freely between their ready slots and pack, and discard items.
+- Каждый персонаж может обменяться любым количеством карт предметов с другими персонажами, свободно перемещать предметы между ячейками активного снаряжения и рюкзаком, а также сбрасывать предметы.
 
-- Trigger any effects with "end of day" timing, such as the party's guild assist ability.
+- Примените все эффекты, срабатывающие «в конце дня», например способность «Помощь гильдии».
 
-This completes the day, start over at the [New Day Phase](/docs/campaign/day/new-day-phase).
+День завершён. Начните следующий день с [фазы начала дня](/docs/campaign/day/new-day-phase).

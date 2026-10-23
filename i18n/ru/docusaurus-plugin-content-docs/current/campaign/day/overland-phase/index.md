@@ -1,35 +1,35 @@
 ---
 id: index
-title: Overland Phase
-sidebar_label: "2. Overland Phase"
+title: 'Фаза провинции'
+sidebar_label: '2. Фаза провинции'
 sidebar_position: 2
-hoverText: The party plans its movement across the overland map and checks for any encounters or events.
+hoverText: 'Отряд планирует передвижение по атласу провинции и проверяет, какие встречи или события активируются.'
 slug: /campaign/day/overland-phase/index
 ---
 
-The party plans its movement across the overland map and checks for any encounters or events.
+Отряд планирует передвижение по атласу провинции и проверяет, какие встречи или события активируются.
 
-## 1. Start of Phase
+## 1. Начало фазы {#1-start-of-phase}
 
-Trigger any effects with this timing.
+Примените все эффекты, срабатывающие в этот момент.
 
-## 2. Move party
+## 2. Передвижение отряда {#2-move-party}
 
-Your party has a base overland movement of 3, which means the party can move its token up to 3 [adjacent](/docs/glossary/adjacent) hexes. Note that some [provinces'](/docs/campaign/provinces/index) effects—such as [Black Marsh](/docs/campaign/provinces/black-marsh)'s—can modify the party's base overland movement.
+Базовое значение передвижения отряда по атласу провинции равно 3: вы можете передвинуть жетон отряда на расстояние до 3 [соседних](/docs/glossary/adjacent) клеток. Эффекты некоторых [провинций](/docs/campaign/provinces/index), например [Чернотопья](/docs/campaign/provinces/black-marsh), могут изменять базовое значение передвижения отряда.
 
-- **Day 1**: If this is the first day of your session, the party must remain in its starting location and resolve a [town](/docs/campaign/day/encounter-phase/town) encounter. This does not apply during an endgame session.
-- **Fatigue Movement**: After using its base overland movement, the party may continue to move by gaining [fatigue](/docs/glossary/fatigue) for each additional hex of movement. For each additional hex of movement, each adventurer must gain 1 light fatigue. If no light fatigue dice are available, they gain 1 overfatigue instead. The number of additional hexes moved cannot exceed the party's base movement rate. The party must stop if 1 or more adventurers' cooldown tracks are full.
+- **День 1:** в первый день эпизода отряд должен остаться в стартовой локации и разыграть [городскую](/docs/campaign/day/encounter-phase/town) встречу. Это правило не действует в финальном эпизоде.
+- **Утомляющее передвижение:** использовав базовое передвижение, отряд может двигаться дальше, получая [усталость](/docs/glossary/fatigue) за каждую дополнительную клетку. За каждую такую клетку каждый персонаж получает 1 серебристый кубик усталости. Если серебристых кубиков в запасе нет, вместо этого он получает 1 кубик переутомления. Количество дополнительных клеток не может превышать базовое значение передвижения отряда. Если трек перезарядки хотя бы одного персонажа заполнен, отряд должен остановиться.
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
 **Can you choose to stay at the same hex as the prior day?**
 
-Yes, movement is optional - so you may stay at the same hex as a previous day.
+Да. Передвигаться необязательно: отряд может остаться в той же клетке, что и в предыдущий день.
 
 ---
 
-**Can you end a day on a hex without an icon?**
+**Можно ли закончить день в клетке без символа?**
 
 Yes, it is possible for the party to end its movement in a hex with no icon and trigger no encounter; these hexes without icons have no game effect.
 <!-- translate:off -->
@@ -39,42 +39,42 @@ Yes, it is possible for the party to end its movement in a hex with no icon and 
 :::tip[FAQ]
 <!-- translate:on -->
 
-**Can you move through landmarks?**
+**Можно ли передвигаться через клетки с символами событий?**
 
-You are permitted to move through landmarks on the overland map without triggering them. A landmark is triggered if the party ends its movement on it, same as [towns](/docs/campaign/day/encounter-phase/town).
+Отряд может передвигаться через клетки с символами событий на атласе провинции, не активируя их. Событие активируется, только если отряд заканчивает передвижение в его клетке. То же правило действует для [городов](/docs/campaign/day/encounter-phase/town).
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000290533" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
-## 3. Trigger Encounter
+## 3. Активация встречи {#3-trigger-encounter}
 
-By ending its movement in specific hexes on the map, the party triggers 1 of the following types of encounters in descending order of priority below. The party does not resolve this encounter until the next phase, the Encounter Phase.
+Закончив передвижение в определённой клетке атласа, отряд активирует 1 из перечисленных ниже типов встреч. Они перечислены в порядке убывания приоритета. Отряд разыгрывает эту встречу только в следующей фазе — фазе встречи.
 
-### Quest Encounter
+### Сюжетная встреча {#quest-encounter}
 
-These are triggered as described by the party's current quest step in the gazetteer, or by a side quest card. This typically happens when the party moves into a specific hex or fulfills some other requirement. Quest encounters take precedence over town or overland encounters, meaning that you must resolve the quest encounter that day rather than a town or overland encounter. If multiple quest encounters would trigger at the same time, guild quest encounters take precedence over side quest encounters.
+Такая встреча активируется согласно описанию текущего этапа задания в буклете провинции или на карте побочного задания. Обычно для этого отряд должен передвинуться в определённую клетку или выполнить другое условие. Сюжетная встреча имеет приоритет перед городской встречей и встречей в провинции: в этот день вы должны разыграть сюжетную встречу вместо городской встречи или встречи в провинции. Если одновременно активируются несколько сюжетных встреч, встречи задания гильдии имеют приоритет перед встречами побочных заданий.
 
-### Town Encounter
+### Городская встреча {#town-encounter}
 
-These are triggered when the party ends its move in a [town's](/docs/campaign/day/encounter-phase/town) (<img src="/icons/town.svg" alt="Town Icon" className="icon-svg" />) hex on the overland map. Each town is described in its own entry in the gazetteer. During the encounter, each adventurer can take 2 town actions to use the town's features, such as its trainer or shop.
+Такая встреча активируется, когда отряд заканчивает передвижение в клетке [города](/docs/campaign/day/encounter-phase/town) (<img src="/icons/town.svg" alt="Town Icon" className="icon-svg" />) на атласе провинции. Каждому городу посвящена отдельная запись в буклете провинции. Во время встречи каждый персонаж может выполнить 2 городских действия, чтобы воспользоваться городскими точками, например наставником или магазином.
 
-### Overland Encounter
+### Встреча в провинции {#overland-encounter}
 
-These are triggered when the party moves into a hex with a landmark. In this case, the party must draw an overland card which describes an encounter that occurs in the wilds of Tamriel. The landmark at that location determines the type of overland card it draws as described below.
+Такая встреча активируется, когда отряд заканчивает передвижение в клетке с символом события. В этом случае отряд должен вытянуть карту встречи в провинции, описывающую событие на просторах Тамриэля. Символ события в этой клетке определяет тип карты, которую нужно вытянуть, как описано ниже.
 
-#### Peaceful landmark <img src="/icons/peaceful.svg" alt="Peaceful Landmark Icon" className="icon-svg" />
+#### Мирное событие <img src="/icons/peaceful.svg" alt="Peaceful Landmark Icon" className="icon-svg" />
 
-Draw a peaceful encounter card.
+Вытяните карту мирной встречи.
 
-After the party resolves a peaceful encounter card, set that card aside until the end of the day so its icon can be referred to when activating the [provinces'](/docs/campaign/provinces/index) effect during the [End of Day Phase](/docs/campaign/day/end-of-day-phase).
+После розыгрыша мирной встречи отложите её карту до конца дня: её символ понадобится для активации эффекта [провинции](/docs/campaign/provinces/index) в [фазе конца дня](/docs/campaign/day/end-of-day-phase).
 
-#### Conflict landmark <img src="/icons/conflict.svg" alt="Conflict Outcome Icon" className="icon-svg" />
+#### Конфликтное событие <img src="/icons/conflict.svg" alt="Conflict Outcome Icon" className="icon-svg" />
 
-Draw a conflict encounter card.
+Вытяните карту конфликтной встречи.
 
-#### Unstable landmark <img src="/icons/unstable-landmark.svg" alt="Unstable Landmark Icon" className="icon-svg" />
+#### Случайное событие <img src="/icons/unstable-landmark.svg" alt="Unstable Landmark Icon" className="icon-svg" />
 
-Roll the unstable die and draw the type of overland card matching the icon result. If the result is <img src="/icons/town.svg" alt="Town Icon" className="icon-svg" />, trigger a town encounter with a [traveling caravan](/docs/campaign/day/encounter-phase/traveling-caravan) instead.
+Бросьте кубик случайных событий и вытяните карту встречи в провинции того типа, который соответствует выпавшему символу. Если выпал <img src="/icons/town.svg" alt="Town Icon" className="icon-svg" />, вместо этого активируется городская встреча с [бродячим караваном](/docs/campaign/day/encounter-phase/traveling-caravan).
 
-If a choice icon on the back of the overland card is the "unstable" version of itself (<img src="/icons/unstable-clash.svg" alt="Unstable Clash Icon"  className="icon-svg" /> / <img src="/icons/unstable-delve.svg" alt="Unstable Delve Icon" className="icon-svg" /> / <img src="/icons/unstable-peaceful.svg" alt="Unstable Peaceful Icon" className="icon-svg" />), it is an unstable choice. If the party is at an unstable landmark, they **must** resolve that choice (that choice is optional if not at an unstable landmark). After the party completes an encounter at an unstable landmark (regardless of whether the encounter was successful), each adventurer gains 2 [tenacity](/docs/glossary/tenacity) during the [Reward Phase](/docs/campaign/day/reward-phase).
+Если символ одного из вариантов выбора на обороте карты встречи имеет «случайную» версию (<img src="/icons/unstable-clash.svg" alt="Unstable Clash Icon"  className="icon-svg" /> / <img src="/icons/unstable-delve.svg" alt="Unstable Delve Icon" className="icon-svg" /> / <img src="/icons/unstable-peaceful.svg" alt="Unstable Peaceful Icon" className="icon-svg" />), это исход встречи при случайном событии. Если отряд находится в клетке с символом случайного события, он **обязан** выбрать этот вариант; в другой клетке этот вариант необязателен. После завершения встречи в клетке с символом случайного события каждый персонаж получает 2 пункта [стойкости](/docs/glossary/tenacity) в [фазе наград](/docs/campaign/day/reward-phase), независимо от того, была ли встреча успешной.
