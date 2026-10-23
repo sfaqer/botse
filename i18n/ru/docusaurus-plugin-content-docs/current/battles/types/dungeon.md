@@ -1,23 +1,23 @@
 ---
 id: dungeon
-title: Dungeon
+title: 'Подземелье'
 hoverText:
 ---
 
-In a dungeon battle, the map is set up beforehand but is composed of multiple tiles, which can include delve tiles or the clash tile. However, the dungeon ignores the icons printed on the tiles. Instead, enemies and other components are populated following the dungeon's specific setup diagram and rules, which appear in a [province's](/docs/campaign/provinces/index) gazetteer.
+При бое в подземелье поле боя составляется заранее из нескольких участков. Среди них могут быть участки вылазки или участок стычки. Однако символы, напечатанные на участках, в подземелье игнорируются. Вместо этого враги и другие компоненты размещаются по особой схеме подготовки и правилам подземелья, приведённым в буклете [провинции](/docs/campaign/provinces/index).
 
-## Enemy Pool
+## Лимит вражеских сил {#enemy-pool}
 
-Dungeons use an overall enemy pool to populate enemies at setup, as clashes do. The maximum number of enemies that can be drawn and deployed depends on both the EP and the numbered enemy hexes in the dungeon setup diagram.
+Как и в стычках, при подготовке к бою в подземелье используется общий лимит вражеских сил. Максимальное количество врагов, которых можно вытянуть и разместить, зависит и от ЛВС, и от пронумерованных клеток врагов на схеме подготовки подземелья.
 
-## Setup
+## Подготовка {#setup}
 
-1. **Set Up the Battle Map:** Assemble the dungeon map by placing each tile in the play area as shown in the dungeon's setup diagram.
-2. **Place Cache Chips:** Place [cache](/docs/glossary/cache) chips in the hexes shown on the dungeon setup diagram. Ensure each chip has the proper side up depending on if it is a <img src="/icons/common-item.svg" alt="Common Item Icon" className="icon-svg" /> or <img src="/icons/legendary-item.svg" alt="Legandary Item Icon" className="icon-svg" /> cache.
-3. **Deploy Enemies:** First, deploy each objective unit (or other component) specified by the encounter text to the hexes shown in the dungeon setup diagram. Then, deploy enemies to numbered hexes and special hexes as described below.
-   - **Numbered Hexes:** Calculate an enemy pool (EP). Draw and deploy the highest level enemy possible within the EP to the next numbered hex as shown in the diagram, starting with Hex 1. Subtract each enemy's level value from the EP after it is drawn and deploy its chip with the corresponding level faceup. Continue deploying enemies until the calculated EP is entirely used up, or the diagram shows no numbered hexes that are unoccupied. Any points remaining in the EP after all enemy hexes are occupied are not used.
-   - **Special Hexes:** Deploy each enemy (or other component) specified by the encounter text to the star or lettered hexes shown in the dungeon setup diagram. If there are multiple star or lettered hexes to which an enemy could deploy, the party chooses which hex. If you are instructed to calculate another enemy pool to deploy these enemies, follow the same restrictions as for numbered hexes above.
-4. **Deploy Adventurers:** Deploy each [adventurer](/docs/glossary/adventurer) to the entrance tile. Start by choosing an adventurer to take the first player token and deploy their chip so that they occupy any single hex. Then, proceed to deploy each other adventurer in clockwise order around the table. This becomes the permanent turn order for the rest of the battle. Each adventurer may set their [battle form](/docs/battles/battle-forms/index) when deployed and choose which [item](/docs/adventurer/items/index) cards to place in their ready slots.
-5. **Deploy Companions:** If adventurers have [companion](/docs/glossary/companion) units that are deployed during battle setup, deploy those companions to the entrance tile, if able. If multiple players have companions to deploy, deploy those companions in player turn order.
-   - If there are no [unoccupied](/docs/glossary/occupied) hexes remaining on the entrance tile, set undeployed companions next to the entrance tile. They can enter the battle map during later [rounds](/docs/battles/battle-round).
-6. **Set Round Counter:** Set the party's Round Counter die to 1 and place it in the square slot on the dial chip holder. Then, begin battle rounds. Trigger skills and other abilities with "start of battle" timing now.
+1. **Подготовка поля боя:** соберите поле подземелья, разместив каждый участок в игровой зоне согласно схеме подготовки подземелья.
+2. **Размещение фишек тайников:** поместите фишки [тайников](/docs/glossary/cache) в клетки, указанные на схеме подготовки подземелья. Убедитесь, что каждая фишка лежит нужной стороной вверх в зависимости от того, обозначает ли она тайник <img src="/icons/common-item.svg" alt="Common Item Icon" className="icon-svg" /> или <img src="/icons/legendary-item.svg" alt="Legandary Item Icon" className="icon-svg" />.
+3. **Размещение врагов:** сначала разместите каждую боевую единицу, указанную в задаче встречи, или другой предписанный текстом встречи компонент в клетках, показанных на схеме подготовки подземелья. Затем разместите врагов в пронумерованных и особых клетках по следующим правилам.
+   - **Пронумерованные клетки:** рассчитайте лимит вражеских сил (ЛВС). Вытяните врага максимально возможного уровня в пределах оставшегося ЛВС и разместите его в следующей пронумерованной клетке схемы, начиная с клетки 1. После вытягивания каждого врага вычтите его уровень из ЛВС и разместите фишку соответствующим уровнем вверх. Продолжайте размещать врагов, пока рассчитанный ЛВС не будет полностью использован или на схеме не останется незанятых пронумерованных клеток. Очки ЛВС, оставшиеся после заполнения всех клеток врагов, не используются.
+   - **Особые клетки:** разместите каждого врага или другой компонент, указанный в тексте встречи, в клетках со звёздами или буквами на схеме подготовки подземелья. Если врага можно разместить в нескольких таких клетках, отряд выбирает клетку. Если для размещения этих врагов требуется рассчитать ещё один ЛВС, следуйте тем же ограничениям, что и для пронумерованных клеток выше.
+4. **Размещение персонажей:** разместите каждого [персонажа](/docs/glossary/adventurer) на участке входа. Сначала выберите персонажа, который получит жетон первого игрока, и поместите его фишку в любую одну клетку. Затем разместите остальных персонажей по часовой стрелке вокруг стола. Этот порядок ходов сохраняется до конца боя. При размещении каждый персонаж может выбрать свой [боевой режим](/docs/battles/battle-forms/index) и карты [предметов](/docs/adventurer/items/index), которые он поместит в ячейки активного снаряжения.
+5. **Размещение компаньонов:** если у персонажей есть [компаньоны](/docs/glossary/companion), размещаемые при подготовке к бою, по возможности разместите их на участке входа. Если компаньонов нужно разместить нескольким игрокам, делайте это в порядке ходов игроков.
+   - Если на участке входа не осталось [незанятых](/docs/glossary/occupied) клеток, поставьте неразмещённых компаньонов рядом с ним. Они смогут войти на поле боя в следующих [раундах](/docs/battles/battle-round).
+6. **Подготовка счётчика раундов:** установите на кубике раундов отряда значение 1 и поместите его в квадратную ячейку подставки счётчика. Затем начинайте раунды боя. В этот момент примените навыки и другие способности, срабатывающие «в начале боя».
