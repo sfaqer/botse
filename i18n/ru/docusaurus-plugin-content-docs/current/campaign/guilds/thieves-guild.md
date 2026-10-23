@@ -1,7 +1,7 @@
 ---
 id: thieves-guild
-title: Thieves Guild
-hoverText: Guild Kiosk Town Action - [Discard](/docs/glossary/discard) 1 Common Item to train any [Thief](/docs/adventurer/skill-lines/thief) type skill line from the trainer bag.
+title: 'Гильдия воров'
+hoverText: 'Городское действие павильона гильдии: [сбросьте](/docs/glossary/discard) 1 обычный предмет, чтобы освоить любую ветку навыков [Вора](/docs/adventurer/skill-lines/thief) из мешочка наставника.'
 ---
 
 <div className="guild-banner" style={{
@@ -23,17 +23,17 @@ hoverText: Guild Kiosk Town Action - [Discard](/docs/glossary/discard) 1 Common 
     flex: "2 1 350px"
   }}>
 
-# Thieves Guild
+# Гильдия воров
 
-The Thieves Guild is a continent-spanning association of criminals dedicated to theft and duplicity. Its members are guided by the guild's professional code, which keeps larceny levels "acceptable" for most local authorities.
+Гильдия воров — действующее по всему континенту объединение преступников, занимающихся кражами и обманом. Её члены руководствуются профессиональным кодексом гильдии, который не позволяет воровству выходить за пределы, считающиеся «приемлемыми» для большинства местных властей.
 
   </div>
 </div>
 
-### Guild Kiosk Town Action {#guild-kiosk-town-action}
+### Городское действие павильона гильдии {#guild-kiosk-town-action}
 
-**Scoundrels:** [Discard](/docs/glossary/discard) 1 <img src="/icons/common-item.svg" alt="Common Item Icon" className="icon-svg" /> to train any [<img src="/icons/thief.svg" alt="Thief Icon" className="icon-svg" />](/docs/adventurer/skill-lines/thief) type skill line from the trainer bag.
+**Scoundrels:** [сбросьте](/docs/glossary/discard) 1 обычный предмет <img src="/icons/common-item.svg" alt="Common Item Icon" className="icon-svg" />, чтобы освоить любую ветку навыков Вора ([<img src="/icons/thief.svg" alt="Thief Icon" className="icon-svg" />](/docs/adventurer/skill-lines/thief)) из мешочка наставника.
 
-### Guild Focus {#guild-focus}
+### Особенности заданий гильдии {#guild-focus}
 
-The party focuses on criminal enterprise. This often includes heist-like battles to retrieve specific items or people.
+Отряд занимается преступными делами. Часто это бои, похожие на ограбления, в которых нужно заполучить определённые предметы или людей.

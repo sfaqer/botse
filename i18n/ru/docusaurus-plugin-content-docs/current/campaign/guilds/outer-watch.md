@@ -1,7 +1,7 @@
 ---
 id: outer-watch
-title: Outer Watch
-hoverText: Guild Kiosk Town Action - [Discard](/docs/glossary/discard) 1 Consumable or Clothing [item](/docs/adventurer/items/index) to gain 3 [tenacity](/docs/glossary/tenacity).
+title: 'Внешний Дозор'
+hoverText: 'Городское действие павильона гильдии: [сбросьте](/docs/glossary/discard) 1 [предмет](/docs/adventurer/items/index) типа «Расходник» или «Одежда», чтобы получить 3 пункта [стойкости](/docs/glossary/tenacity).'
 ---
 
 <div className="guild-banner" style={{
@@ -23,17 +23,17 @@ hoverText: Guild Kiosk Town Action - [Discard](/docs/glossary/discard) 1 Consuma
     flex: "2 1 350px"
   }}>
 
-# Outer Watch
+# Внешний Дозор
 
-The Outer Watch is a newer guild, first founded to provide aid to those in need and lift up the downtrodden. Recently, the organization has turned its attention to stopping the machinations of a rogue former member.
+Внешний Дозор — молодая гильдия, основанная для помощи нуждающимся и поддержки угнетённых. Недавно организация переключилась на борьбу с кознями одного из своих бывших членов.
 
   </div>
 </div>
 
-### Guild Kiosk Town Action {#guild-kiosk-town-action}
+### Городское действие павильона гильдии {#guild-kiosk-town-action}
 
-**Community Outreach:** [Discard](/docs/glossary/discard) 1 [<img src="/icons/consumable.svg" alt="Consumable Icon" className="icon-svg" />](/docs/adventurer/items/types/consumable) or [<img src="/icons/clothing.svg" alt="Clothing Icon" className="icon-svg" />](/docs/adventurer/items/types/clothing) [item](/docs/adventurer/items/index) to gain 3 [tenacity](/docs/glossary/tenacity).
+**Community Outreach:** [сбросьте](/docs/glossary/discard) 1 [предмет](/docs/adventurer/items/index) типа «Расходник» ([<img src="/icons/consumable.svg" alt="Consumable Icon" className="icon-svg" />](/docs/adventurer/items/types/consumable)) или «Одежда» ([<img src="/icons/clothing.svg" alt="Clothing Icon" className="icon-svg" />](/docs/adventurer/items/types/clothing)), чтобы получить 3 пункта [стойкости](/docs/glossary/tenacity).
 
-### Guild Focus {#guild-focus}
+### Особенности заданий гильдии {#guild-focus}
 
-The party focuses on single-step quests that allow players to have all information up front.
+Отряд в основном выполняет задания из одного этапа, в которых вся информация доступна игрокам с самого начала.

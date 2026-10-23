@@ -30,10 +30,10 @@ A diverse collection of magic wielders brought together for the common purposes 
   </div>
 </div>
 
-### Guild Kiosk Town Action {#guild-kiosk-town-action}
+### Городское действие павильона гильдии {#guild-kiosk-town-action}
 
-**Guild Hall Study:** [Discard](/docs/glossary/discard) 1 [<img src="/icons/potion.svg" alt="Potion Icon" className="icon-svg" />](/docs/adventurer/items/types/potion) or [<img src="/icons/enchantment.svg" alt="Enchantment Item Icon" className="icon-svg" />](/docs/adventurer/items/types/enchantment) [item](/docs/adventurer/items/index) to train any [<img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" />](/docs/adventurer/skill-lines/mage) type skill line from the trainer bag.
+**Guild Hall Study:** [сбросьте](/docs/glossary/discard) 1 [предмет](/docs/adventurer/items/index) типа «Зелье» ([<img src="/icons/potion.svg" alt="Potion Icon" className="icon-svg" />](/docs/adventurer/items/types/potion)) или «Зачарование» ([<img src="/icons/enchantment.svg" alt="Enchantment Item Icon" className="icon-svg" />](/docs/adventurer/items/types/enchantment)), чтобы освоить любую ветку навыков Мага ([<img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" />](/docs/adventurer/skill-lines/mage)) из мешочка наставника.
 
-### Guild Focus {#guild-focus}
+### Особенности заданий гильдии {#guild-focus}
 
-The party focuses on aid and fact-finding missions. This often includes playing with an allied unit.
+Отряд занимается оказанием помощи и сбором сведений. Часто в таких заданиях участвует союзная боевая единица.

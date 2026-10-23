@@ -1,7 +1,7 @@
 ---
 id: circle-of-champions
-title: Circle of Champions
-hoverText: Guild Kiosk Town Action - Search the Common Item Deck and gain the first Weapon or Armor item. Then, shuffle the deck.
+title: 'Круг чемпионов'
+hoverText: 'Городское действие павильона гильдии: просмотрите колоду обычных предметов и получите первое попавшееся оружие или доспех. Затем перемешайте колоду.'
 ---
 
 <div className="guild-banner" style={{
@@ -23,17 +23,17 @@ hoverText: Guild Kiosk Town Action - Search the Common Item Deck and gain the fi
     flex: "2 1 350px"
   }}>
 
-# Circle of Champions
+# Круг чемпионов
 
-Tamriel's premier professional fighting organization is renowned for running dangerous tournaments in battlegrounds across the land. The Circle of Champions is always in need of new gladiators.
+Ведущая организация профессиональных бойцов Тамриэля известна опасными турнирами, которые проводит на аренах по всему Тамриэлю. Круг чемпионов всегда нуждается в новых гладиаторах.
 
   </div>
 </div>
 
-### Guild Kiosk Town Action {#guild-kiosk-town-action}
+### Городское действие павильона гильдии {#guild-kiosk-town-action}
 
-**Battlemaster:** Search the <img src="/icons/common-item.svg" alt="Common Item Icon" className="icon-svg" /> Deck and gain the first [<img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" />](/docs/adventurer/items/types/weapon) or [<img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" />](/docs/adventurer/items/types/armor) item. Then, shuffle the deck.
+**Battlemaster:** просмотрите колоду обычных предметов <img src="/icons/common-item.svg" alt="Common Item Icon" className="icon-svg" /> и получите первый попавшийся предмет типа «Оружие» ([<img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" />](/docs/adventurer/items/types/weapon)) или «Доспех» ([<img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" />](/docs/adventurer/items/types/armor)). Затем перемешайте колоду.
 
-### Guild Focus {#guild-focus}
+### Особенности заданий гильдии {#guild-focus}
 
-The party focuses on [clashes](/docs/battles/types/clash) that escalate in difficulty over the course of the session.
+Отряд участвует в [стычках](/docs/battles/types/clash), сложность которых возрастает по ходу эпизода.

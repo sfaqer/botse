@@ -1,29 +1,29 @@
 ---
 id: social-checks
-title: Social Checks
-hoverText: A social check can be made only during an encounter that specifically offers the choice to perform one and includes its difficulty value in parentheses within that choice's text.
+title: 'Проверки общения'
+hoverText: 'Проверку общения можно пройти только во время встречи, которая прямо предлагает такой вариант и указывает его сложность в скобках в тексте этого варианта.'
 ---
 
-Some encounters give the party the opportunity to resolve a social check to access otherwise unavailable choices or to gain additional rewards. If the party succeeds at a social check, it gains the benefits described. If the party fails, the associated choice cannot be selected or the additional reward is not gained. Each social check can be attempted only once.
+Некоторые встречи позволяют отряду пройти проверку общения, чтобы открыть иначе недоступные варианты выбора или получить дополнительные награды. При успешной проверке отряд получает описанные преимущества. При провале связанный с ней вариант нельзя выбрать или дополнительная награда не выдаётся. На каждую проверку общения даётся только одна попытка.
 
-## Difficulty Value
+## Сложность проверки {#difficulty-value}
 
-A social check can be made only during an encounter that specifically offers the choice to perform one and includes its difficulty value in parentheses within that choice's text. A difficulty value is typically based on a fixed value that is either added to or multiplied by the number of adventurers ([<img src="/icons/party-size.svg" alt="Party Size Icon" className="icon-svg" />](/docs/glossary/party-size)).
+Проверку общения можно пройти только во время встречи, которая прямо предлагает такой вариант и указывает его сложность в скобках в тексте этого варианта. Обычно сложность определяется фиксированным числом, которое складывается с количеством персонажей ([<img src="/icons/party-size.svg" alt="Party Size Icon" className="icon-svg" />](/docs/glossary/party-size)) или умножается на него.
 
-## Social Check Sequence
+## Прохождение проверки общения {#social-check-sequence}
 
-### 1. Gather and Roll Dice
+### 1. Соберите и бросьте кубики {#1-gather-and-roll-dice}
 
-Adventurers with relevant skill dice, usually Speech dice, may choose to gather and roll [available](/docs/glossary/available) dice that would assist them in the social check.
+Персонажи с подходящими кубиками навыков, обычно кубиками «Красноречия», могут собрать и бросить [доступные](/docs/glossary/available) кубики, которые помогут пройти проверку общения.
 
-### 2. Spend Tenacity
+### 2. Потратьте стойкость {#2-spend-tenacity}
 
-Each adventurer may choose to spend any amount of [tenacity](/docs/glossary/tenacity). The party can discuss these decisions together, but each adventurer must then commit to spend their own [tenacity](/docs/glossary/tenacity).
+Каждый персонаж может по своему выбору потратить любое количество [стойкости](/docs/glossary/tenacity). Отряд может обсудить эти решения вместе, после чего каждый персонаж объявляет, сколько своей [стойкости](/docs/glossary/tenacity) он тратит.
 
-### 3. Resolve the Attempt
+### 3. Разыграйте попытку проверки {#3-resolve-the-attempt}
 
-Compare the party's total die results and spent [tenacity](/docs/glossary/tenacity) to the difficulty value. If the combined total equals or exceeds the social check difficulty, you succeed at the check and gain the described benefit in addition to the choice's outcome. If the total is less than the difficulty, you fail the check but resolve the choice's outcome as described. Regardless of success, all skill dice rolled in the social check are exhausted.
+Сложите общий результат бросков отряда и потраченную [стойкость](/docs/glossary/tenacity). Сравните сумму со сложностью проверки. Если сумма равна сложности или превышает её, проверка успешна: получите описанное преимущество в дополнение к исходу выбранного варианта. Если сумма меньше сложности, проверка провалена, но исход выбора всё равно разыгрывается по его описанию. Независимо от успеха все кубики навыков, брошенные при проверке общения, истощаются.
 
-## Speech in Social Checks
+## Красноречие при проверках общения {#speech-in-social-checks}
 
-Before [adventurers](/docs/glossary/adventurer) spend any [tenacity](/docs/glossary/tenacity) to resolve a social check, adventurers with [available](/docs/glossary/available) Speech skill dice in their attribute slots may choose to roll any number of those skill dice (regardless of their [Stamina](/docs/adventurer/stats/stamina)). Instead of resolving the effects of the rolled results, the numeric values on the rolled results count toward the party's social check, reducing the amount of tenacity that must be spent to succeed at the check. Regardless of success, all rolled dice are exhausted.
+Прежде чем [персонажи](/docs/glossary/adventurer) потратят [стойкость](/docs/glossary/tenacity) на проверку общения, персонажи с [доступными](/docs/glossary/available) кубиками навыков «Красноречия» в рядах умений могут бросить любое их количество, независимо от своей [выносливости](/docs/adventurer/stats/stamina). Эффекты выпавших результатов не применяются. Вместо этого их числовые значения учитываются в результате проверки отряда, уменьшая необходимую для успеха затрату стойкости. Независимо от исхода все брошенные кубики истощаются.

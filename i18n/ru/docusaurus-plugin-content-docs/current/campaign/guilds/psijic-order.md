@@ -1,7 +1,7 @@
 ---
 id: psijic-order
-title: Psijic Order
-hoverText: Guild Kiosk Town Action - Untrain a level 1 [Mage](/docs/adventurer/skill-lines/mage) type skill die to train a level 2 [Mage](/docs/adventurer/skill-lines/mage) in the same skill line.
+title: 'Орден Псиджиков'
+hoverText: 'Городское действие павильона гильдии: утратьте кубик навыка [Мага](/docs/adventurer/skill-lines/mage) 1-го уровня, чтобы освоить кубик навыка [Мага](/docs/adventurer/skill-lines/mage) 2-го уровня из той же ветки.'
 ---
 
 <div className="guild-banner" style={{
@@ -23,17 +23,17 @@ hoverText: Guild Kiosk Town Action - Untrain a level 1 [Mage](/docs/adventurer/s
     flex: "2 1 350px"
   }}>
 
-# Psijic Order
+# Орден Псиджиков
 
-The Psijic Order is a secretive sect dedicated to studying magic in what its members call "the Old Ways." Whether providing advice to kings or establishing safeguards over spellcasting, this enigmatic group is one of the most powerful organizations on Nirn.
+Орден Псиджиков — скрытное братство, посвящённое изучению магии по учению, которое его члены называют «The Old Ways». Псиджики советуют королям и следят за безопасным применением заклинаний. Это загадочное объединение — одна из самых могущественных организаций на Нирне.
 
   </div>
 </div>
 
-### Guild Kiosk Town Action {#guild-kiosk-town-action}
+### Городское действие павильона гильдии {#guild-kiosk-town-action}
 
-**The Old Ways:** Untrain a level 1 [<img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" />](/docs/adventurer/skill-lines/mage) type skill die to train a level 2 [<img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" />](/docs/adventurer/skill-lines/mage) in the same skill line.
+**The Old Ways:** утратьте кубик навыка Мага ([<img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" />](/docs/adventurer/skill-lines/mage)) 1-го уровня, чтобы освоить кубик навыка Мага ([<img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" />](/docs/adventurer/skill-lines/mage)) 2-го уровня из той же ветки.
 
-### Guild Focus {#guild-focus}
+### Особенности заданий гильдии {#guild-focus}
 
-The party focuses on investigating magical anomalies. This often includes battles with unique objectives.
+Отряд изучает магические аномалии. Часто при этом предстоят бои с особыми задачами.
