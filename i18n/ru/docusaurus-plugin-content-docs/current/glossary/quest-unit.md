@@ -1,9 +1,9 @@
 ---
 id: quest-unit
-title: Quest Unit
-hoverText: Quest units (white chips, brown border) are not mixed into draw bags at setup or after battles. Quest units cannot gain status effects from abilities or rules unless explicitly stated.
+title: 'Сюжетная боевая единица'
+hoverText: 'Сюжетные боевые единицы — белые фишки с коричневой окантовкой — не добавляются в мешочки при подготовке к игре или после боя. Сюжетные боевые единицы не могут получать состояния от способностей или правил, если это прямо не указано.'
 ---
 
-White unit chips with a brown border are quest units, which only appear in battles related to quests or to a province's special rules. Quest units are not mixed into draw bags at setup or after battles.
+Белые фишки боевых единиц с коричневой окантовкой обозначают сюжетные боевые единицы. Они появляются только в боях, связанных с заданиями или особыми правилами провинции. Сюжетные боевые единицы не добавляются в мешочки при подготовке к игре или после боя.
 
-Quest units cannot gain [status effects](/docs/battles/status-effects/index) from abilities or rules unless explicitly stated.
+Сюжетные боевые единицы не могут получать [состояния](/docs/battles/status-effects/index) от способностей или правил, если это прямо не указано.

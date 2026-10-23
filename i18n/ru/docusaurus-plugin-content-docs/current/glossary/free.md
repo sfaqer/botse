@@ -1,19 +1,19 @@
 ---
 id: free
-title: Free
-hoverText: Some abilities allow [units](/docs/glossary/unit) to perform an additional [engage](/docs/battles/adventurer-turn/engage), roll additional dice during an engage, or move additional hexes. When clarification is needed, these abilities sometimes use the term 'free'.
+title: 'Свободные'
+hoverText: 'Некоторые способности позволяют [боевым единицам](/docs/glossary/unit) выполнить дополнительную [атаку](/docs/battles/adventurer-turn/engage), бросить во время атаки дополнительные кубики или передвинуться на дополнительные клетки. Когда требуется уточнение, в описании таких способностей иногда используется термин «свободный».'
 ---
 
-Some abilities allow [units](/docs/glossary/unit) to perform an additional [engage](/docs/battles/adventurer-turn/engage), roll additional dice during an engage, or move additional hexes. When clarification is needed, these abilities sometimes use the term **"free"**. These abilities follow the rules below.
+Некоторые способности позволяют [боевым единицам](/docs/glossary/unit) выполнить дополнительную [атаку](/docs/battles/adventurer-turn/engage), бросить во время атаки дополнительные кубики или передвинуться на дополнительные клетки. Когда требуется уточнение, в описании таких способностей иногда используется термин **«свободный»**. Эти способности подчиняются следующим правилам.
 
-### Actions
+### Действия
 
-An additional [engage](/docs/battles/adventurer-turn/engage) or other action granted by an ability does not count against an [adventurer's](/docs/glossary/adventurer) action limits if resolved during their [turn](/docs/glossary/turn), or against the limits of the active adventurer if resolved during another's turn. An additional engage action does not require an adventurer to gain a [fatigue](/docs/glossary/fatigue) unless that ability specifies otherwise, even if that additional engage is not the first performed by that adventurer during their turn.
+Дополнительная [атака](/docs/battles/adventurer-turn/engage) или другое действие, предоставленное способностью, не учитывается в лимите действий [персонажа](/docs/glossary/adventurer), если выполняется во время его [хода](/docs/glossary/turn), или в лимите действий активного персонажа, если выполняется во время чужого хода. За дополнительную атаку персонаж не получает кубик [усталости](/docs/glossary/fatigue), если способность не указывает иное, даже если это не первая атака этого персонажа в его ход.
 
-### Dice
+### Кубики
 
-Additional dice do not count against an [adventurer's](/docs/glossary/adventurer) [Stamina](/docs/adventurer/stats/stamina) or [Magicka](/docs/adventurer/stats/magicka) stat, or against a non-adventurer unit's [Combat](/docs/adventurer/skill-lines/warrior/combat) stat. Additional dice can be added to an adventurer's roll even if they are not [trained](/docs/glossary/trained/) in that skill line or skill die. After additional dice are resolved, they are [discarded](/docs/glossary/discard) back to the supply instead of being exhausted to that adventurer's [cooldown track](/docs/glossary/cooldown-track). Enemy Combat dice added as additional dice cannot be added to an adventurer's [active slots](/docs/glossary/active-slot) or resolved to gain [tenacity](/docs/glossary/tenacity).
+Дополнительные кубики не учитываются в ограничениях, заданных [выносливостью](/docs/adventurer/stats/stamina) или [магией](/docs/adventurer/stats/magicka) [персонажа](/docs/glossary/adventurer), либо характеристикой [«Бой»](/docs/adventurer/skill-lines/warrior/combat) боевой единицы, не являющейся персонажем. Дополнительные кубики можно добавлять к броску персонажа, даже если он не [освоил](/docs/glossary/trained/) соответствующую ветку навыков или кубик навыка. После применения результатов дополнительных кубиков их [сбрасывают](/docs/glossary/discard) в запас, а не истощают на [трек перезарядки](/docs/glossary/cooldown-track) персонажа. Кубики боя врагов, добавленные в качестве дополнительных кубиков, нельзя помещать в [ячейки активности](/docs/glossary/active-slot) персонажа или использовать для получения [стойкости](/docs/glossary/tenacity).
 
-### Movement
+### Передвижение
 
-Additional hexes of movement do not count against an [adventurer's](/docs/glossary/adventurer) [Stamina](/docs/adventurer/stats/stamina) or against a non-adventurer unit's movement stat.
+Дополнительные клетки передвижения не учитываются в ограничении, заданном [выносливостью](/docs/adventurer/stats/stamina) [персонажа](/docs/glossary/adventurer), либо характеристикой передвижения боевой единицы, не являющейся персонажем.

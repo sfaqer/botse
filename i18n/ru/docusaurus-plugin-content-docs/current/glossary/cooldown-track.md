@@ -1,22 +1,22 @@
 ---
 id: cooldown-track
-title: Cooldown Track
-hoverText: Dice are placed here as the [adventurer](/docs/glossary/adventurer) exhausts their skill dice or gains [fatigue](/docs/glossary/fatigue) and [status effect](/docs/battles/status-effects/index) dice. The [Cooldown](/docs/adventurer/stats/cooldown) stat determines the number of dice that are removed from the track each [turn](/docs/glossary/turn).
+title: 'Трек перезарядки'
+hoverText: 'Сюда помещаются кубики, когда [персонаж](/docs/glossary/adventurer) истощает свои кубики навыков или получает кубики [усталости](/docs/glossary/fatigue) и [состояний](/docs/battles/status-effects/index). Показатель [перезарядки](/docs/adventurer/stats/cooldown) определяет, сколько кубиков снимается с трека каждый [ход](/docs/glossary/turn).'
 ---
 
-# <img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" /> Cooldown Track
+# <img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" /> Трек перезарядки
 
-Dice are placed here as the [adventurer](/docs/glossary/adventurer) exhausts their skill dice or gains [fatigue](/docs/glossary/fatigue) and [status effect](/docs/battles/status-effects/index) dice. The [Cooldown](/docs/adventurer/stats/cooldown) stat determines the number of dice that are removed from the track each [turn](/docs/glossary/turn).
+Сюда помещаются кубики, когда [персонаж](/docs/glossary/adventurer) истощает свои кубики навыков или получает кубики [усталости](/docs/glossary/fatigue) и [состояний](/docs/battles/status-effects/index). Показатель [перезарядки](/docs/adventurer/stats/cooldown) определяет, сколько кубиков снимается с трека каждый [ход](/docs/glossary/turn).
 
-- Dice added to the track are placed one at a time in the track's leftmost available spot (to the right of all remaining dice). While a skill die is in the cooldown track, it is not available.
-  - If multiple dice must be placed in the cooldown track at the same time, you can place those dice in the order you choose (including exhausted skill dice).
-- Any time a die is removed from the cooldown track, slide all remaining dice leftwards to remove any gaps.
-- The cooldown track can fit up to 13 dice. If the track is full and a die must be placed in it, that die must either be [drained](/docs/glossary/drained) (if a skill die) or returned to the supply (if a [fatigue](/docs/glossary/fatigue) or [status](/docs/battles/status-effects/index) die). Then, replace the rightmost non-overfatigue die in the track with an overfatigue die. The replaced die must also either be [drained](/docs/glossary/drained) or returned to the supply depending on its type.
-- Dice placed in the cooldown track at any point remain there until they are removed during your [Recovery step](/docs/battles/adventurer-turn/index/#2-recovery) in battle, your [Adventurers Rest](/docs/campaign/day/end-of-day-phase) step, or an inn [town](/docs/campaign/day/encounter-phase/town) action.
-- If an [adventurer](/docs/glossary/adventurer) would gain a status effect die with a side that they already have in their cooldown track, the die in their cooldown track is removed from its current position and placed back in the leftmost open position.
+- Кубики добавляются на трек по одному, на крайнее левое свободное место — справа от всех уже находящихся на треке кубиков. Пока кубик навыка находится на треке перезарядки, он недоступен.
+  - Если несколько кубиков нужно одновременно поместить на трек перезарядки, вы можете расположить их в любом порядке по своему выбору, включая истощённые кубики навыков.
+- Каждый раз, когда с трека перезарядки снимается кубик, сдвиньте все оставшиеся кубики влево, чтобы между ними не было пустых мест.
+- Трек перезарядки вмещает до 13 кубиков. Если трек заполнен, а на него нужно поместить ещё один кубик, этот кубик следует либо [исчерпать](/docs/glossary/drained), если это кубик навыка, либо вернуть в запас, если это кубик [усталости](/docs/glossary/fatigue) или [состояния](/docs/battles/status-effects/index). Затем замените крайний справа кубик на треке, не являющийся кубиком переутомления, на кубик переутомления. Заменённый кубик также нужно либо [исчерпать](/docs/glossary/drained), либо вернуть в запас в зависимости от его типа.
+- Кубики, помещённые на трек перезарядки в любой момент игры, остаются там, пока вы не снимете их на этапе [возвращения кубиков](/docs/battles/adventurer-turn/index/#2-recovery) в бою, на этапе [«Отдых персонажей»](/docs/campaign/day/end-of-day-phase) или во время [городского](/docs/campaign/day/encounter-phase/town) действия «Таверна».
+- Если [персонаж](/docs/glossary/adventurer) должен получить кубик состояния с символом, который уже есть на его треке перезарядки, кубик на треке снимается со своей текущей позиции и помещается на крайнее левое свободное место.
 
-Dice still in an [adventurer's](/docs/glossary/adventurer) cooldown track at the end of a battle remain there until the next battle or until they are removed by other means, such as during the [End of Day Phase](/docs/campaign/day/end-of-day-phase) or visiting a [town's](/docs/campaign/day/encounter-phase/town) inn.
+Кубики, оставшиеся на треке перезарядки [персонажа](/docs/glossary/adventurer) в конце боя, остаются там до следующего боя или до тех пор, пока их не снимут другим способом, например в [фазе конца дня](/docs/campaign/day/end-of-day-phase) или при посещении таверны в [городе](/docs/campaign/day/encounter-phase/town).
 
-### Cooldown Track on Skill Abilities
+### Символ трека перезарядки в способностях навыков
 
-This skill die is exhausted. The die's ability is resolved as described in its entry and is typically ongoing until it is removed from the cooldown track. If for any reason you decide not to resolve a <img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" /> result, place it in your cooldown track with the [<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>](/docs/glossary/tenacity) result face up (without gaining [tenacity](/docs/glossary/tenacity)).
+Этот кубик навыка истощается. Его способность применяется согласно описанию и обычно продолжает действовать, пока кубик не будет снят с трека перезарядки. Если по какой-либо причине вы решили не применять результат <img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />, поместите кубик на трек перезарядки результатом [<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>](/docs/glossary/tenacity) вверх, не получая [стойкость](/docs/glossary/tenacity).
