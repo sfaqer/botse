@@ -1,7 +1,7 @@
 ---
 id: class-ability
-title: Class Ability
-hoverText: Spend the required amount of [tenacity](/docs/glossary/tenacity) to trigger a class ability. You may gain 1 light [fatigue](/docs/glossary/fatigue) to change [battle form](/docs/battles/battle-forms/index) before resolving the ability.
+title: 'Способность класса'
+hoverText: 'Потратьте необходимое количество [стойкости](/docs/glossary/tenacity), чтобы активировать способность класса. Перед её применением вы можете получить 1 кубик лёгкой [усталости](/docs/glossary/fatigue), чтобы сменить [боевой режим](/docs/battles/battle-forms/index).'
 ---
 
 Выполняя это действие, [персонаж](/docs/glossary/adventurer) тратит необходимое количество [стойкости](/docs/glossary/tenacity), чтобы активировать способность класса. Перед её применением вы можете получить 1 кубик лёгкой [усталости](/docs/glossary/fatigue), чтобы сменить [боевой режим](/docs/battles/battle-forms/index). Каждую способность класса, не являющуюся [постоянной](/docs/glossary/enduring), можно активировать только один раз за ход, в момент, указанный в её описании.
@@ -24,7 +24,7 @@ hoverText: Spend the required amount of [tenacity](/docs/glossary/tenacity) to t
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Do I have to use an Enduring or Innate ability?**
+**Обязательно ли применять постоянные или врождённые способности?**
 
 Даже если в них не используется слово «можно», врождённые способности с памяток классов, а также любые постоянные способности класса являются необязательными. Вы не обязаны использовать их, если не хотите.
 
