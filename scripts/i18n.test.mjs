@@ -120,6 +120,11 @@ test(
   },
   async (t) => {
     const root = await fixture(t);
+    await put(
+      root,
+      `docs/${docsPath}/legacy-name.md`,
+      "---\nid: canonical-name\ntitle: Custom route\nhoverText: A tooltip.\n---\n"
+    );
     run(root, "emit-term-json.mjs", "build");
     const ru = await json(root, `build/ru/docs/${docsPath}/blind.json`);
     assert.equal(ru.metadata.title, "Слепота");
@@ -132,6 +137,16 @@ test(
     for (const prefix of ["", "ru/", "ta/"]) {
       const category = await json(root, `build/${prefix}docs/${docsPath}.json`);
       assert.equal(category.metadata.title, "Enemy Skills");
+      const canonical = await json(
+        root,
+        `build/${prefix}docs/${docsPath}/canonical-name.json`
+      );
+      assert.equal(canonical.metadata.id, "canonical-name");
+      assert.equal(canonical.metadata.hoverText, "<p>A tooltip.</p>");
+      assert.deepEqual(
+        canonical,
+        await json(root, `build/${prefix}docs/${docsPath}/legacy-name.json`)
+      );
     }
   }
 );

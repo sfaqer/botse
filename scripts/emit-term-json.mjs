@@ -119,16 +119,22 @@ async function emitForLocale(locale, outRoot, urlPrefix) {
     const title = fm.title || id;
     const hoverHtml = fm.hoverText ? mdToHtml(fm.hoverText, urlPrefix) : "";
     const rel = relativePath.replace(/\.mdx?$/, "");
-    const outFile = join(outRoot, rel + ".json");
-    await mkdir(dirname(outFile), { recursive: true });
-    await writeFile(
-      outFile,
-      JSON.stringify({
-        metadata: { ...fm, id, title, hoverText: hoverHtml },
-        content: "",
-      })
-    );
-    count++;
+    const outputs = new Set([rel]);
+    // Docusaurus uses an explicit document id in the route even when the
+    // filename differs. Retain the filename alias for existing consumers.
+    if (fm.id && fallbackId !== "index" && fm.id !== fallbackId) {
+      outputs.add(join(dirname(rel), fm.id));
+    }
+    const body = JSON.stringify({
+      metadata: { ...fm, id, title, hoverText: hoverHtml },
+      content: "",
+    });
+    for (const output of outputs) {
+      const outFile = join(outRoot, output + ".json");
+      await mkdir(dirname(outFile), { recursive: true });
+      await writeFile(outFile, body);
+      count++;
+    }
   }
   if (count) {
     console.log(`emit-term-json: wrote ${count} files for ${urlPrefix || "/"}`);
