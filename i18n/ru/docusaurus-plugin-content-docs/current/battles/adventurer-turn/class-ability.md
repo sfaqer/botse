@@ -1,12 +1,12 @@
 ---
 id: class-ability
-title: Class Ability
-hoverText: Spend the required amount of [tenacity](/docs/glossary/tenacity) to trigger a class ability. You may gain 1 light [fatigue](/docs/glossary/fatigue) to change [battle form](/docs/battle-forms) before resolving the ability.
+title: 'Способность класса'
+hoverText: 'Потратьте необходимое количество [стойкости](/docs/glossary/tenacity), чтобы активировать способность класса. Перед её применением вы можете получить 1 кубик лёгкой [усталости](/docs/glossary/fatigue), чтобы сменить [боевой режим](/docs/battles/battle-forms/index).'
 ---
 
-When an [adventurer](/docs/glossary/adventurer) performs this action, they spend the required amount of [tenacity](/docs/glossary/tenacity) to trigger a class ability. You may gain 1 light [fatigue](/docs/glossary/fatigue) to change [battle form](/docs/battle-forms) before resolving the ability. You can only trigger each non-[enduring](/docs/glossary/enduring) class ability once during each turn at its correct timing specified in its ability text.
+Выполняя это действие, [персонаж](/docs/glossary/adventurer) тратит необходимое количество [стойкости](/docs/glossary/tenacity), чтобы активировать способность класса. Перед её применением вы можете получить 1 кубик лёгкой [усталости](/docs/glossary/fatigue), чтобы сменить [боевой режим](/docs/battles/battle-forms/index). Каждую способность класса, не являющуюся [постоянной](/docs/glossary/enduring), можно активировать только один раз за ход, в момент, указанный в её описании.
 
-Note that some class abilities are not actions. These class abilities have either the [Enduring](/docs/glossary/enduring) keyword and are ongoing or have the [Interrupt](/docs/glossary/interrupt) keyword and must be triggered at the time specified in the ability's text.
+Некоторые способности класса не являются действиями. Такие способности либо имеют ключевое слово [«Постоянная»](/docs/glossary/enduring) и продолжают действовать, либо имеют ключевое слово [«Прерывающая»](/docs/glossary/interrupt) и должны активироваться в момент, указанный в их описании.
 
 ---
 
@@ -24,7 +24,7 @@ Note that some class abilities are not actions. These class abilities have eithe
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Do I have to use an Enduring or Innate ability?**
+**Обязательно ли применять постоянные или врождённые способности?**
 
 Даже если в них не используется слово «можно», врождённые способности с памяток классов, а также любые постоянные способности класса являются необязательными. Вы не обязаны использовать их, если не хотите.
 
@@ -32,13 +32,13 @@ Note that some class abilities are not actions. These class abilities have eithe
 
 ---
 
-**When can class abilities be triggered?**
+**Когда можно активировать способности класса?**
 
-Inside of combat, a class ability can only be triggered on your turn as an action. Exceptions to this timing will be prefaced with Interrupt and provide the timing for the ability.
+В бою способность класса можно активировать только в свой ход в качестве действия. Исключения обозначаются ключевым словом «Прерывающая», после которого указывается момент применения способности.
 
-Aside from Interrupt abilities that specifically state they can, class actions cannot be used in the middle of another action, such as a move or engage.
+Способности класса нельзя применять посреди другого действия, например передвижения или атаки. Исключение составляют прерывающие способности, прямо разрешающие это.
 
-Outside of combat, class abilities can be triggered at any time, as long as the ability makes sense to be triggered outside of combat and doesn't have timing specified. There is no limit to how many times you can trigger different or even the same class ability outside of battle - you are limited only by the amount of tenacity you have. The exception, again, is Interrupt class abilities. These can only be used once per the specified timing.
+Вне боя способности класса можно активировать в любой момент, если их применение вне боя имеет смысл и для них не указан определённый момент активации. Вне боя нет ограничения на число применений разных способностей класса или одной и той же способности: вас ограничивает только имеющаяся стойкость. Исключение снова составляют прерывающие способности класса — их можно применять лишь один раз в каждый указанный для них момент.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000290926" target="_blank">Источник</a>
 <!-- translate:off -->

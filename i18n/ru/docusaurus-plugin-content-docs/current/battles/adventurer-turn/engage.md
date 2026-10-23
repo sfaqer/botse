@@ -1,36 +1,36 @@
 ---
 id: engage
-title: Engage
-hoverText: Adventurers may engage multiple times per turn but are limited by the dice they can roll and [fatigue](/docs/glossary/fatigue) they can gain. You may perform a [move](/docs/battles/adventurer-turn/move) action before or after you perform an engage action, but not both.
+title: 'Атака'
+hoverText: 'Персонажи могут атаковать несколько раз за ход, но ограничены кубиками, которые могут бросить, и [усталостью](/docs/glossary/fatigue), которую могут получить. В ход с атаками можно выполнить только одно действие [передвижения](/docs/battles/adventurer-turn/move) — до атаки или после неё.'
 ---
 
-This action represents your adventurer using their skills in battle. Adventurers may engage multiple times per turn but are limited by the dice they can roll and [fatigue](/docs/glossary/fatigue) they can gain. You may perform a [move](/docs/battles/adventurer-turn/move) action before or after you perform an engage action, but not both.
+Это действие представляет применение персонажем своих навыков в бою. Персонажи могут атаковать несколько раз за ход, но ограничены кубиками, которые могут бросить, и [усталостью](/docs/glossary/fatigue), которую могут получить. В ход с атаками можно выполнить только одно действие [передвижения](/docs/battles/adventurer-turn/move) — до атаки или после неё.
 
-To perform an engage action, follow the steps below. An ability that instructs an adventurer to engage outside of an engage action is also resolved using these steps.
+Чтобы выполнить действие атаки, пройдите следующие этапы. Если способность предписывает персонажу атаковать вне действия атаки, эта атака также разыгрывается по этим этапам.
 
-## Engage Steps
+## Этапы атаки {#engage-steps}
 
-1. **Gain Fatigue:** If this is your first engage action this turn, skip this step. For each additional engage action, gain 1 [light fatigue](/docs/glossary/fatigue). If playing on [Expert](/docs/campaign/difficulty-levels/expert) difficulty, you must gain 2 light fatigue instead of 1.
-2. **Choose Battle Form:** Declare the [battle form](/docs/battles/battle-forms/index) you will use. You may change to another form by marking the new form on your adventurer mat. Your battle form determines your [range](/docs/glossary/range) and dice that can be rolled.
-3. **Declare Target:** Skill dice that deal damage to the target of an engage require you to choose a target. You can choose only 1 target unit per engage (unless an ability specifies), and the target must be in [sight](/docs/glossary/sight) and [range](/docs/glossary/range) for your current battle form. Abilities and effects that refer to a target can only be resolved on that unit in step 5. Choosing a target during your engage is optional. If an adventurer declares a target during the engage, the target unit is being engaged by that adventurer.
-4. **Gather and Roll Dice:** Gather a number of dice to roll. This number is limited by your [Stamina](/docs/adventurer/stats/stamina) and [Magicka](/docs/adventurer/stats/magicka) stats (the stat that a [skill line](/docs/adventurer/skill-lines/index) is tied to is shown on that skill line's reference sheet). Each time you engage, you may roll up to a number of dice that use Stamina equal to your Stamina stat, and likewise for your Magicka stat. If you have 1 or more ready [<img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" />](/docs/adventurer/items/types/weapon) items with an ability that matches your current battle form, you may now choose 1 [<img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" />](/docs/adventurer/items/types/weapon) item's abilities to resolve. Then, roll all of the dice together.
-   - You can gather skill dice only if they are [available](/docs/glossary/available) in your attribute rows and if they have no battle form icon or have an icon that matches your current form.
-   - Combat dice can be gathered and rolled with any battle form except [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic).
-   - You may gather dice based on different stats. If you do so, each die is counted toward its own stat's limit. For example, it is possible to roll [Destruction Staff](/docs/adventurer/skill-lines/mage/destruction-staff) dice (which are based on the Magicka stat and use [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic) battle form) together with [Acrobatics](/docs/adventurer/skill-lines/thief/acrobatics) dice (which are based on the Stamina stat and have no battle form icon).
-   - If an ability adds free Combat dice, enemy Combat dice are used instead of Combat skill dice. These dice do not count against your Stamina or Magicka stat but are treated as Combat dice for other effects—such as [<img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" />](/docs/adventurer/items/types/weapon) items.
-   - If you gather no dice during this step, the remaining engage action steps are still completed for the purpose of triggering other abilities.
-5. **Resolve the Roll:** Check the rolled results. Then, follow the steps below in order.
-   - **a. Determine results to resolve:** You are not required to resolve a die's result. Some abilities allow results to be modified by rerolling or changing them to another result; this must be done before resolving other abilities.
-   - **b. Resolve abilities:** Abilities are resolved one at a time in the order the player chooses.
-     - If an ability deals damage, total all damage dealt to each unit by that ability and deal it to one affected unit at a time, in the order the player chooses. **Important:** Keep track of the total amount of damage dealt to a unit during this engage as it reduces that unit's defense, which does not reset until after this action ends.
-     - To resolve a skill die with a [<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>](/docs/glossary/tenacity) result, exhaust that die and increase your tenacity by 1.
-     - Enemy Combat dice added to the roll as free dice must be discarded after their results are resolved. These dice cannot be placed in an [active slot](/docs/glossary/active-slot) while in defensive battle form ([<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive)). Note also that these dice do not have [<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>](/docs/glossary/tenacity) icons, so they cannot be resolved to add to tenacity.
-     - Any die with a result you chose not to resolve must be exhausted.
-6. **Units React:** Enemies, adventurers, or companions may resolve abilities that are triggered after this engage. Enemies must resolve these abilities, if able.
+1. **Получение усталости:** если это первое действие атаки в этом ходу, пропустите этап. За каждую дополнительную атаку получите 1 кубик [лёгкой усталости](/docs/glossary/fatigue). На уровне сложности [«Эксперты»](/docs/campaign/difficulty-levels/expert) вместо 1 кубика нужно получить 2.
+2. **Выбор боевого режима:** объявите, какой [боевой режим](/docs/battles/battle-forms/index) будете использовать. Вы можете сменить режим, отметив новый на планшете персонажа. Боевой режим определяет вашу [дальность](/docs/glossary/range) и то, какие кубики можно бросать.
+3. **Назначение цели:** кубики навыков, наносящие урон цели атаки, требуют выбрать цель. Для одной атаки можно выбрать только одну боевую единицу, если способность не указывает иное. Цель должна находиться в пределах [видимости](/docs/glossary/sight) и [дальности](/docs/glossary/range) вашего текущего боевого режима. Способности и эффекты, ссылающиеся на цель, на этапе 5 можно применять только к этой боевой единице. Выбор цели при атаке необязателен. Если персонаж назначил цель, эта боевая единица считается атакованной им.
+4. **Сбор и бросок кубиков:** соберите кубики для броска. Их количество ограничено вашей [выносливостью](/docs/adventurer/stats/stamina) и [магией](/docs/adventurer/stats/magicka); характеристика, с которой связана [ветка навыков](/docs/adventurer/skill-lines/index), указана в её памятке. При каждой атаке можно бросить кубики, использующие выносливость, в количестве не больше значения выносливости, и аналогично для магии. Если у вас есть один или несколько предметов [<img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" />](/docs/adventurer/items/types/weapon) в зоне активного снаряжения со способностью, соответствующей текущему боевому режиму, сейчас вы можете выбрать способности одного предмета [<img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" />](/docs/adventurer/items/types/weapon) для применения. Затем бросьте все кубики вместе.
+   - Кубики навыков можно собирать, только если они [доступны](/docs/glossary/available) в ваших рядах умений и либо не имеют символа боевого режима, либо имеют символ вашего текущего режима.
+   - Кубики боя можно собирать и бросать в любом боевом режиме, кроме [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic).
+   - Вы можете собирать кубики, связанные с разными характеристиками. В таком случае каждый кубик учитывается в ограничении своей характеристики. Например, можно бросить кубики [«Посоха разрушения»](/docs/adventurer/skill-lines/mage/destruction-staff), связанные с магией и использующие режим [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic), вместе с кубиками [«Акробатики»](/docs/adventurer/skill-lines/thief/acrobatics), связанными с выносливостью и не имеющими символа боевого режима.
+   - Если способность добавляет свободные кубики боя, вместо кубиков навыка «Бой» используются кубики боя врагов. Они не учитываются в ограничениях выносливости или магии, но для других эффектов, например предметов [<img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" />](/docs/adventurer/items/types/weapon), считаются кубиками боя.
+   - Если на этом этапе вы не собрали ни одного кубика, оставшиеся этапы атаки всё равно выполняются для срабатывания других способностей.
+5. **Применение результатов броска:** посмотрите выпавшие результаты. Затем выполните следующие подэтапы по порядку.
+   - **а. Выбор результатов для применения:** вы не обязаны применять результат кубика. Некоторые способности позволяют изменять результаты, перебрасывая кубики или поворачивая их другой гранью; это нужно сделать до применения остальных способностей.
+   - **б. Применение способностей:** способности применяются по одной в порядке, выбранном игроком.
+     - Если способность наносит урон, суммируйте весь урон, который она наносит каждой боевой единице, и нанесите его каждой затронутой боевой единице по очереди в выбранном вами порядке. **Важно:** отслеживайте общее количество урона, нанесённого боевой единице за эту атаку: он уменьшает её защиту, которая восстанавливается только после завершения этого действия.
+     - Чтобы применить результат [<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>](/docs/glossary/tenacity) кубика навыка, истощите этот кубик и увеличьте стойкость на 1.
+     - Кубики боя врагов, добавленные к броску как свободные, нужно сбросить после применения их результатов. Эти кубики нельзя помещать в [ячейку активности](/docs/glossary/active-slot) в режиме «Оборона» ([<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive)). Также на них нет символов [<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>](/docs/glossary/tenacity), поэтому их нельзя использовать для получения стойкости.
+     - Любой кубик, результат которого вы решили не применять, нужно истощить.
+6. **Реакция боевых единиц:** враги, персонажи или компаньоны могут применить способности, срабатывающие после этой атаки. Враги обязаны применить такие способности, если могут.
 
-## Resolving Skill Abilities
+## Применение способностей навыков {#resolving-skill-abilities}
 
-Each skill die ability has at least 1 of the following codes that determines how it is resolved and where the die must be placed afterwards. Some skills have wording that can affect non-target units. If an ability requires that a die be exhausted, that die must be placed in the leftmost open position in the cooldown track.
+У каждой способности кубика навыка есть хотя бы один из следующих кодов, определяющих, как её применять и куда после этого поместить кубик. Формулировки некоторых навыков позволяют воздействовать на боевые единицы, не являющиеся целью атаки. Если способность требует истощить кубик, его нужно поместить на крайнее левое свободное место трека перезарядки.
 
 <!-- translate:off -->
 :::info
@@ -43,9 +43,9 @@ Each skill die ability has at least 1 of the following codes that determines how
 
 ---
 
-**Target range**
+**Дальность до цели**
 
-The target has to be in range when selected as a target (step 3) **and** when the die is resolved (step 5).
+Цель должна находиться в пределах дальности и при её выборе на этапе 3, **и** при применении результата кубика на этапе 5.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1386722677531742249" target="_blank">Источник</a>
 
@@ -53,7 +53,7 @@ The target has to be in range when selected as a target (step 3) **and** when th
 
 **Назначение цели**
 
-Вы назначаете цель только тогда, когда этого требует структура игры: например, в рамках [действия атаки](/docs/battles/adventurer-turn/engage) или когда другой игровой эффект предписывает выбрать цель. Нельзя произвольно назначать себя целью только для того, чтобы использовать эффект, который срабатывает при выборе цели.
+Вы назначаете цель только тогда, когда этого требует структура игры: например, в рамках [действия атаки](/docs/battles/adventurer-turn/engage) или когда другой игровой эффект предписывает выбрать цель. Нельзя произвольно выбирать цель только ради эффекта, срабатывающего при выборе цели.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1386823964017561610" target="_blank">Источник</a> / <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1386825052456095804" target="_blank">Источник 2</a>
 <!-- translate:off -->
@@ -64,15 +64,15 @@ The target has to be in range when selected as a target (step 3) **and** when th
 | <img src="/icons/active-slot.svg" alt="Active Slot Icon" />       | [Ячейки активности](/docs/glossary/active-slot)   |
 | <img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" /> | [Трек перезарядки](/docs/glossary/cooldown-track) |
 | <img src="/icons/drained.svg" alt="Drained Icon" />               | [Исчерпаемый](/docs/glossary/drained)             |
-| <img src="/icons/instant.svg" alt="Instant Icon" />               | [Мгновенный](/docs/glossary/instant)              |
-| <img src="/icons/status-effect.svg" alt="Status Effect Icon" />   | [Эффект состояния](/docs/glossary/status-effect)  |
+| <img src="/icons/instant.svg" alt="Instant Icon" />               | [Мгновенно](/docs/glossary/instant)               |
+| <img src="/icons/status-effect.svg" alt="Status Effect Icon" />   | [Состояние](/docs/glossary/status-effect)         |
 
-## Rolling Skill Dice Outside of Battle
+## Бросок кубиков навыков вне боя {#rolling-skill-dice-outside-of-battle}
 
-Some skill die abilities allow skill dice to be rolled during non-battle encounters or even outside of the [Encounter Phase](/docs/campaign/day/encounter-phase/index). If 1 or more skill dice can be rolled this way, follow the engage action sequence above to resolve that roll, with the following exceptions:
+Некоторые способности кубиков навыков позволяют бросать кубики навыков во время небоевых встреч или даже вне [фазы встречи](/docs/campaign/day/encounter-phase/index). Если таким образом можно бросить один или несколько кубиков навыков, примените результаты по описанным выше этапам атаки со следующими исключениями:
 
-- Ignore the Gain Fatigue, Declare Target and Choose Battle Form steps unless otherwise specified.
-- Resolve any effects that occur in response to your roll during the Units React step.
+- Пропустите этапы «Получение усталости», «Назначение цели» и «Выбор боевого режима», если не указано иное.
+- Эффекты, срабатывающие в ответ на ваш бросок, применяются на этапе «Реакция боевых единиц».
 
 ---
 
@@ -87,9 +87,9 @@ Some skill die abilities allow skill dice to be rolled during non-battle encount
 
 ---
 
-**Which units are considered to be "engaged"?**
+**Какие боевые единицы считаются атакованными?**
 
-Only a unit's target is considered to be engaged. If a unit deals damage to a non-target (for example, the Bow line has Volley which deals damage to an adjacent unit, and the enemy skill Necrotic deals 1 true damage to all adjacent units), the enemy taking the damage is not considered to be engaged. Other skills that trigger based off of being engaged, such as the enemy skill Shatter, would not be triggered if damage is dealt by a non-targeting skill such as Volley.
+Атакованной считается только цель боевой единицы. Если урон получает боевая единица, не являющаяся целью, она не считается атакованной. Например, способность «Залп» ветки «Лук» наносит урон врагу в соседней клетке, а навык врага «Аура смерти» наносит по 1 единице неблокируемого урона всем боевым единицам в соседних клетках. Навыки, срабатывающие при атаке на их обладателя, например «Разрушение оружия», не срабатывают от урона навыка без выбора цели, такого как «Залп».
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292499" target="_blank">Источник</a>
 
@@ -107,9 +107,9 @@ Only a unit's target is considered to be engaged. If a unit deals damage to a no
 
 ---
 
-**Can you roll skill dice, even if you can't resolve them?**
+**Можно ли бросать кубики навыков, если их результаты нельзя применить?**
 
-Unless another game effect says you cannot (and following battle form and stamina/magicka restrictions), you can roll any skill dice on your turn, even if a possible result wouldn't be able to be resolved. An example of this is rolling a skill that requires a target, while not having a target. Generally this is done in order to try for tenacity results.
+Если другой игровой эффект не запрещает этого, в свой ход вы можете бросать любые кубики навыков с соблюдением ограничений боевого режима, выносливости и магии, даже если один из возможных результатов нельзя было бы применить. Например, можно бросить кубик навыка, требующего цель, не имея цели. Обычно так поступают, чтобы попытаться получить результаты стойкости.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000293232" target="_blank">Источник</a>
 <!-- translate:off -->
