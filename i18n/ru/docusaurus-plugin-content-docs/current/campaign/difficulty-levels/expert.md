@@ -1,13 +1,13 @@
 ---
 id: Expert
-title: Expert
+title: 'Эксперты'
 sidebar_position: 3
-hoverText: This is the hardest difficulty. [Adventurers](/docs/glossary/adventurer) gain 2 [fatigue](/docs/glossary/fatigue) for each additional [engage](/docs/battles/adventurer-turn/engage) action taken in battle. To resolve their individual [Adventurers Rest](/docs/campaign/day/end-of-day-phase) step, an adventurer must [discard](/docs/glossary/discard) an [item](/docs/adventurer/items/index). Adventurers remove 1 die from their cooldown track and [heal](/docs/glossary/healing) for 1 HP during the Adventurers Rest step at the end of each day.
+hoverText: 'Это самый высокий уровень сложности. За каждое дополнительное действие [«Атака»](/docs/battles/adventurer-turn/engage) в бою [персонаж](/docs/glossary/adventurer) получает 2 кубика [усталости](/docs/glossary/fatigue). Чтобы разыграть свой этап [«Отдых персонажей»](/docs/campaign/day/end-of-day-phase), персонаж должен [сбросить](/docs/glossary/discard) [предмет](/docs/adventurer/items/index). На этапе отдыха в конце каждого дня персонажи снимают 1 кубик со своего трека перезарядки и [восстанавливают](/docs/glossary/healing) 1 ОЗ.'
 ---
 
-This is the hardest difficulty.
+Это самый высокий уровень сложности.
 
-[Adventurers](/docs/glossary/adventurer) gain 2 [fatigue](/docs/glossary/fatigue) for each additional [engage](/docs/battles/adventurer-turn/engage) action taken in battle. To resolve their individual [Adventurers Rest](/docs/campaign/day/end-of-day-phase) step, an adventurer must [discard](/docs/glossary/discard) an [item](/docs/adventurer/items/index). Adventurers remove 1 die from their cooldown track and [heal](/docs/glossary/healing) for 1 HP during the Adventurers Rest step at the end of each day.
+За каждое дополнительное действие [«Атака»](/docs/battles/adventurer-turn/engage) в бою [персонаж](/docs/glossary/adventurer) получает 2 кубика [усталости](/docs/glossary/fatigue). Чтобы разыграть свой этап [«Отдых персонажей»](/docs/campaign/day/end-of-day-phase), персонаж должен [сбросить](/docs/glossary/discard) [предмет](/docs/adventurer/items/index). На этапе отдыха в конце каждого дня персонажи снимают 1 кубик со своего трека перезарядки и [восстанавливают](/docs/glossary/healing) 1 ОЗ.
 
 ---
 

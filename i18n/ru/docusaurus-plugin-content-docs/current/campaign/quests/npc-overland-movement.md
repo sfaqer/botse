@@ -1,10 +1,10 @@
 ---
 id: npc-overland-movement
-title: NPC Overland Movement
-hoverText: When a token moves, it must move a number of adjacent hexes as specified along the shortest route available. It will use its full movement unless it is able to reach its instructed destination using less movement.
+title: 'Передвижение НПС по атласу провинции'
+hoverText: 'Жетон передвигается на указанное количество соседних клеток по кратчайшему доступному маршруту. Он использует всё передвижение, если не может достичь назначенной цели за меньшее количество шагов.'
 ---
 
-Some [province](/docs/campaign/provinces/index) mechanics or [quests](/docs/campaign/quests/index) add NPC tokens to the overland map. NPC tokens are typically instructed to move in a specific direction or toward a specific feature on the map. When a token moves, it must move a number of adjacent hexes as specified along the shortest route available. It will use its full movement unless it is able to reach its instructed destination using less movement. If there are multiple possible routes, the party chooses which route that token will take.
+Некоторые механики [провинций](/docs/campaign/provinces/index) или [задания](/docs/campaign/quests/index) добавляют на атлас жетоны НПС. Обычно таким жетонам предписано двигаться в определённом направлении или к определённому объекту на атласе. Жетон должен передвинуться на указанное количество соседних клеток по кратчайшему доступному маршруту. Он использует всё передвижение, если не может достичь назначенной цели за меньшее количество шагов. Если кратчайших маршрутов несколько, отряд выбирает, по какому из них передвинется жетон.
 
-- If there are no eligible routes for an NPC token to move when instructed, it does not move. If the token is instructed to move in a specific direction and there are no adjacent hexes in that direction (such as at the edge of the map), the token ends its current move.
-- If the rule or quest that places an NPC token on the map does not specify a hex to place it in (or there are multiple possible hexes), the party chooses the hex.
+- Если жетон НПС должен передвинуться, но подходящих маршрутов нет, он остаётся на месте. Если жетону предписано двигаться в определённом направлении, но в этом направлении нет соседних клеток, например у края атласа, его текущее передвижение заканчивается.
+- Если правило или задание, размещающее жетон НПС на атласе, не указывает клетку для размещения или подходящих клеток несколько, отряд выбирает клетку сам.

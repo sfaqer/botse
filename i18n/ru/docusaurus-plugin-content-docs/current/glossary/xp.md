@@ -1,14 +1,14 @@
 ---
 id: xp
-title: XP (Experience Points)
-hoverText: The party's total gained XP is tracked by the XP dial. An adventurer's unspent saved XP is tracked on the Saved XP track on the adventurer mat.
+title: 'ОО (очки опыта)'
+hoverText: 'Общее количество заработанных отрядом ОО отмечается на счётчике опыта. Непотраченные ОО персонажа отмечаются на треке сохранённых ОО на его планшете.'
 ---
 
-# <img src="/icons/xp.svg" alt="XP Icon" /> XP (Experience Points)
+# <img src="/icons/xp.svg" alt="XP Icon" /> ОО (очки опыта)
 
-The party's total gained XP is tracked by the XP dial. An adventurer's unspent saved XP is tracked on the Saved XP track on the adventurer mat.
+Общее количество заработанных отрядом ОО отмечается на счётчике опыта. Непотраченные ОО персонажа отмечаются на треке сохранённых ОО на его планшете.
 
-**Setup:** If you start session 1 with the Jailbreak Introduction encounter party XP starts at 1, otherwise it starts at 2.
+**Подготовка:** если вы начинаете первый эпизод с вводной встречи «Побег из тюрьмы», начальное количество ОО отряда равно 1. В противном случае оно равно 2.
 
 ---
 
@@ -26,9 +26,9 @@ The party's total gained XP is tracked by the XP dial. An adventurer's unspent s
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Can you go above 40 XP?**
+**Можно ли набрать больше 40 ОО?**
 
-The XP dial goes up to 40. It is possible to exceed this amount of group XP. If you do so, simply flip the chip again and start counting up from 0, adding 40 to the total shown on the chip.
+Счётчик опыта рассчитан на 40 ОО, но общее количество ОО отряда может превышать это значение. В таком случае снова переверните фишку счётчика и начните отсчёт с 0, прибавляя 40 к показанному на фишке значению.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294292" target="_blank">Источник</a>
 <!-- translate:off -->

@@ -1,15 +1,15 @@
 ---
 id: overland-tokens
-title: Overland Tokens
+title: 'Жетоны провинции'
 hoverText:
 ---
 
-The overland map uses several types of mini-chip tokens to show the position of the party, NPCs, and important locations, as well as to track the state of [province](/docs/campaign/provinces/index) effects. Each province effect and [quest](/docs/campaign/quests/index) describes which specific overland tokens are placed during setup, how NPC and tracking tokens move during play, and when they are removed. Some encounters also use these tokens on the battle map.
+На атласе провинции используются мини-жетоны нескольких типов. Они показывают местоположение отряда, НПС и важных локаций, а также отслеживают состояние эффектов [провинции](/docs/campaign/provinces/index). Описание каждого эффекта провинции и [задания](/docs/campaign/quests/index) указывает, какие жетоны разместить при подготовке, как передвигать жетоны НПС и вспомогательные жетоны в ходе игры и когда их убирать. В некоторых встречах эти жетоны также используются на поле боя.
 
-| Символ                                                         | Название        | Описание                                                                                                            |
-| -------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------- |
-| <img src="/icons/party-token.png" alt="Party Token" />         | Party Token     | Indicates the party's location on the overland map.                                                                 |
-| <img src="/icons/objective-token.png" alt="Objective Token" /> | Objective Token | Indicates important objective locations on the overland map or battle map.                                          |
-| <img src="/icons/npc-token.png" alt="NPC Token" />             | NPC Token       | Indicates NPC location on the overland map.                                                                         |
-| <img src="/icons/counter-token-1.png" alt="Counter Token 1" /> | Counter Token 1 | Indicates the state of overland map tracks (such as [Black Marsh's](/docs/campaign/provinces/black-marsh) weather). |
-| <img src="/icons/counter-token-2.png" alt="Counter Token 2" /> | Counter Token 2 | Indicates the state of overland map tracks in addition to Counter Token 1.                                          |
+| Символ                                                         | Название                | Описание                                                                                                           |
+| -------------------------------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| <img src="/icons/party-token.png" alt="Party Token" />         | Жетон отряда            | Указывает местоположение отряда на атласе провинции.                                                               |
+| <img src="/icons/objective-token.png" alt="Objective Token" /> | Жетон цели              | Отмечает расположение важных целей на атласе провинции или на поле боя.                                            |
+| <img src="/icons/npc-token.png" alt="NPC Token" />             | Жетон НПС               | Указывает местоположение НПС на атласе провинции.                                                                  |
+| <img src="/icons/counter-token-1.png" alt="Counter Token 1" /> | Вспомогательный жетон 1 | Отмечает состояние шкал на атласе провинции, например погоду в [Чернотопье](/docs/campaign/provinces/black-marsh). |
+| <img src="/icons/counter-token-2.png" alt="Counter Token 2" /> | Вспомогательный жетон 2 | Отмечает состояние шкал на атласе провинции в дополнение к вспомогательному жетону 1.                              |
