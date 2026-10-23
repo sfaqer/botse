@@ -1,10 +1,10 @@
 ---
 id: elusive
 title: Неуловимость
-hoverText: Эта [боевая единица](/docs/glossary/unit) предотвращает весь урон, включая [чистый урон](/docs/glossary/true-damage), нанесённый боевыми единицами, которые не были [соседними](/docs/glossary/adjacent) с ней в начале текущего [хода](/docs/glossary/turn).
+hoverText: Эта [боевая единица](/docs/glossary/unit) предотвращает весь урон, включая [неблокируемый урон](/docs/glossary/true-damage), нанесённый боевыми единицами, которые не были [соседними](/docs/glossary/adjacent) с ней в начале текущего [хода](/docs/glossary/turn).
 ---
 
-Эта [боевая единица](/docs/glossary/unit) предотвращает весь урон, включая [чистый урон](/docs/glossary/true-damage), нанесённый боевыми единицами, которые не были [соседними](/docs/glossary/adjacent) с ней в начале текущего [хода](/docs/glossary/turn).
+Эта [боевая единица](/docs/glossary/unit) предотвращает весь урон, включая [неблокируемый урон](/docs/glossary/true-damage), нанесённый боевыми единицами, которые не были [соседними](/docs/glossary/adjacent) с ней в начале текущего [хода](/docs/glossary/turn).
 
 <!-- translate:off -->
 :::info

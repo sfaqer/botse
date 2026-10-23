@@ -15,43 +15,43 @@ A class has 2 types of abilities, each described by its text:
 ## <img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" /> [Mage](/docs/adventurer/classes/mage)
 
 > ### [Arcanist](/docs/adventurer/classes/mage/arcanist)
->
+> 
 > ### [Healer](/docs/adventurer/classes/mage/healer)
->
+> 
 > ### [Necromancer](/docs/adventurer/classes/mage/necromancer)
->
+> 
 > ### [Nightblade](/docs/adventurer/classes/mage/nightblade)
->
+> 
 > ### [Sorcerer](/docs/adventurer/classes/mage/sorcerer)
->
+> 
 > ### [Warden](/docs/adventurer/classes/mage/warden)
 
 ## <img src="/icons/thief.svg" alt="Thief Icon" className="icon-svg"/> [Thief](/docs/adventurer/classes/thief)
 
 > ### [Acrobat](/docs/adventurer/classes/thief/acrobat)
->
+> 
 > ### [Bard](/docs/adventurer/classes/thief/bard)
->
+> 
 > ### [Burglar](/docs/adventurer/classes/thief/burglar)
->
+> 
 > ### [Chef](/docs/adventurer/classes/thief/chef)
->
+> 
 > ### [Pilgrim](/docs/adventurer/classes/thief/pilgrim)
->
+> 
 > ### [Rogue](/docs/adventurer/classes/thief/rogue)
->
+> 
 > ### [Scout](/docs/adventurer/classes/thief/scout)
 
 ## <img src="/icons/warrior.svg" alt="Warrior Icon" className="icon-svg" /> [Warrior](/docs/adventurer/classes/warrior)
 
 > ### [Archer](/docs/adventurer/classes/warrior/archer)
->
+> 
 > ### [Dragonknight](/docs/adventurer/classes/warrior/dragonknight)
->
+> 
 > ### [Knight](/docs/adventurer/classes/warrior/knight)
->
+> 
 > ### [Ranger](/docs/adventurer/classes/warrior/ranger)
->
+> 
 > ### [Spellsword](/docs/adventurer/classes/warrior/spellsword)
->
+> 
 > ### [Templar](/docs/adventurer/classes/warrior/templar)

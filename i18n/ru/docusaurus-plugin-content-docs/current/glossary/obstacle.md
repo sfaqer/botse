@@ -1,12 +1,12 @@
 ---
 id: obstacle
-title: Obstacle
-hoverText: Obstacles prevent movement through hexes. They are placed facedown on top of other tiles, typically during setup.
+title: 'Препятствия'
+hoverText: 'Препятствия не позволяют передвигаться через занимаемые ими клетки. Их размещают лицевой стороной вниз поверх других участков местности, обычно во время подготовки к бою.'
 ---
 
-Some battle encounters use tiles as obstacles that prevent movement through hexes. These tiles are placed facedown on top of other tiles, typically during setup. These are the most common obstacles encountered and follow the rules below.
+В некоторых боевых встречах участки местности используются как препятствия, не позволяющие передвигаться через определённые клетки. Эти участки размещаются лицевой стороной вниз поверх других участков, обычно во время подготовки к бою. Такие препятствия встречаются чаще всего и подчиняются следующим правилам.
 
-- Obstacles are [impassable](/docs/glossary/impassable)
-- When an encounter uses tiles as obstacles, its setup diagram will show where those tiles are placed using red hexes to show their shape and positioning. Note: Some encounters feature tiles marked in blue to better distinguish which tiles are needed to form the battle map. Blue tiles do not have any special effects or rules.
+- Препятствия [непроходимы](/docs/glossary/impassable)
+- Если во встрече участки местности используются как препятствия, на схеме подготовки красными клетками обозначаются форма и положение этих участков. Примечание: в некоторых встречах участки отмечены синим цветом, чтобы было проще различить, какие именно участки нужны для сборки поля боя. Синие участки не имеют особых эффектов или правил.
 
-Some encounters use other types of components as special obstacles. These obstacles are unique and follow the rules described in their encounter.
+В некоторых встречах в качестве особых препятствий используются другие типы компонентов. Такие препятствия уникальны и подчиняются правилам, описанным в соответствующей встрече.

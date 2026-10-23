@@ -1,7 +1,7 @@
 ---
 id: increase-or-reduce
-title: Increase/Reduce
-hoverText: Rotate the die's face to increase or decrease its value by the amount indicated. Dice values cannot be increased or reduced beyond the values printed on them.
+title: 'Увеличение и уменьшение результата'
+hoverText: 'Поверните кубик соответствующей гранью, чтобы увеличить или уменьшить его значение на указанную величину. Значение кубика нельзя увеличить или уменьшить за пределы значений, напечатанных на его гранях.'
 ---
 
-When an ability increases or reduces the value of a die, rotate that die's face to increase or decrease its value by the amount indicated. Dice values cannot be increased or reduced beyond the values printed on them.
+Когда способность увеличивает или уменьшает значение кубика, поверните его соответствующей гранью, чтобы изменить значение на указанную величину. Значение кубика нельзя увеличить или уменьшить за пределы значений, напечатанных на его гранях.

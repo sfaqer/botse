@@ -1,7 +1,7 @@
 ---
 id: temporary-stats
-title: Temporary Stats
-hoverText: Treat the stat's value as the value it has been temporarily changed to. If the unit is an adventurer, do not add or adjust tokens on their adventurer mat.
+title: 'Временное изменение характеристик'
+hoverText: 'Считайте значение характеристики равным тому значению, до которого она временно изменена. Если боевая единица — персонаж, не добавляйте и не меняйте жетоны на его планшете.'
 ---
 
-Some effects can temporarily adjust a unit's stat. When this happens, treat that stat's value as the value it has been temporarily changed to. If the unit is an adventurer, do not add or adjust tokens on their adventurer mat.
+Некоторые эффекты могут временно изменить характеристику боевой единицы. В таком случае считайте значение характеристики равным тому значению, до которого она временно изменена. Если боевая единица — персонаж, не добавляйте и не меняйте жетоны на его планшете.

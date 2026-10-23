@@ -1,39 +1,39 @@
 ---
 id: companion
-title: Companion
-hoverText: A companion is a [unit](/docs/glossary/unit) that is under the ongoing control of either the entire [party](/docs/glossary/party) or a specific [adventurer](/docs/glossary/adventurer).
+title: 'Компаньон'
+hoverText: 'Компаньон — это [боевая единица](/docs/glossary/unit), постоянно находящаяся под управлением всего [отряда](/docs/glossary/party) или отдельного [персонажа](/docs/glossary/adventurer).'
 ---
 
-A companion is a [unit](/docs/glossary/unit) that is under the ongoing control of either the entire [party](/docs/glossary/party) or a specific [adventurer](/docs/glossary/adventurer). Companion units can be gained through encounter text or adventurer abilities. It is possible for [enemy](/docs/glossary/enemy) chips and [quest units](/docs/glossary/quest-unit) to become companions.
+Компаньон — это [боевая единица](/docs/glossary/unit), постоянно находящаяся под управлением всего [отряда](/docs/glossary/party) или отдельного [персонажа](/docs/glossary/adventurer). Компаньонов можно получить по тексту встречи или благодаря способностям персонажей. Фишки [врагов](/docs/glossary/enemy) и [сюжетные боевые единицы](/docs/glossary/quest-unit) тоже могут становиться компаньонами.
 
-While a companion unit is part of the party, it follows these rules:
+Пока компаньон входит в отряд, он подчиняется следующим правилам:
 
-- The companion is a [party member](/docs/glossary/party) but not an [adventurer](/docs/glossary/adventurer). It is not affected by abilities that apply to adventurers, and is not counted toward the party's total number of adventurers for purposes of [party size (<img src="/icons/party-size.svg" alt="Party Size Icon" className="icon-svg" />)](/docs/glossary/party-size).
-- The companion unit begins each battle at its maximum HP unless otherwise stated.
-- If a companion is defeated, it is removed from the party permanently. Otherwise, a companion remains with the [adventurer](/docs/glossary/adventurer) or [party](/docs/glossary/party) unless it is removed by another effect.
-- A defeated companion's chip is placed with other undeployed chips of its type. For example, an enemy chip that has become a companion is placed back in the correct enemy bag when defeated.
-- If the companion's controlling [adventurer](/docs/glossary/adventurer) is defeated, the companion remains in play and that adventurer's player continues to control the companion.
-- If all [adventurers](/docs/glossary/adventurer) are defeated, the encounter ends and all remaining companions are removed from the battle map. These companions are not treated as defeated for determining if they are removed from the [party](/docs/glossary/party).
+- Компаньон является [участником отряда](/docs/glossary/party), но не [персонажем](/docs/glossary/adventurer). На него не действуют способности, применяемые к персонажам, и он не учитывается в общем числе персонажей при определении [размера отряда (<img src="/icons/party-size.svg" alt="Party Size Icon" className="icon-svg" />)](/docs/glossary/party-size).
+- Если не указано иное, компаньон начинает каждый бой с максимальным количеством ОЗ.
+- Если компаньон повержен, он навсегда покидает отряд. В остальных случаях компаньон остаётся с [персонажем](/docs/glossary/adventurer) или [отрядом](/docs/glossary/party), пока другой эффект не удалит его.
+- Фишку поверженного компаньона помещают к другим не размещённым в игре фишкам того же типа. Например, фишку врага, ставшего компаньоном, после его поражения возвращают в соответствующий мешочек врагов.
+- Если управляющий компаньоном [персонаж](/docs/glossary/adventurer) повержен, компаньон остаётся в игре, а игрок этого персонажа продолжает управлять им.
+- Если все [персонажи](/docs/glossary/adventurer) повержены, встреча заканчивается, а всех оставшихся компаньонов убирают с поля боя. При определении того, покидают ли эти компаньоны [отряд](/docs/glossary/party), они не считаются поверженными.
 
-## Companion Turns
+## Ходы компаньонов
 
-Companions take their [turns](/docs/glossary/turn) immediately after all of the adventurers have taken their turns. The [party](/docs/glossary/party) decides the order in which companions take their turns. If a companion is described as being controlled by the party, the party decides which player controls that companion during its turn.
+Компаньоны совершают свои [ходы](/docs/glossary/turn) сразу после того, как все персонажи завершат свои ходы. [Отряд](/docs/glossary/party) определяет порядок ходов компаньонов. Если указано, что компаньоном управляет отряд, отряд решает, какой игрок будет управлять этим компаньоном во время его хода.
 
-During its turn, a companion typically moves, resolves its skills, and [engages](/docs/battles/adventurer-turn/engage) as described in the sequence below. Refer to the effect designating that unit as a companion for any additional rules.
+Во время своего хода компаньон обычно передвигается, применяет навыки и [атакует](/docs/battles/adventurer-turn/engage) в описанном ниже порядке. Дополнительные правила могут быть указаны в эффекте, который делает эту боевую единицу компаньоном.
 
-### Companion Turn Sequence
+### Порядок хода компаньона
 
-The player controlling a companion makes the decisions for that unit during each step below. Moving and engaging are optional.
+На каждом из следующих этапов решения за компаньона принимает управляющий им игрок. Передвижение и атака необязательны.
 
-1.  **Start of Turn:** Trigger any abilities with this timing, such as [status effects](/docs/battles/status-effects/index) or skill dice on the companion.
-2.  **Move:** You may move the companion up to 2 hexes. The companion can be moved as chosen and does not follow normal enemy movement priorities.
-3.  **Engage:** The companion may [engage](/docs/battles/adventurer-turn/engage) opposing [units](/docs/glossary/unit), if able, following these substeps in the order below.
-    - **Determine Target(s):** Refer to the companion's range and target icons, and choose which unit(s) the companion targets. Only [targetable](/docs/glossary/targetable) units in [sight](/docs/glossary/sight) and in [range](/docs/glossary/range) can be chosen. A companion's targeting priority icon is ignored.
-    - **Gather and Roll Dice:** Roll all of the companion's Combat dice. A companion rolls enemy Combat dice. If the companion can engage multiple targets in range, you roll its engage once and resolve the roll against each chosen target during the next substep.
-    - **Resolve the Roll:** Resolve the total rolled Combat dice value against each of the companion's targets.
-    - **Units React:** [Adventurers](/docs/glossary/adventurer), companions, or other [enemies](/docs/glossary/enemy) may resolve abilities that are triggered after this companion's engage. Enemies must resolve these abilities, if able.
-4.  **End of Turn:** Trigger any abilities with this timing. Then, if there are other companions, the next companion takes its turn.
+1.  **Начало хода:** примените способности, срабатывающие в этот момент, например [состояния](/docs/battles/status-effects/index) или эффекты кубиков навыков, находящихся на компаньоне.
+2.  **Передвижение:** вы можете передвинуть компаньона на расстояние до 2 клеток. Вы сами выбираете, как его передвигать; обычные приоритеты передвижения врагов на него не распространяются.
+3.  **Атака:** если компаньон может [атаковать](/docs/battles/adventurer-turn/engage) противостоящие ему [боевые единицы](/docs/glossary/unit), он вправе сделать это, выполняя следующие подэтапы по порядку.
+    - **Выбор цели (целей):** по символам дальности и целей компаньона определите, какие боевые единицы он может выбрать целью, и выберите их. Можно выбирать только [допустимые цели](/docs/glossary/targetable) в пределах [видимости](/docs/glossary/sight) и [дальности](/docs/glossary/range). Символ приоритета выбора цели компаньона игнорируется.
+    - **Сбор и бросок кубиков:** бросьте все кубики боя компаньона. Компаньоны используют кубики боя врагов. Если компаньон может атаковать несколько целей в пределах дальности, бросьте кубики для этой атаки один раз, а на следующем подэтапе примените результат броска к каждой выбранной цели.
+    - **Применение результатов броска:** примените суммарное значение, выпавшее на кубиках боя, к каждой цели компаньона.
+    - **Реакция боевых единиц:** [персонажи](/docs/glossary/adventurer), компаньоны или другие [враги](/docs/glossary/enemy) могут применить способности, срабатывающие после атаки этого компаньона. Враги обязаны применить такие способности, если могут.
+4.  **Конец хода:** примените способности, срабатывающие в этот момент. Затем, если есть другие компаньоны, следующий компаньон совершает свой ход.
 
-### Companion Skills
+### Навыки компаньонов
 
-Most companions have 1 or more skills from the [Enemy Skills](/docs/battles/enemy-skills/index) Reference. Unlike moving and engaging, resolving a companion's skills is not optional; each skill must be resolved at its specified timing (if able). If a companion engages multiple targets, each target is affected by each of the companion's relevant skills.
+У большинства компаньонов есть один или несколько навыков из [справочника навыков врагов](/docs/battles/enemy-skills/index). В отличие от передвижения и атаки, применение навыков компаньона обязательно: каждый навык нужно применить в указанный для него момент, если это возможно. Если компаньон атакует несколько целей, каждый подходящий навык компаньона действует на каждую из этих целей.

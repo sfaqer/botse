@@ -1,7 +1,7 @@
 ---
 id: available
-title: Available
-hoverText: Available dice are the dice in your attribute rows that you can currently roll.
+title: 'Доступные кубики'
+hoverText: 'Доступные кубики — это кубики в ваших рядах умений, которые вы сейчас можете бросить.'
 ---
 
-Available dice are the dice in your attribute rows that you can currently roll. This excludes dice that are in [active slots](/docs/glossary/active-slot), in a [cooldown track](/docs/glossary/cooldown-track) and those that have been [drained](/docs/glossary/drained).
+Доступные кубики — это кубики в ваших рядах умений, которые вы сейчас можете бросить. К ним не относятся кубики в [ячейках активности](/docs/glossary/active-slot), на [треке перезарядки](/docs/glossary/cooldown-track) и [исчерпанные](/docs/glossary/drained) кубики.

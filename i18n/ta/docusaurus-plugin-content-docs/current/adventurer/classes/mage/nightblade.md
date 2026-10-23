@@ -24,8 +24,7 @@ hoverText: ""
 
 ## Master
 
-**Innate Ability**: When a [Stealth](/docs/battles/status-effects/stealth) (<img src="/icons/stealth.svg" alt="Stealth Icon" className="icon-svg" />) status die in removed or recovered from your [cooldown track](/docs/glossary/cooldown-track), you may [heal](/docs/glossary/healing) for 1 HP and place
-yourself in an [unoccupied](/docs/glossary/occupied) hex up to 4 hexes away.
+**Innate Ability**: When a [Stealth](/docs/battles/status-effects/stealth) (<img src="/icons/stealth.svg" alt="Stealth Icon" className="icon-svg" />) status die in removed or recovered from your [cooldown track](/docs/glossary/cooldown-track), you may [heal](/docs/glossary/healing) for 1 HP and place yourself in an [unoccupied](/docs/glossary/occupied) hex up to 4 hexes away.
 
 <div className="class-table-wrapper">
 

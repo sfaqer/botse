@@ -1,9 +1,9 @@
 ---
 id: instant
-title: Instant
-hoverText: This skill die's ability is resolved instantly as described in its entry. Then, that die is exhausted.
+title: 'Мгновенно'
+hoverText: 'Способность этого кубика навыка применяется немедленно согласно её описанию. Затем кубик истощается.'
 ---
 
-# <img src="/icons/instant.svg" alt="Instant Icon" /> Instant
+# <img src="/icons/instant.svg" alt="Instant Icon" /> Мгновенно
 
-This skill die's ability is resolved instantly as described in its entry. Then, that die is exhausted.
+Способность этого кубика навыка применяется немедленно согласно её описанию. Затем кубик истощается.

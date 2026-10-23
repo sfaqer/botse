@@ -1,15 +1,15 @@
 ---
 id: gain-or-lose-health
-title: Gaining/Losing Health
-hoverText: Some effects can affect a [unit's](/docs/glossary/unit) [Health](/docs/adventurer/stats/health) stat or its HP chips.
+title: 'Получение и потеря здоровья'
+hoverText: 'Некоторые эффекты могут влиять на характеристику [«Здоровье»](/docs/adventurer/stats/health) [боевой единицы](/docs/glossary/unit) или на её фишки ОЗ.'
 ---
 
-Some effects can affect a [unit's](/docs/glossary/unit) [Health](/docs/adventurer/stats/health) stat or its HP chips.
+Некоторые эффекты могут влиять на характеристику [«Здоровье»](/docs/adventurer/stats/health) [боевой единицы](/docs/glossary/unit) или на её фишки ОЗ.
 
-### Gaining or Losing Health
+### Изменение характеристики «Здоровье»
 
-When an effect increases a [unit's](/docs/glossary/unit) [Health](/docs/adventurer/stats/health) stat, that unit gains a number of HP chips equal to the difference in value. If a unit's Health stat decreases below the value of HP chips the unit currently has, remove HP until the unit has HP equal to its new maximum.
+Когда эффект увеличивает характеристику [«Здоровье»](/docs/adventurer/stats/health) [боевой единицы](/docs/glossary/unit), она получает фишки ОЗ в количестве, равном величине увеличения. Если характеристика «Здоровье» боевой единицы снижается и становится меньше её текущего количества ОЗ, убирайте фишки ОЗ, пока их суммарное значение не сравняется с новым максимумом.
 
-### Gaining or Losing HP
+### Получение и потеря ОЗ
 
-When an effect adds HP chips in excess of a unit's Health stat—but does not change the stat itself—those chips remain until the next [end of battle](/docs/battles/end-of-battle) cleanup step. Note that a unit can only gain HP in excess of its Health stat if the effect specifically allows for it.
+Когда эффект добавляет фишки ОЗ сверх значения характеристики «Здоровье» боевой единицы, не изменяя саму характеристику, эти фишки сохраняются до следующей [процедуры окончания боя](/docs/battles/end-of-battle). Боевая единица может получить ОЗ сверх значения своей характеристики «Здоровье» только в том случае, если эффект прямо это разрешает.
