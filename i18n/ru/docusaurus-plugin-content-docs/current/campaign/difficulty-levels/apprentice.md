@@ -1,10 +1,10 @@
 ---
 id: apprentice
-title: Apprentice
+title: 'Ученики'
 sidebar_position: 1
-hoverText: This is the easiest difficulty. [Adventurers](/docs/glossary/adventurer) remove 2 dice from their [cooldown track](/docs/glossary/cooldown-track) and [heal](/docs/glossary/healing) for 2 HP during the [Adventurers Rest](/docs/campaign/day/end-of-day-phase) step at the end of each day. Quest steps also occasionally contain modified rules for Apprentice difficulty level.
+hoverText: 'Это самый низкий уровень сложности. [Персонажи](/docs/glossary/adventurer) снимают 2 кубика со своего [трека перезарядки](/docs/glossary/cooldown-track) и [восстанавливают](/docs/glossary/healing) 2 ОЗ на этапе [«Отдых персонажей»](/docs/campaign/day/end-of-day-phase) в конце каждого дня. Некоторые этапы заданий также содержат изменённые правила для уровня сложности «Ученики».'
 ---
 
-This is the easiest difficulty.
+Это самый низкий уровень сложности.
 
-[Adventurers](/docs/glossary/adventurer) remove 2 dice from their [cooldown track](/docs/glossary/cooldown-track) and [heal](/docs/glossary/healing) for 2 HP during the [Adventurers Rest](/docs/campaign/day/end-of-day-phase) step at the end of each day. Quest steps also occasionally contain modified rules for Apprentice difficulty level.
+[Персонажи](/docs/glossary/adventurer) снимают 2 кубика со своего [трека перезарядки](/docs/glossary/cooldown-track) и [восстанавливают](/docs/glossary/healing) 2 ОЗ на этапе [«Отдых персонажей»](/docs/campaign/day/end-of-day-phase) в конце каждого дня. Некоторые этапы заданий также содержат изменённые правила для уровня сложности «Ученики».

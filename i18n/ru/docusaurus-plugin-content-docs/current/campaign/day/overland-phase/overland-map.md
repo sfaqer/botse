@@ -1,7 +1,7 @@
 ---
 id: overland-map
-title: Overland Map
-hoverText: Each map is divided into hexes that contain the various terrain features the party interacts with, each of which has its own [map icon](/docs/iconography/).
+title: 'Атлас провинции'
+hoverText: 'Атлас разделён на шестиугольные клетки с различными особенностями местности, с которыми взаимодействует отряд. Каждая особенность обозначается своим [символом](/docs/iconography/).'
 ---
 
-Each map is divided into hexes that contain the various terrain features the party interacts with, each of which has its own [map icon](/docs/iconography/). The map also includes a compass that shows the cardinal directions, as well as the directions associated with specific die rolls. Some gazetteers and [quests](/docs/campaign/quests/index) instruct the party or [NPC tokens to move](/docs/campaign/day/overland-phase/npc-overland-movement) in specific ways across the overland map.
+Атлас разделён на шестиугольные клетки с различными особенностями местности, с которыми взаимодействует отряд. Каждая особенность обозначается своим [символом](/docs/iconography/). На атласе также есть компас, показывающий стороны света и направления, связанные с определёнными результатами бросков кубиков. Некоторые буклеты провинций и [задания](/docs/campaign/quests/index) предписывают отряду или [жетонам НПС передвигаться](/docs/campaign/day/overland-phase/npc-overland-movement) по атласу определённым образом.

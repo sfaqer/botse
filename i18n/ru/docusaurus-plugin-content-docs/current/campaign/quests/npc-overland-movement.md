@@ -1,7 +1,7 @@
 ---
 id: npc-overland-movement
-title: NPC Overland Movement
-hoverText: When a token moves, it must move a number of adjacent hexes as specified along the shortest route available. It will use its full movement unless it is able to reach its instructed destination using less movement.
+title: 'Передвижение НПС по атласу провинции'
+hoverText: 'Жетон передвигается на указанное количество соседних клеток по кратчайшему доступному маршруту. Он использует всё передвижение, если не может достичь назначенной цели за меньшее количество шагов.'
 ---
 
 Some [province](/docs/campaign/provinces/index) mechanics or [quests](/docs/campaign/quests/index) add NPC tokens to the overland map. NPC tokens are typically instructed to move in a specific direction or toward a specific feature on the map. When a token moves, it must move a number of adjacent hexes as specified along the shortest route available. It will use its full movement unless it is able to reach its instructed destination using less movement. If there are multiple possible routes, the party chooses which route that token will take.
