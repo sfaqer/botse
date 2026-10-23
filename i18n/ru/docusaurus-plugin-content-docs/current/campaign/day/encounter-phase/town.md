@@ -1,10 +1,10 @@
 ---
 id: town
-title: Город
-hoverText: Эти встречи описаны в буклете провинции и активируются, когда отряд завершает передвижение по атласу провинции в городе или когда, находясь в клетке с символом случайного события, выбрасывает результат <img src="/icons/town.svg" alt="Town Icon" classname="icon-svg"> на кубике случайных событий (см. [Бродячие караваны](/docs/campaign/day/encounter-phase/travelling-caravan)).
-----
+title: Town
+hoverText: These encounters are described in the gazetteer and are triggered when the party ends its overland movement in a town or rolls a <img src="/icons/town.svg" alt="Town Icon" className="icon-svg" /> result on the unstable die while at an unstable landmark (see [Traveling Caravans](/docs/campaign/day/encounter-phase/traveling-caravan)).
+---
 
-Эти встречи описаны в буклете провинции и активируются, когда отряд завершает передвижение по атласу провинции в городе или когда, находясь в клетке с символом случайного события, выбрасывает результат <img src="/icons/town.svg" alt="Town Icon" className="icon-svg" /> на кубике случайных событий (см. [Бродячие караваны](/docs/campaign/day/encounter-phase/travelling-caravan)).
+Эти встречи описаны в буклете провинции и активируются, когда отряд завершает передвижение по атласу провинции в городе или когда, находясь в клетке с символом случайного события, выбрасывает результат <img src="/icons/town.svg" alt="Town Icon" className="icon-svg" /> на кубике случайных событий (см. [Бродячие караваны](/docs/campaign/day/encounter-phase/traveling-caravan)).
 
 Некоторые города могут стать недоступны в результате встреч или заданий. Когда это происходит, отряд должен отметить это в дневнике кампании. Пока город недоступен, отряд не может передвинуться в клетку этого города.
 
