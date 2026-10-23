@@ -21,8 +21,7 @@ These are black. When an overfatigue die would be removed from the [cooldown tra
 <!-- translate:on -->
 **Is gaining any amount of light fatigue on demand considered an abuse/exploit of the rules as written?**
 
-This is getting an adjustment. On page 21 of the rulebook it says: If no black overfatigue dice remain in the supply, no fatigue dice are placed."
-This is being replaced with: "If no black overfatigue dice remain in the supply, adventurers must take 1 true damage for each overfatigue they are unable to place in their cooldown."
+This is getting an adjustment. On page 21 of the rulebook it says: If no black overfatigue dice remain in the supply, no fatigue dice are placed." This is being replaced with: "If no black overfatigue dice remain in the supply, adventurers must take 1 true damage for each overfatigue they are unable to place in their cooldown."
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Source</a>
 
