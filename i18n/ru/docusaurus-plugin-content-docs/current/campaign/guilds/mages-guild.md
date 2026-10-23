@@ -1,7 +1,7 @@
 ---
 id: mages-guild
-title: Mages Guild
-hoverText: Guild Kiosk Town Action - [Discard](/docs/glossary/discard) 1 [Potion](/docs/adventurer/items/types/potion) or [Enchantment](/docs/adventurer/items/types/enchantment) [item](/docs/adventurer/items/index) to train any [Mage](/docs/adventurer/skill-lines/mage) type skill line from the trainer bag.
+title: 'Гильдия магов'
+hoverText: 'Городское действие павильона гильдии: [сбросьте](/docs/glossary/discard) 1 [предмет](/docs/adventurer/items/index) типа [«Зелье»](/docs/adventurer/items/types/potion) или [«Зачарование»](/docs/adventurer/items/types/enchantment), чтобы освоить любую ветку навыков [Мага](/docs/adventurer/skill-lines/mage) из мешочка наставника.'
 ---
 
 <div className="guild-banner" style={{
@@ -23,9 +23,9 @@ hoverText: Guild Kiosk Town Action - [Discard](/docs/glossary/discard) 1 [Potion
     flex: "2 1 350px"
   }}>
 
-# Mages Guild
+# Гильдия магов
 
-A diverse collection of magic wielders brought together for the common purposes of research, magical experimentation, and teaching, the Mages Guild is the most well-known assembly of sorcerers and mystics in all of Tamriel.
+Гильдия магов объединяет самых разных чародеев ради общих целей: исследований, магических опытов и обучения. Это самое известное объединение магов и мистиков во всём Тамриэле.
 
   </div>
 </div>
