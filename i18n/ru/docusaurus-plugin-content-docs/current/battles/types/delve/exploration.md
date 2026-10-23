@@ -17,7 +17,7 @@ tags:
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-You occupy every hex you move into. When you're using [Acrobatics](/docs/adventurer/skill-lines/thief/acrobatics) to move through already [occupied](/docs/glossary/occupied) hexes, you occupy those hexes, you just can't end your movement in them. You are able to explore an occupied hex if an ability allows you to move into that hex.
+Вы занимаете каждую клетку, в которую передвигаетесь. Когда вы используете [«Акробатику»](/docs/adventurer/skill-lines/thief/acrobatics), чтобы передвигаться через уже [занятые](/docs/glossary/occupied) клетки, вы занимаете эти клетки, но не можете закончить в них передвижение. Вы можете исследовать занятую клетку, если способность позволяет вам передвинуться в неё.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1382539710303572008" target="_blank">Источник</a>
 <!-- translate:off -->
@@ -60,7 +60,7 @@ You occupy every hex you move into. When you're using [Acrobatics](/docs/adventu
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**When deploying enemies to a new tile, does the EP value of previously deployed enemies reduce the EP value?**
+**Уменьшают ли уже размещённые враги ЛВС при размещении врагов на новом участке?**
 
 Нет. Для каждого размещаемого участка вылазки ЛВС рассчитывается заново.
 
