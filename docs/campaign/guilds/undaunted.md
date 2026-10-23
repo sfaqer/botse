@@ -30,7 +30,7 @@ Knowing no fear of beast or blade, the Undaunted are a group of daring treasure 
   </div>
 </div>
 
-### Guild Kiosk Town Action
+### Guild Kiosk Town Action {#guild-kiosk-town-action}
 
 **Pledged:** [Discard](/docs/glossary/discard) all [items](/docs/adventurer/items/index) in the shop and refill it with new items equal to the shop's values. Then, gain 1 item from the new selection.
 
