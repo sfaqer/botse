@@ -1,21 +1,21 @@
 ---
 id: retreat
-title: Retreat
-hoverText: "If the party retreats, the encounter immediately ends. This means the encounter is failed, and the party does not gain the rewards for completing it. Exception: Uncover objective delves."
+title: 'Отступление'
+hoverText: 'Если отряд отступает, встреча немедленно заканчивается. Встреча считается проваленной, и отряд не получает награды за её завершение. Исключение — вылазки с задачей «Открытие».'
 ---
 
-The [party](/docs/glossary/party) may agree to retreat at the end of any [round](/docs/battles/battle-round). If the party retreats, the encounter immediately ends. This can be helpful to save time and resources by preventing adventurers from likely defeat, but this means the encounter is failed, and the party does not gain the rewards for completing it.
+[Отряд](/docs/glossary/party) может договориться об отступлении в конце любого [раунда](/docs/battles/battle-round). Если отряд отступает, встреча немедленно заканчивается. Это может помочь сберечь время и ресурсы, предотвратив вероятное поражение персонажей, но встреча считается проваленной и отряд не получает награды за её завершение.
 
-The exception is in delve battles with the [Uncover](/docs/battles/objectives/uncover) objective, when the party must retreat after gaining the required [skyshards](/docs/battles/types/delve/skyshard) to succeed.
+Исключение — вылазки с задачей [«Открытие»](/docs/battles/objectives/uncover): для успешного завершения такой встречи отряд должен отступить после получения необходимого количества [небесных осколков](/docs/battles/types/delve/skyshard).
 
 ---
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Do I need to occupy the entrance tile to retreat?**
+**Нужно ли находиться на участке входа, чтобы отступить?**
 
-No, there is no requirement to be on the entrance tile. You may simply choose to retreat at the end of a round.
+Нет, находиться на участке входа необязательно. Вы можете просто решить отступить в конце раунда.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1327125008618881035" target="_blank">Источник</a>
 <!-- translate:off -->

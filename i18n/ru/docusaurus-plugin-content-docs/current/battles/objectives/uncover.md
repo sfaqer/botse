@@ -1,17 +1,17 @@
 ---
 id: uncover
-title: Uncover
-hoverText: The [party](/docs/glossary/party) must fully explore the battle map by gaining all required [skyshards](/docs/battles/types/delve/skyshard)—by default 3—and then successfully retreat. If the party retreats before fully exploring the battle map, the encounter is failed.
+title: 'Открытие'
+hoverText: '[Отряд](/docs/glossary/party) должен полностью исследовать поле боя, получив все необходимые [небесные осколки](/docs/battles/types/delve/skyshard), по умолчанию 3, а затем успешно отступить. Если отряд отступает до полного исследования поля боя, встреча считается проваленной.'
 tags:
   - Delve
 ---
 
-The [party](/docs/glossary/party) must fully explore the battle map by gaining all required [skyshards](/docs/battles/types/delve/skyshard)—by default 3—and then successfully retreat. If the party retreats before fully exploring the battle map, the encounter is failed. Unlike other objectives, the party gains [XP](/docs/glossary/xp) from each skyshard it acquires in the [delve](/docs/battles/types/delve/)—up to that delve's required limit— so long as the entire party is not [defeated](/docs/glossary/defeated), in which case no XP is gained. This is true even if the party retreats before it has gained all required skyshards (see Retreating from Battle).
+[Отряд](/docs/glossary/party) должен полностью исследовать поле боя, получив все необходимые [небесные осколки](/docs/battles/types/delve/skyshard), по умолчанию 3, а затем успешно отступить. Если отряд отступает до полного исследования поля боя, встреча считается проваленной. В отличие от других задач, отряд получает [ОО](/docs/glossary/xp) за каждый небесный осколок, полученный в [вылазке](/docs/battles/types/delve/), в пределах требуемого для этой вылазки количества, если весь отряд не [повержен](/docs/glossary/defeated). При поражении всего отряда ОО не выдаются. Это правило действует и при отступлении до получения всех необходимых осколков (см. «Отступление из боя»).
 
-## Uncover vs Survey
+## Сравнение целей «Открытие» и «Изучение» {#uncover-vs-survey}
 
-| Aspect             | Uncover                                                                                                                                                         | Survey                             |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| XP Rewards         | 1 XP for each collected skyshard and encounter reward (if successful). You still gain XP for skyshards if you retreat with at least 1 party member still alive. | Encounter Reward XP only           |
-| Partial Completion | You gain XP for each skyshard even if retreating before completing the encounter.                                                                               | Not possible, encounter is failed. |
-| Encounter Duration | End of battle round, however it is optional even after objective is met.                                                                                        | End of battle round, not optional. |
+| Параметр             | Открытие                                                                                                                                                                                      | Изучение                                                    |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| Награды в ОО         | По 1 ОО за каждый полученный небесный осколок и награда за встречу, если она завершена успешно. При отступлении ОО за осколки сохраняются, если хотя бы один участник отряда остался в живых. | Только ОО из награды за встречу.                            |
+| Частичное выполнение | Вы получаете ОО за каждый небесный осколок, даже если отступаете до завершения встречи.                                                                                                       | Не засчитывается: встреча считается проваленной.            |
+| Завершение встречи   | В конце раунда боя. После сбора необходимых осколков можно продолжить бой.                                                                                                                    | Обязательно в конце раунда боя, в котором выполнена задача. |
