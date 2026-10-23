@@ -10,6 +10,7 @@ import {
   writeFile,
 } from "node:fs/promises";
 import { basename, dirname, join, resolve } from "node:path";
+import { createRequire } from "node:module";
 import test from "node:test";
 import { repoRoot } from "./i18n-utils.mjs";
 
@@ -244,4 +245,30 @@ test("workflow stages generated translations even when the English mirror is unc
     )
   );
   assert.match(git("diff", "--name-only"), /i18n\/ru\/code\.json/);
+});
+
+test("term previews preserve section links and still wrap document links", () => {
+  const require = createRequire(import.meta.url);
+  const replaceTerms = require("@grnet/webpack-terms-replace-loader");
+  const context = {
+    query: { termsDir: "./docs", baseUrl: "/reference/ru/" },
+    resourcePath: join(repoRoot, "docs/glossary/example.md"),
+  };
+  const sectionLinks = [
+    "[Recovery](/docs/battles/adventurer-turn/index/#2-recovery)",
+    "[Local](#2-recovery)",
+    "[Relative](../battles/adventurer-turn/index.md#2-recovery)",
+    "[Filtered](/docs/glossary/fatigue?view=all#overfatigue)",
+  ];
+  const source =
+    "---\nid: example\ntitle: Example\n---\n\n" +
+    [...sectionLinks, "[Fatigue](/docs/glossary/fatigue)"].join("\n\n");
+  const result = replaceTerms.call(context, source);
+  for (const link of sectionLinks) assert.ok(result.includes(link), link);
+  assert.ok(
+    result.includes(
+      '<Term pathName="/reference/ru/docs/glossary/fatigue">Fatigue</Term>'
+    )
+  );
+  assert.equal(replaceTerms.call(context, result), result);
 });

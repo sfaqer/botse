@@ -20,3 +20,16 @@ index bbf0f71..784fe0e 100644
      for (const url of urls) {
        const [mdUrl, title, urlPath] = url.match(urlRegex);
        const newLineRegex = /\n/g;
+@@ -21,7 +30,11 @@ import Term from "${ this.query.termPreviewComponentPath || "@grnet/docusaurus-t
+       const newLineCount = (title.match(newLineRegex) || []).length;
+       if (newLineCount <= 1) {
+         const rel_path = process.platform === 'win32' ? path.win32.relative(root, this.resourcePath) : path.relative(root, this.resourcePath);
+-        const pathName = new URL(urlPath, `http://bla.com/${rel_path}`).pathname;
++        const resolvedUrl = new URL(urlPath, `http://bla.com/${rel_path}`);
++        // Let Docusaurus handle section links with their full fragment.
++        // Term previews address whole documents and would discard the anchor.
++        if (resolvedUrl.hash) continue;
++        const pathName = resolvedUrl.pathname;
+         if (pathName.includes(this.query.termsDir.replace(/\./, ''))) {
+           const termKey =
+             this.query.baseUrl.replace(/\/$/, '') +
