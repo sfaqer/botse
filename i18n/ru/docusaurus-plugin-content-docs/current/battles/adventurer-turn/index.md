@@ -1,49 +1,49 @@
 ---
 id: index
-title: Adventurer Turn
-hoverText: During your turn, you can take a number of actions, including moving, engaging, resolving class abilities, or exploring at a distance.
+title: 'Ход персонажа'
+hoverText: 'Во время своего хода вы можете выполнять различные действия: передвигаться, атаковать, применять способности класса или исследовать клетки на расстоянии.'
 slug: /battles/adventurer-turn/index
 ---
 
-During your turn, you can take a number of actions, including moving, engaging, resolving class abilities, or exploring at a distance. When it is your adventurer's turn to act, follow the steps below:
+Во время своего хода вы можете выполнять различные действия: передвигаться, атаковать, применять способности класса или исследовать клетки на расстоянии. Когда наступает ход вашего персонажа, выполняйте следующие этапы по порядку:
 
-## Turn Sequence
+## Порядок хода {#turn-sequence}
 
-### 1. Start of Turn
+### 1. Начало хода {#1-start-of-turn}
 
-Trigger any abilities with this timing.
+Примените все способности, срабатывающие в этот момент.
 
-### 2. Recovery
+### 2. Возвращение кубиков {#2-recovery}
 
-Remove a number of dice from your [cooldown track](/docs/glossary/cooldown-track) equal to your [Cooldown](/docs/adventurer/stats/cooldown) stat, starting with the die furthest to the left in the track. As you remove dice, slide remaining dice in the track toward the left side to close any empty slots. Each type of die is handled as described below:
+Снимите со своего [трека перезарядки](/docs/glossary/cooldown-track) столько кубиков, сколько указано вашим показателем [перезарядки](/docs/adventurer/stats/cooldown), начиная с крайнего левого кубика на треке. Снимая кубики, сдвигайте оставшиеся влево, чтобы на треке не было пустых мест. С кубиками каждого типа поступайте следующим образом:
 
-- **Skills:** [Recover](/docs/glossary/recover) and place skill dice in the correct slots in your attribute rows.
-- **Fatigue:** [Discard](/docs/glossary/discard) light [fatigue](/docs/glossary/fatigue). Remove overfatigue and replace them at the leftmost **open** position in the track.
-- **Status Effects:** [Discard](/docs/glossary/discard) [status](/docs/glossary/status-effect) dice.
+- **Навыки:** [верните](/docs/glossary/recover) кубики навыков в соответствующие ячейки ваших рядов умений.
+- **Усталость:** [сбросьте](/docs/glossary/discard) кубики лёгкой [усталости](/docs/glossary/fatigue). Кубики переутомления снимите и снова поместите на крайние левые **свободные** места трека.
+- **Состояния:** [сбросьте](/docs/glossary/discard) кубики [состояний](/docs/glossary/status-effect).
 
-### 3. Adventurer Actions
+### 3. Действия персонажа {#3-adventurer-actions}
 
-Perform 1 or more of the below actions in any order you choose. You must resolve each action before you perform another action. Some actions prevent an adventurer from performing others, but there is no hard limit to the number of actions an adventurer can perform on their turn.
+Выполните одно или несколько из перечисленных ниже действий в любом порядке по своему выбору. Прежде чем начать следующее действие, нужно полностью завершить предыдущее. Некоторые действия не позволяют персонажу выполнять другие, но общего жёсткого ограничения на число действий за ход нет.
 
-- **[Move](/docs/battles/adventurer-turn/move):** Move a number of [adjacent](/docs/glossary/adjacent) hexes up to the value of your [Stamina](/docs/adventurer/stats/stamina) stat.
-- **[Engage](/docs/battles/adventurer-turn/engage):** Any number of times per turn, roll a number of [available](/docs/glossary/available) skill dice up to your [Stamina](/docs/adventurer/stats/stamina) or [Magicka](/docs/adventurer/stats/magicka) stat, as appropriate for each skill.
-  - After your first engage action each turn, you must gain 1 light [fatigue](/docs/glossary/fatigue) each time you perform an additional engage action (if playing on [Expert](/docs/campaign/difficulty-levels/expert) difficulty, gain 2 light fatigue instead). Otherwise, there is no limit to the number of engage actions you can perform.
-- **[Class Ability](/docs/battles/adventurer-turn/class-ability):** Any number of times per turn, spend the required amount of [tenacity](/docs/glossary/tenacity) to trigger a class ability.
-  - Each non-[enduring](/docs/glossary/enduring) class ability must be triggered at its correct timing and can be triggered only once per turn.
-- **[Explore](/docs/battles/adventurer-turn/explore) (delve only):** Once per turn, explore a hex from a distance up to your [Stamina](/docs/adventurer/stats/stamina).
+- **[Передвижение](/docs/battles/adventurer-turn/move):** передвиньтесь через [соседние](/docs/glossary/adjacent) клетки на расстояние, не превышающее вашу [выносливость](/docs/adventurer/stats/stamina).
+- **[Атака](/docs/battles/adventurer-turn/engage):** любое количество раз за ход бросайте [доступные](/docs/glossary/available) кубики навыков в пределах значений [выносливости](/docs/adventurer/stats/stamina) или [магии](/docs/adventurer/stats/magicka), в зависимости от того, с какой характеристикой связан каждый навык.
+  - После первой атаки в каждом своём ходу вы должны получать 1 кубик лёгкой [усталости](/docs/glossary/fatigue) за каждое дополнительное действие атаки. На уровне сложности [«Эксперты»](/docs/campaign/difficulty-levels/expert) вместо этого получайте 2 кубика лёгкой усталости. Других ограничений на число атак нет.
+- **[Способность класса](/docs/battles/adventurer-turn/class-ability):** любое количество раз за ход тратьте необходимое количество [стойкости](/docs/glossary/tenacity), чтобы активировать способность класса.
+  - Каждую способность класса, не являющуюся [постоянной](/docs/glossary/enduring), нужно активировать в указанный для неё момент и можно активировать только один раз за ход.
+- **[Исследование](/docs/battles/adventurer-turn/explore) (только при вылазке):** один раз за ход исследуйте клетку с расстояния, не превышающего вашу [выносливость](/docs/adventurer/stats/stamina).
 
-### 4. End of Turn
+### 4. Конец хода {#4-end-of-turn}
 
-Trigger any abilities with this timing. Then, proceed to the next adventurer or enemy in turn order.
+Примените все способности, срабатывающие в этот момент. Затем ход переходит к следующему персонажу или врагу согласно очерёдности ходов.
 
 ---
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Resolving Partial Skills and Abilities**
+**Частичное применение навыков и способностей**
 
-When you resolve a skill or ability, you must do as much of the skill or ability as is possible, ignoring any portion that you are unable to resolve. If the skill or ability has a cost associated with it, you must be able to fully resolve the cost in order to resolve the skill or ability. If a skill or ability is worded such that you must do one thing **to** do another, or do one thing **then** do another, the first portion of that skill or ability is considered to be the cost.
+Применяя навык или способность, вы должны выполнить всё, что возможно, пропуская только те части, которые выполнить нельзя. Если у навыка или способности есть цена, вы должны иметь возможность полностью её оплатить, чтобы применить этот навык или способность. Если формулировка требует сделать одно **для того, чтобы** сделать другое, или сделать одно, **затем** другое, первая часть навыка или способности считается ценой.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Источник</a>
 <!-- translate:off -->
@@ -52,13 +52,13 @@ When you resolve a skill or ability, you must do as much of the skill or ability
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**How are dice and damage resolved on your turn?**
+**Как применяются результаты кубиков и наносится урон во время вашего хода?**
 
-Dice are resolved one at a time in the order the player chooses. For dice that deal damage, pool all damage that would be dealt to each non-adventurer, and apply that damage after the last die dealing damage to that unit is resolved. If any rolled dice allow non-adventurers to prevent damage, also pool these dice when calculating damage taken. Any restrictions regarding which units a die can be resolved against (for example, if a result requires adjacency) are assessed at the time the die is resolved.
+Результаты кубиков применяются по одному в порядке, выбранном игроком. Для кубиков, наносящих урон, суммируйте весь урон, который должен быть нанесён каждой боевой единице, не являющейся персонажем. Нанесите этот урон после применения результата последнего кубика, наносящего урон этой боевой единице. Если какие-либо брошенные кубики позволяют боевым единицам, не являющимся персонажами, предотвратить урон, их результаты также суммируются при расчёте получаемого урона. Любые ограничения на то, к каким боевым единицам можно применить результат кубика, проверяются в момент применения этого результата. Например, так проверяется требование находиться в соседних клетках.
 
-This replaces the b. point under Resolve the Roll on pg. 60 of the rulebook.
+Это уточнение заменяет пункт «б» раздела «Применение результатов броска» на с. 60 книги правил.
 
-Damage dealt by adventurers is pooled when dealt to **enemies or companions**. Damage is is not pooled when dealt to adventurers.
+Урон, наносимый персонажами **врагам или компаньонам**, суммируется. Урон, наносимый персонажам, не суммируется.
 
 <a href="https://discord.com/channels/273472391403798528/1392759133953986590/1400147849597030481" target="_blank">Источник</a>
 <!-- translate:off -->

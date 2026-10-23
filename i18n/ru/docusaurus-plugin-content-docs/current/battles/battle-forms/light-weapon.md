@@ -1,11 +1,11 @@
 ---
 id: light-weapon
-title: Light Weapon
-hoverText: '[Range](/docs/glossary/range): Adjacent only. This form represents melee engages using single-handed skills, such as One Hand and Shield.'
+title: 'Лёгкое оружие'
+hoverText: '[Дальность](/docs/glossary/range): только соседние клетки. Этот режим представляет атаки ближнего боя с использованием навыков владения одноручным оружием, например ветки «Одноручное оружие и щит».'
 ---
 
-# <img src="/icons/light-weapon.svg" alt="Light Weapon Icon" /> Light Weapon
+# <img src="/icons/light-weapon.svg" alt="Light Weapon Icon" /> Лёгкое оружие {#light-weapon}
 
-**[Range](/docs/glossary/range):** Adjacent only.
+**[Дальность](/docs/glossary/range):** только соседние клетки.
 
-Represents melee engages using single-handed skills, such as [One Hand and Shield](/docs/adventurer/skill-lines/warrior/one-hand-and-shield).
+Этот режим представляет атаки ближнего боя с использованием навыков владения одноручным оружием, например ветки [«Одноручное оружие и щит»](/docs/adventurer/skill-lines/warrior/one-hand-and-shield).

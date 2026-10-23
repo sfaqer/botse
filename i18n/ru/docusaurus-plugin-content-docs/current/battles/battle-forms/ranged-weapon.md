@@ -1,25 +1,25 @@
 ---
 id: ranged-weapon
-title: Ranged Weapon
-hoverText: '[Range](/docs/glossary/range): Non-adjacent up to Stamina stat. This represents ranged engages using skills such as Bow. Adjacent units cannot be targeted in this form, but range is counted as normal.'
+title: 'Дальнобойное оружие'
+hoverText: '[Дальность](/docs/glossary/range): в пределах значения выносливости, кроме соседних клеток. Этот режим представляет атаки на расстоянии с использованием таких навыков, как «Лук». В этом режиме нельзя выбирать целью боевые единицы в соседних клетках, но дальность считается обычным образом.'
 ---
 
-# <img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" /> Ranged Weapon
+# <img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" /> Дальнобойное оружие {#ranged-weapon}
 
-**[Range](/docs/glossary/range):** Non-adjacent, up to [Stamina](/docs/adventurer/stats/stamina) stat.
+**[Дальность](/docs/glossary/range):** в пределах значения [выносливости](/docs/adventurer/stats/stamina), кроме соседних клеток.
 
-Represents ranged engages using skills such as Bow. [Adjacent](/docs/glossary/adjacent) [units](/docs/glossary/unit) cannot be targeted in this form, but [range](/docs/glossary/range) is counted as normal.
+Этот режим представляет атаки на расстоянии с использованием таких навыков, как «Лук». В этом режиме нельзя выбирать целью [боевые единицы](/docs/glossary/unit) в [соседних](/docs/glossary/adjacent) клетках, но [дальность](/docs/glossary/range) считается обычным образом.
 
-For example, an adventurer in Ranged Weapon form with 3 [Stamina](/docs/adventurer/stats/stamina) can target units 2 or 3 hexes away, but not adjacent units.
+Например, персонаж в режиме «Дальнобойное оружие» с [выносливостью](/docs/adventurer/stats/stamina) 3 может выбирать целью боевые единицы на расстоянии 2 или 3 клеток, но не в соседних клетках.
 
 ---
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**In Ranged battle form, do adjacent units count as "in range" (for example, when using the [Hawk Eye](/docs/adventurer/classes/warrior/archer) class ability)?**
+**Считаются ли боевые единицы в соседних клетках находящимися в пределах дальности в режиме «Дальнобойное оружие» — например, при использовании способности класса [Hawk Eye](/docs/adventurer/classes/warrior/archer)?**
 
-No, adjacent units are not within your range if you are in Ranged battle form.
+Нет. Если вы находитесь в режиме «Дальнобойное оружие», боевые единицы в соседних клетках не находятся в пределах вашей дальности.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Источник</a>
 

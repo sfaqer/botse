@@ -41,7 +41,7 @@ title: Иконография
 
 | Символ                                                          | Название                                                        |
 | --------------------------------------------------------------- | --------------------------------------------------------------- |
-| <img src="/icons/defensive.svg" alt="Defensive Icon" />         | [Зашита](/docs/battles/battle-forms/defensive)                  |
+| <img src="/icons/defensive.svg" alt="Defensive Icon" />         | [Оборона](/docs/battles/battle-forms/defensive)                 |
 | <img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" />   | [Тяжёлое оружие](/docs/battles/battle-forms/heavy-weapon)       |
 | <img src="/icons/light-weapon.svg" alt="Light Weapon Icon" />   | [Лёгкое оружие](/docs/battles/battle-forms/light-weapon)        |
 | <img src="/icons/magic.svg" alt="Magic Icon" />                 | [Магия](/docs/battles/battle-forms/magic)                       |
