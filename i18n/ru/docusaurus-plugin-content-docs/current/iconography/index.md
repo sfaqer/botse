@@ -10,8 +10,8 @@ title: Иконография
 | <img src="/icons/active-slot.svg" alt="Active Slot Icon" />       | [Ячейки активности](/docs/glossary/active-slot)   |
 | <img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" /> | [Трек перезарядки](/docs/glossary/cooldown-track) |
 | <img src="/icons/drained.svg" alt="Drained Icon" />               | [Исчерпаемый](/docs/glossary/drained)             |
-| <img src="/icons/instant.svg" alt="Instant Icon" />               | [Мгновенный](/docs/glossary/instant)              |
-| <img src="/icons/status-effect.svg" alt="Status Effect Icon" />   | [Эффект состояния](/docs/glossary/status-effect)  |
+| <img src="/icons/instant.svg" alt="Instant Icon" />               | [Мгновенно](/docs/glossary/instant)               |
+| <img src="/icons/status-effect.svg" alt="Status Effect Icon" />   | [Состояние](/docs/glossary/status-effect)         |
 
 ### Типы предметов
 

@@ -1,9 +1,9 @@
 ---
 id: necrotic
-title: Necrotic
-hoverText: At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), it deals all [adjacent](/docs/glossary/adjacent) units 1 [true damage](/docs/glossary/true-damage).
+title: 'Аура смерти'
+hoverText: 'В конце своего [хода](/docs/glossary/turn) эта [боевая единица](/docs/glossary/unit) наносит всем боевым единицам в [соседних](/docs/glossary/adjacent) клетках по 1 единице [неблокируемого урона](/docs/glossary/true-damage).'
 tags:
   - Quest Unit Skill
 ---
 
-At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), it deals all [adjacent](/docs/glossary/adjacent) units 1 [true damage](/docs/glossary/true-damage).
+В конце своего [хода](/docs/glossary/turn) эта [боевая единица](/docs/glossary/unit) наносит всем боевым единицам в [соседних](/docs/glossary/adjacent) клетках по 1 единице [неблокируемого урона](/docs/glossary/true-damage).
