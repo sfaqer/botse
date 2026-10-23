@@ -22,8 +22,11 @@ hoverText: Guild Kiosk Town Action - Place a [Fear](/docs/battles/status-effects
   <div style={{
     flex: "2 1 350px"
   }}>
-   # Dark Brotherhood
-    A guild of zealous assassins, these amoral professionals will take on any contract if the correct rites are enacted. Members of the Dark Brotherhood are accountable only to themselves, their strict bylaws, and their dark god, Sithis.
+
+# Dark Brotherhood
+
+A guild of zealous assassins, these amoral professionals will take on any contract if the correct rites are enacted. Members of the Dark Brotherhood are accountable only to themselves, their strict bylaws, and their dark god, Sithis.
+
   </div>
 </div>
 

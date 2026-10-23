@@ -22,8 +22,11 @@ hoverText: Guild Kiosk Town Action - [Discard](/docs/glossary/discard) 1 Consuma
   <div style={{
     flex: "2 1 350px"
   }}>
-    # Outer Watch
-   The Outer Watch is a newer guild, first founded to provide aid to those in need and lift up the downtrodden. Recently, the organization has turned its attention to stopping the machinations of a rogue former member.
+
+# Outer Watch
+
+The Outer Watch is a newer guild, first founded to provide aid to those in need and lift up the downtrodden. Recently, the organization has turned its attention to stopping the machinations of a rogue former member.
+
   </div>
 </div>
 

@@ -22,8 +22,11 @@ hoverText: Guild Kiosk Town Action - Search the Common Item Deck and gain the fi
   <div style={{
     flex: "2 1 350px"
   }}>
-   # Circle of Champions
-    Tamriel's premier professional fighting organization is renowned for running dangerous tournaments in battlegrounds across the land. The Circle of Champions is always in need of new gladiators.
+
+# Circle of Champions
+
+Tamriel's premier professional fighting organization is renowned for running dangerous tournaments in battlegrounds across the land. The Circle of Champions is always in need of new gladiators.
+
   </div>
 </div>
 

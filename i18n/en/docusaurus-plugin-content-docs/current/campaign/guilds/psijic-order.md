@@ -22,8 +22,11 @@ hoverText: Guild Kiosk Town Action - Untrain a level 1 [Mage](/docs/adventurer/s
   <div style={{
     flex: "2 1 350px"
   }}>
-    # Psijic Order
-   The Psijic Order is a secretive sect dedicated to studying magic in what its members call "the Old Ways." Whether providing advice to kings or establishing safeguards over spellcasting, this enigmatic group is one of the most powerful organizations on Nirn.
+
+# Psijic Order
+
+The Psijic Order is a secretive sect dedicated to studying magic in what its members call "the Old Ways." Whether providing advice to kings or establishing safeguards over spellcasting, this enigmatic group is one of the most powerful organizations on Nirn.
+
   </div>
 </div>
 
