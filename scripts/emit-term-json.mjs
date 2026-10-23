@@ -12,8 +12,13 @@
 // Usage: node scripts/emit-term-json.mjs <buildDir>
 
 import { readFile, writeFile, mkdir, readdir, stat } from "node:fs/promises";
-import { join, relative, dirname, sep } from "node:path";
-import { fileURLToPath } from "node:url";
+import { join, relative, dirname } from "node:path";
+import {
+  defaultLocale,
+  discoverLocales,
+  localeDocFiles,
+  repoRoot,
+} from "./i18n-utils.mjs";
 
 // Minimal markdown subset → HTML for tooltip hoverText: paragraphs, links,
 // inline code, bold/italic. Anything more elaborate isn't used in glossary
@@ -22,23 +27,20 @@ function mdToHtml(src, urlPrefix = "") {
   const escape = (s) =>
     s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
   let html = escape(src);
-  html = html.replace(
-    /\[([^\]]+)\]\(([^)]+)\)/g,
-    (_, text, href) => {
-      // Internal /docs/... links inside hoverText are rendered into the
-      // tooltip via dangerouslySetInnerHTML, so they bypass <Link> and the
-      // markdown.preprocessor that handles baseUrl/locale rewriting for
-      // normal markdown content. Prefix root-relative URLs here so the
-      // tooltip's anchors land at /botse/<locale>/docs/... instead of the
-      // bare /docs/... which the browser resolves against the GH Pages
-      // root, missing both baseUrl and the active locale segment.
-      const resolved =
-        href.startsWith("/") && !href.startsWith("//")
-          ? urlPrefix + href.slice(1)
-          : href;
-      return `<a href="${resolved}">${text}</a>`;
-    },
-  );
+  html = html.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (_, text, href) => {
+    // Internal /docs/... links inside hoverText are rendered into the
+    // tooltip via dangerouslySetInnerHTML, so they bypass <Link> and the
+    // markdown.preprocessor that handles baseUrl/locale rewriting for
+    // normal markdown content. Prefix root-relative URLs here so the
+    // tooltip's anchors land at /botse/<locale>/docs/... instead of the
+    // bare /docs/... which the browser resolves against the GH Pages
+    // root, missing both baseUrl and the active locale segment.
+    const resolved =
+      href.startsWith("/") && !href.startsWith("//")
+        ? urlPrefix + href.slice(1)
+        : href;
+    return `<a href="${resolved}">${text}</a>`;
+  });
   html = html.replace(/`([^`]+)`/g, "<code>$1</code>");
   html = html.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
   html = html.replace(/(^|[\s(])\*([^*]+)\*/g, "$1<em>$2</em>");
@@ -46,16 +48,6 @@ function mdToHtml(src, urlPrefix = "") {
 }
 
 const buildDir = process.argv[2] ?? "build";
-const repoRoot = fileURLToPath(new URL("..", import.meta.url));
-
-async function* walk(dir) {
-  for (const entry of await readdir(dir)) {
-    const p = join(dir, entry);
-    const s = await stat(p);
-    if (s.isDirectory()) yield* walk(p);
-    else if (entry.endsWith(".md") || entry.endsWith(".mdx")) yield p;
-  }
-}
 
 // Yield directories that contain a `_category_.json` (Docusaurus auto-generates
 // an index page for these when there's no explicit index.md). The terminology
@@ -109,9 +101,9 @@ function parseFrontmatter(src) {
   return data;
 }
 
-async function emitForLocale(srcRoot, outRoot, urlPrefix) {
+async function emitForLocale(locale, outRoot, urlPrefix) {
   let count = 0;
-  for await (const file of walk(srcRoot)) {
+  for (const [relativePath, file] of await localeDocFiles(locale)) {
     const raw = await readFile(file, "utf-8");
     const fm = parseFrontmatter(raw) ?? {};
     // Emit a JSON for every markdown file: the @grnet term-preview component
@@ -119,15 +111,14 @@ async function emitForLocale(srcRoot, outRoot, urlPrefix) {
     // missing file leaves the tooltip stuck on "loading...". Pages without a
     // hoverText fall back to title-only metadata; the tooltip then shows just
     // the title. Glossary terms keep their full hoverText body.
-    const fallbackId = relative(srcRoot, file)
-      .replace(/\\/g, "/")
+    const fallbackId = relativePath
       .replace(/\.mdx?$/, "")
       .split("/")
       .pop();
     const id = fm.id || fallbackId;
     const title = fm.title || id;
     const hoverHtml = fm.hoverText ? mdToHtml(fm.hoverText, urlPrefix) : "";
-    const rel = relative(srcRoot, file).replace(/\\/g, "/").replace(/\.mdx?$/, "");
+    const rel = relativePath.replace(/\.mdx?$/, "");
     const outFile = join(outRoot, rel + ".json");
     await mkdir(dirname(outFile), { recursive: true });
     await writeFile(
@@ -135,7 +126,7 @@ async function emitForLocale(srcRoot, outRoot, urlPrefix) {
       JSON.stringify({
         metadata: { ...fm, id, title, hoverText: hoverHtml },
         content: "",
-      }),
+      })
     );
     count++;
   }
@@ -158,7 +149,7 @@ async function emitCategoryStubs(catSrcRoot, outRoots) {
     let label = "";
     try {
       const cat = JSON.parse(
-        await readFile(join(catDir, "_category_.json"), "utf-8"),
+        await readFile(join(catDir, "_category_.json"), "utf-8")
       );
       label = cat.label ?? "";
     } catch {}
@@ -184,39 +175,21 @@ async function emitCategoryStubs(catSrcRoot, outRoots) {
 // — without baseUrl/locale they resolve against the GH Pages root and 404.
 const previewConfigSrc = await readFile(
   join(repoRoot, "docusaurus.preview.config.ts"),
-  "utf-8",
+  "utf-8"
 );
 const baseUrlMatch = previewConfigSrc.match(
-  /(?:PREVIEW_BASE_URL\s*=\s*|baseUrl:\s*)["']([^"']+)["']/,
+  /(?:PREVIEW_BASE_URL\s*=\s*|baseUrl:\s*)["']([^"']+)["']/
 );
 const baseUrl = baseUrlMatch ? baseUrlMatch[1] : "/";
 
 const docsRoot = join(repoRoot, "docs");
-const outDocsRoot = join(buildDir, "docs");
-await emitForLocale(docsRoot, outDocsRoot, baseUrl);
-
-const categoryOutRoots = [outDocsRoot];
-
-// non-default locales
-const i18nRoot = join(repoRoot, "i18n");
-try {
-  for (const locale of await readdir(i18nRoot)) {
-    if (locale === "en") continue;
-    const localeDocsSrc = join(
-      i18nRoot,
-      locale,
-      "docusaurus-plugin-content-docs",
-      "current",
-    );
-    try {
-      await stat(localeDocsSrc);
-    } catch {
-      continue;
-    }
-    const localeOut = join(buildDir, locale, "docs");
-    await emitForLocale(localeDocsSrc, localeOut, `${baseUrl}${locale}/`);
-    categoryOutRoots.push(localeOut);
-  }
-} catch {}
+const categoryOutRoots = [];
+for (const locale of discoverLocales()) {
+  const localePath = locale === defaultLocale ? "" : locale;
+  const localeOut = join(buildDir, localePath, "docs");
+  const urlPrefix = localePath ? `${baseUrl}${locale}/` : baseUrl;
+  await emitForLocale(locale, localeOut, urlPrefix);
+  categoryOutRoots.push(localeOut);
+}
 
 await emitCategoryStubs(docsRoot, categoryOutRoots);
