@@ -54,9 +54,9 @@ An adjacent adventurer is 1 hex away, so 1 tenacity is lost in the transfer.
 <!-- translate:off -->
 :::
 <!-- translate:on -->
-## Speech in Social Checks
+## Красноречие при проверках общения {#speech-in-social-checks}
 
-Before [adventurers](/docs/glossary/adventurer) spend any [tenacity](/docs/glossary/tenacity) to resolve a social check, adventurers with [available](/docs/glossary/available) Speech skill dice in their attribute slots may choose to roll any number of those skill dice (regardless of their [Stamina](/docs/adventurer/stats/stamina)). Instead of resolving the effects of the rolled results, the numeric values on the rolled results count toward the party's social check, reducing the amount of tenacity that must be spent to succeed at the check. Regardless of success, all rolled dice are exhausted.
+Прежде чем [персонажи](/docs/glossary/adventurer) потратят [стойкость](/docs/glossary/tenacity) на проверку общения, персонажи с [доступными](/docs/glossary/available) кубиками навыков «Красноречия» в рядах умений могут бросить любое их количество, независимо от своей [выносливости](/docs/adventurer/stats/stamina). Эффекты выпавших результатов не применяются. Вместо этого их числовые значения учитываются в результате проверки отряда, уменьшая необходимую для успеха затрату стойкости. Независимо от исхода все брошенные кубики истощаются.
 
 ## Связанные материалы
 

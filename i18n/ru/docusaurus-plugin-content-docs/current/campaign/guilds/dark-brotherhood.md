@@ -1,7 +1,7 @@
 ---
 id: dark-brotherhood
-title: Dark Brotherhood
-hoverText: Guild Kiosk Town Action - Place a [Fear](/docs/battles/status-effects/fear) status die into a ready slot as an [item](/docs/adventurer/items/index). On your [turn](/docs/glossary/turn) in battle, you may use this item to apply the [Fear](/docs/battles/status-effects/fear) status die to an [adjacent](/docs/glossary/adjacent) [enemy](/docs/glossary/enemy).
+title: 'Тёмное Братство'
+hoverText: 'Городское действие павильона гильдии: поместите кубик состояния [«Страх»](/docs/battles/status-effects/fear) в ячейку активного снаряжения как [предмет](/docs/adventurer/items/index). В свой [ход](/docs/glossary/turn) в бою вы можете использовать этот предмет, чтобы применить кубик состояния [«Страх»](/docs/battles/status-effects/fear) к [соседнему](/docs/glossary/adjacent) [врагу](/docs/glossary/enemy).'
 ---
 
 <div className="guild-banner" style={{
@@ -22,27 +22,30 @@ hoverText: Guild Kiosk Town Action - Place a [Fear](/docs/battles/status-effects
   <div style={{
     flex: "2 1 350px"
   }}>
-   # Dark Brotherhood
-    A guild of zealous assassins, these amoral professionals will take on any contract if the correct rites are enacted. Members of the Dark Brotherhood are accountable only to themselves, their strict bylaws, and their dark god, Sithis.
+
+# Тёмное Братство
+
+Гильдия фанатичных убийц. Эти лишённые нравственных принципов профессионалы возьмутся за любой заказ, если соблюдены нужные обряды. Члены Тёмного Братства отвечают лишь перед собой, строгими законами гильдии и своим тёмным богом Ситисом.
+
   </div>
 </div>
 
-### Guild Kiosk Town Action
+### Городское действие павильона гильдии {#guild-kiosk-town-action}
 
-**Mark of the Black Hand:** Place a [Fear](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" className="icon-svg" />) status die into a ready slot as an [item](/docs/adventurer/items/index). On your [turn](/docs/glossary/turn) in battle, you may use this item to apply the [Fear](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" className="icon-svg" />) status die to an [adjacent](/docs/glossary/adjacent) [enemy](/docs/glossary/enemy).
+**Mark of the Black Hand:** поместите кубик состояния [«Страх»](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" className="icon-svg" />) в ячейку активного снаряжения как [предмет](/docs/adventurer/items/index). В свой [ход](/docs/glossary/turn) в бою вы можете использовать этот предмет, чтобы применить кубик состояния [«Страх»](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" className="icon-svg" />) к [соседнему](/docs/glossary/adjacent) [врагу](/docs/glossary/enemy).
 
-### Guild Focus
+### Особенности заданий гильдии {#guild-focus}
 
-The party usually focuses on eliminating specific targets. This can take the form of unique battles or non-combat actions.
+Обычно отряд должен устранять определённые цели. Для этого могут потребоваться особые бои или действия без боя.
 
 ---
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**How does Mark of the Black Hand work?**
+**Как работает Mark of the Black Hand?**
 
-When you apply the die to an adjacent enemy, the die is removed from your [ready slot](/docs/adventurer/items/inventory). To get another [Fear](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" className="icon-svg" />) status die, you need to take the Guild Kiosk Town Action.
+Когда вы применяете кубик к соседнему врагу, он убирается из вашей [ячейки активного снаряжения](/docs/adventurer/items/inventory). Чтобы получить ещё один кубик состояния [«Страх»](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" className="icon-svg" />), нужно выполнить городское действие павильона гильдии.
 
 <!-- translate:off -->
 :::
@@ -50,9 +53,9 @@ When you apply the die to an adjacent enemy, the die is removed from your [ready
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Can you keep the dice from Mark of the Black Hand between sessions?**
+**Можно ли сохранить кубики Mark of the Black Hand между эпизодами?**
 
-The Dark Brotherhood's guild action allows you to gain a Fear status die as an item. Just as you must discard expended items at the end of a session, you must discard items represented by dice at the end of the session as well. You cannot carry this item with you to the next session.
+Действие Тёмного Братства позволяет получить кубик состояния «Страх» в качестве предмета. В конце эпизода вы должны сбросить предметы, представленные кубиками, так же как и использованные предметы. Перенести такой предмет в следующий эпизод нельзя.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294280/" target="_blank">Источник</a>
 

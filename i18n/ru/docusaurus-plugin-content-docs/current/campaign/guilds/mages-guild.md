@@ -1,7 +1,7 @@
 ---
 id: mages-guild
-title: Mages Guild
-hoverText: Guild Kiosk Town Action - [Discard](/docs/glossary/discard) 1 [Consumable](/docs/adventurer/items/types/consumable) or [Enchantment](/docs/adventurer/items/types/enchantment) [item](/docs/adventurer/items/index) to train any [Mage](/docs/adventurer/skill-lines/mage) type skill line from the trainer bag.
+title: 'Гильдия магов'
+hoverText: 'Городское действие павильона гильдии: [сбросьте](/docs/glossary/discard) 1 [предмет](/docs/adventurer/items/index) типа [«Зелье»](/docs/adventurer/items/types/potion) или [«Зачарование»](/docs/adventurer/items/types/enchantment), чтобы освоить любую ветку навыков [Мага](/docs/adventurer/skill-lines/mage) из мешочка наставника.'
 ---
 
 <div className="guild-banner" style={{
@@ -22,15 +22,18 @@ hoverText: Guild Kiosk Town Action - [Discard](/docs/glossary/discard) 1 [Consum
   <div style={{
     flex: "2 1 350px"
   }}>
-    # Mages Guild
-    A diverse collection of magic wielders brought together for the common purposes of research, magical experimentation, and teaching, the Mages Guild is the most well-known assembly of sorcerers and mystics in all of Tamriel.
+
+# Гильдия магов
+
+Гильдия магов объединяет самых разных чародеев ради общих целей: исследований, магических опытов и обучения. Это самое известное объединение магов и мистиков во всём Тамриэле.
+
   </div>
 </div>
 
-### Guild Kiosk Town Action
+### Городское действие павильона гильдии {#guild-kiosk-town-action}
 
-**Guild Hall Study:** [Discard](/docs/glossary/discard) 1 [<img src="/icons/potion.svg" alt="Potion Icon" className="icon-svg" />](/docs/adventurer/items/types/potion) or [<img src="/icons/enchantment.svg" alt="Enchantment Item Icon" className="icon-svg" />](/docs/adventurer/items/types/enchantment) [item](/docs/adventurer/items/index) to train any [<img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" />](/docs/adventurer/skill-lines/mage) type skill line from the trainer bag.
+**Guild Hall Study:** [сбросьте](/docs/glossary/discard) 1 [предмет](/docs/adventurer/items/index) типа «Зелье» ([<img src="/icons/potion.svg" alt="Potion Icon" className="icon-svg" />](/docs/adventurer/items/types/potion)) или «Зачарование» ([<img src="/icons/enchantment.svg" alt="Enchantment Item Icon" className="icon-svg" />](/docs/adventurer/items/types/enchantment)), чтобы освоить любую ветку навыков Мага ([<img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" />](/docs/adventurer/skill-lines/mage)) из мешочка наставника.
 
-### Guild Focus
+### Особенности заданий гильдии {#guild-focus}
 
-The party focuses on aid and fact-finding missions. This often includes playing with an allied unit.
+Отряд занимается оказанием помощи и сбором сведений. Часто в таких заданиях участвует союзная боевая единица.
