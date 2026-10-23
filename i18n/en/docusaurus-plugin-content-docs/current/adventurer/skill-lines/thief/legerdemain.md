@@ -36,7 +36,7 @@ You may roll this die when making a lockpick attempt.
 
 | Icon                                                                         | Ability                                                            |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| <img src="/icons/skills/legerdemain/locksmith.png" className="skill-icon" /> | Adjust any rolled [lockpick](/docs/glossary/lockpicking) die by 1. |
+| <img alt="Locksmith" src="/icons/skills/legerdemain/locksmith.png" className="skill-icon" /> | Adjust any rolled [lockpick](/docs/glossary/lockpicking) die by 1. |
 
 ## Level 2
 
@@ -48,11 +48,11 @@ You may roll this die when making a lockpick attempt.
 
 | Icon                                                                                 | Ability                                                                                            |
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
-| <img src="/icons/skills/legerdemain/finders-keepers-1.png" className="skill-icon" /> | Flip 1 rolled die to its opposite side.                                                            |
-| <img src="/icons/skills/legerdemain/finders-keepers-2.png" className="skill-icon" /> | Modify any rolled die by up to 2.                                                                  |
-| <img src="/icons/skills/legerdemain/finders-keepers-3.png" className="skill-icon" /> | Gain 1 additional attempt for the current lockpick check.                                          |
-| <img src="/icons/skills/legerdemain/finders-keepers-4.png" className="skill-icon" /> | Set all rolled dice to the sides of your choice.                                                   |
-| <img src="/icons/skills/legerdemain/finders-keepers-5.png" className="skill-icon" /> | You must resolve this result. Exhaust this die and gain 1 light [fatigue](/docs/glossary/fatigue). |
+| <img alt="Finders keepers 1" src="/icons/skills/legerdemain/finders-keepers-1.png" className="skill-icon" /> | Flip 1 rolled die to its opposite side.                                                            |
+| <img alt="Finders keepers 2" src="/icons/skills/legerdemain/finders-keepers-2.png" className="skill-icon" /> | Modify any rolled die by up to 2.                                                                  |
+| <img alt="Finders keepers 3" src="/icons/skills/legerdemain/finders-keepers-3.png" className="skill-icon" /> | Gain 1 additional attempt for the current lockpick check.                                          |
+| <img alt="Finders keepers 4" src="/icons/skills/legerdemain/finders-keepers-4.png" className="skill-icon" /> | Set all rolled dice to the sides of your choice.                                                   |
+| <img alt="Finders keepers 5" src="/icons/skills/legerdemain/finders-keepers-5.png" className="skill-icon" /> | You must resolve this result. Exhaust this die and gain 1 light [fatigue](/docs/glossary/fatigue). |
 
 ## Level 3
 
@@ -64,10 +64,10 @@ You may roll this die during a [town](/docs/campaign/day/encounter-phase/town) e
 
 | Icon                                                                               | Ability                                                                                                                                   |
 | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="/icons/skills/legerdemain/light-fingers-1.png" className="skill-icon" /> | Gain 1 <img src="/icons/common-item.svg" alt="Common Item Icon" className="icon-svg" /> from the shop. You may roll this die again.       |
-| <img src="/icons/skills/legerdemain/light-fingers-2.png" className="skill-icon" /> | Gain 1 <img src="/icons/legendary-item.svg" alt="Legendary Item Icon" className="icon-svg" /> from the shop. You may roll this die again. |
-| <img src="/icons/skills/legerdemain/light-fingers-3.png" className="skill-icon" /> | Gain 2 [tenacity](/docs/glossary/tenacity).                                                                                               |
-| <img src="/icons/skills/legerdemain/light-fingers-4.png" className="skill-icon" /> | You must resolve this result. Exhaust this die and gain 1 light [fatigue](/docs/glossary/fatigue).                                        |
+| <img alt="Light fingers 1" src="/icons/skills/legerdemain/light-fingers-1.png" className="skill-icon" /> | Gain 1 <img src="/icons/common-item.svg" alt="Common Item Icon" className="icon-svg" /> from the shop. You may roll this die again.       |
+| <img alt="Light fingers 2" src="/icons/skills/legerdemain/light-fingers-2.png" className="skill-icon" /> | Gain 1 <img src="/icons/legendary-item.svg" alt="Legendary Item Icon" className="icon-svg" /> from the shop. You may roll this die again. |
+| <img alt="Light fingers 3" src="/icons/skills/legerdemain/light-fingers-3.png" className="skill-icon" /> | Gain 2 [tenacity](/docs/glossary/tenacity).                                                                                               |
+| <img alt="Light fingers 4" src="/icons/skills/legerdemain/light-fingers-4.png" className="skill-icon" /> | You must resolve this result. Exhaust this die and gain 1 light [fatigue](/docs/glossary/fatigue).                                        |
 
 ## Level 4
 
@@ -79,4 +79,4 @@ You may roll this die at the start of a [town](/docs/campaign/day/encounter-phas
 
 | Icon                                                                                     | Ability                        |
 | ---------------------------------------------------------------------------------------- | ------------------------------ |
-| <img src="/icons/skills/legerdemain/friends-in-low-places.png" className="skill-icon" /> | Gain 1 additional town action. |
+| <img alt="Friends in low places" src="/icons/skills/legerdemain/friends-in-low-places.png" className="skill-icon" /> | Gain 1 additional town action. |

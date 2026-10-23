@@ -91,3 +91,9 @@ Run `npm run test:i18n` to check locale discovery, untranslated-document fallbac
 
 
 > Translated using [Weblate](https://weblate.org/).
+
+### Document checks
+
+Run `npm run check:docs` before submitting documentation or translation changes. It checks all locale documents for MDX syntax, hidden text, callout translations, metadata consistency, internal routes, asset paths and English-mirror drift. `npm run test:docs` exercises the checker with invalid and valid fixtures. Both checks also run in the i18n pull-request build.
+
+Custom callout titles are UI messages under `docs.admonition.*` in `i18n/en/code.json`; their directive syntax stays protected in Markdown translations. Keep routing metadata and tag identifiers consistent across locales. Use named icons in `hoverText`, which supports Markdown text and links rather than raw HTML.

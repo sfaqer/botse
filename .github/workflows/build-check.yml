@@ -35,4 +35,8 @@ jobs:
 
       - run: npm run test:i18n
 
+      - run: npm run test:docs
+
+      - run: npm run check:docs
+
       - run: npm run build

@@ -1,7 +1,7 @@
 ---
 id: town
 title: Town
-hoverText: These encounters are described in the gazetteer and are triggered when the party ends its overland movement in a town or rolls a <img src="/icons/town.svg" alt="Town Icon" className="icon-svg" /> result on the unstable die while at an unstable landmark (see [Traveling Caravans](/docs/campaign/day/encounter-phase/traveling-caravan)).
+hoverText: These encounters are described in the gazetteer and are triggered when the party ends its overland movement in a town or rolls a town icon result on the unstable die while at an unstable landmark (see [Traveling Caravans](/docs/campaign/day/encounter-phase/traveling-caravan)).
 ---
 
 These encounters are described in the gazetteer and are triggered when the party ends its overland movement in a town or rolls a <img src="/icons/town.svg" alt="Town Icon" className="icon-svg" /> result on the unstable die while at an unstable landmark (see [Traveling Caravans](/docs/campaign/day/encounter-phase/traveling-caravan)).

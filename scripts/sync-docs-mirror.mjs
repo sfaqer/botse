@@ -10,24 +10,11 @@ import {
   repoRoot,
 } from "./i18n-utils.mjs";
 
+import { prepareEnglishMirror } from "./doc-source.mjs";
+
 const docsRoot = join(repoRoot, "docs");
 const localeRoot = (locale) =>
   join(repoRoot, "i18n", locale, "docusaurus-plugin-content-docs", "current");
-
-// Preserve the existing mirror format, including the markers that keep
-// Docusaurus admonition syntax out of Weblate's translatable segments.
-function wrapAdmonitions(source) {
-  return source
-    .replace(/\r\n/g, "\n")
-    .replace(
-      /^(:::[a-z][\w-]*(?:\[[^\]]*\])?[^\n]*)$/gm,
-      "<!-- translate:off -->\n$1\n<!-- translate:on -->"
-    )
-    .replace(
-      /^(:::)\s*$/gm,
-      "<!-- translate:off -->\n$1\n<!-- translate:on -->"
-    );
-}
 
 // A missing source directory is an error, not a request to empty the mirror.
 await access(docsRoot);
@@ -41,7 +28,7 @@ for (const [relativePath, file] of await markdownFiles(englishRoot)) {
 
 const seeded = Object.fromEntries(locales.map((locale) => [locale, 0]));
 for (const [relativePath, file] of sources) {
-  const content = wrapAdmonitions(await readFile(file, "utf-8"));
+  const content = prepareEnglishMirror(await readFile(file, "utf-8"));
   for (const locale of locales) {
     const target = join(localeRoot(locale), relativePath);
     await mkdir(dirname(target), { recursive: true });

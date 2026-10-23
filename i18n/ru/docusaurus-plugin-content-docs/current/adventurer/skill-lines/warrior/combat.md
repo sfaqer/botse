@@ -29,21 +29,21 @@ Combat skills represent raw damage output or defense. Combat skill dice results 
 
 **Dice Supply:** 14
 
-<img src="/icons/skills/combat/combat-all-results.png" className="skill-icon" />
+<img alt="Combat all results" src="/icons/skills/combat/combat-all-results.png" className="skill-icon" />
 
 | Символ                                                               | Способность                                                                                                                                                    |
 | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="/icons/skills/combat/combat.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal X damage to your [target](/docs/glossary/targetable). |
+| <img alt="Combat" src="/icons/skills/combat/combat.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal X damage to your [target](/docs/glossary/targetable). |
 
 ### [<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive) Combat
 
 **Dice Supply:** 14
 
-<img src="/icons/skills/combat/combat-all-results.png" className="skill-icon" />
+<img alt="Combat all results" src="/icons/skills/combat/combat-all-results.png" className="skill-icon" />
 
 | Символ                                                               | Способность                                                                                                                                                                                                                  |
 | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="/icons/skills/combat/combat.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): When you are dealt damage by an [enemy](/docs/glossary/enemy), you may exhaust this die to prevent X damage. |
+| <img alt="Combat" src="/icons/skills/combat/combat.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): When you are dealt damage by an [enemy](/docs/glossary/enemy), you may exhaust this die to prevent X damage. |
 
 ---
 
