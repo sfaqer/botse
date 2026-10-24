@@ -1,13 +1,13 @@
 ---
 id: health
-title: Health
-hoverText: "HP chips are stacked underneath an adventurer's chip and removed to indicate how much damage they have taken relative to their Health stat."
+title: 'Здоровье'
+hoverText: 'Фишки ОЗ складываются стопкой под фишкой персонажа. Их убирают, чтобы отмечать полученный урон относительно значения характеристики «Здоровье».'
 ---
 
-This stat's attribute token has a base value that is added to its red square tokens. HP chips are stacked underneath an [adventurer's](/docs/glossary/adventurer) chip and removed to indicate how much damage they have taken relative to their Health stat. The Health stat's total limits the value of HP chips that an adventurer can have. Red chips represent 1 HP and white chips represent 5 HP. You can adjust your adventurer's HP between red and white HP chips as needed. An adventurer is [defeated](/docs/glossary/defeated) when they lose their last HP.
+Значение характеристики «Здоровье» равно базовому значению на её круглом жетоне плюс количество красных квадратных жетонов прокачки. Фишки ОЗ складываются стопкой под фишкой [персонажа](/docs/glossary/adventurer); их убирают, чтобы отмечать полученный урон относительно показателя здоровья. Этот показатель ограничивает общее количество ОЗ персонажа. Красная фишка обозначает 1 ОЗ, а белая — 5 ОЗ. При необходимости можно заменять красные фишки белыми и обратно, сохраняя их суммарное значение. Персонаж [повержен](/docs/glossary/defeated), когда теряет последнее ОЗ.
 
-- If your Health stat's value increases, your adventurer immediately gains a number of HP chips equal to the difference in value. If your Health stat's value decreases below the value of HP chips your adventurer currently has, remove HP until you have HP equal to your new maximum.
-- [Bonus HP](/docs/glossary/bonus-hp) is separate from your HP and can exceed your Health stat.
-- When HP chips are lost, they are removed one at a time starting with the bottom-most chip in your stack.
+- Если показатель здоровья увеличивается, персонаж немедленно получает фишки ОЗ на сумму, равную величине увеличения. Если показатель здоровья уменьшается ниже текущего количества ОЗ персонажа, уберите фишки ОЗ так, чтобы их суммарное значение равнялось новому максимуму.
+- [Дополнительное здоровье](/docs/glossary/bonus-hp) учитывается отдельно от ваших ОЗ и может превышать ваш показатель здоровья.
+- При потере фишек ОЗ убирайте их по одной, начиная с самой нижней фишки в стопке.
 
-The Health stat cannot be untrained. Health red square tokens can be untrained in the [Reward Phase](/docs/campaign/day/reward-phase).
+Саму характеристику «Здоровье» утратить нельзя, но её красные квадратные жетоны прокачки можно убрать в [фазе наград](/docs/campaign/day/reward-phase).
