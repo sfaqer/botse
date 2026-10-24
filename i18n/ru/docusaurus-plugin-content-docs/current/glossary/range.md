@@ -1,22 +1,22 @@
 ---
 id: range
-title: Range
-hoverText: Range (or distance) from one hex to another is measured by counting the number of hexes between those hexes, including the destination hex, regardless of whether those hexes are occupied.
+title: 'Дальность'
+hoverText: 'Дальность, или расстояние, от одной клетки до другой измеряется подсчётом клеток между ними, включая конечную клетку. При этом неважно, заняты эти клетки или нет.'
 ---
 
-Range (or distance) from one hex to another is measured by counting the number of hexes between those hexes, including the destination hex, regardless of whether those hexes are [occupied](/docs/glossary/occupied).
+Дальность, или расстояние, от одной клетки до другой измеряется подсчётом клеток между ними, включая конечную клетку. При этом неважно, [заняты](/docs/glossary/occupied) эти клетки или нет.
 
-Range or distance is measured when determining how far a unit (or overland token) can move, whether an enemy is in range to engage adventurers, or whether an adventurer can affect another unit with a rolled skill die.
+Дальность измеряют, когда определяют, как далеко может передвинуться боевая единица или жетон провинции, находятся ли персонажи в пределах дальности атаки врага или может ли персонаж воздействовать на другую боевую единицу с помощью брошенного кубика навыка.
 
-A unit is always within range of itself.
+Боевая единица всегда находится в пределах собственной дальности.
 
-### Adventurer's Range
+### Дальность персонажа {#adventurers-range}
 
-Defined by their current battle form. Some battle forms (such as [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon) or [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)) have a range equal to an adventurer's [Stamina](/docs/adventurer/stats/stamina) or [Magicka](/docs/adventurer/stats/magicka) stat, while others allow only [adjacent](/docs/glossary/adjacent) units to be within range.
+Определяется текущим боевым режимом персонажа. В некоторых режимах, например [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon) или [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic), дальность равна показателю [выносливости](/docs/adventurer/stats/stamina) или [магии](/docs/adventurer/stats/magicka) персонажа. В других режимах в пределах дальности находятся только [соседние](/docs/glossary/adjacent) боевые единицы.
 
-### Enemy's Range
+### Дальность врага {#enemys-range}
 
-Equal to its range stat.
+Равна показателю дальности врага.
 
 ---
 
@@ -24,9 +24,9 @@ Equal to its range stat.
 :::tip[FAQ]
 <!-- translate:on -->
 
-**Does Range apply to all skills?**
+**Применяется ли дальность ко всем навыкам?**
 
-No, range is taken into consideration only for skills that apply to targets, [targetable](/docs/glossary/targetable) enemies, or enemies within range. Take for example, [Destruction Staff's](/docs/adventurer/skill-lines/mage/destruction-staff) Destructive Touch. This says "[Defeat](/docs/glossary/defeated) a level 1 [enemy](/docs/glossary/enemy)." This enemy can be anywhere in play. It does not need to be in range or even in [sight](/docs/glossary/sight).
+Нет. Дальность учитывается только для навыков, которые действуют на цели, [врагов, являющихся допустимыми целями](/docs/glossary/targetable), или врагов в пределах дальности. Например, «Разрушительное касание» из ветки [«Посох разрушения»](/docs/adventurer/skill-lines/mage/destruction-staff) предписывает: «[Повергните](/docs/glossary/defeated) [врага](/docs/glossary/enemy) 1-го уровня». Этот враг может находиться где угодно в игре. Ему необязательно быть в пределах дальности или даже [видимости](/docs/glossary/sight).
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000290876" target="_blank">Источник</a>
 <!-- translate:off -->
