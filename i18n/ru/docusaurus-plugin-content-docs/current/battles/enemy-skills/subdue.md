@@ -1,9 +1,9 @@
 ---
 id: subdue
 title: Subdue
-hoverText: Before this [unit](/docs/glossary/unit) deals damage, its target loses [tenacity](/docs/glossary/tenacity) equal to the amount of damage dealt.
+hoverText: 'Перед тем как эта [боевая единица](/docs/glossary/unit) нанесёт урон, её цель теряет столько [стойкости](/docs/glossary/tenacity), сколько урона будет нанесено.'
 tags:
   - Quest Unit Skill
 ---
 
-Before this [unit](/docs/glossary/unit) deals damage, its target loses [tenacity](/docs/glossary/tenacity) equal to the amount of damage dealt.
+Перед тем как эта [боевая единица](/docs/glossary/unit) нанесёт урон, её цель теряет столько [стойкости](/docs/glossary/tenacity), сколько урона будет нанесено.
