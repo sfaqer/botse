@@ -1,9 +1,9 @@
 ---
 id: bladed
 title: Bladed
-hoverText: When [engaging](/docs/battles/adventurer-turn/engage) an [adjacent](/docs/glossary/adjacent) target, this [unit](/docs/glossary/unit) deals an additional 2 damage to its target.
+hoverText: 'При [атаке](/docs/battles/adventurer-turn/engage) [соседней](/docs/glossary/adjacent) цели эта [боевая единица](/docs/glossary/unit) наносит ей 2 дополнительные единицы урона.'
 tags:
   - Quest Unit Skill
 ---
 
-When [engaging](/docs/battles/adventurer-turn/engage) an [adjacent](/docs/glossary/adjacent) target, this [unit](/docs/glossary/unit) deals an additional 2 damage to its target.
+При [атаке](/docs/battles/adventurer-turn/engage) [соседней](/docs/glossary/adjacent) цели эта [боевая единица](/docs/glossary/unit) наносит ей 2 дополнительные единицы урона.
