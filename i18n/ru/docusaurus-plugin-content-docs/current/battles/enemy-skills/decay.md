@@ -1,7 +1,7 @@
 ---
 id: decay
 title: Decay
-hoverText: At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), it is dealt 1 [true damage](/docs/glossary/true-damage).
+hoverText: 'В конце своего [хода](/docs/glossary/turn) эта [боевая единица](/docs/glossary/unit) получает 1 единицу [неблокируемого урона](/docs/glossary/true-damage).'
 ---
 
-At the end of this [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn), it is dealt 1 [true damage](/docs/glossary/true-damage).
+В конце своего [хода](/docs/glossary/turn) эта [боевая единица](/docs/glossary/unit) получает 1 единицу [неблокируемого урона](/docs/glossary/true-damage).

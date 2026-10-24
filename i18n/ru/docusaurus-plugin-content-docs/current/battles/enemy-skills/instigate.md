@@ -1,9 +1,9 @@
 ---
 id: instigate
 title: Instigate
-hoverText: After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated), each [adventurer](/docs/glossary/adventurer) immediately draws a random level 1 enemy and deploys it to the [closest](/docs/glossary/closest) [unoccupied](/docs/glossary/occupied) hex to them.
+hoverText: 'После того как эта [боевая единица](/docs/glossary/unit) [повержена](/docs/glossary/defeated), каждый [персонаж](/docs/glossary/adventurer) немедленно вытягивает случайного врага 1-го уровня и размещает его в [ближайшей](/docs/glossary/closest) к себе [незанятой](/docs/glossary/occupied) клетке.'
 tags:
   - Quest Unit Skill
 ---
 
-After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated), each [adventurer](/docs/glossary/adventurer) immediately draws a random level 1 enemy and deploys it to the [closest](/docs/glossary/closest) [unoccupied](/docs/glossary/occupied) hex to them.
+После того как эта [боевая единица](/docs/glossary/unit) [повержена](/docs/glossary/defeated), каждый [персонаж](/docs/glossary/adventurer) немедленно вытягивает случайного врага 1-го уровня и размещает его в [ближайшей](/docs/glossary/closest) к себе [незанятой](/docs/glossary/occupied) клетке.

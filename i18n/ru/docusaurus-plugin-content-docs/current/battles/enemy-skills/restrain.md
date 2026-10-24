@@ -1,9 +1,9 @@
 ---
 id: restrain
 title: Restrain
-hoverText: After this [unit's](/docs/glossary/unit) movement, all opposing units within 3 hexes of this unit are moved 1 hex closer to it if possible.
+hoverText: 'После передвижения этой [боевой единицы](/docs/glossary/unit) каждый противник, находящийся в пределах 3 клеток от неё, передвигается на 1 клетку ближе к ней, если это возможно.'
 tags:
   - Quest Unit Skill
 ---
 
-After this [unit's](/docs/glossary/unit) movement, all opposing units within 3 hexes of this unit are moved 1 hex closer to it if possible.
+После передвижения этой [боевой единицы](/docs/glossary/unit) каждый противник, находящийся в пределах 3 клеток от неё, передвигается на 1 клетку ближе к ней, если это возможно.
