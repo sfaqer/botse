@@ -14,4 +14,4 @@ Important: If your party uses its [guild assist](/docs/glossary/guild-assist) ab
 
 ## Minor Keywords
 
-These are gained from side quests or other encounters. They can have either a positive or negative impact on your endgame, but are not guaranteed to appear in it; players should weigh this when deciding whether to pursue minor keywords􀀀 There is no limit to the number of minor keywords you can gain during a session. Note that if a minor keyword is gained multiple times, you must record it in the campaign journal each time it is gained.
+These are gained from side quests or other encounters. They can have either a positive or negative impact on your endgame, but are not guaranteed to appear in it; players should weigh this when deciding whether to pursue minor keywords. There is no limit to the number of minor keywords you can gain during a session. Note that if a minor keyword is gained multiple times, you must record it in the campaign journal each time it is gained.

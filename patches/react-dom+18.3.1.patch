@@ -1,0 +1,18 @@
+diff --git a/node_modules/react-dom/cjs/react-dom-server.node.development.js b/node_modules/react-dom/cjs/react-dom-server.node.development.js
+index de58cde..8671f5e 100644
+--- a/node_modules/react-dom/cjs/react-dom-server.node.development.js
++++ b/node_modules/react-dom/cjs/react-dom-server.node.development.js
+@@ -128,3 +128,3 @@ function writeStringChunk(destination, stringChunk) {
+   if (read < stringChunk.length) {
+-    writeToDestination(destination, currentView);
++    writeToDestination(destination, currentView.subarray(0, writtenBytes));
+     currentView = new Uint8Array(VIEW_SIZE);
+diff --git a/node_modules/react-dom/cjs/react-dom-server.node.production.min.js b/node_modules/react-dom/cjs/react-dom-server.node.production.min.js
+index 9cc6d69..412a837 100644
+--- a/node_modules/react-dom/cjs/react-dom-server.node.production.min.js
++++ b/node_modules/react-dom/cjs/react-dom-server.node.production.min.js
+@@ -10,3 +10,3 @@
+ 'use strict';var aa=require("util"),ba=require("react"),k=null,l=0,q=!0;
+-function r(a,b){if("string"===typeof b){if(0!==b.length)if(2048<3*b.length)0<l&&(t(a,k.subarray(0,l)),k=new Uint8Array(2048),l=0),t(a,u.encode(b));else{var c=k;0<l&&(c=k.subarray(l));c=u.encodeInto(b,c);var d=c.read;l+=c.written;d<b.length&&(t(a,k),k=new Uint8Array(2048),l=u.encodeInto(b.slice(d),k).written);2048===l&&(t(a,k),k=new Uint8Array(2048),l=0)}}else 0!==b.byteLength&&(2048<b.byteLength?(0<l&&(t(a,k.subarray(0,l)),k=new Uint8Array(2048),l=0),t(a,b)):(c=k.length-l,c<b.byteLength&&(0===c?t(a,
++function r(a,b){if("string"===typeof b){if(0!==b.length)if(2048<3*b.length)0<l&&(t(a,k.subarray(0,l)),k=new Uint8Array(2048),l=0),t(a,u.encode(b));else{var c=k;0<l&&(c=k.subarray(l));c=u.encodeInto(b,c);var d=c.read;l+=c.written;d<b.length&&(t(a,k.subarray(0,l)),k=new Uint8Array(2048),l=u.encodeInto(b.slice(d),k).written);2048===l&&(t(a,k),k=new Uint8Array(2048),l=0)}}else 0!==b.byteLength&&(2048<b.byteLength?(0<l&&(t(a,k.subarray(0,l)),k=new Uint8Array(2048),l=0),t(a,b)):(c=k.length-l,c<b.byteLength&&(0===c?t(a,
+ k):(k.set(b.subarray(0,c),l),l+=c,t(a,k),b=b.subarray(c)),k=new Uint8Array(2048),l=0),k.set(b,l),l+=b.byteLength,2048===l&&(t(a,k),k=new Uint8Array(2048),l=0)))}function t(a,b){a=a.write(b);q=q&&a}function w(a,b){r(a,b);return q}function ca(a){k&&0<l&&a.write(k.subarray(0,l));k=null;l=0;q=!0}var u=new aa.TextEncoder;function x(a){return u.encode(a)}

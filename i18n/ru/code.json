@@ -584,5 +584,21 @@
   "enemySkillsTracker.addAdditional": {
     "message": "Добавить ещё навыки противников",
     "description": "Label of the accordion that toggles which enemy skills are shown in the tracker"
+  },
+  "docs.admonition.example": {
+    "message": "Пример",
+    "description": "Custom title of documentation example callouts"
+  },
+  "docs.admonition.important": {
+    "message": "Важно",
+    "description": "Custom title of important documentation callouts"
+  },
+  "docs.admonition.errata": {
+    "message": "Исправления",
+    "description": "Custom title of documentation corrections"
+  },
+  "docs.admonition.expertDifficulty": {
+    "message": "Уровень сложности «Эксперты»",
+    "description": "Custom title of the Expert difficulty rule callout"
   }
 }

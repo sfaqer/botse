@@ -42,6 +42,7 @@ async function fixture(t) {
   await mkdir(join(root, "src/data"), { recursive: true });
   for (const script of [
     "i18n-utils.mjs",
+    "doc-source.mjs",
     "build-enemy-skills-data.mjs",
     "sync-docs-mirror.mjs",
     "emit-term-json.mjs",
