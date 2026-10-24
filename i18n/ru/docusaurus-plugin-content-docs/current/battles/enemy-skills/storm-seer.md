@@ -1,14 +1,14 @@
 ---
 id: storm-seer
-title: Storm Seer
-hoverText: When this [unit](/docs/glossary/unit) determines a target, its target must exhaust a number of dice from its [active slots](/docs/glossary/active-slot) as determined by the current weather. Sunny = 1, Rainy = 2, Flooding = 3.
+title: 'Провидец бури'
+hoverText: 'Когда эта [боевая единица](/docs/glossary/unit) выбирает цель, её цель должна истощить определённое количество кубиков из своих [ячеек активности](/docs/glossary/active-slot) в зависимости от текущей погоды. Солнечная погода = 1, дождь = 2, наводнение = 3.'
 tags:
   - Black Marsh
   - Native
 ---
 
-When this [unit](/docs/glossary/unit) determines a target, its target must exhaust a number of dice from its [active slots](/docs/glossary/active-slot) as determined by the current weather.
+Когда эта [боевая единица](/docs/glossary/unit) выбирает цель, её цель должна истощить определённое количество кубиков из своих [ячеек активности](/docs/glossary/active-slot) в зависимости от текущей погоды.
 
-- Sunny = 1
-- Rainy = 2
-- Flooding = 3.
+- Солнечная погода = 1
+- Дождь = 2
+- Наводнение = 3.
