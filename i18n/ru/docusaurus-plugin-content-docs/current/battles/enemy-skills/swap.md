@@ -1,9 +1,9 @@
 ---
 id: swap
 title: Swap
-hoverText: This [unit](/docs/glossary/unit) treats [occupied](/docs/glossary/occupied) hexes as unoccupied. When it moves into an occupied hex, its occupant is [placed](/docs/glossary/move-or-place) in the hex this unit moved out of.
+hoverText: 'Эта [боевая единица](/docs/glossary/unit) считает [занятые](/docs/glossary/occupied) клетки незанятыми. Когда она передвигается в занятую клетку, находящаяся там боевая единица [перемещается](/docs/glossary/move-or-place) в клетку, которую только что покинула боевая единица с этим навыком.'
 tags:
   - Quest Unit Skill
 ---
 
-This [unit](/docs/glossary/unit) treats [occupied](/docs/glossary/occupied) hexes as unoccupied. When it moves into an occupied hex, its occupant is [placed](/docs/glossary/move-or-place) in the hex this unit moved out of.
+Эта [боевая единица](/docs/glossary/unit) считает [занятые](/docs/glossary/occupied) клетки незанятыми. Когда она передвигается в занятую клетку, находящаяся там боевая единица [перемещается](/docs/glossary/move-or-place) в клетку, которую только что покинула боевая единица с этим навыком.

@@ -1,9 +1,9 @@
 ---
 id: vision
 title: Vision
-hoverText: This [unit](/docs/glossary/unit) ignores [sight](/docs/glossary/sight) restrictions.
+hoverText: 'Эта [боевая единица](/docs/glossary/unit) игнорирует ограничения [видимости](/docs/glossary/sight).'
 tags:
   - Quest Unit Skill
 ---
 
-This [unit](/docs/glossary/unit) ignores [sight](/docs/glossary/sight) restrictions.
+Эта [боевая единица](/docs/glossary/unit) игнорирует ограничения [видимости](/docs/glossary/sight).
