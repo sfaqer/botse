@@ -1,9 +1,9 @@
 ---
 id: smite
 title: Smite
-hoverText: If this [unit](/docs/glossary/unit) is not targeting all [party members](/docs/glossary/party) on its [turn](/docs/glossary/turn), its Combat stat is doubled.
+hoverText: 'Если в свой [ход](/docs/glossary/turn) эта [боевая единица](/docs/glossary/unit) выбирает целями не всех [участников отряда](/docs/glossary/party), её значение боя удваивается.'
 tags:
   - Quest Unit Skill
 ---
 
-If this [unit](/docs/glossary/unit) is not targeting all [party members](/docs/glossary/party) on its [turn](/docs/glossary/turn), its Combat stat is doubled.
+Если в свой [ход](/docs/glossary/turn) эта [боевая единица](/docs/glossary/unit) выбирает целями не всех [участников отряда](/docs/glossary/party), её значение боя удваивается.

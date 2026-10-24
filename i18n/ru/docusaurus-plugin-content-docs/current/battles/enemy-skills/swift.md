@@ -1,9 +1,9 @@
 ---
 id: swift
 title: Swift
-hoverText: This [unit's](/docs/glossary/unit) movement is equal to the current [round](/docs/battles/battle-round) (Fatigue = 6).
+hoverText: 'Дальность передвижения этой [боевой единицы](/docs/glossary/unit) равна номеру текущего [раунда](/docs/battles/battle-round) (раунд усталости считается 6-м).'
 tags:
   - Quest Unit Skill
 ---
 
-This [unit's](/docs/glossary/unit) movement is equal to the current [round](/docs/battles/battle-round) (Fatigue = 6).
+Дальность передвижения этой [боевой единицы](/docs/glossary/unit) равна номеру текущего [раунда](/docs/battles/battle-round) (раунд усталости считается 6-м).

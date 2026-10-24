@@ -1,13 +1,13 @@
 ---
 id: reward
 title: Reward
-hoverText: After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated), each [adventurer](/docs/glossary/adventurer) chooses and gains 1 of the following; 1 Legendary Item, 5 [tenacity](/docs/glossary/tenacity), Advance [Health](/docs/adventurer/stats/health) stat by 1 (if possible).
+hoverText: 'После того как эта [боевая единица](/docs/glossary/unit) [повержена](/docs/glossary/defeated), каждый [персонаж](/docs/glossary/adventurer) выбирает и получает одну из следующих наград: 1 легендарный предмет; 5 [стойкости](/docs/glossary/tenacity); увеличение характеристики [«Здоровье»](/docs/adventurer/stats/health) на 1 (если возможно).'
 tags:
   - Quest Unit Skill
 ---
 
-After this [unit](/docs/glossary/unit) is [defeated](/docs/glossary/defeated), each [adventurer](/docs/glossary/adventurer) chooses and gains 1 of the following:
+После того как эта [боевая единица](/docs/glossary/unit) [повержена](/docs/glossary/defeated), каждый [персонаж](/docs/glossary/adventurer) выбирает и получает одну из следующих наград:
 
-- 1 Legendary Item (<img src="/icons/legendary-item.svg" alt="Legendary Item Icon" className="icon-svg" />)
-- 5 [tenacity](/docs/glossary/tenacity),
-- Advance [Health](/docs/adventurer/stats/health) stat by 1 (if possible).
+- 1 легендарный предмет (<img src="/icons/legendary-item.svg" alt="Legendary Item Icon" className="icon-svg" />)
+- 5 [стойкости](/docs/glossary/tenacity),
+- увеличение характеристики [«Здоровье»](/docs/adventurer/stats/health) на 1 (если возможно).
