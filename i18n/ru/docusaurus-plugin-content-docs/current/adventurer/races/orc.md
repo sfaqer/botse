@@ -4,9 +4,9 @@ title: 'Орк'
 hoverText: 'Здоровье: 5, Выносливость: 2, Магия: 2, Бой: 1, Перезарядка: 3'
 ---
 
-Often feared and hated by the other races of Tamriel, Orcs have long fought for recognition of their achievements (particularly compared to the [Bretons](/docs/adventurer/races/breton) of [High Rock](/docs/campaign/provinces/high-rock), with whom most strains of Orc share a home province). Due to this history of hardship, Orc culture places a high value on endurance in the face of misfortune, as well as on personal honor honed in battle. They are a vital, if sometimes neglected, element of the Daggerfall Covenant.
+Другие расы Тамриэля нередко боятся и ненавидят орков, которым издавна приходится бороться за признание своих достижений, особенно на фоне [бретонцев](/docs/adventurer/races/breton) [Хай Рока](/docs/campaign/provinces/high-rock) — родной провинции большинства орочьих народов. Долгая история лишений научила орков высоко ценить стойкость перед лицом невзгод и личную честь, закалённую в сражениях. Они — важнейшая часть Даггерфолльского Ковенанта, хотя порой их вклад остаётся без внимания.
 
-**Ability [Swift Warrior]**: Once per battle, after the end of your turn, gain 1 [overfatigue](/docs/glossary/fatigue) to take an immediate extra turn.
+**Способность [Swift Warrior]**: Один раз за бой после окончания своего хода получите 1 кубик [переутомления](/docs/glossary/fatigue), чтобы немедленно совершить дополнительный ход.
 
 | Характеристика                                     | Значение |
 | -------------------------------------------------- | -------- |

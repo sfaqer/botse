@@ -4,9 +4,9 @@ title: 'Бретонец'
 hoverText: 'Здоровье: 5, Выносливость: 2, Магия: 3, Бой: 1, Перезарядка: 2'
 ---
 
-The humans of [High Rock](/docs/campaign/provinces/high-rock) are a unique people, as their ancestry is a mixture of ancient man and ancient elf. These roots have influenced Breton culture as well as their genealogy, as most Bretons have a natural aptitude for magic while retaining a connection to the nature-oriented roots (and shrewd resourcefulness) of their druidic human forbearers. They make a national pastime of chivalry and power, which has led to frequent struggles among the Breton kingdoms that make up much of the Daggerfall Covenant.
+Люди [Хай Рока](/docs/campaign/provinces/high-rock) — необычный народ: в их жилах течёт кровь древних людей и древних эльфов. Это наследие определило не только происхождение бретонцев, но и их культуру. Большинство из них от природы способны к магии и при этом сохраняют близость к природе, а также сметливость и находчивость своих предков-друидов. Рыцарство и борьба за власть стали для бретонцев чуть ли не национальным увлечением. Отсюда и частые распри между бретонскими королевствами, составляющими значительную часть Даггерфолльского Ковенанта.
 
-**Ability [Opportunist]**: Once per battle, when you [overtax](/docs/adventurer/items/overtax) a [<img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" />](/docs/adventurer/items/types/weapon) or [<img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" />](/docs/adventurer/items/types/armor), return that item to your pack [instead](/docs/glossary/instead) of discarding it. You may [then](/docs/glossary/then) move a different item in your pack to a ready slot.
+**Способность [Opportunist]**: Один раз за бой, когда вы применяете [«Сверхнагрузку»](/docs/adventurer/items/overtax) для [<img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" />](/docs/adventurer/items/types/weapon) или [<img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" />](/docs/adventurer/items/types/armor), верните этот предмет в свой рюкзак [вместо](/docs/glossary/instead) того, чтобы сбросить его. [Затем](/docs/glossary/then) вы можете переложить другой предмет из рюкзака в ячейку активного снаряжения.
 
 | Характеристика                                     | Значение |
 | -------------------------------------------------- | -------- |

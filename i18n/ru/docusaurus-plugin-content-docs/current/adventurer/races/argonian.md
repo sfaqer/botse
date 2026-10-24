@@ -4,9 +4,9 @@ title: 'Аргонианин'
 hoverText: 'Здоровье: 5, Выносливость: 3, Магия: 2, Бой: 1, Перезарядка: 2'
 ---
 
-The reptilian natives of [Black Marsh](/docs/campaign/provinces/black-marsh), who call themselves Saxhleel, are spiritual and hardy, fostering a deep connection with the ancient and mystical trees of their homeland. For many years, their people were treated as second-class citizens by the slaver [Dark Elves](/docs/adventurer/races/dark-elf) to the north, but after the Argonians played a pivotal role in stopping the Akaviri invasion, they allied with the Dark Elves of [Morrowind](/docs/campaign/provinces/morrowind) and the [Nords](/docs/adventurer/races/nord) of Eastern [Skyrim](/docs/campaign/provinces/skyrim) to form the Ebonheart Pact. Their humility and reserved dispositions lead many to underestimate their intellect and toughness, to potentially fatal ends.
+Рептилоидные уроженцы [Чернотопья](/docs/campaign/provinces/black-marsh), называющие себя саксхлил, — духовный и выносливый народ, тесно связанный с древними мистическими деревьями своей родины. Многие годы живущие к северу [тёмные эльфы](/docs/adventurer/races/dark-elf)-рабовладельцы обращались с ними как с гражданами второго сорта. Однако, сыграв решающую роль в отражении акавирского вторжения, аргониане объединились с тёмными эльфами [Морровинда](/docs/campaign/provinces/morrowind) и [нордами](/docs/adventurer/races/nord) Восточного [Скайрима](/docs/campaign/provinces/skyrim), образовав Эбонхартский пакт. Из-за скромности и сдержанности аргониан многие недооценивают их ум и стойкость — порой это оборачивается роковой ошибкой.
 
-**Ability [Argonian Resistance]**: Once per battle, when you would be dealt damage, prevent all of that damage.
+**Способность [Argonian Resistance]**: Один раз за бой, когда вы должны получить урон, предотвратите весь этот урон.
 
 | Характеристика                                     | Значение |
 | -------------------------------------------------- | -------- |
@@ -21,7 +21,7 @@ The reptilian natives of [Black Marsh](/docs/campaign/provinces/black-marsh), wh
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-Argonian Resistance cannot prevent true damage.
+Argonian Resistance не может предотвратить неблокируемый урон.
 <!-- translate:off -->
 :::
 <!-- translate:on -->
