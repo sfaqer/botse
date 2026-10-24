@@ -1,23 +1,23 @@
 ---
 id: stealth
-title: Stealth
-hoverText: This [unit](/docs/glossary/unit) can only be [targeted](/docs/glossary/targetable) by opposing units that were [adjacent](/docs/glossary/adjacent) to it at the start of the current [turn](/docs/glossary/turn). After this unit deals damage, this die is removed.
+title: 'Скрытность'
+hoverText: 'Эту [боевую единицу](/docs/glossary/unit) могут [выбирать целью](/docs/glossary/targetable) только противники, которые находились в [соседних с ней клетках](/docs/glossary/adjacent) в начале текущего [хода](/docs/glossary/turn). После того как эта боевая единица нанесёт урон, уберите этот кубик.'
 tags:
   - Status Effects
 ---
 
-# <img src="/icons/stealth.svg" alt="Stealth Icon" /> Stealth
+# <img src="/icons/stealth.svg" alt="Stealth Icon" /> Скрытность {#stealth}
 
-This [unit](/docs/glossary/unit) can only be [targeted](/docs/glossary/targetable) by opposing units that were [adjacent](/docs/glossary/adjacent) to it at the start of the current [turn](/docs/glossary/turn). After this unit deals damage, this die is removed.
+Эту [боевую единицу](/docs/glossary/unit) могут [выбирать целью](/docs/glossary/targetable) только противники, которые находились в [соседних с ней клетках](/docs/glossary/adjacent) в начале текущего [хода](/docs/glossary/turn). После того как эта боевая единица нанесёт урон, уберите этот кубик.
 
 ---
 
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Is stealth maintained if I use a skill that "defeats" an enemy?**
+**Сохраняется ли «Скрытность», если применить навык, который «повергает» врага?**
 
-Stealth is not removed from an [adventurer](/docs/glossary/adventurer) if they use a skill or ability that says it [defeats](/docs/glossary/defeated) an [enemy](/docs/glossary/enemy). Defeating an enemy is not considered to be dealing damage.
+«Скрытность» не снимается с [персонажа](/docs/glossary/adventurer), если он применяет навык или способность, которая [повергает](/docs/glossary/defeated) [врага](/docs/glossary/enemy). Такое поражение врага не считается нанесением урона.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000290399" target="_blank">Источник</a>
 <!-- translate:off -->

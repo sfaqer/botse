@@ -32,7 +32,7 @@ title: Иконография
 | --------------------------------------------------- | -------------------------------------------------- |
 | <img src="/icons/bane.svg" alt="Bane Icon" />       | [Проклятие](/docs/battles/status-effects/bane)     |
 | <img src="/icons/blind.svg" alt="Blind Icon" />     | [Слепота](/docs/battles/status-effects/blind)      |
-| <img src="/icons/daze.svg" alt="Daze Icon" />       | [Оглушение](/docs/battles/status-effects/daze)     |
+| <img src="/icons/daze.svg" alt="Daze Icon" />       | [Ошеломление](/docs/battles/status-effects/daze)   |
 | <img src="/icons/fear.svg" alt="Fear Icon" />       | [Страх](/docs/battles/status-effects/fear)         |
 | <img src="/icons/maim.svg" alt="Maim Icon" />       | [Увечье](/docs/battles/status-effects/maim)        |
 | <img src="/icons/stealth.svg" alt="Stealth Icon" /> | [Скрытность](/docs/battles/status-effects/stealth) |

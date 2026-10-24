@@ -1,7 +1,7 @@
 ---
 id: daze
-title: Daze
-hoverText: After this [unit's](/docs/glossary/unit) [engage](/docs/battles/enemy-turn), apply a [Daze](/docs/battles/status-effects/daze) status die to this unit's target.
+title: 'Ошеломление'
+hoverText: 'После [атаки](/docs/battles/enemy-turn) этой [боевой единицы](/docs/glossary/unit) поместите кубик состояния [«Ошеломление»](/docs/battles/status-effects/daze) на её цель.'
 ---
 
-After this [unit's](/docs/glossary/unit) [engage](/docs/battles/enemy-turn), apply a [Daze](/docs/battles/status-effects/daze) (<img src="/icons/daze.svg" alt="Daze Icon" className="icon-svg" />) status die to this unit's target.
+После [атаки](/docs/battles/enemy-turn) этой [боевой единицы](/docs/glossary/unit) поместите кубик состояния [«Ошеломление»](/docs/battles/status-effects/daze) (<img src="/icons/daze.svg" alt="Daze Icon" className="icon-svg" />) на её цель.
