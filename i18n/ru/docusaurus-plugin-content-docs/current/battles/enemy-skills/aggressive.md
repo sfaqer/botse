@@ -1,7 +1,7 @@
 ---
 id: aggressive
 title: Aggressive
-hoverText: After rolling enemy Combat dice, this unit rerolls all misses 1 time before dealing damage to its target.
+hoverText: 'После броска кубиков боя врагов эта боевая единица 1 раз перебрасывает все кубики с промахами, прежде чем нанести урон своей цели.'
 ---
 
-After rolling enemy Combat dice, this unit rerolls all misses 1 time before dealing damage to its target.
+После броска кубиков боя врагов эта боевая единица 1 раз перебрасывает все кубики с промахами, прежде чем нанести урон своей цели.

@@ -1,7 +1,7 @@
 ---
 id: intimidate
 title: Intimidate
-hoverText: After this [unit's](/docs/glossary/unit) [engage](/docs/battles/adventurer-turn/engage), apply a [Fear](/docs/battles/status-effects/fear) status die to this unit's target. If the target already has a [Fear](/docs/battles/status-effects/fear) status die, remove it instead.
+hoverText: 'После [атаки](/docs/battles/adventurer-turn/engage) этой [боевой единицы](/docs/glossary/unit) поместите кубик состояния [«Страх»](/docs/battles/status-effects/fear) на её цель. Если на цели уже есть кубик состояния [«Страх»](/docs/battles/status-effects/fear), вместо этого уберите его.'
 ---
 
-After this [unit's](/docs/glossary/unit) [engage](/docs/battles/adventurer-turn/engage), apply a [Fear](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" className="icon-svg" />) status die to this unit's target. If the target already has a [Fear](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" className="icon-svg" />) status die, remove it instead.
+После [атаки](/docs/battles/adventurer-turn/engage) этой [боевой единицы](/docs/glossary/unit) поместите кубик состояния [«Страх»](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" className="icon-svg" />) на её цель. Если на цели уже есть кубик состояния [«Страх»](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" className="icon-svg" />), вместо этого уберите его.
