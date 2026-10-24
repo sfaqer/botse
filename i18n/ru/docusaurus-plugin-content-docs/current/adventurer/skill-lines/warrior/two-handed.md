@@ -1,41 +1,41 @@
 ---
 id: two-handed
-title: Two Handed
+title: 'Двуручное оружие'
 ---
 
-# <img src="/icons/skills/two-handed/icon.png" alt="Two Handed" className="icon-svg" /> Two Handed
+# <img src="/icons/skills/two-handed/icon.png" alt="Two Handed" className="icon-svg" /> Двуручное оружие
 
 **Associated Stat:** [Stamina](/docs/adventurer/stats/stamina)
 
 **Required Battle Form:** [<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/heavy-weapon)
 
-## Level 1
+## Уровень 1
 
 ### Wrecking Blow
 
-**Dice Supply:** 6
+**Запас кубиков:** 6
 
 | Символ                                                                                                  | Способность                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img alt="Wrecking blow 1" src="/icons/skills/two-handed/wrecking-blow-1.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal 2 damage to your target.                                                                                               |
 | <img alt="Wrecking blow 2" src="/icons/skills/two-handed/wrecking-blow-2.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal 3 damage to your target. [Then](/docs/glossary/then), gain 2 light [fatigue](/docs/glossary/fatigue) or 1 overfatigue. |
 
-## Level 2
+## Уровень 2
 
 ### Onslaught
 
-**Dice Supply:** 2
+**Запас кубиков:** 2
 
 | Символ                                                                                          | Способность                                                                                                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img alt="Onslaught 1" src="/icons/skills/two-handed/onslaught-1.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal 4 damage to your target. After this [engage](/docs/battles/adventurer-turn/engage), gain a [Bane](/docs/battles/status-effects/bane) status die. |
 | <img alt="Onslaught 2" src="/icons/skills/two-handed/onslaught-2.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Deal 5 damage to your target.                                                                                                                         |
 
-## Level 3
+## Уровень 3
 
 ### Momentum
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                        | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -44,17 +44,17 @@ title: Two Handed
 
 ### Executioner
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                          | Способность                                                                                                                                                                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img alt="Executioner" src="/icons/skills/two-handed/executioner.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Gain 2 light [fatigue](/docs/glossary/fatigue) or 1 overfatigue to immediately defeat an [adjacent](/docs/glossary/adjacent) non-[quest enemy](/docs/glossary/quest-unit) that has less HP than you do. |
 
-## Level 4
+## Уровень 4
 
 ### Balanced Blade
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                                    | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -74,7 +74,7 @@ title: Two Handed
 <!-- translate:on -->
 ### Cleave
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                    | Способность                                                                                                                                                                                                                                                                                                                         |
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

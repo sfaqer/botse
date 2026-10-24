@@ -1,19 +1,19 @@
 ---
 id: bow
-title: Bow
+title: 'Лук'
 ---
 
-# <img src="/icons/skills/bow/icon.png" alt="Bow" className="icon-svg" /> Bow
+# <img src="/icons/skills/bow/icon.png" alt="Bow" className="icon-svg" /> Лук
 
 **Associated Stat:** [Stamina](/docs/adventurer/stats/stamina)
 
 **Required Battle Form:** [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon)
 
-## Level 1
+## Уровень 1
 
 ### Snipe
 
-**Dice Supply:** 4
+**Запас кубиков:** 4
 
 <img alt="Snipe all results" src="/icons/skills/bow/snipe-all-results.png" className="skill-icon" />
 
@@ -21,11 +21,11 @@ title: Bow
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img alt="Snipe" src="/icons/skills/bow/snipe.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal X damage to your target. Ignore 1 [defense](/docs/adventurer/stats/defense) on your target for this [engage](/docs/battles/adventurer-turn/engage). |
 
-## Level 2
+## Уровень 2
 
 ### Volley
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                         | Способность                                                                                                                                                                                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -66,17 +66,17 @@ No, according to the "Resolving Partial Skills and Abilities" rule, anything bef
 <!-- translate:on -->
 ### Acid Spray
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                 | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img alt="Acid spray" src="/icons/skills/bow/acid-spray.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Select up to 3 [targetable](/docs/glossary/targetable) [enemies](/docs/glossary/enemy). [Roll 2 D6](/docs/glossary/roll-a-d6) for each. Apply a [Bane](/docs/battles/status-effects/bane) ([<img src="/icons/bane.svg" alt="Bane Icon" className="icon-svg" />](/docs/battles/status-effects/bane)) status die to each enemy for whom you roll a total of 7 or higher. |
 
-## Level 3
+## Уровень 3
 
 ### Vinedusk Training
 
-**Dice Supply:** 2
+**Запас кубиков:** 2
 
 | Символ                                                                                               | Способность                                                                                                                                                                                                                                                                                                     |
 | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -84,7 +84,7 @@ No, according to the "Resolving Partial Skills and Abilities" rule, anything bef
 
 ### Rapid Fire
 
-**Dice Supply:** 2
+**Запас кубиков:** 2
 
 | Символ                                                                                     | Способность                                                                                                                                                                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -106,18 +106,18 @@ Once the first one is resolved, the second wouldn't do anything because you woul
 <!-- translate:on -->
 ### Arrow Barrage
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                           | Способность                                                                                                                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img alt="Arrow barrage 1" src="/icons/skills/bow/arrow-barrage-1.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal 2 damage to your target. [Then](/docs/glossary/then), choose to either roll Arrow Barrage again or exhaust it.                                                                                                  |
 | <img alt="Arrow barrage 2" src="/icons/skills/bow/arrow-barrage-2.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): You must resolve this result. You are dealt 2 [true damage](/docs/glossary/true-damage) unless you [drain](/docs/glossary/drained) all skill dice rolled during this [engage](/docs/battles/adventurer-turn/engage). |
 
-## Level 4
+## Уровень 4
 
 ### Scatter Shot
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                     | Способность                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

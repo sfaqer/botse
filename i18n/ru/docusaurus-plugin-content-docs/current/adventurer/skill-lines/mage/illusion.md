@@ -13,43 +13,43 @@ Illusion dice are used in a number of ways, and each has specific rules. They ar
 
 **Required Battle Form:** [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)
 
-## Level 1
+## Уровень 1
 
 ### Calm and Fury
 
-**Dice Supply:** 2
+**Запас кубиков:** 2
 
 | Символ                                                                                                | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img alt="Calm and fury 1" src="/icons/skills/illusion/calm-and-fury-1.png" className="skill-icon" /> | [<img src="/icons/status-effect.svg" alt="Status Effect Icon" className="icon-svg" />](/docs/glossary/status-effect): Place this die in a hex in [range](/docs/glossary/range). When an [enemy](/docs/glossary/enemy) would target you, you may [place](/docs/glossary/move-or-place) yourself in this die's hex, swapping positions with any unit that may be [occupying](/docs/glossary/occupied) it. [Then](/docs/glossary/then), exhaust this die. The targeting unit now determines its target again, if possible. |
 | <img alt="Calm and fury 2" src="/icons/skills/illusion/calm-and-fury-2.png" className="skill-icon" /> | [<img src="/icons/status-effect.svg" alt="Status Effect Icon" className="icon-svg" />](/docs/glossary/status-effect): Place this die with 1 HP chip in an [unoccupied](/docs/glossary/occupied) hex in [range](/docs/glossary/range). Enemies treat this die as an adventurer and party members treat it as an occupied hex. When its HP is removed, exhaust this die.                                                                                                                                                  |
 
-## Level 2
+## Уровень 2
 
 ### Mesmerizing Grasp
 
-**Dice Supply:** 2
+**Запас кубиков:** 2
 
 | Символ                                                                                                    | Способность                                                                                                                                                                                                                                                                                                                                                                             |
 | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img alt="Mesmerizing grasp" src="/icons/skills/illusion/mesmerizing-grasp.png" className="skill-icon" /> | [<img src="/icons/status-effect.svg" alt="Status Effect Icon" className="icon-svg" />](/docs/glossary/status-effect): Place this die on a [targetable](/docs/glossary/targetable) non-[quest enemy](/docs/glossary/quest-unit). This enemy's [range](/docs/glossary/range) stat and movement are reduced to 1. When this unit is [defeated](/docs/glossary/defeated), exhaust this die. |
 
-## Level 3
+## Уровень 3
 
 ### Pacify
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                  | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img alt="Pacify 1" src="/icons/skills/illusion/pacify-1.png" className="skill-icon" /> | [<img src="/icons/status-effect.svg" alt="Status Effect Icon" className="icon-svg" />](/docs/glossary/status-effect): Place this die on a [targetable](/docs/glossary/targetable) non-[quest enemy](/docs/glossary/quest-unit). The next time that enemy would engage, it skips its engage. [Then](/docs/glossary/then), exhaust this die and apply a [Daze](/docs/battles/status-effects/daze) status die to that enemy.                           |
 | <img alt="Pacify 2" src="/icons/skills/illusion/pacify-2.png" className="skill-icon" /> | [<img src="/icons/status-effect.svg" alt="Status Effect Icon" className="icon-svg" />](/docs/glossary/status-effect): Place this die on a [targetable](/docs/glossary/targetable) non-[quest enemy](/docs/glossary/quest-unit). The next time that enemy would engage, it skips its engage. [Then](/docs/glossary/then), [drain](/docs/glossary/drained) this die and apply a [Blind](/docs/battles/status-effects/blind) status die to that enemy. |
 
-## Level 4
+## Уровень 4
 
 ### Mayhem
 
-**Dice Supply:** 2
+**Запас кубиков:** 2
 
 | Символ                                                                                  | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -69,7 +69,7 @@ This skill would work the same if it just said "...deal the rolled damage to the
 <!-- translate:on -->
 ### Voice of Rapture
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                                      | Способность                                                                                                                                                                                                                                                                                                                  |
 | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
