@@ -1,7 +1,7 @@
 ---
 id: disrupt
-title: Disrupt
-hoverText: When this [unit](/docs/glossary/unit) determines a target, its target must exhaust 1 die from its [active slots](/docs/glossary/active-slot), if possible.
+title: 'Disrupt'
+hoverText: 'Когда эта [боевая единица](/docs/glossary/unit) выбирает цель, та должна истощить 1 кубик из своих [ячеек активности](/docs/glossary/active-slot), если это возможно.'
 ---
 
-When this [unit](/docs/glossary/unit) determines a target, its target must exhaust 1 die from its [active slots](/docs/glossary/active-slot), if possible.
+Когда эта [боевая единица](/docs/glossary/unit) выбирает цель, та должна истощить 1 кубик из своих [ячеек активности](/docs/glossary/active-slot), если это возможно.

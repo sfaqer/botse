@@ -1,7 +1,7 @@
 ---
 id: recover
-title: Recover
-hoverText: At the start of this [unit's](/docs/glossary/unit) turn, it [heals](/docs/glossary/healing) for [party size](/docs/glossary/party-size) HP.
+title: 'Recover'
+hoverText: 'В начале своего хода эта [боевая единица](/docs/glossary/unit) [восстанавливает](/docs/glossary/healing) число ОЗ, равное [размеру отряда](/docs/glossary/party-size).'
 ---
 
-At the start of this [unit's](/docs/glossary/unit) turn, it [heals](/docs/glossary/healing) for [<img src="/icons/party-size.svg" alt="Party Size Icon" className="icon-svg" />](/docs/glossary/party-size) HP.
+В начале своего хода эта [боевая единица](/docs/glossary/unit) [восстанавливает](/docs/glossary/healing) [<img src="/icons/party-size.svg" alt="Party Size Icon" className="icon-svg" />](/docs/glossary/party-size) ОЗ.
