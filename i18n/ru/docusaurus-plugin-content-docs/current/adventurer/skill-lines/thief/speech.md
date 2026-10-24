@@ -17,31 +17,31 @@ Speech dice all have numbers which indicate the strength of their effects. When 
 
 **Dice Supply:** 3
 
-<img src="/icons/skills/speech/intimidating-presence-all-results.png" className="skill-icon" />
+<img alt="Intimidating presence all results" src="/icons/skills/speech/intimidating-presence-all-results.png" className="skill-icon" />
 
 | Символ                                                                              | Способность                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="/icons/skills/speech/intimidating-presence.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Combine the values of all Intimidating Presence dice rolled this [engage](/docs/battles/adventurer-turn/engage). Remove an [adjacent](/docs/glossary/adjacent) non-[quest enemy](/docs/glossary/quest-unit) with HP equal to or less than this value from battle (it is not considered [defeated](/docs/glossary/defeated)). |
+| <img alt="Intimidating presence" src="/icons/skills/speech/intimidating-presence.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Combine the values of all Intimidating Presence dice rolled this [engage](/docs/battles/adventurer-turn/engage). Remove an [adjacent](/docs/glossary/adjacent) non-[quest enemy](/docs/glossary/quest-unit) with HP equal to or less than this value from battle (it is not considered [defeated](/docs/glossary/defeated)). |
 
 ### Persuasive Will
 
 **Dice Supply:** 2
 
-<img src="/icons/skills/speech/persuasive-will-all-results.png" className="skill-icon" />
+<img alt="Persuasive will all results" src="/icons/skills/speech/persuasive-will-all-results.png" className="skill-icon" />
 
 | Символ                                                                        | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="/icons/skills/speech/persuasive-will.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Combine the values of all Persuasive Will dice rolled this [engage](/docs/battles/adventurer-turn/engage). Choose an [adjacent](/docs/glossary/adjacent) [enemy](/docs/glossary/enemy) with a level equal to or less than this value. This unit becomes a [companion](/docs/glossary/companion) controlled by you. At the end of this [round](/docs/battles/battle-round), this unit becomes an enemy again. |
+| <img alt="Persuasive will" src="/icons/skills/speech/persuasive-will.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Combine the values of all Persuasive Will dice rolled this [engage](/docs/battles/adventurer-turn/engage). Choose an [adjacent](/docs/glossary/adjacent) [enemy](/docs/glossary/enemy) with a level equal to or less than this value. This unit becomes a [companion](/docs/glossary/companion) controlled by you. At the end of this [round](/docs/battles/battle-round), this unit becomes an enemy again. |
 
 ### Authority
 
 **Dice Supply:** 3
 
-<img src="/icons/skills/speech/authority-all-results.png" className="skill-icon" />
+<img alt="Authority all results" src="/icons/skills/speech/authority-all-results.png" className="skill-icon" />
 
 | Символ                                                                  | Способность                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="/icons/skills/speech/authority.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Combine the values of all Authority dice rolled this [engage](/docs/battles/adventurer-turn/engage). Any single [adventurer](/docs/glossary/adventurer) may gain [tenacity](/docs/glossary/tenacity) equal to or less than this value. Reduce tenacity gained by 1 for each hex of distance between you and that adventurer. |
+| <img alt="Authority" src="/icons/skills/speech/authority.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Combine the values of all Authority dice rolled this [engage](/docs/battles/adventurer-turn/engage). Any single [adventurer](/docs/glossary/adventurer) may gain [tenacity](/docs/glossary/tenacity) equal to or less than this value. Reduce tenacity gained by 1 for each hex of distance between you and that adventurer. |
 
 <!-- translate:off -->
 :::info

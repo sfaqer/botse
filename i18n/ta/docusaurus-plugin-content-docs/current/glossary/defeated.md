@@ -16,7 +16,7 @@ When a defeated [adventurer](/docs/glossary/adventurer) is removed from the batt
 
 Item cards remain in the adventurer's ready slots and pack but cannot be used while the adventurer is defeated.
 
-In battle, a defeated adventurer can be affected only by friendly abilities that specifically apply to a defeated adventurer. When that adventurer's HP is raised above 0, they are revived and no longer defeated. If this happens in battle, the revived adventurer is deployed to an [unoccupied](/docs/glossary/occupied.) hex as described by the ability that revived them.
+In battle, a defeated adventurer can be affected only by friendly abilities that specifically apply to a defeated adventurer. When that adventurer's HP is raised above 0, they are revived and no longer defeated. If this happens in battle, the revived adventurer is deployed to an [unoccupied](/docs/glossary/occupied) hex as described by the ability that revived them.
 
 ### Full Party Defeat
 

@@ -16,7 +16,7 @@ Some abilities cause an [adventurer](/docs/glossary/adventurer) to gain bonus HP
 <!-- translate:on -->
 **Does Bonus HP count as HP?**
 
-Bonus HP is not counted as HP for any effect that counts how much HP you have. Gaining bonus HP does not count as [healing](/docs/glossary/).
+Bonus HP is not counted as HP for any effect that counts how much HP you have. Gaining bonus HP does not count as [healing](/docs/glossary/healing/).
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000291579" target="_blank">Source</a>
 <!-- translate:off -->
