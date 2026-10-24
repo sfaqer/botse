@@ -1,7 +1,7 @@
 ---
 id: bane
-title: Bane
-hoverText: After this [unit's](/docs/glossary/unit) [engage](/docs/battles/enemy-turn), apply a [Bane](/docs/battles/status-effects/bane) status die to this unit's target.
+title: 'Проклятие'
+hoverText: 'После [атаки](/docs/battles/enemy-turn) этой [боевой единицы](/docs/glossary/unit) поместите кубик состояния [«Проклятие»](/docs/battles/status-effects/bane) на её цель.'
 ---
 
-After this [unit's](/docs/glossary/unit) [engage](/docs/battles/enemy-turn), apply a [Bane](/docs/battles/status-effects/bane) (<img src="/icons/bane.svg" alt="Bane Icon" className="icon-svg" />) status die to this unit's target.
+После [атаки](/docs/battles/enemy-turn) этой [боевой единицы](/docs/glossary/unit) поместите кубик состояния [«Проклятие»](/docs/battles/status-effects/bane) (<img src="/icons/bane.svg" alt="Bane Icon" className="icon-svg" />) на её цель.
