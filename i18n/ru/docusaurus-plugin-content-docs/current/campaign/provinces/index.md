@@ -1,27 +1,27 @@
 ---
 id: index
-title: Provinces
-hoverText: Each province is represented by an overland map and gazetteer.
+title: 'Провинции'
+hoverText: 'Каждой провинции соответствуют атлас и буклет.'
 slug: /campaign/provinces/index
 ---
 
-Each province is represented by an overland map and gazetteer.
+Каждой провинции соответствуют атлас и буклет.
 
-## Released
+## Выпущенные провинции {#released}
 
-| Название                                            | Code | Native Skill                                        |
-| --------------------------------------------------- | ---- | --------------------------------------------------- |
-| [Black Marsh](/docs/campaign/provinces/black-marsh) | BM   | [Storm Seer](/docs/battles/enemy-skills/storm-seer) |
-| [Cyrodiil](/docs/campaign/provinces/cyrodiil)       | CY   | [Detain](/docs/battles/enemy-skills/detain)         |
-| [High Rock](/docs/campaign/provinces/high-rock)     | HR   | [Incite](/docs/battles/enemy-skills/incite)         |
-| [Morrowind](/docs/campaign/provinces/morrowind)     | MW   | [Fumes](/docs/battles/enemy-skills/fumes)           |
-| [Skyrim](/docs/campaign/provinces/skyrim)           | SK   | [Freeze](/docs/battles/enemy-skills/freeze)         |
-| [Valenwood](/docs/campaign/provinces/valenwood)     | VW   | [Iron Bark](/docs/battles/enemy-skills/iron-bark)   |
+| Название                                           | Код | Местный навык                                          |
+| -------------------------------------------------- | --- | ------------------------------------------------------ |
+| [Чернотопье](/docs/campaign/provinces/black-marsh) | BM  | [Провидец бури](/docs/battles/enemy-skills/storm-seer) |
+| [Сиродил](/docs/campaign/provinces/cyrodiil)       | CY  | [Задержание](/docs/battles/enemy-skills/detain)        |
+| [Хай Рок](/docs/campaign/provinces/high-rock)      | HR  | [Подстрекательство](/docs/battles/enemy-skills/incite) |
+| [Морровинд](/docs/campaign/provinces/morrowind)    | MW  | [Испарения](/docs/battles/enemy-skills/fumes)          |
+| [Скайрим](/docs/campaign/provinces/skyrim)         | SK  | [Заморозка](/docs/battles/enemy-skills/freeze)         |
+| [Валенвуд](/docs/campaign/provinces/valenwood)     | VW  | [Железная кора](/docs/battles/enemy-skills/iron-bark)  |
 
-## Unreleased
+## Ещё не выпущенные провинции {#unreleased}
 
-| Название                                                     | Code | Native Skill |
-| ------------------------------------------------------------ | ---- | ------------ |
-| [Elsweyr](/docs/campaign/provinces/unreleased/elsweyr)       | EL   | N/a          |
-| [Hammerfell](/docs/campaign/provinces/unreleased/hammerfell) | HF   | N/a          |
-| [Summerset](/docs/campaign/provinces/unreleased/summerset)   | SU   | N/a          |
+| Название                                                     | Код | Местный навык |
+| ------------------------------------------------------------ | --- | ------------- |
+| [Эльсвейр](/docs/campaign/provinces/unreleased/elsweyr)      | EL  | Нет данных    |
+| [Хаммерфелл](/docs/campaign/provinces/unreleased/hammerfell) | HF  | Нет данных    |
+| [Саммерсет](/docs/campaign/provinces/unreleased/summerset)   | SU  | Нет данных    |
