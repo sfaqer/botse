@@ -1,25 +1,25 @@
 ---
 id: cache
-title: Cache
-hoverText: Caches are locked containers found on the battle map that [adventurers](/docs/glossary/adventurer) may open to gain item cards.
+title: 'Тайник'
+hoverText: 'Тайники — это запертые хранилища на поле боя, которые [персонажи](/docs/glossary/adventurer) могут взломать, чтобы получить карты предметов.'
 ---
 
-Caches are locked containers found on the battle map that [adventurers](/docs/glossary/adventurer) may open to gain item cards. Each <img src="/icons/common-item.svg" alt="Common Item Icon" className="icon-svg" /> chip contains 1 common item card. Each <img src="/icons/legendary-item.svg" alt="Legendary Item Icon" className="icon-svg" /> chip contains 1 legendary item card.
+Тайники — это запертые хранилища на поле боя, которые [персонажи](/docs/glossary/adventurer) могут взломать, чтобы получить карты предметов. Каждый тайник, обозначенный фишкой <img src="/icons/common-item.svg" alt="Common Item Icon" className="icon-svg" />, содержит 1 карту обычного предмета, а каждый тайник с фишкой <img src="/icons/legendary-item.svg" alt="Legendary Item Icon" className="icon-svg" /> — 1 карту легендарного предмета.
 
-During their [turn](/docs/glossary/turn), when an [adventurer](/docs/glossary/adventurer) [moves into or is placed](/docs/glossary/move-or-place) in a hex with a cache chip, they may trigger a [lockpick](/docs/glossary/lockpicking) check on that cache. The [lockpick](/docs/glossary/lockpicking) check uses a difficulty code, which is a series of numbers that must be matched to unlock it. The difficulty code for a check on a cache chip is shown on the back of the top card of the associated item deck.
+Если в свой [ход](/docs/glossary/turn) [персонаж](/docs/glossary/adventurer) [передвинулся или был перемещён](/docs/glossary/move-or-place) в клетку с фишкой тайника, он может пройти [проверку взлома](/docs/glossary/lockpicking) этого тайника. Для [взлома](/docs/glossary/lockpicking) используется код — последовательность чисел, которые нужно получить, чтобы открыть замок. Код взлома тайника указан на рубашке верхней карты соответствующей колоды предметов.
 
-- If the check is successful, the cache is unlocked and the chip is [discarded](/docs/glossary/discard). The [adventurer](/docs/glossary/adventurer) draws that card faceup and may add it to their [inventory's](/docs/adventurer/items/inventory) ready slots or pack. If the adventurer chooses not to take the unlocked card, they discard both that card and its cache chip.
-- If the check fails, the cache chip is [discarded](/docs/glossary/discard) and the top card of the relevant item deck must be cycled by placing it on the bottom of its deck.
-- Some encounters use a cache's lockpick check to determine if another effect is triggered. In this case, do not gain the item. Instead, cycle the item card used, whether the adventurer succeeds or fails at that check. After the lockpick check, the cache chip is [discarded](/docs/glossary/discard) unless specified otherwise.
+- При успехе тайник вскрыт, а его фишка [сбрасывается](/docs/glossary/discard). [Персонаж](/docs/glossary/adventurer) берёт эту карту лицевой стороной вверх и может добавить её в своё [снаряжение](/docs/adventurer/items/inventory) — в ячейку активного снаряжения или в рюкзак. Если персонаж не хочет брать открытую карту, он сбрасывает и её, и фишку тайника.
+- При провале [сбросьте](/docs/glossary/discard) фишку тайника, а верхнюю карту соответствующей колоды предметов переложите вниз этой колоды.
+- В некоторых встречах результат проверки взлома тайника определяет, сработает ли другой эффект. В таких случаях предмет не получают: независимо от успеха или провала проверки использованную карту предмета перекладывают вниз её колоды. После проверки фишку тайника [сбрасывают](/docs/glossary/discard), если не указано иное.
 
 ---
 
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Are cache hexes considered occupied?**
+**Считаются ли клетки с тайниками занятыми?**
 
-A cache hex is considered to be [unoccupied](/docs/glossary/occupied). They do not block movement or deployment. Some [delve](/docs/battles/types/delve/index) hexes have both a cache icon (<img src="/icons/common-item.svg" alt="Cache Icon" className="icon-svg" />) and an enemy icon (<img src="/icons/enemy-deployment-hex.svg" alt="Enemy Deployment Hex Icon" className="icon-svg"/>) - those hexes can get a cache placed on them, and an enemy can still deploy there afterwards.
+Фишка тайника сама по себе не делает клетку [занятой](/docs/glossary/occupied) и не мешает передвижению или размещению боевых единиц. На некоторых клетках [вылазки](/docs/battles/types/delve/index) одновременно изображены символ тайника (<img src="/icons/common-item.svg" alt="Cache Icon" className="icon-svg" />) и символ врага (<img src="/icons/enemy-deployment-hex.svg" alt="Enemy Deployment Hex Icon" className="icon-svg"/>). В такую клетку можно сначала положить фишку тайника, а затем разместить врага.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292501" target="_blank">Источник</a>
 <!-- translate:off -->
@@ -30,9 +30,9 @@ A cache hex is considered to be [unoccupied](/docs/glossary/occupied). They do n
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Is there a limit to how many caches an adventurer can lockpick in a turn?**
+**Есть ли ограничение на количество тайников, которые персонаж может взломать за ход?**
 
-No, there is no limit.
+Нет, ограничений нет.
 <!-- translate:off -->
 :::
 <!-- translate:on -->
