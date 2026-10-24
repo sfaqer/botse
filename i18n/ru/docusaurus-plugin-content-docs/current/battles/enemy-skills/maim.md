@@ -1,7 +1,7 @@
 ---
 id: maim
-title: Maim
-hoverText: After this [unit's](/docs/glossary/unit) [engage](/docs/battles/enemy-turn), apply a [Maim](/docs/battles/status-effects/maim) status die to this unit's target.
+title: 'Увечье'
+hoverText: 'После [атаки](/docs/battles/enemy-turn) этой [боевой единицы](/docs/glossary/unit) поместите кубик состояния [«Увечье»](/docs/battles/status-effects/maim) на её цель.'
 ---
 
-After this [unit's](/docs/glossary/unit) [engage](/docs/battles/enemy-turn), apply a [Maim](/docs/battles/status-effects/maim) (<img src="/icons/maim.svg" alt="Maim Icon" className="icon-svg" />) status die to this unit's target.
+После [атаки](/docs/battles/enemy-turn) этой [боевой единицы](/docs/glossary/unit) поместите кубик состояния [«Увечье»](/docs/battles/status-effects/maim) (<img src="/icons/maim.svg" alt="Maim Icon" className="icon-svg" />) на её цель.
