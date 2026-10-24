@@ -1,21 +1,21 @@
 ---
 id: pet
-title: Pet
-hoverText: Pets protect [adventurers](/docs/glossary/adventurer) from a number of harmful effects in Tamriel. However, each time the adventurer resolves a Pet ability, they must add an HP chip on top of the Pet card. A Pet with HP chips on it must be discarded after its HP limit is reached or the session ends.
+title: 'Питомец'
+hoverText: 'Питомцы защищают [персонажей](/docs/glossary/adventurer) от различных вредоносных эффектов Тамриэля. Однако каждый раз, когда персонаж применяет способность питомца, он должен положить фишку ОЗ на его карту. Карту питомца с фишками ОЗ нужно сбросить, когда количество фишек достигнет его лимита здоровья или эпизод завершится.'
 ---
 
-# <img src="/icons/pet.svg" alt="Pet Icon" /> Pet
+# <img src="/icons/pet.svg" alt="Pet Icon" /> Питомец {#pet}
 
-Pets protect [adventurers](/docs/glossary/adventurer) from a number of harmful effects in Tamriel. However, each time the adventurer resolves a <img src="/icons/pet.svg" alt="Pet Icon" className="icon-svg" /> ability, they must add an HP chip on top of the <img src="/icons/pet.svg" alt="Pet Icon" className="icon-svg" /> card. A <img src="/icons/pet.svg" alt="Pet Icon" className="icon-svg" /> with HP chips on it must be discarded after its HP limit is reached or the session ends. These chips cannot be removed unless an ability specifically refers to them. A <img src="/icons/pet.svg" alt="Pet Icon" className="icon-svg" /> may be placed in your pack when gained, but once it is placed in a ready slot, it cannot go back into your pack.
+Питомцы защищают [персонажей](/docs/glossary/adventurer) от различных вредоносных эффектов Тамриэля. Однако каждый раз, когда персонаж применяет способность питомца <img src="/icons/pet.svg" alt="Pet Icon" className="icon-svg" />, он должен положить фишку ОЗ на карту <img src="/icons/pet.svg" alt="Pet Icon" className="icon-svg" />. Карту <img src="/icons/pet.svg" alt="Pet Icon" className="icon-svg" /> с фишками ОЗ нужно сбросить, когда количество фишек достигнет её лимита здоровья или эпизод завершится. Убрать эти фишки можно только с помощью способности, которая прямо позволяет это сделать. При получении карты <img src="/icons/pet.svg" alt="Pet Icon" className="icon-svg" /> её можно поместить в рюкзак, но после того, как она помещена в ячейку активного снаряжения, вернуть её в рюкзак нельзя.
 
 ---
 
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**What if a game effect forces a pet back into your pack?**
+**Что делать, если игровой эффект заставляет вернуть питомца в рюкзак?**
 
-Once a pet has been placed in a ready slot, **it cannot go back into your pack**. If a game effect forces you to put a pet into your pack, you must instead [discard](/docs/glossary/discard) it. One such game effect that might force this is the Native enemy skill [Freeze](/docs/battles/enemy-skills/freeze) in [Skyrim](/docs/campaign/provinces/skyrim).
+После того как питомец помещён в ячейку активного снаряжения, **вернуть его в рюкзак нельзя**. Если игровой эффект заставляет вас убрать питомца в рюкзак, вместо этого вы должны [сбросить](/docs/glossary/discard) его. Например, к этому может привести местный навык врагов [«Заморозка»](/docs/battles/enemy-skills/freeze) в [Скайриме](/docs/campaign/provinces/skyrim).
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000291972" target="_blank">Источник</a>
 <!-- translate:off -->

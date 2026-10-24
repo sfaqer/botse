@@ -1,21 +1,21 @@
 ---
 id: weapon
-title: Weapon
-hoverText: Weapon items provide advantages in battle, often interacting with skills. Each  has a standard ability that is resolved as part of an [adventurer's](/docs/glossary/adventurer) [engage](/docs/battles/adventurer-turn/engage). However, each Weapon also has a secondary, [overtax](/docs/adventurer/items/overtax) keyword ability that can be triggered in addition to the item's standard ability when using the Weapon to engage.
+title: 'Оружие'
+hoverText: 'Оружие даёт преимущества в бою и часто взаимодействует с навыками. У каждого оружия есть обычная способность, которая применяется как часть [атаки](/docs/battles/adventurer-turn/engage) [персонажа](/docs/glossary/adventurer). Кроме того, у оружия есть дополнительная способность с ключевым словом [«Сверхнагрузка»](/docs/adventurer/items/overtax), которую можно применить вместе с обычной способностью, используя оружие для атаки.'
 ---
 
-# <img src="/icons/weapon.svg" alt="Weapon Icon"/> Weapon
+# <img src="/icons/weapon.svg" alt="Weapon Icon"/> Оружие {#weapon}
 
-Weapon items provide advantages in battle, often interacting with skills. Each <img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" /> has a standard ability that is resolved as part of an [adventurer's](/docs/glossary/adventurer) [engage](/docs/battles/adventurer-turn/engage). However, each <img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" /> also has a secondary, [overtax](/docs/adventurer/items/overtax) keyword ability that can be triggered in addition to the item's standard ability when using the <img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" /> to engage. An adventurer can use only 1 <img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" /> per engage and must choose whether to use a <img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" /> effect, including its overtax effect, before their dice are rolled.
+Оружие даёт преимущества в бою и часто взаимодействует с навыками. У каждого оружия <img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" /> есть обычная способность, которая применяется как часть [атаки](/docs/battles/adventurer-turn/engage) [персонажа](/docs/glossary/adventurer). Кроме того, у каждого оружия <img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" /> есть дополнительная способность с ключевым словом [«Сверхнагрузка»](/docs/adventurer/items/overtax), которую можно применить вместе с обычной способностью, используя <img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" /> для атаки. Персонаж может использовать только 1 оружие <img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" /> за атаку и должен решить, будет ли он применять эффект <img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" />, включая сверхнагрузку, до броска кубиков.
 
 ---
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Is there a limit to how many weapons you can have in ready slots?**
+**Есть ли ограничение на количество оружия в ячейках активного снаряжения?**
 
-No, there is no limit to how many weapons you may have. However, you may only use 1 weapon per engage.
+Нет, отдельного ограничения на количество оружия нет. Однако за одну атаку можно использовать только 1 оружие.
 <!-- translate:off -->
 :::
 <!-- translate:on -->

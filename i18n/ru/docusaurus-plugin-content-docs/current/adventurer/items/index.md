@@ -1,16 +1,15 @@
 ---
 id: index
-title: Items
-hoverText: >
-  [Adventurers](/docs/glossary/adventurer) can gain useful items along their way. Each item card takes up 1 space in an [adventurer's](/docs/glossary/adventurer) [inventory](/docs/adventurer/items/inventory), whether it is in a ready slot or the pack area. There are 2 types of item cards, common and legendary.
+title: 'Предметы'
+hoverText: 'В своих приключениях [персонажи](/docs/glossary/adventurer) могут получать полезные предметы. Каждая карта предмета занимает 1 место в [снаряжении](/docs/adventurer/items/inventory) [персонажа](/docs/glossary/adventurer), независимо от того, находится ли она в ячейке активного снаряжения или в рюкзаке. Карты предметов бывают двух типов: обычные и легендарные.'
 slug: /adventurer/items/index
 ---
 
-[Adventurers](/docs/glossary/adventurer) can gain useful items along their way. Each item card takes up 1 space in an [adventurer's](/docs/glossary/adventurer) [inventory](/docs/adventurer/items/inventory), whether it is in a ready slot or the pack area. There are 2 types of item cards: common (<img src="/icons/common-item.svg" alt="Common Item Icon" className="icon-svg" />) and legendary (<img src="/icons/legendary-item.svg" alt="Legendary Item Icon" className="icon-svg" />).
+В своих приключениях [персонажи](/docs/glossary/adventurer) могут получать полезные предметы. Каждая карта предмета занимает 1 место в [снаряжении](/docs/adventurer/items/inventory) [персонажа](/docs/glossary/adventurer), независимо от того, находится ли она в ячейке активного снаряжения или в рюкзаке. Карты предметов бывают двух типов: обычные (<img src="/icons/common-item.svg" alt="Common Item Icon" className="icon-svg" />) и легендарные (<img src="/icons/legendary-item.svg" alt="Legendary Item Icon" className="icon-svg" />).
 
-During a battle, an item's ability can be used at the timing described. Some items can be used during another [unit's](/docs/glossary/unit) [turn](/docs/glossary/turn)—such as [armor (<img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" />)](/docs/adventurer/items/types/armor) items, which can be used during an enemy's [Engage](/docs/battles/enemy-turn) step. If an ability does not specify a timing, that item can be used either during the Deploy Adventurers step of setup or during that adventurer's [turn](/docs/glossary/turn). Remember that during a battle, only items in an [adventurer's](/docs/glossary/adventurer) 4 ready slots can be used!
+Во время боя способность предмета можно применять в указанный в её описании момент. Некоторые предметы можно использовать во время [хода](/docs/glossary/turn) другой [боевой единицы](/docs/glossary/unit): например, [броню (<img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" />)](/docs/adventurer/items/types/armor) можно применять на этапе [атаки](/docs/battles/enemy-turn) врага. Если момент применения не указан, предмет можно использовать на этапе размещения персонажей при подготовке к бою или во время [хода](/docs/glossary/turn) этого персонажа. Помните: в бою можно использовать только предметы из 4 ячеек активного снаряжения [персонажа](/docs/glossary/adventurer)!
 
-Outside of battle, an item can be used at any time the adventurer chooses, unless its ability specifies otherwise. Items are not discarded after they are used unless required by that item's ability. When either the Common or Legendary Item Deck is emptied, that deck's discard pile must be reshuffled and placed back into the card tray.
+Вне боя персонаж может использовать предмет в любой момент, если его способность не указывает иное. Предметы не сбрасываются после использования, если этого не требует их способность. Когда в колоде обычных или легендарных предметов заканчиваются карты, перемешайте соответствующую стопку сброса и верните её в лоток для карт в качестве новой колоды.
 
 ## Типы предметов
 
@@ -25,18 +24,18 @@ Outside of battle, an item can be used at any time the adventurer chooses, unles
 | <img src="/icons/potion.svg" alt="Potion Icon" />               | [Зелье](/docs/adventurer/items/types/potion)            |
 | <img src="/icons/weapon.svg" alt="Weapon Icon" />               | [Оружие](/docs/adventurer/items/types/weapon)           |
 
-## Traits
+## Категории предметов {#traits}
 
-Traits do not have specific rules (except for traits of the [<img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" />](/docs/adventurer/items/types/armor) subtype) and can only interact with abilities that refer to them by name.
+У категорий предметов нет специальных правил, кроме категорий предметов подтипа [<img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" />](/docs/adventurer/items/types/armor). Они взаимодействуют только со способностями, которые прямо ссылаются на них по названию.
 
 ---
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Is it allowed to use items mid/during an engage?**
+**Можно ли использовать предметы в процессе атаки?**
 
-No, items cannot be used mid-engage.
+Нет, использовать предметы в процессе атаки нельзя.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Источник</a>
 
@@ -47,9 +46,9 @@ No, items cannot be used mid-engage.
 :::warning[Errata]
 <!-- translate:on -->
 
-**Item card count - should be 100 common, 60 legendary**
+**Количество карт предметов: 100 обычных и 60 легендарных**
 
-The rulebook says there are 110 common items and 50 legendary. The proper count is 100 common items and 60 legendary.
+В книге правил указано 110 обычных предметов и 50 легендарных. Правильное количество — 100 обычных предметов и 60 легендарных.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292376" target="_blank">Источник</a>
 <!-- translate:off -->
