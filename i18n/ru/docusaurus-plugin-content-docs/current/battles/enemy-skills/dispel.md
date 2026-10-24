@@ -1,12 +1,12 @@
 ---
 id: dispel
 title: Dispel
-hoverText: After this [unit](/docs/glossary/unit) is [engaged](/docs/battles/adventurer-turn/engage) by an [adventurer](/docs/glossary/adventurer) in [Magic battle form](/docs/battles/battle-forms/magic) or by a Daedra unit, this unit deals [party size](/docs/glossary/party-size) [true damage](/docs/glossary/true-damage) to the engaging unit, even if [defeated](/docs/glossary/defeated).
+hoverText: 'После того как эту [боевую единицу](/docs/glossary/unit) [атаковал](/docs/battles/adventurer-turn/engage) [персонаж](/docs/glossary/adventurer) в [боевом режиме «Магия»](/docs/battles/battle-forms/magic) или боевая единица типа «Даэдра», она наносит атакующей боевой единице [неблокируемый урон](/docs/glossary/true-damage) в количестве, равном [размеру отряда](/docs/glossary/party-size), даже если сама [повержена](/docs/glossary/defeated).'
 tags:
   - Quest Unit Skill
 ---
 
-After this [unit](/docs/glossary/unit) is [engaged](/docs/battles/adventurer-turn/engage) by an [adventurer](/docs/glossary/adventurer) in [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic) or by a <img src="/icons/daedra.svg" alt="Daedra Icon" className="icon-svg" /> unit, this unit deals [<img src="/icons/party-size.svg" alt="Party Size Icon" className="icon-svg" />](/docs/glossary/party-size) [true damage](/docs/glossary/true-damage) to the engaging unit, even if [defeated](/docs/glossary/defeated).
+После того как эту [боевую единицу](/docs/glossary/unit) [атаковал](/docs/battles/adventurer-turn/engage) [персонаж](/docs/glossary/adventurer) в боевом режиме [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic) или боевая единица типа «Даэдра» <img src="/icons/daedra.svg" alt="Daedra Icon" className="icon-svg" />, она наносит атакующей боевой единице [<img src="/icons/party-size.svg" alt="Party Size Icon" className="icon-svg" />](/docs/glossary/party-size) [неблокируемого урона](/docs/glossary/true-damage), даже если сама [повержена](/docs/glossary/defeated).
 
 ---
 
