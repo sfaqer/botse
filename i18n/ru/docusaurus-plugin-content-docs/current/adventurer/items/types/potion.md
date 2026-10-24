@@ -1,9 +1,9 @@
 ---
 id: potion
-title: Potion
-hoverText: Potion items represent powerful, ability-altering concoctions. Each Potion has an [expend](/docs/adventurer/items/expend) keyword ability that allows it to be used multiple times. However, each time this card is used, it is [expended](/docs/adventurer/items/expend) (turned on its side) and must be refreshed before it can be used again.
+title: 'Зелье'
+hoverText: 'Зелья — это могущественные отвары, изменяющие способности. У каждого зелья есть способность с ключевым словом [«Использование»](/docs/adventurer/items/expend), позволяющая применять его многократно. Однако после каждого применения карта становится [использованной](/docs/adventurer/items/expend): её поворачивают набок, и перед следующим применением её нужно обновить.'
 ---
 
-# <img src="/icons/potion.svg" alt="Potion Icon" /> Potion
+# <img src="/icons/potion.svg" alt="Potion Icon" /> Зелье {#potion}
 
-Potion items represent powerful, ability-altering concoctions. Each <img src="/icons/potion.svg" alt="Potion Icon" className="icon-svg" /> has an [expend](/docs/adventurer/items/expend) keyword ability that allows it to be used multiple times. However, each time this card is used, it is [expended](/docs/adventurer/items/expend) (turned on its side) and must be refreshed before it can be used again.
+Зелья — это могущественные отвары, изменяющие способности. У каждого зелья <img src="/icons/potion.svg" alt="Potion Icon" className="icon-svg" /> есть способность с ключевым словом [«Использование»](/docs/adventurer/items/expend), позволяющая применять его многократно. Однако после каждого применения карта становится [использованной](/docs/adventurer/items/expend): её поворачивают набок, и перед следующим применением её нужно обновить.

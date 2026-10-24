@@ -1,7 +1,7 @@
 ---
 id: trait
-title: Trait
-hoverText: Traits do not have specific rules (except for traits of the [Armor](/docs/adventurer/items/types/armor) subtype) and can only interact with abilities that refer to them by name.
+title: 'Категория предмета'
+hoverText: 'У категорий предметов нет специальных правил, кроме категорий предметов подтипа [«Броня»](/docs/adventurer/items/types/armor). Они взаимодействуют только со способностями, которые прямо ссылаются на них по названию.'
 ---
 
-Traits do not have specific rules (except for traits of the [<img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" />](/docs/adventurer/items/types/armor) subtype) and can only interact with abilities that refer to them by name.
+У категорий предметов нет специальных правил, кроме категорий предметов подтипа [<img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" />](/docs/adventurer/items/types/armor). Они взаимодействуют только со способностями, которые прямо ссылаются на них по названию.

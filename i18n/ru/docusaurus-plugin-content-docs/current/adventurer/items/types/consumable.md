@@ -1,29 +1,29 @@
 ---
 id: consumable
-title: Consumable
-hoverText: Consumable items represent a variety of foods and beverages. Each Consumable can be used once and must then be [discarded](/docs/glossary/discard).
+title: 'Расходник'
+hoverText: 'Расходники — это различные блюда и напитки. Каждый расходник можно использовать один раз, после чего его нужно [сбросить](/docs/glossary/discard).'
 ---
 
-# <img src="/icons/consumable.svg" alt="Consumable Icon" /> Consumable
+# <img src="/icons/consumable.svg" alt="Consumable Icon" /> Расходник {#consumable}
 
-Consumable items represent a variety of foods and beverages. Each <img src="/icons/consumable.svg" alt="Consumable Icon"  className="icon-svg" /> can be used once and must then be [discarded](/docs/glossary/discard). However, <img src="/icons/consumable.svg" alt="Consumable Icon"  className="icon-svg" /> often have effects that can benefit multiple [party members](/docs/glossary/party). If a <img src="/icons/consumable.svg" alt="Consumable Icon"  className="icon-svg" /> is discarded during the [End of Day Phase's Adventurers Rest](/docs/campaign/day/end-of-day-phase) step (which is required if playing on [Expert Difficulty](/docs/campaign/difficulty-levels/Expert)), the [adventurer](/docs/glossary/adventurer) may also resolve that item's effects (if applicable).
+Расходники — это различные блюда и напитки. Каждый <img src="/icons/consumable.svg" alt="Consumable Icon"  className="icon-svg" /> можно использовать один раз, после чего его нужно [сбросить](/docs/glossary/discard). При этом эффекты <img src="/icons/consumable.svg" alt="Consumable Icon"  className="icon-svg" /> часто бывают полезны сразу нескольким [участникам отряда](/docs/glossary/party). Если вы сбрасываете <img src="/icons/consumable.svg" alt="Consumable Icon"  className="icon-svg" /> на этапе [отдыха персонажей в фазе конца дня](/docs/campaign/day/end-of-day-phase), что обязательно на [уровне сложности «Эксперты»](/docs/campaign/difficulty-levels/Expert), [персонаж](/docs/glossary/adventurer) также может применить эффекты этого предмета, если это возможно.
 
 ---
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Do you get the effect of a consumable item when other effects cause you to discard it?**
+**Получаете ли вы эффект расходника, если другой эффект заставляет вас его сбросить?**
 
-No. You have to use the item to get its effect. Though discarding it is part of using it, something else forcing you to discard it does not trigger its use.
+Нет. Чтобы получить эффект предмета, его нужно использовать. Хотя сброс карты — часть использования предмета, вынужденный сброс из-за другого эффекта не считается его использованием.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Источник</a>
 
 ---
 
-**Is it allowed to use items mid/during an engage?**
+**Можно ли использовать предметы в процессе атаки?**
 
-No, items cannot be used mid-engage.
+Нет, использовать предметы в процессе атаки нельзя.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Источник</a>
 

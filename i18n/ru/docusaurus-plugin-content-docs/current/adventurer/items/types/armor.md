@@ -1,28 +1,28 @@
 ---
 id: armor
-title: Armor
-hoverText: Armor items grant benefits while their owner is being [engaged](/docs/battles/adventurer-turn/engage). Each Armor has a standard ability that is resolved when an [enemy](/docs/glossary/enemy) engages an [adventurer](/docs/glossary/adventurer). However, each Armor also has a secondary, [overtax](/docs/adventurer/items/overtax) keyword ability that can be triggered during this engage in addition to the item's standard ability.
+title: 'Броня'
+hoverText: 'Броня даёт преимущества, когда её владельца [атакуют](/docs/battles/adventurer-turn/engage). У каждой брони есть обычная способность, которая применяется, когда [враг](/docs/glossary/enemy) атакует [персонажа](/docs/glossary/adventurer). Кроме того, у брони есть дополнительная способность с ключевым словом [«Сверхнагрузка»](/docs/adventurer/items/overtax), которую можно применить во время этой атаки вместе с обычной способностью.'
 ---
 
-# <img src="/icons/armor.svg" alt="Armor Icon"/> Armor
+# <img src="/icons/armor.svg" alt="Armor Icon"/> Броня {#armor}
 
-Armor items grant benefits while their owner is being [engaged](/docs/battles/adventurer-turn/engage). Each <img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" /> has a standard ability that is resolved when an [enemy](/docs/glossary/enemy) engages an [adventurer](/docs/glossary/adventurer). However, each <img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" /> also has a secondary, [overtax](/docs/adventurer/items/overtax) keyword ability that can be triggered during this engage in addition to the item's standard ability. An adventurer must choose whether to use an <img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" /> ability, including its overtax ability, before damage is dealt. Each <img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" /> item's [trait](/docs/adventurer/items/trait) is the body area it is worn on; an adventurer can have only 1 <img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" /> with each
-[trait](/docs/adventurer/items/trait) in their ready slots.
+Броня даёт преимущества, когда её владельца [атакуют](/docs/battles/adventurer-turn/engage). У каждого предмета <img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" /> есть обычная способность, которая применяется, когда [враг](/docs/glossary/enemy) атакует [персонажа](/docs/glossary/adventurer). Кроме того, у каждого предмета <img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" /> есть дополнительная способность с ключевым словом [«Сверхнагрузка»](/docs/adventurer/items/overtax), которую можно применить во время этой атаки вместе с обычной способностью. Персонаж должен решить, будет ли он использовать способность предмета <img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" />, включая сверхнагрузку, до нанесения урона. [Категория](/docs/adventurer/items/trait) предмета <img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" /> обозначает часть тела, на которой его носят. В ячейках активного снаряжения персонажа может быть только 1
+предмет <img src="/icons/armor.svg" alt="Armor Icon" className="icon-svg" /> каждой [категории](/docs/adventurer/items/trait).
 
 ---
 
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Is there a limit to how many times it can be used in a round?**
+**Есть ли ограничение на количество использований брони за раунд?**
 
-Armor can be used each time an enemy [engages](/docs/battles/enemy-turn) you (meaning it targets you). If you are engaged multiple times in a [round](/docs/battles/battle-round), you can use the armor on each engage (as long as you don't [overtax](/docs/adventurer/items/overtax) it which causes it to be [discarded](/docs/glossary/discard)).
+Броню можно использовать каждый раз, когда враг [атакует](/docs/battles/enemy-turn) вас, то есть выбирает вас целью. Если вас атакуют несколько раз за [раунд](/docs/battles/battle-round), броню можно использовать при каждой атаке, пока вы не примените её [сверхнагрузку](/docs/adventurer/items/overtax), после которой броню нужно [сбросить](/docs/glossary/discard).
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292495" target="_blank">Источник</a>
 
 ---
 
-**When do you choose to Overtax?**
+**Когда нужно решить, применять ли сверхнагрузку?**
 
 Когда вы применяете «Сверхнагрузку» для брони, вы можете дождаться результата [броска врага](/docs/battles/enemy-turn), прежде чем решить, хотите ли применить «Сверхнагрузку».
 
