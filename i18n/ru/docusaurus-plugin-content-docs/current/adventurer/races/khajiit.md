@@ -4,9 +4,9 @@ title: 'Каджит'
 hoverText: 'Здоровье: 4, Выносливость: 3, Магия: 2, Бой: 2, Перезарядка: 2'
 ---
 
-As flamboyant as they are clever, the feline "beast-folk" of [Elsweyr](/docs/campaign/provinces/unreleased/elsweyr) are the subject of much speculation and rumor, none of which they're particularly interested in debunking. Their cat-like reflexes and grace make them naturals in the art of creative acquisition, and their unique, lunar-focused religious beliefs permeate their way of life — notably through the use of moon sugar, a powerful narcotic grown from cane grasses native to their homeland. After the Khajiiti population was endangered by the spread of the Knahaten Flu, Elsweyr joined the Aldmeri Dominion to seek more political stability in a treacherous world.
+Яркие и хитроумные каджиты, кошачий «зверолюд» [Эльсвейра](/docs/campaign/provinces/unreleased/elsweyr), окружены множеством слухов и домыслов, опровергать которые они не особенно стремятся. Кошачьи рефлексы и грация делают их прирождёнными мастерами изобретательного присвоения чужого. Их особая религия, в центре которой стоят луны, пронизывает весь уклад жизни — в частности, через употребление лунного сахара, сильного наркотика, получаемого из местных тростниковых растений. Когда распространение Кнахатенского гриппа поставило народ каджитов под угрозу, Эльсвейр вступил в Альдмерский Доминион, рассчитывая обрести большую политическую устойчивость в опасном мире.
 
-**Ability [Cutpurse]**: Once per battle, you may automatically succeed at a lockpick check without rolling any dice. [Then](/docs/glossary/then), move up to 5 hexes.
+**Способность [Cutpurse]**: Один раз за бой вы можете автоматически успешно пройти проверку взлома, не бросая кубики. [Затем](/docs/glossary/then) передвиньтесь не более чем на 5 клеток.
 
 | Характеристика                                     | Значение |
 | -------------------------------------------------- | -------- |

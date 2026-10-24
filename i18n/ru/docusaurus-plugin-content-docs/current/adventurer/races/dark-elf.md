@@ -4,9 +4,9 @@ title: 'Тёмный эльф'
 hoverText: 'Здоровье: 4, Выносливость: 2, Магия: 3, Бой: 2, Перезарядка: 2'
 ---
 
-An insular people with a tumultuous past, the ash-skinned natives of [Morrowind](/docs/campaign/provinces/morrowind) lead a singular way of life. Most Dark Elves worship the living gods of the Tribunal and operate within the confines of Morrowind's rigid system of great houses, and some are still adjusting to the majority of those houses joining the larger political body of the Ebonheart Pact. Shrewd and knowledgeable, Dark Elves pride themselves on their readiness for conflict, often mastering magic, the blade, or both.
+Замкнутый народ с бурным прошлым, пепельнокожие уроженцы [Морровинда](/docs/campaign/provinces/morrowind) ведут своеобразный образ жизни. Большинство тёмных эльфов поклоняется живым богам Трибунала и подчиняется строгому укладу великих домов Морровинда. Некоторые до сих пор привыкают к тому, что большинство этих домов присоединилось к более крупному политическому союзу — Эбонхартскому пакту. Проницательные и сведущие тёмные эльфы гордятся своей готовностью к столкновениям и часто в совершенстве владеют магией, клинком или тем и другим.
 
-**Ability [Dynamic]**: Once per battle, during your turn, [recover](/docs/glossary/recover) any 4 skill dice from your [cooldown track](/docs/glossary/cooldown-track), replacing each with light [fatigue](/docs/glossary/fatigue).
+**Способность [Dynamic]**: Один раз за бой в свой ход [верните](/docs/glossary/recover) любые 4 кубика навыков с вашего [трека перезарядки](/docs/glossary/cooldown-track), заменяя каждый серебристым кубиком [усталости](/docs/glossary/fatigue).
 
 | Характеристика                                     | Значение |
 | -------------------------------------------------- | -------- |
@@ -22,19 +22,19 @@ An insular people with a tumultuous past, the ash-skinned natives of [Morrowind]
 :::info
 <!-- translate:on -->
 
-**Can I activate the Dynamic ability even if I don't have 4 skill dice to recover?**
+**Могу ли я активировать способность Dynamic, если у меня нет 4 кубиков навыков, которые можно вернуть?**
 
-Do as much as you can - if you have fewer than 4 skill dice, you can still use it and recover those dice.
+Выполните столько, сколько можете: если у вас меньше 4 кубиков навыков, вы всё равно можете применить способность и вернуть эти кубики.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1346557892966220049" target="_blank">Источник</a>
 
 ---
 
-**How does the Dark Elf racial ability interact with the item Shoulder-Mounted Parasol?**
+**Как расовая способность тёмного эльфа взаимодействует с предметом Shoulder-Mounted Parasol?**
 
-_The Parasol says "when you would gain any amount of light fatigue" while the racial ability says "replace..."._
+_В описании Parasol сказано «когда вы должны получить любое количество серебристых кубиков усталости», а в описании расовой способности — «заменяя...»._
 
-Replacing is the same as gaining. You can use Shoulder-Mounted Parasol to avoid the light fatigue from Dark Elf's race ability.
+Замена считается получением. Вы можете использовать Shoulder-Mounted Parasol, чтобы избежать получения серебристых кубиков усталости от расовой способности тёмного эльфа.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372223420774879282" target="_blank">Источник</a>
 

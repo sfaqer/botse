@@ -4,9 +4,9 @@ title: 'Имперец'
 hoverText: 'Здоровье: 5, Выносливость: 2, Магия: 2, Бой: 2, Перезарядка: 2'
 ---
 
-The humans of [Cyrodiil](/docs/campaign/provinces/cyrodiil) are known for their civility and, in these troubled times, their lack of a stable homeland. The Imperials' once-pastoral province, which formerly housed the capital of the Second Empire, is currently engulfed in the Three Banners War, and its countrymen have either scattered to the wind or hunkered down in an attempt to outlast the violence. Fortunately, Imperials are uniquely suited to adapt to the present circumstances, as their history of trade and diplomacy has given them an advantage when navigating the shifting tides of war.
+Люди [Сиродила](/docs/campaign/provinces/cyrodiil) известны своей обходительностью, а в эти смутные времена — ещё и отсутствием спокойной родины. Некогда мирная провинция имперцев, где прежде находилась столица Второй империи, теперь охвачена Войной Альянсов. Её жители либо разбрелись по свету, либо затаились в надежде переждать кровопролитие. К счастью, имперцы умеют приспосабливаться к таким обстоятельствам: многовековой опыт торговли и дипломатии помогает им ориентироваться в переменчивой обстановке войны.
 
-**Ability [Imperial Mettle]**: Once per battle, when you would be dealt 3 or fewer damage, prevent that damage and [instead](/docs/glossary/instead) gain that much [tenacity](/docs/glossary/tenacity).
+**Способность [Imperial Mettle]**: Один раз за бой, когда вы должны получить не более 3 единиц урона, предотвратите этот урон и [вместо](/docs/glossary/instead) него получите столько же [стойкости](/docs/glossary/tenacity).
 
 | Характеристика                                     | Значение |
 | -------------------------------------------------- | -------- |

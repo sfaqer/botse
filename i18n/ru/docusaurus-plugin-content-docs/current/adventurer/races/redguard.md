@@ -4,9 +4,9 @@ title: 'Редгард'
 hoverText: 'Здоровье: 4, Выносливость: 3, Магия: 2, Бой: 3, Перезарядка: 1'
 ---
 
-Though many races in Tamriel can boast of a strong martial history, few can match the pedigree of the Redguards or their prowess in single combat. Descendants of refugees from the sunken continent of Yokunda, the Redguards call the harsh desert province of [Hammerfell](/docs/campaign/provinces/unreleased/hammerfell) their home and take their position in the Daggerfall Covenant very seriously. Though they revere the sacred, these honorable humans also fear the corrupting power of magic, viewing it as less reliable than a strong blade at your side.
+Многие расы Тамриэля могут похвастаться славным воинским прошлым, но немногие способны сравниться с редгардами в богатстве боевых традиций и искусстве поединка. Потомки беженцев с затонувшего континента Йокуда, редгарды считают своей родиной суровую пустынную провинцию [Хаммерфелл](/docs/campaign/provinces/unreleased/hammerfell) и очень серьёзно относятся к своей роли в Даггерфолльском Ковенанте. Почитая священное, эти люди чести вместе с тем опасаются развращающей силы магии: для них она куда менее надёжна, чем крепкий клинок под рукой.
 
-**Ability [Adrenaline Rush]**: Once per battle, during your turn, remove up to 3 [fatigue](/docs/glossary/fatigue) or status dice from your [cooldown track](/docs/glossary/cooldown-track) and [heal](/docs/glossary/healing) for 1 HP for each die removed. If the total HP recovered exceeds your [Health](/docs/adventurer/stats/health) stat, it is gained as [bonus HP](/docs/glossary/bonus-hp).
+**Способность [Adrenaline Rush]**: Один раз за бой в свой ход уберите с вашего [трека перезарядки](/docs/glossary/cooldown-track) до 3 кубиков [усталости](/docs/glossary/fatigue) или состояний и [восстановите](/docs/glossary/healing) по 1 ОЗ за каждый убранный кубик. ОЗ, восстановленные сверх значения вашей характеристики [«Здоровье»](/docs/adventurer/stats/health), становятся [дополнительным здоровьем](/docs/glossary/bonus-hp).
 
 | Характеристика                                     | Значение |
 | -------------------------------------------------- | -------- |
