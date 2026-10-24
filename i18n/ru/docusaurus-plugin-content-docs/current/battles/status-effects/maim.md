@@ -1,49 +1,49 @@
 ---
 id: maim
-title: Maim
-hoverText: When this unit rolls Combat skill dice, the total damage rolled is reduced by half, then [rounded](/docs/glossary/rounding) down. This effect does not apply to [true damage](/docs/glossary/true-damage).
+title: 'Увечье'
+hoverText: 'Когда эта боевая единица бросает кубики боя, общий выпавший урон делится пополам, а затем [округляется](/docs/glossary/rounding) вниз. Этот эффект не влияет на [неблокируемый урон](/docs/glossary/true-damage).'
 tags:
   - Status Effects
 ---
 
-# <img src="/icons/maim.svg" alt="Maim Icon" /> Maim
+# <img src="/icons/maim.svg" alt="Maim Icon" /> Увечье {#maim}
 
-When this unit rolls Combat skill dice, the total damage rolled is reduced by half, then [rounded](/docs/glossary/rounding) down. This effect does not apply to [true damage](/docs/glossary/true-damage).
+Когда эта боевая единица бросает кубики боя, общий выпавший урон делится пополам, а затем [округляется](/docs/glossary/rounding) вниз. Этот эффект не влияет на [неблокируемый урон](/docs/glossary/true-damage).
 
 ---
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Is damage rounded down per die or cumulative total of all damage dealt by Combat dice?**
+**Урон округляется вниз отдельно для каждого кубика или после сложения урона всех кубиков боя?**
 
-The damage is reduced for the total amount of damage rolled. You sum the value of all rolled Combat dice and reduced by half (rounded down).
-
----
-
-**If a unit rolls 1 damage on it's Combat skill dice, how much damage does it deal?**
-
-The 1 is halved to 0.5, which rounded down is 0. Therefore, the unit will deal 0 damage.
+Уменьшается общая сумма выпавшего урона. Сложите результаты всех брошенных кубиков боя, разделите сумму пополам и округлите вниз.
 
 ---
 
-**How does Maim interact with rolling Combat dice in [<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive) battle form?**
+**Если на кубиках боя боевой единицы выпала всего 1 единица урона, сколько урона она нанесёт?**
 
-Maim only interacts with damage dealt, so you may still freely roll Combat dice and place them in [active slots](/docs/glossary/active-slot).
+Половина от 1 равна 0,5. После округления вниз получается 0, поэтому боевая единица нанесёт 0 урона.
 
 ---
 
-**If an adventurer with Maim rolls skill dice alongside Combat dice is the damage of these skill dice also reduced by half?**
+**Как «Увечье» влияет на броски кубиков боя в боевом режиме [<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive)?**
 
-Only the damage dealt by Combat dice is halved, all other damage is unaffected.
+«Увечье» влияет только на наносимый урон, поэтому вы по-прежнему можете бросать кубики боя и размещать их в [ячейках активности](/docs/glossary/active-slot).
+
+---
+
+**Если персонаж с «Увечьем» бросает другие кубики навыков вместе с кубиками боя, уменьшается ли вдвое урон этих кубиков навыков?**
+
+Вдвое уменьшается только урон от кубиков боя. На весь остальной урон эффект не влияет.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1346557892966220049" target="_blank">Источник</a>
 
 ---
 
-**Which Combat dice does Maim affect?**
+**На какие кубики боя действует «Увечье»?**
 
-Both white and black Combat dice will be affected by Maim.
+«Увечье» действует и на белые, и на чёрные кубики боя.
 
 <a href="http://boardgamegeek.com/thread/3517103/article/46125866#46125866" target="_blank">Источник</a>
 <!-- translate:off -->

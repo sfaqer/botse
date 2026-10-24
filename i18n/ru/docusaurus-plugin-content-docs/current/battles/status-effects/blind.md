@@ -1,21 +1,21 @@
 ---
 id: blind
-title: Blind
-hoverText: This unit considers all [units](/docs/glossary/unit) to be opposing units. If this unit [engages](/docs/battles/adventurer-turn/engage), it can only target the [strongest](/docs/glossary/strongest) [adjacent](/docs/glossary/adjacent) unit.
+title: 'Слепота'
+hoverText: 'Эта боевая единица считает все [боевые единицы](/docs/glossary/unit) противниками. Если она [атакует](/docs/battles/adventurer-turn/engage), целью может быть только [сильнейшая](/docs/glossary/strongest) [соседняя](/docs/glossary/adjacent) боевая единица.'
 tags:
   - Status Effects
 ---
 
-# <img src="/icons/blind.svg" alt="Blind Icon" /> Blind
+# <img src="/icons/blind.svg" alt="Blind Icon" /> Слепота {#blind}
 
-This unit considers all [units](/docs/glossary/unit) to be opposing units. If this unit [engages](/docs/battles/adventurer-turn/engage), it can only target the [strongest](/docs/glossary/strongest) [adjacent](/docs/glossary/adjacent) unit.
+Эта боевая единица считает все [боевые единицы](/docs/glossary/unit) противниками. Если она [атакует](/docs/battles/adventurer-turn/engage), целью может быть только [сильнейшая](/docs/glossary/strongest) [соседняя](/docs/glossary/adjacent) боевая единица.
 
 ---
 
 <!-- translate:off -->
 :::warning[Errata]
 <!-- translate:on -->
-This unit has a range of 1, considers allied units to be targetable, and can only target the strongest adjacent unit. Enemies remove this die after dealing damage.
+Дальность этой боевой единицы равна 1. Она считает союзников допустимыми целями и может выбирать целью только сильнейшую соседнюю боевую единицу. Враги убирают этот кубик после нанесения урона.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1426011120522760232" target="_blank">Источник</a>
 <!-- translate:off -->
