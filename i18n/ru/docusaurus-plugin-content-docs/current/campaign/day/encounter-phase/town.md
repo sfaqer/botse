@@ -1,7 +1,7 @@
 ---
 id: town
-title: Town
-hoverText: These encounters are described in the gazetteer and are triggered when the party ends its overland movement in a town or rolls a town icon result on the unstable die while at an unstable landmark (see [Traveling Caravans](/docs/campaign/day/encounter-phase/traveling-caravan)).
+title: 'Город'
+hoverText: 'Эти встречи описаны в буклете провинции и активируются, когда отряд завершает передвижение по атласу провинции в городе или когда, находясь в клетке с символом случайного события, выбрасывает результат «Город» на кубике случайных событий (см. [Бродячие караваны](/docs/campaign/day/encounter-phase/traveling-caravan)).'
 ---
 
 Эти встречи описаны в буклете провинции и активируются, когда отряд завершает передвижение по атласу провинции в городе или когда, находясь в клетке с символом случайного события, выбрасывает результат <img src="/icons/town.svg" alt="Town Icon" className="icon-svg" /> на кубике случайных событий (см. [Бродячие караваны](/docs/campaign/day/encounter-phase/traveling-caravan)).

@@ -1,21 +1,21 @@
 ---
 id: enchantment
-title: Enchantment
-hoverText: Enchantment items can augment or reshape the rules of the game. When its ability is triggered, the card is placed near or partially tucked under the affected component. The Enchantment ability then affects that component until the card is discarded as described by its effect or the session ends.
+title: 'Зачарование'
+hoverText: 'Зачарования могут дополнять или изменять правила игры. При применении способности карту кладут рядом с компонентом, на который она действует, или частично подкладывают под него. Способность зачарования действует на этот компонент, пока карта не будет сброшена согласно своему эффекту или эпизод не завершится.'
 ---
 
-# <img src="/icons/enchantment.svg" alt="Enchantment Icon" /> Enchantment
+# <img src="/icons/enchantment.svg" alt="Enchantment Icon" /> Зачарование {#enchantment}
 
-Enchantment items can augment or reshape the rules of the game. Each <img src="/icons/enchantment.svg" alt="Enchantment Icon" className="icon-svg"/> describes the game component it affects, such as "Enchant [adventurer](/docs/glossary/adventurer)" or "Enchant clash tile." When its ability is triggered, the card is placed near or partially tucked under the affected component. The <img src="/icons/enchantment.svg" alt="Enchantment Icon" className="icon-svg"/> ability then affects that component until the card is [discarded](/docs/glossary/discard) as described by its effect or the session ends. While an ability is active, the card is no longer in the [adventurer's](/docs/glossary/adventurer) [inventory](/docs/adventurer/items/inventory/) and is instead treated as part of the component it affects.
+Зачарования могут дополнять или изменять правила игры. На каждой карте <img src="/icons/enchantment.svg" alt="Enchantment Icon" className="icon-svg"/> указан компонент, на который она действует, например: «Зачаровать [персонажа](/docs/glossary/adventurer)» или «Зачаровать поле стычки». При применении способности карту кладут рядом с этим компонентом или частично подкладывают под него. Способность <img src="/icons/enchantment.svg" alt="Enchantment Icon" className="icon-svg"/> действует на компонент, пока карта не будет [сброшена](/docs/glossary/discard) согласно своему эффекту или эпизод не завершится. Пока способность действует, карта больше не находится в [снаряжении](/docs/adventurer/items/inventory/) [персонажа](/docs/glossary/adventurer) и считается частью компонента, на который влияет.
 
 ---
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**When does an Enchantment get discarded if it doesn't specify a timing on the ability?**
+**Когда сбрасывается зачарование, если в его способности не указан момент окончания действия?**
 
-Any Enchantment that doesn't specify when it would end, lasts until the end of the session. Then it is [discarded](/docs/glossary/discard).
+Если у зачарования не указан момент окончания действия, оно действует до конца эпизода. Затем его карта [сбрасывается](/docs/glossary/discard).
 
 <a href="https://discord.com/channels/273472391403798528/1405274638652674199/1405600090420154448" target="_blank">Источник</a>
 <!-- translate:off -->

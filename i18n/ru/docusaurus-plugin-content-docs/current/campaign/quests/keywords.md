@@ -14,4 +14,4 @@ hoverText: 'Завершение каждого задания гильдии, �
 
 ## Путевые ключевые слова {#minor-keywords}
 
-These are gained from side quests or other encounters. They can have either a positive or negative impact on your endgame, but are not guaranteed to appear in it; players should weigh this when deciding whether to pursue minor keywords. There is no limit to the number of minor keywords you can gain during a session. Note that if a minor keyword is gained multiple times, you must record it in the campaign journal each time it is gained.
+Эти слова получают за побочные задания или другие встречи. Они могут как положительно, так и отрицательно влиять на финальный эпизод, но могут и вовсе не использоваться в нём. Учитывайте это, решая, стоит ли добиваться путевых ключевых слов. Количество путевых ключевых слов, которые можно получить за эпизод, не ограничено. Если одно и то же путевое ключевое слово получено несколько раз, записывайте его в дневник кампании при каждом получении.

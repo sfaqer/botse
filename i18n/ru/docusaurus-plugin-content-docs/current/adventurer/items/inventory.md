@@ -1,42 +1,42 @@
 ---
 id: inventory
-title: Inventory
-hoverText: Your inventory cannot exceed 8 total cards. If it is full and you gain additional cards, you must choose which cards to keep and [discard](/docs/glossary/discard) any excess cards.
+title: 'Снаряжение'
+hoverText: 'В вашем снаряжении может быть не больше 8 карт. Если оно заполнено и вы получаете новые карты, выберите, какие оставить, а лишние [сбросьте](/docs/glossary/discard).'
 ---
 
-When your [adventurer](/docs/glossary/adventurer) gains an item card, place it in your inventory. Your inventory cannot exceed 8 total cards. If it is full and you gain additional cards, you must choose which cards to keep and [discard](/docs/glossary/discard) any excess cards.
+Когда ваш [персонаж](/docs/glossary/adventurer) получает карту предмета, положите её в его снаряжение. В снаряжении может быть не больше 8 карт. Если оно заполнено и вы получаете новые карты, выберите, какие оставить, а лишние [сбросьте](/docs/glossary/discard).
 
-- Your inventory has 4 ready slots for item cards. These cards are placed alongside your adventurer class sheet. Ready items can be used both during and outside of battle.
-- Items that are not ready are kept in your pack area. These cards are placed over the image at the top of your race sheet. During a battle, pack items cannot be used and must be stacked together (outside of battle, items may be used at any time unless otherwise specified). You can move items between your pack and ready slots when you are deployed at the start of battle or during the [End of Day Phase](/docs/campaign/day/end-of-day-phase).
-- When you gain an item card (including during battle), you may choose to place that card in a ready slot or in your pack. If you would like to place the item in a ready slot and your ready slots are already full, you must remove a card from a slot and place it in your pack area or discard it instead.
-- Some quests specify that you gain additional item cards that are not placed in your inventory. If you do, place those cards near your mat, separate from the cards in your inventory.
+- В вашем снаряжении есть 4 ячейки активного снаряжения для карт предметов. Эти карты размещаются рядом с памяткой класса персонажа. Активные предметы можно использовать как во время боя, так и вне боя.
+- Неактивные предметы хранятся в рюкзаке. Эти карты кладутся поверх изображения в верхней части памятки расы. Во время боя предметы из рюкзака нельзя использовать, и их нужно сложить в стопку. Вне боя предметы можно использовать в любой момент, если не указано иное. Перемещать предметы между рюкзаком и ячейками активного снаряжения можно при размещении персонажа в начале боя или во время [фазы конца дня](/docs/campaign/day/end-of-day-phase).
+- Получая карту предмета, в том числе во время боя, вы можете поместить её в ячейку активного снаряжения или в рюкзак. Если вы хотите поместить предмет в ячейку активного снаряжения, а все ячейки уже заняты, сначала переложите одну из карт из ячейки в рюкзак или сбросьте её.
+- Некоторые задания дают дополнительные карты предметов, которые не помещаются в снаряжение. Размещайте такие карты рядом с планшетом, отдельно от карт в вашем снаряжении.
 
 ---
 
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Can your pack have more than 4 items in it?**
+**Может ли в рюкзаке быть больше 4 предметов?**
 
-In total, you can hold up to 8 items. At most, 4 of those items can be in your ready slots. You can have more than 4 items in your pack however, if you have fewer than 4 items readied.
+Всего у вас может быть до 8 предметов, из которых не больше 4 могут находиться в ячейках активного снаряжения. В рюкзаке может быть больше 4 предметов, если активных предметов у вас меньше 4.
 
-For example, if you see that a combat is going to have a lot of enemies that will affect your ready items, you may choose to put some of your more valued items in your pack, and go into a battle with 2 readied and 6 in your pack. Or even, all 8 of your items in your pack.
+Например, если вы видите, что в предстоящем бою будет много врагов, воздействующих на активные предметы, вы можете убрать часть ценных предметов в рюкзак и вступить в бой с 2 активными предметами и 6 предметами в рюкзаке. Можно даже убрать в рюкзак все 8 предметов.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292502" target="_blank">Источник</a>
 
 ---
 
-**What if a game effect forces a pet back into your pack?**
+**Что делать, если игровой эффект заставляет вернуть питомца в рюкзак?**
 
-Once a pet has been placed in a ready slot, **it cannot go back into your pack**. If a game effect forces you to put a pet into your pack, you must instead [discard](/docs/glossary/discard) it. One such game effect that might force this is the Native enemy skill [Freeze](/docs/battles/enemy-skills/freeze) in [Skyrim](/docs/campaign/provinces/skyrim).
+После того как питомец помещён в ячейку активного снаряжения, **вернуть его в рюкзак нельзя**. Если игровой эффект заставляет вас убрать питомца в рюкзак, вместо этого вы должны [сбросить](/docs/glossary/discard) его. Например, к этому может привести местный навык врагов [«Заморозка»](/docs/battles/enemy-skills/freeze) в [Скайриме](/docs/campaign/provinces/skyrim).
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000291972" target="_blank">Источник</a>
 
 ---
 
-**Can you use items in your Pack outside of battle?**
+**Можно ли использовать предметы из рюкзака вне боя?**
 
-Within battle, items must be in ready slots in order to use them. Outside of battle, items can be used from either your ready slots or your pack.
+В бою можно использовать только предметы из ячеек активного снаряжения. Вне боя можно использовать предметы как из этих ячеек, так и из рюкзака.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294285" target="_blank">Источник</a>
 <!-- translate:off -->
