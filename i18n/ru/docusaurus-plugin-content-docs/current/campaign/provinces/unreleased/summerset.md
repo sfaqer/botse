@@ -1,9 +1,9 @@
 ---
 id: summerset
-title: Summerset [SU]
-hoverText: "Code: SU."
+title: 'Саммерсет [SU]'
+hoverText: 'Код: SU.'
 tags:
   - Summerset
 ---
 
-_Yet to be released. Teased for Fall 2025 crowdfunding campaign. Similar in scope to [Valenwood](/docs/campaign/provinces/valenwood)._
+_Пока не выпущена. Была предварительно анонсирована для краудфандинговой кампании осени 2025 года. По объёму сопоставима с [Валенвудом](/docs/campaign/provinces/valenwood)._
