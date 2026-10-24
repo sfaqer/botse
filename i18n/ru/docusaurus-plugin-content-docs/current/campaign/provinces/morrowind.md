@@ -1,9 +1,9 @@
 ---
 id: morrowind
-title: Morrowind [MW]
-hoverText: Native Skill - [Fumes](/docs/battles/enemy-skills/fumes)
+title: 'Морровинд [MW]'
+hoverText: 'Местный навык — [Испарения](/docs/battles/enemy-skills/fumes)'
 tags:
   - Morrowind
 ---
 
-**Native Skill:** [Fumes](/docs/battles/enemy-skills/fumes)
+**Местный навык:** [Испарения](/docs/battles/enemy-skills/fumes)
