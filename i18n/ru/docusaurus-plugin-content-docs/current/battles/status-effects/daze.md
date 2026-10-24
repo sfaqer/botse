@@ -1,23 +1,23 @@
 ---
 id: daze
-title: Daze
-hoverText: This [unit](/docs/glossary/unit) cannot roll dice on the same [turn](/docs/glossary/turn) it moves, and it cannot move on the same turn it rolls dice. At the end of this unit's turn, remove this die.
+title: 'Ошеломление'
+hoverText: 'Эта [боевая единица](/docs/glossary/unit) не может бросать кубики в тот же [ход](/docs/glossary/turn), в который она передвигалась, и не может передвигаться в тот же ход, в который бросала кубики. В конце хода этой боевой единицы уберите этот кубик.'
 tags:
   - Status Effects
 ---
 
-# <img src="/icons/daze.svg" alt="Daze Icon" /> Daze
+# <img src="/icons/daze.svg" alt="Daze Icon" /> Ошеломление {#daze}
 
-This [unit](/docs/glossary/unit) cannot roll dice on the same [turn](/docs/glossary/turn) it moves, and it cannot move on the same turn it rolls dice. At the end of this unit's turn, remove this die.
+Эта [боевая единица](/docs/glossary/unit) не может бросать кубики в тот же [ход](/docs/glossary/turn), в который она передвигалась, и не может передвигаться в тот же ход, в который бросала кубики. В конце хода этой боевой единицы уберите этот кубик.
 
 ---
 
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Как взаимодействуют «Оглушение» и «Кража»?**
+**Как взаимодействуют «Ошеломление» и «Кража»?**
 
-The Daze status effect says that if an enemy moves on its turn, it can't roll dice that turn. Using [Steal](/docs/battles/enemy-skills/steal) requires a die to be rolled, so a Dazed enemy that moves cannot use its Steal skill.
+Состояние «Ошеломление» запрещает врагу бросать кубики в тот же ход, в который он передвигается. Для применения [«Кражи»](/docs/battles/enemy-skills/steal) нужно бросить кубик, поэтому ошеломлённый враг, который передвинулся, не может применить этот навык.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000292494" target="_blank">Источник</a>
 <!-- translate:off -->
@@ -26,9 +26,9 @@ The Daze status effect says that if an enemy moves on its turn, it can't roll di
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Can you [lockpick](/docs/glossary/lockpicking) if you have Daze and have moved on your turn?**
+**Можно ли пройти [проверку взлома](/docs/glossary/lockpicking) с «Ошеломлением», если вы уже передвигались в свой ход?**
 
-No, to lockpick you need to be able to roll dice. If you have moved on your turn you are not able to lockpick.
+Нет. Для проверки взлома необходимо иметь возможность бросать кубики. Если вы уже передвигались в свой ход, пройти такую проверку нельзя.
 <!-- translate:off -->
 :::
 <!-- translate:on -->
