@@ -1,10 +1,10 @@
 ---
 id: freeze
-title: Freeze
-hoverText: When this [unit](/docs/glossary/unit) determines a target, its target must move 1 [item](/docs/adventurer/items/index) from a ready slot to their pack. If the [party](/docs/glossary/party) is currently in an under siege town, the target must move all items to their pack.
+title: 'Заморозка'
+hoverText: 'Когда эта [боевая единица](/docs/glossary/unit) выбирает цель, её цель должна переложить 1 [предмет](/docs/adventurer/items/index) из ячейки активного снаряжения в рюкзак. Если [отряд](/docs/glossary/party) находится в осаждённом городе, цель должна переложить в рюкзак все свои предметы.'
 tags:
   - Skyrim
   - Native
 ---
 
-When this [unit](/docs/glossary/unit) determines a target, its target must move 1 [item](/docs/adventurer/items/index) from a ready slot to their pack. If the [party](/docs/glossary/party) is currently in an under siege [town](/docs/campaign/day/encounter-phase/town), the target must move all items to their pack.
+Когда эта [боевая единица](/docs/glossary/unit) выбирает цель, её цель должна переложить 1 [предмет](/docs/adventurer/items/index) из ячейки активного снаряжения в рюкзак. Если [отряд](/docs/glossary/party) находится в осаждённом [городе](/docs/campaign/day/encounter-phase/town), цель должна переложить в рюкзак все свои предметы.
