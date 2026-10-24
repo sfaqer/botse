@@ -24,11 +24,11 @@ No, you can't roll Light Armor dice outside of battle. However, if they are alre
 
 **Required Battle Form:** [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)
 
-## Level 1
+## Уровень 1
 
 ### Grace
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 <img alt="Grace all results" src="/icons/skills/light-armor/grace-all-results.png" className="skill-icon" />
 
@@ -38,7 +38,7 @@ No, you can't roll Light Armor dice outside of battle. However, if they are alre
 
 ### Spell Warding
 
-**Dice Supply:** 2
+**Запас кубиков:** 2
 
 <img alt="Spell warding all results" src="/icons/skills/light-armor/spell-warding-all-results.png" className="skill-icon" />
 
@@ -57,11 +57,11 @@ Yes, it can recover itself. If Spell Warding reduces itself to a number not on t
 <!-- translate:off -->
 :::
 <!-- translate:on -->
-## Level 2
+## Уровень 2
 
 ### Evocation
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 <img alt="Evocation all results" src="/icons/skills/light-armor/evocation-all-results.png" className="skill-icon" />
 
@@ -82,7 +82,7 @@ Yes, it can recover itself. If Spell Warding reduces itself to a number not on t
 <!-- translate:on -->
 ### Enchant Weapon
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 <img alt="Enchant weapon all results" src="/icons/skills/light-armor/enchant-weapon-all-results.png" className="skill-icon" />
 
@@ -90,11 +90,11 @@ Yes, it can recover itself. If Spell Warding reduces itself to a number not on t
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img alt="Enchant weapon" src="/icons/skills/light-armor/enchant-weapon.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): When engaging in any [battle form](/docs/battles/battle-forms/index/) other than [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic), reduce this die by 1 to reroll any 1 rolled skill die. If you do so, this [engage](/docs/battles/adventurer-turn/engage) also ignores enemy skill: [**Ethereal**](/docs/battles/enemy-skills/ethereal). |
 
-## Level 3
+## Уровень 3
 
 ### Annulment
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 <img alt="Annulment all results" src="/icons/skills/light-armor/annulment-all-results.png" className="skill-icon" />
 
@@ -115,7 +115,7 @@ Yes, you may use this die multiple times at once. For example to prevent multipl
 <!-- translate:on -->
 ### Prodigy
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 <img alt="Prodigy all results" src="/icons/skills/light-armor/prodigy-all-results.png" className="skill-icon" />
 
@@ -123,11 +123,11 @@ Yes, you may use this die multiple times at once. For example to prevent multipl
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img alt="Prodigy" src="/icons/skills/light-armor/prodigy.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): During an [Adventurers Rest](/docs/campaign/day/end-of-day-phase) step, you may reduce this by 1 to [heal](/docs/glossary/healing) for 1 additional HP and [recover](/docs/glossary/recover) 1 additional die. |
 
-## Level 4
+## Уровень 4
 
 ### Concentration
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 <img alt="Concentration all results" src="/icons/skills/light-armor/concentration-all-results.png" className="skill-icon" />
 
