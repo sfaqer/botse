@@ -1,9 +1,9 @@
 ---
 id: stamina
-title: Stamina
-hoverText: "Represents an adventurer's capacity to move and roll dice for physical skills."
+title: 'Выносливость'
+hoverText: 'Определяет возможности персонажа в передвижении и бросках кубиков физических навыков.'
 ---
 
-This stat is tracked by green square tokens and represents the adventurer's capacity to move and roll dice for physical skills. Stamina limits some adventurer actions during battle turns, including their movement and [explore](/docs/battles/adventurer-turn/explore) action distance, as well as their engage action [range](/docs/glossary/range) and number of dice they can roll.
+Эта характеристика отмечается зелёными квадратными жетонами прокачки и определяет возможности персонажа в передвижении и бросках кубиков физических навыков. Во время ходов в бою выносливость ограничивает некоторые действия персонажа: расстояние передвижения и действия [«Исследование»](/docs/battles/adventurer-turn/explore), а также [дальность](/docs/glossary/range) атаки и количество кубиков, которые он может бросить.
 
-The Stamina stat cannot be untrained. Stamina green square tokens can be untrained in the [Reward Phase](/docs/campaign/day/reward-phase).
+Саму характеристику «Выносливость» утратить нельзя, но её зелёные квадратные жетоны прокачки можно убрать в [фазе наград](/docs/campaign/day/reward-phase).

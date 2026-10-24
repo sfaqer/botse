@@ -1,11 +1,11 @@
 ---
 id: magicka
-title: Magicka
-hoverText: "Represents the adventurer's capacity to roll dice for spellcasting skills, as well as those skills' range."
+title: 'Магия'
+hoverText: 'Определяет возможности персонажа при бросках кубиков магических навыков, а также дальность этих навыков.'
 ---
 
-This stat is tracked by blue square tokens and represents the [adventurer's](/docs/glossary/adventurer) capacity to roll dice for spellcasting skills, as well as those skills' range. Not all adventurers require Magicka, so unlike the other stats, it may be untrained.
+Эта характеристика отмечается синими квадратными жетонами прокачки и определяет возможности [персонажа](/docs/glossary/adventurer) при бросках кубиков магических навыков, а также дальность этих навыков. Магия нужна не всем персонажам, поэтому, в отличие от других характеристик, её можно утратить.
 
-Magicka limits an adventurer's engage action [range](/docs/glossary/range) and number of dice they can roll while in magic battle form [(<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />)](/docs/battles/battle-forms/magic).
+В боевом режиме «Магия» [(<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />)](/docs/battles/battle-forms/magic) эта характеристика ограничивает [дальность](/docs/glossary/range) атаки персонажа и количество кубиков, которые он может бросить.
 
-The Magicka stat and the blue square tokens can be untrained in the [Reward Phase](/docs/campaign/day/reward-phase).
+Характеристику «Магия» и её синие квадратные жетоны прокачки можно утратить в [фазе наград](/docs/campaign/day/reward-phase).
