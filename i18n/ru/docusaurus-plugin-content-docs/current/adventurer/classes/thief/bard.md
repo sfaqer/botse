@@ -79,7 +79,7 @@ Yes, you can make the decision to use the Bard's Stagger and Sway ability any ti
 <!-- translate:on -->
 **How does the free turn granted by Battle of Glenumbra Moors work?**
 
-Whenever there is a turn within a turn, or an engage within an engage, or a (non-interrupt) class ability within an engage - pause the current turn/engage, and resolve the thing "within" as if it is its own complete and separate thing. The damage dealt all gets dealt, it is not held to be later dealt with the damage of the encompassing engage/turn. Once you've finished the thing "within," unpause the encompassing turn/engage and continue on.
+Если внутри хода возникает другой ход, внутри атаки — другая атака, или во время атаки применяется способность класса, не являющаяся прерывающей, приостановите текущий ход или атаку. Полностью разыграйте вложенный ход, атаку или способность как самостоятельные. Весь их урон наносится при их применении, а не откладывается для последующего нанесения вместе с уроном исходной атаки или хода. После этого продолжите исходный ход или атаку.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000295108" target="_blank">Источник</a>
 <!-- translate:off -->
