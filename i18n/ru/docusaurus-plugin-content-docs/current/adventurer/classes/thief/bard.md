@@ -1,23 +1,23 @@
 ---
 id: bard
-title: Bard
+title: 'Бард'
 hoverText: ""
 ---
 
 ## Новичок
 
-**Upgrade**: Complete the **Bard Harder** side quest.
+**Повышение**: Выполните побочное задание **Bard Harder**.
 
-**Innate Ability**: Once per any unit's turn, reroll any 1 die rolled by a unit within 2 hexes of you, including yourself.
+**Врождённая способность**: Один раз за ход любой боевой единицы перебросьте любой 1 кубик, брошенный боевой единицей в пределах 2 клеток от вас, в том числе вами самим.
 
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Can you reroll results that _must be resolved_?**
+**Можно ли перебрасывать результаты, которые _нужно обязательно применить_?**
 
-Some skill results state that they must be resolved. However, you are still allowed to reroll them using the Bard's innate.
+Некоторые результаты кубиков навыков требуют обязательного применения. Однако их всё равно можно перебросить с помощью врождённой способности Барда.
 
-Remember that the Bard's innate only functions during unit turns, so any rolls that are made outside of battle or outside of a turn, cannot be rerolled with this innate.
+Помните, что врождённая способность Барда действует только во время ходов боевых единиц. Ею нельзя перебрасывать кубики, брошенные вне боя или вне чьего-либо хода.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000294923" target="_blank">Источник</a>
 <!-- translate:off -->
@@ -25,30 +25,30 @@ Remember that the Bard's innate only functions during unit turns, so any rolls t
 <!-- translate:on -->
 <div className="class-table-wrapper">
 
-| Стоимость стойкости | Название                   | Способность                                                                                                                                                                                                                                                                 |
-| ------------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1                   | Red Mountain Drinking Song | **[Interrupt](/docs/glossary/interrupt):** After deploying enemies, deal 1 [true damage](/docs/glossary/true-damage) to up to 2 enemies that were just deployed.                                                                                                            |
-| 1                   | Stagger and Sway           | **[Interrupt](/docs/glossary/interrupt):** When a party member engages an enemy, they may ignore 1 defense on that enemy.                                                                                                                                                   |
-| 2                   | Pilgrim on the Road        | Gain the **Bard Harder** side quest, if not already gained.                                                                                                                                                                                                                 |
-| 3                   | Hear the Hist Speak        | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Apply a [Daze](/docs/battles/status-effects/daze) (<img src="/icons/daze.svg" alt="Daze Icon" className="icon-svg" />) status dice to up to 2 targetable enemies. |
-| 3                   | Three Hearts as One        | For each [fatigue](/docs/glossary/fatigue) die in your [cooldown track](/docs/glossary/cooldown-track), [heal](/docs/glossary/healing) adventurers for a collective total of 2 HP.                                                                                          |
+| Стоимость стойкости | Название                      | Способность                                                                                                                                                                                                                                                                                                             |
+| ------------------- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1                   | Застольная песня Красной горы | **[Прерывающая способность](/docs/glossary/interrupt):** После размещения врагов нанесите по 1 единице [неблокируемого урона](/docs/glossary/true-damage) не более чем 2 только что размещённым врагам.                                                                                                                 |
+| 1                   | Stagger and Sway              | **[Прерывающая способность](/docs/glossary/interrupt):** Когда участник отряда атакует врага, он может игнорировать 1 единицу защиты этого врага.                                                                                                                                                                       |
+| 2                   | Pilgrim on the Road           | Получите побочное задание **Bard Harder**, если оно ещё не получено.                                                                                                                                                                                                                                                    |
+| 3                   | Hear the Hist Speak           | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Примените по кубику состояния [«Ошеломление»](/docs/battles/status-effects/daze) (<img src="/icons/daze.svg" alt="Daze Icon" className="icon-svg" />) не более чем к 2 врагам, являющимся допустимыми целями. |
+| 3                   | Three Hearts as One           | За каждый кубик [усталости](/docs/glossary/fatigue) на вашем [треке перезарядки](/docs/glossary/cooldown-track) [восстановите](/docs/glossary/healing) персонажам суммарно 2 ОЗ, распределив их между ними.                                                                                                             |
 
 </div>
 
 ## Мастер
 
-**Innate Ability**: Once per any unit's turn, reroll any 1 die rolled by a unit within 4 hexes of you, including yourself.
+**Врождённая способность**: Один раз за ход любой боевой единицы перебросьте любой 1 кубик, брошенный боевой единицей в пределах 4 клеток от вас, в том числе вами самим.
 
 <div className="class-table-wrapper">
 
-| Стоимость стойкости | Название                   | Способность                                                                                                                                                                                                                                                                 | Эффект повышения                |
-| ------------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| 1                   | Red Mountain Drinking Song | **[Interrupt](/docs/glossary/interrupt):** After deploying enemies, deal 1 [true damage](/docs/glossary/true-damage) to up to 3 enemies that were just deployed.                                                                                                            | Affects 1 additional enemy      |
-| 1                   | Stagger and Sway           | **[Interrupt](/docs/glossary/interrupt):** When a party member engages an enemy, they may ignore 1 defense on that enemy.                                                                                                                                                   | —                               |
-| 2                   | The Tale of Syrabane       | Choose an adventurer in [sight](/docs/glossary/sight). That adventurer recovers 1 [drained](/docs/glossary/drained) or exhausted die.                                                                                                                                       | Новая                           |
-| 2                   | Hear the Hist Speak        | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Apply a [Daze](/docs/battles/status-effects/daze) (<img src="/icons/daze.svg" alt="Daze Icon" className="icon-svg" />) status dice to up to 2 targetable enemies. | Стоимость стойкости<br/>(3 → 2) |
-| 3                   | Three Hearts as One        | For each [fatigue](/docs/glossary/fatigue) die in your [cooldown track](/docs/glossary/cooldown-track), [heal](/docs/glossary/healing) adventurers for a collective total of 2 HP.                                                                                          | —                               |
-| 5                   | Battle of Glenumbra Moors  | Choose an adventurer. That adventurer removes all light [fatigue](/docs/glossary/fatigue) from their [cooldown track](/docs/glossary/cooldown-track) and takes an immediate turn. Your turn resumes when this turn ends. _Once per battle._                                 | Новая                           |
+| Стоимость стойкости | Название                      | Способность                                                                                                                                                                                                                                                                                                             | Эффект повышения                |
+| ------------------- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| 1                   | Застольная песня Красной горы | **[Прерывающая способность](/docs/glossary/interrupt):** После размещения врагов нанесите по 1 единице [неблокируемого урона](/docs/glossary/true-damage) не более чем 3 только что размещённым врагам.                                                                                                                 | Действует ещё на 1 врага        |
+| 1                   | Stagger and Sway              | **[Прерывающая способность](/docs/glossary/interrupt):** Когда участник отряда атакует врага, он может игнорировать 1 единицу защиты этого врага.                                                                                                                                                                       | —                               |
+| 2                   | The Tale of Syrabane          | Выберите персонажа в пределах [видимости](/docs/glossary/sight). Он возвращает 1 [исчерпанный](/docs/glossary/drained) или истощённый кубик.                                                                                                                                                                            | Новая                           |
+| 2                   | Hear the Hist Speak           | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Примените по кубику состояния [«Ошеломление»](/docs/battles/status-effects/daze) (<img src="/icons/daze.svg" alt="Daze Icon" className="icon-svg" />) не более чем к 2 врагам, являющимся допустимыми целями. | Стоимость стойкости<br/>(3 → 2) |
+| 3                   | Three Hearts as One           | За каждый кубик [усталости](/docs/glossary/fatigue) на вашем [треке перезарядки](/docs/glossary/cooldown-track) [восстановите](/docs/glossary/healing) персонажам суммарно 2 ОЗ, распределив их между ними.                                                                                                             | —                               |
+| 5                   | Battle of Glenumbra Moors     | Выберите персонажа. Он убирает все серебристые кубики [усталости](/docs/glossary/fatigue) со своего [трека перезарядки](/docs/glossary/cooldown-track) и немедленно выполняет ход. После окончания этого хода ваш ход возобновляется. _Один раз за бой._                                                                | Новая                           |
 
 </div>
 
@@ -57,15 +57,15 @@ Remember that the Bard's innate only functions during unit turns, so any rolls t
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Can you see the dice result of the engage before deciding to use Stagger and Sway's interrupt?**
+**Можно ли посмотреть результат броска для атаки, прежде чем решить, применять ли прерывающую способность Stagger and Sway?**
 
-Yes, you can make the decision to use the Bard's Stagger and Sway ability any time during that engage, so you can wait and see what the roll is.
+Да, применить способность Барда Stagger and Sway можно в любой момент этой атаки, поэтому вы можете сначала посмотреть на результат броска.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1361759800282714353" target="_blank">Источник</a>
 
 ---
 
-**How does Elusive work with damage that happens outside of a turn (e.g Red Mountain Drinking Song)?**
+**Как «Неуловимость» работает с уроном, который наносится вне хода, например с «Застольной песней Красной горы»?**
 
 «Неуловимость» может предотвращать только урон, который наносится во время хода. Она не применяется к урону, нанесённому вне хода боевой единицы. Поэтому «Застольная песня Красной горы» барда не взаимодействует с «Неуловимостью», когда применяется после начального размещения врагов, происходящего вне хода.
 
@@ -77,7 +77,7 @@ Yes, you can make the decision to use the Bard's Stagger and Sway ability any ti
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**How does the free turn granted by Battle of Glenumbra Moors work?**
+**Как работает свободный ход, предоставляемый Battle of Glenumbra Moors?**
 
 Если внутри хода возникает другой ход, внутри атаки — другая атака, или во время атаки применяется способность класса, не являющаяся прерывающей, приостановите текущий ход или атаку. Полностью разыграйте вложенный ход, атаку или способность как самостоятельные. Весь их урон наносится при их применении, а не откладывается для последующего нанесения вместе с уроном исходной атаки или хода. После этого продолжите исходный ход или атаку.
 
