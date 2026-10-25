@@ -1,50 +1,50 @@
 ---
 id: templar
-title: Templar
+title: 'Храмовник'
 hoverText: ""
 ---
 
 ## Новичок
 
-**Upgrade**: Deal at least 4 damage and [heal](/docs/glossary/healing) at least 4 HP on the same turn, across any number of [units](/docs/glossary/unit).
+**Повышение**: За один ход нанесите не менее 4 единиц урона и [восстановите](/docs/glossary/healing) не менее 4 ОЗ, суммарно по любому количеству [боевых единиц](/docs/glossary/unit).
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**What counts as healing for at least 4 HP?**
+**Что считается восстановлением не менее 4 ОЗ?**
 
-If a game effect depends on how much a unit healed, the amount considered is the amount of HP **actually gained**.
+Если игровой эффект зависит от количества здоровья, восстановленного боевой единице, учитываются только **фактически полученные** ею ОЗ.
 <!-- translate:off -->
 :::
 <!-- translate:on -->
-**Innate Ability**: If you start your turn in [<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive), [heal](/docs/glossary/healing) for 1 HP.
+**Врождённая способность**: Если вы начинаете свой ход в режиме [<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive), [восстановите](/docs/glossary/healing) 1 ОЗ.
 
 <div className="class-table-wrapper">
 
-| Стоимость стойкости | Название         | Способность                                                                                                                                                                                                                                                                                          |
-| ------------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2                   | Restoring Spirit | **[Interrupt](/docs/glossary/interrupt):** After you deal damage to an [adjacent](/docs/glossary/adjacent) enemy, [heal](/docs/glossary/healing) a party member in [sight](/docs/glossary/sight) for HP equal to the amount of damage dealt.                                                         |
-| 2                   | Sacred Ground    | [<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive): Remove all status dice from any 1 adventurer's cooldown track.                                                                                                                 |
-| 3                   | Sun Shield       | Gain 3 [bonus HP](/docs/glossary/bonus-hp).                                                                                                                                                                                                                                                          |
-| 3                   | Solar Flare      | Deal a targetable enemy damage equal to your [bonus HP](/docs/glossary/bonus-hp).                                                                                                                                                                                                                    |
-| 5                   | Luminous Shards  | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Roll 3 enemy Combat dice and deal the damage to all targetable enemies. Deal an additional 2 damage to all <img src="/icons/daedra.svg" alt="Daedra Icon" className="icon-svg" /> enemies. |
+| Стоимость стойкости | Название         | Способность                                                                                                                                                                                                                                                                                                                      |
+| ------------------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2                   | Restoring Spirit | **[Прерывающая способность](/docs/glossary/interrupt):** После того как вы нанесли урон [соседнему](/docs/glossary/adjacent) врагу, [восстановите](/docs/glossary/healing) участнику отряда в пределах [видимости](/docs/glossary/sight) столько ОЗ, сколько урона было нанесено.                                                |
+| 2                   | Sacred Ground    | [<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive): Уберите все кубики состояний с трека перезарядки любого 1 персонажа.                                                                                                                                       |
+| 3                   | Sun Shield       | Получите 3 единицы [дополнительного здоровья](/docs/glossary/bonus-hp).                                                                                                                                                                                                                                                          |
+| 3                   | Solar Flare      | Нанесите врагу, являющемуся допустимой целью, урон, равный количеству вашего [дополнительного здоровья](/docs/glossary/bonus-hp).                                                                                                                                                                                                |
+| 5                   | Luminous Shards  | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Бросьте 3 кубика боя врагов и нанесите выпавший урон всем врагам, являющимся допустимыми целями. Всем врагам типа <img src="/icons/daedra.svg" alt="Daedra Icon" className="icon-svg" /> нанесите ещё 2 единицы урона. |
 
 </div>
 
 ## Мастер
 
-**Innate Ability**: If you start your turn in [<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive), [heal](/docs/glossary/healing) for 1 HP. You may also recover a Combat skill die from your cooldown track, immediately roll it, and apply the result.
+**Врождённая способность**: Если вы начинаете свой ход в режиме [<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive), [восстановите](/docs/glossary/healing) 1 ОЗ. Вы также можете вернуть с вашего трека перезарядки кубик навыка «Бой», немедленно бросить его и применить результат.
 
 <div className="class-table-wrapper">
 
-| Стоимость стойкости | Название         | Способность                                                                                                                                                                                                                                                                                          | Эффект повышения                                |
-| ------------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| 1                   | Illuminate       | **[Interrupt](/docs/glossary/interrupt):** At any time, place an [available](/docs/glossary/available) Combat skill die in an [active slot](/docs/glossary/active-slot), set to a side of your choice.                                                                                               | Новая                                           |
-| 2                   | Restoring Spirit | **[Interrupt](/docs/glossary/interrupt):** After you deal damage to an [adjacent](/docs/glossary/adjacent) enemy, [heal](/docs/glossary/healing) a party member in [sight](/docs/glossary/sight) for HP equal to the amount of damage dealt.                                                         | —                                               |
-| 2                   | Sacred Ground    | [<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive): Remove all status dice from any 1 adventurer's cooldown track.                                                                                                                 | —                                               |
-| 3                   | Sun Shield       | Gain 3 [bonus HP](/docs/glossary/bonus-hp).                                                                                                                                                                                                                                                          | —                                               |
-| 3                   | Solar Flare      | Deal a targetable enemy damage equal to your [bonus HP](/docs/glossary/bonus-hp).                                                                                                                                                                                                                    | —                                               |
-| 4                   | Luminous Shards  | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Roll 4 enemy Combat dice and deal the damage to all targetable enemies. Deal an additional 2 damage to all <img src="/icons/daedra.svg" alt="Daedra Icon" className="icon-svg" /> enemies. | + 1 enemy Combat die. Tenacity cost<br/>(5 → 4) |
+| Стоимость стойкости | Название         | Способность                                                                                                                                                                                                                                                                                                                      | Эффект повышения                                        |
+| ------------------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| 1                   | Illuminate       | **[Прерывающая способность](/docs/glossary/interrupt):** В любой момент поместите [доступный](/docs/glossary/available) кубик навыка «Бой» в [ячейку активности](/docs/glossary/active-slot) выбранной вами гранью вверх.                                                                                                        | Новая                                                   |
+| 2                   | Restoring Spirit | **[Прерывающая способность](/docs/glossary/interrupt):** После того как вы нанесли урон [соседнему](/docs/glossary/adjacent) врагу, [восстановите](/docs/glossary/healing) участнику отряда в пределах [видимости](/docs/glossary/sight) столько ОЗ, сколько урона было нанесено.                                                | —                                                       |
+| 2                   | Sacred Ground    | [<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive): Уберите все кубики состояний с трека перезарядки любого 1 персонажа.                                                                                                                                       | —                                                       |
+| 3                   | Sun Shield       | Получите 3 единицы [дополнительного здоровья](/docs/glossary/bonus-hp).                                                                                                                                                                                                                                                          | —                                                       |
+| 3                   | Solar Flare      | Нанесите врагу, являющемуся допустимой целью, урон, равный количеству вашего [дополнительного здоровья](/docs/glossary/bonus-hp).                                                                                                                                                                                                | —                                                       |
+| 4                   | Luminous Shards  | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Бросьте 4 кубика боя врагов и нанесите выпавший урон всем врагам, являющимся допустимыми целями. Всем врагам типа <img src="/icons/daedra.svg" alt="Daedra Icon" className="icon-svg" /> нанесите ещё 2 единицы урона. | + 1 кубик боя врагов. Стоимость в стойкости<br/>(5 → 4) |
 
 </div>
 
