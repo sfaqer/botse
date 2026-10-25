@@ -11,15 +11,15 @@ title: 'Лук'
 
 ## Уровень 1
 
-### Snipe
+### Выстрел
 
 **Запас кубиков:** 4
 
 <img alt="Snipe all results" src="/icons/skills/bow/snipe-all-results.png" className="skill-icon" />
 
-| Символ                                                                       | Способность                                                                                                                                                                                                                                                  |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img alt="Snipe" src="/icons/skills/bow/snipe.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal X damage to your target. Ignore 1 [defense](/docs/adventurer/stats/defense) on your target for this [engage](/docs/battles/adventurer-turn/engage). |
+| Символ                                                                       | Способность                                                                                                                                                                                                                                                              |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img alt="Snipe" src="/icons/skills/bow/snipe.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Нанесите своей цели X единиц урона. В рамках этой [атаки](/docs/battles/adventurer-turn/engage) игнорируйте 1 единицу [защиты](/docs/adventurer/stats/defense) цели. |
 
 ## Уровень 2
 
@@ -68,9 +68,9 @@ title: 'Лук'
 
 **Запас кубиков:** 1
 
-| Символ                                                                                 | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img alt="Acid spray" src="/icons/skills/bow/acid-spray.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Select up to 3 [targetable](/docs/glossary/targetable) [enemies](/docs/glossary/enemy). [Roll 2 D6](/docs/glossary/roll-a-d6) for each. Apply a [Bane](/docs/battles/status-effects/bane) ([<img src="/icons/bane.svg" alt="Bane Icon" className="icon-svg" />](/docs/battles/status-effects/bane)) status die to each enemy for whom you roll a total of 7 or higher. |
+| Символ                                                                                 | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img alt="Acid spray" src="/icons/skills/bow/acid-spray.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Выберите до 3 [врагов](/docs/glossary/enemy), являющихся [допустимыми целями](/docs/glossary/targetable). Для каждого [бросьте 2 D6](/docs/glossary/roll-a-d6). Поместите кубик состояния [«Проклятие»](/docs/battles/status-effects/bane) ([<img src="/icons/bane.svg" alt="Bane Icon" className="icon-svg" />](/docs/battles/status-effects/bane)) на каждого врага, для которого выпала сумма 7 или больше. |
 
 ## Уровень 3
 
@@ -78,26 +78,26 @@ title: 'Лук'
 
 **Запас кубиков:** 2
 
-| Символ                                                                                               | Способность                                                                                                                                                                                                                                                                                                     |
-| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img alt="Vinedusk training" src="/icons/skills/bow/vinedusk-training.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): At the [start of your turn](/docs/battles/adventurer-turn/index/), you may exhaust this die to [recover](/docs/glossary/recover) up to 2 Bow skill dice, or up to 3 if they are all Snipe dice. |
+| Символ                                                                                               | Способность                                                                                                                                                                                                                                                                                                                                                     |
+| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img alt="Vinedusk training" src="/icons/skills/bow/vinedusk-training.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): В [начале своего хода](/docs/battles/adventurer-turn/index/) вы можете истощить этот кубик, чтобы [вернуть](/docs/glossary/recover) до 2 кубиков навыков из ветки «Лук» или до 3, если возвращаемые кубики относятся только к навыку «Выстрел». |
 
 ### Rapid Fire
 
 **Запас кубиков:** 2
 
-| Символ                                                                                     | Способность                                                                                                                                                                                                                                                                                                                                            |
-| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img alt="Rapid fire 1" src="/icons/skills/bow/rapid-fire-1.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal 2 damage to your target for each Snipe die in your cooldown track prior to this [engage](/docs/battles/adventurer-turn/engage).                                                                                                               |
-| <img alt="Rapid fire 2" src="/icons/skills/bow/rapid-fire-2.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal 2 damage to your target for each Snipe die in your cooldown track prior to this [engage](/docs/battles/adventurer-turn/engage). [Then](/docs/glossary/then), recover those dice, replacing them with light [fatigue](/docs/glossary/fatigue). |
+| Символ                                                                                     | Способность                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img alt="Rapid fire 1" src="/icons/skills/bow/rapid-fire-1.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Нанесите своей цели 2 единицы урона за каждый кубик навыка «Выстрел» на вашем треке перезарядки, находившийся там ещё до начала этой [атаки](/docs/battles/adventurer-turn/engage).                                                                                                                        |
+| <img alt="Rapid fire 2" src="/icons/skills/bow/rapid-fire-2.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Нанесите своей цели 2 единицы урона за каждый кубик навыка «Выстрел» на вашем треке перезарядки, находившийся там ещё до начала этой [атаки](/docs/battles/adventurer-turn/engage). [Затем](/docs/glossary/then) верните эти кубики, заменив их серебристыми кубиками [усталости](/docs/glossary/fatigue). |
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
 
-**How do two copies of Rapid Fire (recovering side) resolve?**
+**Как разыгрываются два кубика Rapid Fire с результатом возвращения кубиков?**
 
-Once the first one is resolved, the second wouldn't do anything because you wouldn't have any Snipe dice in your cooldown track upon resolving it. Just because there are two copies of a die in the supply, doesn't mean they necessarily work when rolled together and getting the same result.
+После применения первого кубика второй ничего не даст: к моменту его применения на вашем треке перезарядки не останется кубиков навыка «Выстрел». Наличие двух экземпляров кубика в запасе не означает, что их одинаковые результаты обязательно будут работать при одновременном броске.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Источник</a>
 
@@ -108,10 +108,10 @@ Once the first one is resolved, the second wouldn't do anything because you woul
 
 **Запас кубиков:** 1
 
-| Символ                                                                                           | Способность                                                                                                                                                                                                                                                                                                              |
-| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img alt="Arrow barrage 1" src="/icons/skills/bow/arrow-barrage-1.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal 2 damage to your target. [Then](/docs/glossary/then), choose to either roll Arrow Barrage again or exhaust it.                                                                                                  |
-| <img alt="Arrow barrage 2" src="/icons/skills/bow/arrow-barrage-2.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): You must resolve this result. You are dealt 2 [true damage](/docs/glossary/true-damage) unless you [drain](/docs/glossary/drained) all skill dice rolled during this [engage](/docs/battles/adventurer-turn/engage). |
+| Символ                                                                                           | Способность                                                                                                                                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img alt="Arrow barrage 1" src="/icons/skills/bow/arrow-barrage-1.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Нанесите своей цели 2 единицы урона. [Затем](/docs/glossary/then) выберите: снова бросить кубик Arrow Barrage или истощить его.                                                                                                                        |
+| <img alt="Arrow barrage 2" src="/icons/skills/bow/arrow-barrage-2.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Вы обязаны разыграть этот результат. Вам наносится 2 единицы [неблокируемого урона](/docs/glossary/true-damage), если вы не [исчерпаете](/docs/glossary/drained) все кубики навыков, брошенные при этой [атаке](/docs/battles/adventurer-turn/engage). |
 
 ## Уровень 4
 
@@ -119,16 +119,16 @@ Once the first one is resolved, the second wouldn't do anything because you woul
 
 **Запас кубиков:** 1
 
-| Символ                                                                                     | Способность                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img alt="Scatter shot" src="/icons/skills/bow/scatter-shot.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): All damage dealt to your target this [engage](/docs/battles/adventurer-turn/engage) [may](/docs/glossary/may) also be dealt to another [targetable](/docs/glossary/targetable) [enemy](/docs/glossary/enemy). [Defense](/docs/adventurer/stats/defense) ignored as a result of Snipe dice may also be ignored for this enemy. |
+| Символ                                                                                     | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img alt="Scatter shot" src="/icons/skills/bow/scatter-shot.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Весь урон, нанесённый вашей цели при этой [атаке](/docs/battles/adventurer-turn/engage), [можно](/docs/glossary/may) также нанести другому [врагу](/docs/glossary/enemy), являющемуся [допустимой целью](/docs/glossary/targetable). [Защиту](/docs/adventurer/stats/defense), игнорируемую благодаря кубикам навыка «Выстрел», можно также игнорировать у этого врага. |
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Does Scatter Shot count as 'dealing damage' for the purpose of engaging [Dodge](/docs/battles/enemy-skills/dodge)?**
+**Считается ли Scatter Shot кубиком, наносящим урон, при атаке врага с [«Уклонением»](/docs/battles/enemy-skills/dodge)?**
 
-Scatter Shot counts as a damage-dealing die for the purpose of [Dodge](/docs/battles/enemy-skills/dodge) (as long as it actually results in damage being dealt).
+Scatter Shot считается кубиком, наносящим урон, для [«Уклонения»](/docs/battles/enemy-skills/dodge) (если применение результата действительно приводит к нанесению урона).
 
 <a href="https://discord.com/channels/273472391403798528/1437487363776319570/1476968252063092779" target="_blank">Источник</a>
 <!-- translate:off -->
