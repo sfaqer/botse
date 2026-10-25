@@ -5,9 +5,9 @@ title: 'Одноручное оружие и щит'
 
 # <img src="/icons/skills/one-hand-and-shield/icon.png" alt="One Hand and Shield" className="icon-svg" /> Одноручное оружие и щит
 
-**Associated Stat:** [Stamina](/docs/adventurer/stats/stamina)
+**Связанная характеристика:** [Выносливость](/docs/adventurer/stats/stamina)
 
-**Required Battle Form:** [<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon)
+**Требуемый боевой режим:** [<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon)
 
 ## Уровень 1
 

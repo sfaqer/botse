@@ -5,9 +5,9 @@ title: 'Посох разрушения'
 
 # <img src="/icons/skills/destruction-staff/icon.png" alt="Destruction Staff" className="icon-svg" /> Посох разрушения
 
-**Associated Stat:** [Magicka](/docs/adventurer/stats/magicka)
+**Связанная характеристика:** [Магия](/docs/adventurer/stats/magicka)
 
-**Required Battle Form:** [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)
+**Требуемый боевой режим:** [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)
 
 ## Уровень 1
 

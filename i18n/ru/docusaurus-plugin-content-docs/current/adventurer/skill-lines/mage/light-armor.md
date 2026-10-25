@@ -20,9 +20,9 @@ No, you can't roll Light Armor dice outside of battle. However, if they are alre
 <!-- translate:off -->
 :::
 <!-- translate:on -->
-**Associated Stat:** [Magicka](/docs/adventurer/stats/magicka)
+**Связанная характеристика:** [Магия](/docs/adventurer/stats/magicka)
 
-**Required Battle Form:** [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)
+**Требуемый боевой режим:** [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)
 
 ## Уровень 1
 
