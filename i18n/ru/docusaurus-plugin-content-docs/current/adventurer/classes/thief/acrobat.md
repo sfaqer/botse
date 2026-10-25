@@ -1,40 +1,40 @@
 ---
 id: acrobat
-title: Acrobat
+title: 'Акробат'
 hoverText: ""
 ---
 
 ## Новичок
 
-**Upgrade**: Move into 10 different hexes in a single turn.
+**Повышение**: За один ход передвиньтесь в 10 разных клеток.
 
-**Innate Ability**: After you defeat an enemy, you may immediately move up to 4 hexes. You may move through [units](/docs/glossary/unit) during this movement.
+**Врождённая способность**: После того как вы повергли врага, вы можете немедленно передвинуться на расстояние до 4 клеток. Во время этого передвижения вы можете проходить через [боевые единицы](/docs/glossary/unit).
 
 <div className="class-table-wrapper">
 
-| Стоимость стойкости | Название         | Способность                                                                                                                                                                                                                                                                                             |
-| ------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1                   | Rousing Speed    | Move a number of hexes up to your [Cooldown](/docs/adventurer/stats/cooldown) stat. If you end this movement [adjacent](/docs/glossary/adjacent) to no enemies, you may [heal](/docs/glossary/healing) for 1 HP.                                                                                        |
-| 1                   | Arcane Alacrity  | [Place](/docs/glossary/move-or-place) yourself 2-4 hexes away from your current hex. [Then](/docs/glossary/then), spend any amount of additional [tenacity](/docs/glossary/tenacity) to deal an [adjacent](/docs/glossary/adjacent) enemy damage equal to the additional tenacity spent.                |
-| 2                   | Tumbling         | [<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive) **[Interrupt](/docs/glossary/interrupt):** When you would be dealt any amount of damage, you may drain an [available](/docs/glossary/available) Combat die to prevent that damage. |
-| 3                   | Fighting Finesse | Apply a [Fear](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" className="icon-svg" />) status die to an [adjacent](/docs/glossary/adjacent) enemy.                                                                                                                      |
-| 4                   | Quick Recovery   | Resolve a [Recovery step](/docs/battles/adventurer-turn/index/#2-recovery).                                                                                                                                                                                                                             |
+| Стоимость стойкости | Название         | Способность                                                                                                                                                                                                                                                                                                                                 |
+| ------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1                   | Rousing Speed    | Передвиньтесь на расстояние до значения вашей характеристики [«Перезарядка»](/docs/adventurer/stats/cooldown). Если после этого передвижения рядом с вами нет [соседних](/docs/glossary/adjacent) врагов, вы можете [восстановить](/docs/glossary/healing) 1 ОЗ.                                                                            |
+| 1                   | Arcane Alacrity  | [Переместитесь](/docs/glossary/move-or-place) в клетку на расстоянии 2–4 клеток от текущей. [Затем](/docs/glossary/then) потратьте любое количество дополнительной [стойкости](/docs/glossary/tenacity), чтобы нанести [соседнему](/docs/glossary/adjacent) врагу урон, равный количеству дополнительно потраченной стойкости.              |
+| 2                   | Tumbling         | [<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive) **[Прерывающая способность](/docs/glossary/interrupt):** Когда вы должны получить любое количество урона, вы можете исчерпать [доступный](/docs/glossary/available) кубик навыка «Бой», чтобы предотвратить этот урон. |
+| 3                   | Fighting Finesse | Примените кубик состояния [«Страх»](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" className="icon-svg" />) к [соседнему](/docs/glossary/adjacent) врагу.                                                                                                                                                   |
+| 4                   | Quick Recovery   | Выполните [шаг возвращения кубиков](/docs/battles/adventurer-turn/index/#2-recovery).                                                                                                                                                                                                                                                       |
 
 </div>
 
 ## Мастер
 
-**Innate Ability**: You may always move through [units](/docs/glossary/unit). After you defeat an enemy, you may immediately move up to 5 hexes.
+**Врождённая способность**: Вы всегда можете проходить через [боевые единицы](/docs/glossary/unit). После того как вы повергли врага, вы можете немедленно передвинуться на расстояние до 5 клеток.
 
 <div className="class-table-wrapper">
 
-| Стоимость стойкости | Название         | Способность                                                                                                                                                                                                                                                                                | Эффект повышения                                    |
-| ------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- |
-| 1                   | Rousing Speed    | Move a number of hexes up to your [Cooldown](/docs/adventurer/stats/cooldown) stat. If you end this movement [adjacent](/docs/glossary/adjacent) to no enemies, you may [heal](/docs/glossary/healing) for 1 HP.                                                                           | —                                                   |
-| 1                   | Arcane Alacrity  | [Place](/docs/glossary/move-or-place) yourself 2-4 hexes away from your current hex. [Then](/docs/glossary/then), spend any amount of additional [tenacity](/docs/glossary/tenacity) to deal each [adjacent](/docs/glossary/adjacent) enemy damage equal to the additional tenacity spent. | Damage affects all adjacent enemies                 |
-| 2                   | Tumbling         | **[Interrupt](/docs/glossary/interrupt):** When you would be dealt any amount of damage, you may drain a die anywhere on your adventurer mat to prevent that damage.                                                                                                                       | Removes battle form requirement. May drain any die. |
-| 3                   | Fighting Finesse | Apply a [Fear](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" className="icon-svg" />) status die to an [adjacent](/docs/glossary/adjacent) enemy.                                                                                                         | —                                                   |
-| 3                   | Quick Recovery   | Resolve a [Recovery step](/docs/battles/adventurer-turn/index/#2-recovery).                                                                                                                                                                                                                | Tenacity cost<br/>(4 → 3)                           |
+| Стоимость стойкости | Название         | Способность                                                                                                                                                                                                                                                                                                                            | Эффект повышения                                              |
+| ------------------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| 1                   | Rousing Speed    | Передвиньтесь на расстояние до значения вашей характеристики [«Перезарядка»](/docs/adventurer/stats/cooldown). Если после этого передвижения рядом с вами нет [соседних](/docs/glossary/adjacent) врагов, вы можете [восстановить](/docs/glossary/healing) 1 ОЗ.                                                                       | —                                                             |
+| 1                   | Arcane Alacrity  | [Переместитесь](/docs/glossary/move-or-place) в клетку на расстоянии 2–4 клеток от текущей. [Затем](/docs/glossary/then) потратьте любое количество дополнительной [стойкости](/docs/glossary/tenacity), чтобы нанести каждому [соседнему](/docs/glossary/adjacent) врагу урон, равный количеству дополнительно потраченной стойкости. | Урон наносится всем соседним врагам                           |
+| 2                   | Tumbling         | **[Прерывающая способность](/docs/glossary/interrupt):** Когда вы должны получить любое количество урона, вы можете исчерпать кубик из любой области вашего планшета персонажа, чтобы предотвратить этот урон.                                                                                                                         | Нет требования к боевому режиму. Можно исчерпать любой кубик. |
+| 3                   | Fighting Finesse | Примените кубик состояния [«Страх»](/docs/battles/status-effects/fear) (<img src="/icons/fear.svg" alt="Fear Icon" className="icon-svg" />) к [соседнему](/docs/glossary/adjacent) врагу.                                                                                                                                              | —                                                             |
+| 3                   | Quick Recovery   | Выполните [шаг возвращения кубиков](/docs/battles/adventurer-turn/index/#2-recovery).                                                                                                                                                                                                                                                  | Стоимость стойкости<br/>(4 → 3)                               |
 
 </div>
 
@@ -43,9 +43,9 @@ hoverText: ""
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Can I drain an fatigue or status die using the Tumbling ability?**
+**Можно ли с помощью Tumbling исчерпать кубик усталости или состояния?**
 
-No, you must drain a skill die.
+Нет, нужно исчерпать кубик навыка.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1334931433562570825" target="_blank">Источник</a>
 <!-- translate:off -->

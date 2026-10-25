@@ -1,9 +1,9 @@
 ---
 id: unbridled
 title: Unbridled
-hoverText: Before this [unit](/docs/glossary/unit) deals damage, [roll 1 D6](/docs/glossary/roll-a-d6). If the result is a 3-6, the damage it rolled will be dealt as [true damage](/docs/glossary/true-damage), and this unit deals 1 additional true damage to each [adventurer](/docs/glossary/adventurer). If this battle takes place in [High Rock](/docs/campaign/provinces/high-rock), also increase unrest by 1 on a result of 3-6.
+hoverText: 'Перед тем как эта [боевая единица](/docs/glossary/unit) нанесёт урон, [бросьте 1 D6](/docs/glossary/roll-a-d6). При результате 3–6 выпавший у неё урон наносится как [неблокируемый урон](/docs/glossary/true-damage), и она дополнительно наносит по 1 единице неблокируемого урона каждому [персонажу](/docs/glossary/adventurer). Если бой проходит в [Хай Роке](/docs/campaign/provinces/high-rock), при результате 3–6 также увеличьте показатель «Unrest» на 1.'
 tags:
   - Quest Unit Skill
 ---
 
-Before this [unit](/docs/glossary/unit) deals damage, [roll 1 D6](/docs/glossary/roll-a-d6). If the result is a 3-6, the damage it rolled will be dealt as [true damage](/docs/glossary/true-damage), and this unit deals 1 additional true damage to each [adventurer](/docs/glossary/adventurer). If this battle takes place in [High Rock](/docs/campaign/provinces/high-rock), also increase unrest by 1 on a result of 3-6.
+Перед тем как эта [боевая единица](/docs/glossary/unit) нанесёт урон, [бросьте 1 D6](/docs/glossary/roll-a-d6). При результате 3–6 выпавший у неё урон наносится как [неблокируемый урон](/docs/glossary/true-damage), и она дополнительно наносит по 1 единице неблокируемого урона каждому [персонажу](/docs/glossary/adventurer). Если бой проходит в [Хай Роке](/docs/campaign/provinces/high-rock), при результате 3–6 также увеличьте показатель «Unrest» на 1.

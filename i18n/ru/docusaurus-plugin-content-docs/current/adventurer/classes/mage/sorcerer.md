@@ -1,51 +1,51 @@
 ---
 id: sorcerer
-title: Sorcerer
+title: 'Чародей'
 hoverText: ""
 ---
 
 ## Новичок
 
-**Upgrade**: Have [<img src="/icons/party-size.svg" alt="Party Size Icon" className="icon-svg" />](/docs/glossary/party-size)+2 [enchantments (<img src="/icons/enchantment.svg" alt="Enchantment Icon" className="icon-svg" />)](/docs/adventurer/items/types/enchantment) active at the same time.
+**Повышение**: Одновременно должно быть активно [<img src="/icons/party-size.svg" alt="Party Size Icon" className="icon-svg" />](/docs/glossary/party-size)+2 [зачарования (<img src="/icons/enchantment.svg" alt="Enchantment Icon" className="icon-svg" />)](/docs/adventurer/items/types/enchantment).
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Does the Sorcerer need to have activated all of the enchantments themself?**
+**Должен ли Чародей сам активировать все зачарования для повышения класса?**
 
-No, enchantments can be activated by any adventurer.
+Нет, зачарования может активировать любой персонаж.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1336010057359298653" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
-**Innate Ability**: If you start your turn in [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic), gain 1 [tenacity](/docs/glossary/tenacity).
+**Врождённая способность**: Если вы начинаете свой ход в режиме [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic), получите 1 [стойкости](/docs/glossary/tenacity).
 
 <div className="class-table-wrapper">
 
-| Стоимость стойкости | Название         | Способность                                                                                                                                                                                                                                                                                                                        |
-| ------------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1                   | Power Surge      | Spend any amount of additional [tenacity](/docs/glossary/tenacity). Choose an adventurer to recover the leftmost number of dice from their [cooldown track](/docs/glossary/cooldown-track) equal to the additional amount spent.                                                                                                   |
-| 2                   | Lightning Splash | **[Interrupt](/docs/glossary/interrupt):** After you defeat an enemy, deal 2 damage to every [unit](/docs/glossary/unit) that was in that enemy's [range](/docs/glossary/range).                                                                                                                                                   |
-| 2                   | Unholy Knowledge | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Roll any 1 status die in any adventurer's [cooldown track](/docs/glossary/cooldown-track) and place it back in the same position with the new result.                                                                    |
-| 3                   | Dark Exchange    | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Remove 1 HP from yourself and from any [unit](/docs/glossary/unit) in [range](/docs/glossary/range). Add both chips to any other unit in range (may exceed [Health](/docs/adventurer/stats/health) stat).                |
-| 4                   | Blood Magic      | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Each adventurer in play heals to full HP, [then](/docs/glossary/then) gains light [fatigue](/docs/glossary/fatigue) equal to the amount of HP healed. Light fatigue that cannot be placed does not generate overfatigue. |
+| Стоимость стойкости | Название         | Способность                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ------------------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1                   | Power Surge      | Потратьте любое количество дополнительной [стойкости](/docs/glossary/tenacity). Выберите персонажа: он возвращает с левого края своего [трека перезарядки](/docs/glossary/cooldown-track) столько кубиков, сколько дополнительной стойкости вы потратили.                                                                                                                                                                         |
+| 2                   | Lightning Splash | **[Прерывающая способность](/docs/glossary/interrupt):** После того как вы повергли врага, нанесите по 2 единицы урона каждой [боевой единице](/docs/glossary/unit), которая находилась в пределах [дальности](/docs/glossary/range) этого врага.                                                                                                                                                                                 |
+| 2                   | Unholy Knowledge | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Бросьте любой 1 кубик состояния с [трека перезарядки](/docs/glossary/cooldown-track) любого персонажа и верните его на то же место с новым результатом.                                                                                                                                                                 |
+| 3                   | Dark Exchange    | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Уберите по 1 фишке ОЗ из-под своей фишки и фишки любой [боевой единицы](/docs/glossary/unit) в пределах [дальности](/docs/glossary/range). Добавьте обе фишки ОЗ любой другой боевой единице в пределах дальности (запас здоровья может превысить значение характеристики [«Здоровье»](/docs/adventurer/stats/health)). |
+| 4                   | Blood Magic      | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Каждый персонаж в игре полностью восстанавливает свой запас ОЗ, [затем](/docs/glossary/then) получает столько серебристых кубиков [усталости](/docs/glossary/fatigue), сколько ОЗ он восстановил. Серебристые кубики усталости, которые нельзя разместить, не вызывают переутомления.                                   |
 
 </div>
 
 ## Мастер
 
-**Innate Ability**: If you start your turn in [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic), gain 1 [tenacity](/docs/glossary/tenacity) or remove 1 light [fatigue](/docs/glossary/fatigue) from your [cooldown track](/docs/glossary/cooldown-track).
+**Врождённая способность**: Если вы начинаете свой ход в режиме [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic), получите 1 [стойкости](/docs/glossary/tenacity) или уберите 1 серебристый кубик [усталости](/docs/glossary/fatigue) со своего [трека перезарядки](/docs/glossary/cooldown-track).
 
 <div className="class-table-wrapper">
 
-| Стоимость стойкости | Название         | Способность                                                                                                                                                                                                                                                                           | Эффект повышения                                                  |
-| ------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| 1                   | Power Surge      | Spend any amount of additional [tenacity](/docs/glossary/tenacity). Choose an adventurer to recover the leftmost number of dice from their [cooldown track](/docs/glossary/cooldown-track) equal to the additional amount spent +1.                                                   | + 1 recovered die                                                 |
-| 2                   | Lightning Splash | **[Interrupt](/docs/glossary/interrupt):** After you defeat an enemy, deal 2 damage to every enemy that was in that enemy's [range](/docs/glossary/range).                                                                                                                            | Affects only enemies instead of all units                         |
-| 3                   | Unholy Knowledge | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Change any 1 status die in any adventurer's [cooldown track](/docs/glossary/cooldown-track) to a side of your choice.                                                       | Tenacity cost (2 → 3), change side instead of rolling             |
-| 3                   | Dark Exchange    | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Move up to 2 HP from any [unit](/docs/glossary/unit) in [range](/docs/glossary/range) to any other unit in range (may exceed [Health](/docs/adventurer/stats/health) stat). | 2 HP instead of 1, may affect any units                           |
-| 5                   | Blood Magic      | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Each adventurer in play heals to full HP, [then](/docs/glossary/then) removes light [fatigue](/docs/glossary/fatigue) equal to the amount of HP healed.                     | Tenacity cost (4 → 5), remove light fatigue instead of gaining it |
+| Стоимость стойкости | Название         | Способность                                                                                                                                                                                                                                                                                                                                                                             | Эффект повышения                                                                     |
+| ------------------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| 1                   | Power Surge      | Потратьте любое количество дополнительной [стойкости](/docs/glossary/tenacity). Выберите персонажа: он возвращает с левого края своего [трека перезарядки](/docs/glossary/cooldown-track) столько кубиков, сколько дополнительной стойкости вы потратили, плюс 1.                                                                                                                       | + 1 возвращаемый кубик                                                               |
+| 2                   | Lightning Splash | **[Прерывающая способность](/docs/glossary/interrupt):** После того как вы повергли врага, нанесите по 2 единицы урона каждому врагу, который находился в пределах [дальности](/docs/glossary/range) поверженного врага.                                                                                                                                                                | Действует только на врагов, а не на все боевые единицы                               |
+| 3                   | Unholy Knowledge | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Поверните любой 1 кубик состояния на [треке перезарядки](/docs/glossary/cooldown-track) любого персонажа выбранной вами гранью вверх.                                                                                                                                         | Стоимость стойкости (2 → 3); грань выбирается вместо броска                          |
+| 3                   | Dark Exchange    | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Переложите до 2 фишек ОЗ от любой [боевой единицы](/docs/glossary/unit) в пределах [дальности](/docs/glossary/range) к любой другой боевой единице в пределах дальности (запас здоровья может превысить значение характеристики [«Здоровье»](/docs/adventurer/stats/health)). | 2 ОЗ вместо 1; можно применять к любым боевым единицам                               |
+| 5                   | Blood Magic      | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Каждый персонаж в игре полностью восстанавливает свой запас ОЗ, [затем](/docs/glossary/then) убирает столько серебристых кубиков [усталости](/docs/glossary/fatigue), сколько ОЗ он восстановил.                                                                              | Стоимость стойкости (4 → 5); серебристые кубики усталости убираются вместо получения |
 
 </div>
 
@@ -54,25 +54,25 @@ No, enchantments can be activated by any adventurer.
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Can you use Dark Exchange to remove the last HP from an enemy unit and defeat it?**
+**Можно ли с помощью Dark Exchange убрать последнее ОЗ у врага и повергнуть его?**
 
 Да.
 
 ---
 
-**Can you use the Novice Dark Exchange ability to recover HP?**
+**Можно ли восстановить себе ОЗ с помощью Dark Exchange на стороне новичка?**
 
-"[<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Remove 1 HP from yourself and from any [unit](/docs/glossary/unit) in [range](/docs/glossary/range). Add both chips to **any other unit** in range (may exceed [Health](/docs/adventurer/stats/health) stat)."
+«[<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Уберите по 1 фишке ОЗ из-под своей фишки и фишки любой [боевой единицы](/docs/glossary/unit) в пределах [дальности](/docs/glossary/range). Добавьте обе фишки ОЗ **любой другой боевой единице** в пределах дальности (запас здоровья может превысить значение характеристики [«Здоровье»](/docs/adventurer/stats/health))».
 
-No, you can't heal yourself using this ability. Since you must remove HP from yourself and another unit, and then apply those chips to **any other unit** - you are therefore unable to apply those chips to yourself. Note that the Master side of Dark Exchange does allowing healing yourself.
+Нет, этой способностью нельзя восстановить здоровье себе. Вы должны убрать ОЗ у себя и другой боевой единицы, а затем добавить эти фишки **любой другой боевой единице**, поэтому вернуть их себе нельзя. Однако Dark Exchange на стороне мастера позволяет восстанавливать здоровье себе.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1343996569476792372" target="_blank">Источник</a>
 
 ---
 
-**Can I use Combat Dice or Heavy Armor dice to prevent the damage from Lightning Splash?**
+**Можно ли предотвратить урон от Lightning Splash кубиками навыков «Бой» или «Тяжёлая броня»?**
 
-No, the damage from Lightning Splash is dealt by the Sorcerer [Adventurer](/docs/glossary/adventurer). Most damage prevention effects (including Combat and Heavy Armor skill dice) specify "When you are dealt damage by an **[enemy](/docs/glossary/enemy)**...". Therefore, you can't utilize these dice to prevent damage from Lightning Splash as it was dealt by an Adventurer.
+Нет, урон от Lightning Splash наносит [персонаж](/docs/glossary/adventurer) класса «Чародей». Большинство эффектов предотвращения урона, в том числе кубики навыков «Бой» и «Тяжёлая броня», указывают: «Когда вам наносит урон **[враг](/docs/glossary/enemy)**…». Поэтому эти кубики не позволяют предотвратить урон от Lightning Splash, поскольку его наносит персонаж.
 
 <a href="https://discord.com/channels/273472391403798528/1406510845814636585/1406561001112866856" target="_blank">Источник</a>
 <!-- translate:off -->
