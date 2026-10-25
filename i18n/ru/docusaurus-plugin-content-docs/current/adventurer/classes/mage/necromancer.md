@@ -1,27 +1,27 @@
 ---
 id: necromancer
-title: Necromancer
+title: 'Некромант'
 hoverText: ""
 ---
 
 ## Новичок
 
-**Upgrade**: Have 3 or more chips in your Necrosis Stack when you are defeated.
+**Повышение**: Станьте поверженным с 3 или более фишками в своей стопке некроза.
 
-**Innate Ability**: If at least 1 enemy took damage during your engage, place 1 HP chip here (max of 6). This is your Necrosis Stack.
+**Врождённая способность**: Если во время вашей атаки хотя бы 1 враг получил урон, положите сюда 1 фишку ОЗ (не более 6 фишек). Это ваша стопка некроза.
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**When are chips removed from the Necrosis Stack?**
+**Когда убираются фишки из стопки некроза?**
 
-Chips in the Necrosis Stack are not removed at end of battle or end day. They persist until the end of session cleanup.
+Фишки из стопки некроза не убираются в конце боя или дня. Они сохраняются до процедуры окончания эпизода.
 
 ---
 
-**Are you able to add HP chips to your Necrosis Stack during an engage?**
+**Можно ли добавлять фишки ОЗ в стопку некроза во время атаки?**
 
-No, you must finish the engage action first and then if during the engage an enemy took damage you add a chip.
+Нет, сначала нужно завершить действие атаки. Затем, если во время этой атаки враг получил урон, добавьте фишку.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1339257250170277918" target="_blank">Источник</a>
 <!-- translate:off -->
@@ -29,27 +29,27 @@ No, you must finish the engage action first and then if during the engage an ene
 <!-- translate:on -->
 <div className="class-table-wrapper">
 
-| Стоимость стойкости | Название           | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| ------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1                   | Boneyard           | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic) **[Enduring](/docs/glossary/enduring):** For every 2 chips in your Necrosis Stack, ignore 1 defense on your target.                                                                                                                                                                                                                                                                              |
-| 2                   | Bone Armor         | Remove 2 chips from your Necrosis Stack and place them under your own chip or that of a companion you control (may exceed [Health](/docs/adventurer/stats/health) stat).                                                                                                                                                                                                                                                                                                                                  |
-| 3                   | Blastbones         | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Remove 6 chips from your Necrosis Stack. [Then](/docs/glossary/then), draw 3 random level 1 enemies from the enemy bag, deploying them to [unoccupied](/docs/glossary/occupied) hexes in [range](/docs/glossary/range). They act as companions controlled by you. Each of these companions is defeated after it takes its turn.                                                                 |
-| 5                   | Spiritual Guardian | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Remove any number of chips from your Necrosis Stack and place them under a level 1 enemy from the defeated stack. [Then](/docs/glossary/then), deploy that enemy to an [unoccupied](/docs/glossary/occupied) [adjacent](/docs/glossary/adjacent) hex as a companion controlled by you. It maintains its current HP between battles. You may only have 1 Spiritual Guardian companion at a time. |
+| Стоимость стойкости | Название           | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1                   | Boneyard           | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic) **[Постоянная способность](/docs/glossary/enduring):** За каждые 2 фишки в вашей стопке некроза игнорируйте 1 единицу защиты вашей цели.                                                                                                                                                                                                                                                                            |
+| 2                   | Bone Armor         | Уберите 2 фишки из своей стопки некроза и поместите их под свою фишку или фишку компаньона под вашим контролем (запас здоровья может превысить значение характеристики [«Здоровье»](/docs/adventurer/stats/health)).                                                                                                                                                                                                                                                                                                         |
+| 3                   | Взрыв костей       | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Уберите 6 фишек из своей стопки некроза. [Затем](/docs/glossary/then) вытяните из мешочка врагов 3 случайных врагов 1-го уровня и разместите их в [незанятых](/docs/glossary/occupied) клетках в пределах вашей [дальности](/docs/glossary/range). Они становятся компаньонами под вашим контролем. Каждый из них становится поверженным после своего хода.                                                        |
+| 5                   | Spiritual Guardian | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Уберите любое количество фишек из своей стопки некроза и поместите их под фишку врага 1-го уровня из стопки поверженных. [Затем](/docs/glossary/then) разместите этого врага в [незанятой](/docs/glossary/occupied) [соседней](/docs/glossary/adjacent) клетке как компаньона под вашим контролем. Он сохраняет текущий запас ОЗ между боями. У вас может быть только 1 компаньон Spiritual Guardian одновременно. |
 
 </div>
 
 ## Мастер
 
-**Innate Ability**: If at least 1 enemy took damage during your engage or the engage of a companion controlled by you, place 1 HP chip here (max of 6). This is your Necrosis Stack.
+**Врождённая способность**: Если во время вашей атаки или атаки компаньона под вашим контролем хотя бы 1 враг получил урон, положите сюда 1 фишку ОЗ (не более 6 фишек). Это ваша стопка некроза.
 
 <div className="class-table-wrapper">
 
-| Стоимость стойкости | Название           | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Эффект повышения                                                     |
-| ------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| 0                   | Boneyard           | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic) **[Enduring](/docs/glossary/enduring):** For every 2 chips in your Necrosis Stack, ignore 1 defense on your target.                                                                                                                                                                                                                                                                                                          | Tenacity cost<br/>(1 → 0)                                            |
-| 1                   | Bone Armor         | Remove 2 chips from your Necrosis Stack and place them under a party member's chip (may exceed [Health](/docs/adventurer/stats/health) stat).                                                                                                                                                                                                                                                                                                                                                                                         | Tenacity cost (2 → 1), allows affecting any party member             |
-| 3                   | Blastbones         | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Remove 6 chips from your Necrosis Stack. [Then](/docs/glossary/then), draw 3 random level 1 enemies from the enemy bag, deploying them to [unoccupied](/docs/glossary/occupied) hexes in [range](/docs/glossary/range). They act as companions controlled by you. After it takes its turn, each of these companions deals 2 damage to each [adjacent](/docs/glossary/adjacent) [unit](/docs/glossary/unit) and is defeated. | Companions deal 2 damage to each adjacent unit before being defeated |
-| 5                   | Spiritual Guardian | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Remove any number of chips from your Necrosis Stack and place them under any level 1/5 enemy from the defeated stack. [Then](/docs/glossary/then), deploy that enemy to an [unoccupied](/docs/glossary/occupied) [adjacent](/docs/glossary/adjacent) hex as a companion controlled by you. It maintains its current HP between battles. You may only have 1 Spiritual Guardian companion at a time.                         | May be applied to a level 5 enemy                                    |
+| Стоимость стойкости | Название           | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Эффект повышения                                                                                            |
+| ------------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| 0                   | Boneyard           | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic) **[Постоянная способность](/docs/glossary/enduring):** За каждые 2 фишки в вашей стопке некроза игнорируйте 1 единицу защиты вашей цели.                                                                                                                                                                                                                                                                                                                                   | Стоимость стойкости<br/>(1 → 0)                                                                             |
+| 1                   | Bone Armor         | Уберите 2 фишки из своей стопки некроза и поместите их под фишку участника отряда (запас здоровья может превысить значение характеристики [«Здоровье»](/docs/adventurer/stats/health)).                                                                                                                                                                                                                                                                                                                                                                                             | Стоимость стойкости (2 → 1); можно применять к любому участнику отряда                                      |
+| 3                   | Взрыв костей       | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Уберите 6 фишек из своей стопки некроза. [Затем](/docs/glossary/then) вытяните из мешочка врагов 3 случайных врагов 1-го уровня и разместите их в [незанятых](/docs/glossary/occupied) клетках в пределах вашей [дальности](/docs/glossary/range). Они становятся компаньонами под вашим контролем. После своего хода каждый из них наносит по 2 единицы урона каждой [соседней](/docs/glossary/adjacent) [боевой единице](/docs/glossary/unit) и становится поверженным. | Перед тем как стать поверженным, каждый компаньон наносит по 2 единицы урона каждой соседней боевой единице |
+| 5                   | Spiritual Guardian | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Уберите любое количество фишек из своей стопки некроза и поместите их под фишку любого врага 1-го или 5-го уровня из стопки поверженных. [Затем](/docs/glossary/then) разместите этого врага в [незанятой](/docs/glossary/occupied) [соседней](/docs/glossary/adjacent) клетке как компаньона под вашим контролем. Он сохраняет текущий запас ОЗ между боями. У вас может быть только 1 компаньон Spiritual Guardian одновременно.                                        | Можно применить к врагу 5-го уровня                                                                         |
 
 </div>
 
@@ -58,31 +58,31 @@ No, you must finish the engage action first and then if during the engage an ene
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Does HP granted by Bone Armor that exceeds an adventurer's max carry over between battles?**
+**Сохраняются ли между боями ОЗ, полученные благодаря Bone Armor сверх максимального запаса персонажа?**
 
-No, [adventurer](/docs/glossary/adventurer) [health](/docs/adventurer/stats/health) is reset to maximum during [end of battle cleanup](/docs/battles/end-of-battle).
+Нет, во время [процедуры окончания боя](/docs/battles/end-of-battle) запас [здоровья](/docs/adventurer/stats/health) [персонажа](/docs/glossary/adventurer) снижается до максимального значения.
 
 ---
 
-**Can you unsummon your current Spiritual Guardian to deploy a different enemy instead?**
+**Можно ли убрать своего текущего Spiritual Guardian, чтобы вместо него разместить другого врага?**
 
-There is no way to just decide to take a companion out of play. You need to get it defeated if you want to get rid of it.
+Вы не можете по своему желанию убрать компаньона из игры. Чтобы избавиться от него, он должен стать поверженным.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372225248522539058" target="_blank">Источник</a>
 
 ---
 
-**Does Spiritual Guardian persist between sessions?**
+**Сохраняется ли Spiritual Guardian между эпизодами?**
 
-No, it is discarded at the end of the session.
+Нет, в конце эпизода он сбрасывается.
 
 <a href="https://discord.com/channels/273472391403798528/1393185130910187530/1393186198263959615" target="_blank">Источник</a>
 
 ---
 
-**How does [Stalwart](/docs/battles/enemy-skills/stalwart) and Master Blastbones work?**
+**Как взаимодействуют [«Стойкий»](/docs/battles/enemy-skills/stalwart) и мастерский «Взрыв костей»?**
 
-[Stalwart](/docs/battles/enemy-skills/stalwart) is only applicable to HP lost in a unit's turn. It doesn't apply for damage dealt outside of a unit's turn, such as damage dealt by the companions summoned through Master Blastbones.
+[«Стойкий»](/docs/battles/enemy-skills/stalwart) применяется только к потере ОЗ в ход боевой единицы. Он не применяется к урону, нанесённому вне хода боевой единицы, например к урону, нанесённому компаньонами, призванными мастерским «Взрывом костей».
 
 <a href="https://discord.com/channels/273472391403798528/1441490396793540760/1476965853021868208" target="_blank">Источник</a>
 
@@ -92,9 +92,9 @@ No, it is discarded at the end of the session.
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Can the Spirit Guardian companion maintain HP above its stat between battles?**
+**Может ли компаньон Spirit Guardian сохранять между боями ОЗ сверх значения своей характеристики «Здоровье»?**
 
-Yes. On the master side, you can use the Bone Armor class ability to add HP above a party member's Health stat (and there are other ways for units to gain HP above their Health stat as well). The companion summoned by Spirit Guardian maintains its HP between battles (per the ability's text), and that includes if its HP is above its Health stat.
+Да. На стороне мастера способность класса Bone Armor позволяет добавить участнику отряда ОЗ сверх значения его характеристики «Здоровье» (есть и другие способы, позволяющие боевым единицам получить ОЗ сверх этого значения). Согласно описанию способности, компаньон, призванный с помощью Spirit Guardian, сохраняет свой запас ОЗ между боями, в том числе если он превышает значение характеристики «Здоровье».
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000291560" target="_blank">Источник</a>
 <!-- translate:off -->

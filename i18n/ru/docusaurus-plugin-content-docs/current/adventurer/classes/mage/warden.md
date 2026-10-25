@@ -1,27 +1,27 @@
 ---
 id: warden
-title: Warden
+title: 'Хранитель'
 hoverText: ""
 ---
 
 ## Новичок
 
-**Upgrade**: Defeat a level 10/20 [enemy](/docs/glossary/enemy) or quest [unit](/docs/glossary/unit) with either the **Diving Cliff Racer** or **Feral Guardian** [companion](/docs/glossary/companion).
+**Повышение**: Повергните [врага](/docs/glossary/enemy) 10-го или 20-го уровня либо сюжетную [боевую единицу](/docs/glossary/unit) с помощью [компаньона](/docs/glossary/companion) **Diving Cliff Racer** или **Feral Guardian**.
 
-**Innate Ability**: After a <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" /> [companion](/docs/glossary/companion) is defeated, [heal](/docs/glossary/healing) yourself for 3 HP.
+**Врождённая способность**: После того как [компаньон](/docs/glossary/companion) типа <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" /> стал поверженным, [восстановите](/docs/glossary/healing) себе 3 ОЗ.
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Can you summon both Diving Cliff Racer and Feral Guardian?**
+**Можно ли призвать одновременно Diving Cliff Racer и Feral Guardian?**
 
-Since Diving Cliff Racer and Feral Guardian companions are on the same chip, they can't be summoned at the same time.
+Компаньоны Diving Cliff Racer и Feral Guardian находятся на одной фишке, поэтому их нельзя призвать одновременно.
 
 ---
 
-**If you summon a companion when on the Novice side, but upgrade to Master during the battle, is the companion removed at end of battle?**
+**Если призвать компаньона на стороне новичка, а затем во время боя повысить класс до мастера, нужно ли убирать компаньона в конце боя?**
 
-You can keep the current companion at the end of battle if you became a master during that battle, as you'll now use this side's rules rather than the novice side.
+Если вы стали мастером во время этого боя, вы можете сохранить текущего компаньона после его окончания: теперь действуют правила стороны мастера, а не новичка.
 
 <a href="https://boardgamegeek.com/thread/3475148/article/45832249#45832249" target="_blank">Источник</a>
 <!-- translate:off -->
@@ -29,30 +29,30 @@ You can keep the current companion at the end of battle if you became a master d
 <!-- translate:on -->
 <div className="class-table-wrapper">
 
-| Стоимость стойкости | Название         | Способность                                                                                                                                                                                                                                                                                                                                                                                                     |
-| ------------------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1                   | Dive             | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Deploy [companion](/docs/glossary/companion) unit: **Diving Cliff Racer** to an [unoccupied](/docs/glossary/occupied) [adjacent](/docs/glossary/adjacent) hex. It is a companion controlled by you. This companion is removed at the [end of battle](/docs/battles/end-of-battle). _Once per battle._ |
-| 2                   | Bond With Nature | Heal a [party member](/docs/glossary/party) in [sight](/docs/glossary/sight) for 2 HP. If it is a <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" />, this may exceed its [Health](/docs/adventurer/stats/health) stat.                                                                                                                                                                       |
-| 3                   | Living Vines     | **[Enduring](/docs/glossary/enduring):** After a <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" /> companion takes damage, if it is not defeated, it heals for 1 HP.                                                                                                                                                                                                                         |
-| 4                   | Advanced Species | A [companion](/docs/glossary/companion) may immediately move up to 2 hexes and engage. If it is a <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" />, it may move up to 2 additional hexes and increase its Combat stat by 2 for this engage.                                                                                                                                                 |
-| 5                   | Feral Guardian   | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Deploy [companion](/docs/glossary/companion) unit: **Feral Guardian** to an [unoccupied](/docs/glossary/occupied) [adjacent](/docs/glossary/adjacent) hex. It is a companion controlled by you. This companion is removed at the [end of battle](/docs/battles/end-of-battle). _Once per battle._     |
+| Стоимость стойкости | Название         | Способность                                                                                                                                                                                                                                                                                                                                                                                            |
+| ------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1                   | Dive             | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Разместите [компаньона](/docs/glossary/companion) **Diving Cliff Racer** в [незанятой](/docs/glossary/occupied) [соседней](/docs/glossary/adjacent) клетке. Этот компаньон находится под вашим контролем. В [конце боя](/docs/battles/end-of-battle) он убирается с поля. _Один раз за бой._ |
+| 2                   | Bond With Nature | Восстановите [участнику отряда](/docs/glossary/party) в пределах [видимости](/docs/glossary/sight) 2 ОЗ. Если он относится к типу <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" />, запас здоровья может превысить значение его характеристики [«Здоровье»](/docs/adventurer/stats/health).                                                                                        |
+| 3                   | Living Vines     | **[Постоянная способность](/docs/glossary/enduring):** После того как компаньон типа <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" /> получил урон, он восстанавливает 1 ОЗ, если не стал поверженным.                                                                                                                                                                             |
+| 4                   | Advanced Species | [Компаньон](/docs/glossary/companion) может немедленно передвинуться на расстояние до 2 клеток и выполнить атаку. Если он относится к типу <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" />, он может передвинуться ещё на расстояние до 2 клеток и увеличить своё значение боя на 2 для этой атаки.                                                                               |
+| 5                   | Feral Guardian   | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Разместите [компаньона](/docs/glossary/companion) **Feral Guardian** в [незанятой](/docs/glossary/occupied) [соседней](/docs/glossary/adjacent) клетке. Этот компаньон находится под вашим контролем. В [конце боя](/docs/battles/end-of-battle) он убирается с поля. _Один раз за бой._     |
 
 </div>
 
 ## Мастер
 
-**Innate Ability**: After a <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" /> [companion](/docs/glossary/companion) is defeated, [heal](/docs/glossary/healing) yourself for 3 HP and gain 1 [tenacity](/docs/glossary/tenacity).
+**Врождённая способность**: После того как [компаньон](/docs/glossary/companion) типа <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" /> стал поверженным, [восстановите](/docs/glossary/healing) себе 3 ОЗ и получите 1 [стойкости](/docs/glossary/tenacity).
 
 <div className="class-table-wrapper">
 
-| Стоимость стойкости | Название         | Способность                                                                                                                                                                                                                                                                                                                      | Эффект повышения                    |
-| ------------------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| 1                   | Dive             | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Deploy [companion](/docs/glossary/companion) unit: **Diving Cliff Racer** to an [unoccupied](/docs/glossary/occupied) [adjacent](/docs/glossary/adjacent) hex. It is a companion controlled by you. _Once per battle._ | No longer removed at end of battle. |
-| 2                   | Bond With Nature | Heal a [party member](/docs/glossary/party) in [sight](/docs/glossary/sight) for 3 HP. If it is a <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" />, this may exceed its [Health](/docs/adventurer/stats/health) stat.                                                                                        | HP healed<br/>(2 → 3)               |
-| 3                   | Living Vines     | **[Enduring](/docs/glossary/enduring):** After a <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" /> [companion](/docs/glossary/companion) takes damage, if it is not defeated, it heals for 1 HP.                                                                                                              | —                                   |
-| 3                   | Savage Beast     | Take an immediate turn for an [adjacent](/docs/glossary/adjacent) non-quest <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" /> enemy as if it is a companion controlled by you.                                                                                                                                | Новая                               |
-| 3                   | Advanced Species | A [companion](/docs/glossary/companion) may immediately move up to 2 hexes and engage. If it is a <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" />, it may move up to 2 additional hexes and increase its Combat stat by 2 for this engage.                                                                  | Tenacity cost (4→ 3)                |
-| 5                   | Feral Guardian   | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Deploy [companion](/docs/glossary/companion) unit: **Feral Guardian** to an [unoccupied](/docs/glossary/occupied) [adjacent](/docs/glossary/adjacent) hex. It is a companion controlled by you. _Once per battle._     | No longer removed at end of battle. |
+| Стоимость стойкости | Название         | Способность                                                                                                                                                                                                                                                                                                                            | Эффект повышения                        |
+| ------------------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| 1                   | Dive             | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Разместите [компаньона](/docs/glossary/companion) **Diving Cliff Racer** в [незанятой](/docs/glossary/occupied) [соседней](/docs/glossary/adjacent) клетке. Этот компаньон находится под вашим контролем. _Один раз за бой._ | Больше не убирается с поля в конце боя. |
+| 2                   | Bond With Nature | Восстановите [участнику отряда](/docs/glossary/party) в пределах [видимости](/docs/glossary/sight) 3 ОЗ. Если он относится к типу <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" />, запас здоровья может превысить значение его характеристики [«Здоровье»](/docs/adventurer/stats/health).                        | Восстановление ОЗ<br/>(2 → 3)           |
+| 3                   | Living Vines     | **[Постоянная способность](/docs/glossary/enduring):** После того как [компаньон](/docs/glossary/companion) типа <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" /> получил урон, он восстанавливает 1 ОЗ, если не стал поверженным.                                                                                 | —                                       |
+| 3                   | Savage Beast     | Немедленно выполните ход [соседнего](/docs/glossary/adjacent) несюжетного врага типа <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" />, как если бы он был компаньоном под вашим контролем.                                                                                                                         | Новая                                   |
+| 3                   | Advanced Species | [Компаньон](/docs/glossary/companion) может немедленно передвинуться на расстояние до 2 клеток и выполнить атаку. Если он относится к типу <img src="/icons/beast.svg" alt="Beast Icon" className="icon-svg" />, он может передвинуться ещё на расстояние до 2 клеток и увеличить своё значение боя на 2 для этой атаки.               | Стоимость стойкости (4 → 3)             |
+| 5                   | Feral Guardian   | [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic): Разместите [компаньона](/docs/glossary/companion) **Feral Guardian** в [незанятой](/docs/glossary/occupied) [соседней](/docs/glossary/adjacent) клетке. Этот компаньон находится под вашим контролем. _Один раз за бой._     | Больше не убирается с поля в конце боя. |
 
 </div>
 
