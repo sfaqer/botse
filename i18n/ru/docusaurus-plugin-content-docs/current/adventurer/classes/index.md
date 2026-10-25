@@ -46,12 +46,12 @@ slug: /adventurer/classes/index
 
 > ### [Лучник](/docs/adventurer/classes/warrior/archer)
 > 
-> ### [Рыцарь-дракон](/docs/adventurer/classes/warrior/dragonknight)
+> ### [Рыцарь Дракона](/docs/adventurer/classes/warrior/dragonknight)
 > 
 > ### [Рыцарь](/docs/adventurer/classes/warrior/knight)
 > 
 > ### [Рейнджер](/docs/adventurer/classes/warrior/ranger)
 > 
-> ### [Воин-маг](/docs/adventurer/classes/warrior/spellsword)
+> ### [Боевой маг](/docs/adventurer/classes/warrior/spellsword)
 > 
 > ### [Храмовник](/docs/adventurer/classes/warrior/templar)
