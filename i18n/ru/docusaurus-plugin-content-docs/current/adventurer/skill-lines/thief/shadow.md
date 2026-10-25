@@ -1,19 +1,19 @@
 ---
 id: shadow
-title: Shadow
+title: 'Тень'
 ---
 
-# <img src="/icons/skills/shadow/icon.png" alt="Shadow" className="icon-svg" /> Shadow
+# <img src="/icons/skills/shadow/icon.png" alt="Shadow" className="icon-svg" /> Тень
 
 **Associated Stat:** [Stamina](/docs/adventurer/stats/stamina)
 
 **Required Battle Form:** None
 
-## Level 1
+## Уровень 1
 
 ### Shadow Cloak
 
-**Dice Supply:** 2
+**Запас кубиков:** 2
 
 <img alt="Shadow cloak all results" src="/icons/skills/shadow/shadow-cloak-all-results.png" className="skill-icon" />
 
@@ -24,18 +24,18 @@ title: Shadow
 
 ### Refreshing Shadows
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                                        | Способность                                                                                                                                                                                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img alt="Refreshing shadows 1" src="/icons/skills/shadow/refreshing-shadows-1.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Gain 1 [bonus HP](/docs/glossary/bonus-hp) for each [unit](/docs/glossary/unit) affected by a [Stealth](/docs/battles/status-effects/stealth) status die.                                                                       |
 | <img alt="Refreshing shadows 2" src="/icons/skills/shadow/refreshing-shadows-2.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Remove up to 2 light [fatigue](/docs/glossary/fatigue) from your [cooldown track](/docs/glossary/cooldown-track) for each [unit](/docs/glossary/unit) affected by a [Stealth](/docs/battles/status-effects/stealth) status die. |
 
-## Level 2
+## Уровень 2
 
 ### Path of Darkness
 
-**Dice Supply:** 2
+**Запас кубиков:** 2
 
 <img alt="Path of darkness all results" src="/icons/skills/shadow/path-of-darkness-all-results.png" className="skill-icon" />
 
@@ -45,28 +45,28 @@ title: Shadow
 
 ### Shadow Barrier
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                            | Способность                                                                                                                                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img alt="Shadow barrier" src="/icons/skills/shadow/shadow-barrier.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): After an [adventurer](/docs/glossary/adventurer) takes damage, they may take 1 additional damage to gain a [Stealth](/docs/battles/status-effects/stealth) status die. [Then](/docs/glossary/then), exhaust this die. |
 
-## Level 3
+## Уровень 3
 
 ### Aspect of Terror
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                                    | Способность                                                                                                                                                                                                                                                                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img alt="Aspect of terror 1" src="/icons/skills/shadow/aspect-of-terror-1.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): If you currently have a [Stealth](/docs/battles/status-effects/stealth) status die in your [cooldown track](/docs/glossary/cooldown-track), you may remove it to apply a [Fear](/docs/battles/status-effects/fear) status die to an [adjacent](/docs/glossary/adjacent) [enemy](/docs/glossary/enemy). |
 | <img alt="Aspect of terror 2" src="/icons/skills/shadow/aspect-of-terror-2.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): If you currently have a [Stealth](/docs/battles/status-effects/stealth) status die in your [cooldown track](/docs/glossary/cooldown-track), you may remove it to apply a [Fear](/docs/battles/status-effects/fear) status die to an [enemy](/docs/glossary/enemy) on your tile.                        |
 
-## Level 4
+## Уровень 4
 
 ### Dark Veil
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 <img alt="Dark veil all results" src="/icons/skills/shadow/dark-veil-all-results.png" className="skill-icon" />
 

@@ -1,9 +1,9 @@
 ---
 id: speech
-title: Speech
+title: 'Красноречие'
 ---
 
-# <img src="/icons/skills/speech/icon.png" alt="Speech" className="icon-svg" /> Speech
+# <img src="/icons/skills/speech/icon.png" alt="Speech" className="icon-svg" /> Красноречие
 
 Speech dice all have numbers which indicate the strength of their effects. When multiple dice of the same skill are rolled together, their numbers are combined, increasing an effect's strength.
 
@@ -11,11 +11,11 @@ Speech dice all have numbers which indicate the strength of their effects. When 
 
 **Required Battle Form:** None
 
-## Level 1
+## Уровень 1
 
 ### Intimidating Presence
 
-**Dice Supply:** 3
+**Запас кубиков:** 3
 
 <img alt="Intimidating presence all results" src="/icons/skills/speech/intimidating-presence-all-results.png" className="skill-icon" />
 
@@ -25,7 +25,7 @@ Speech dice all have numbers which indicate the strength of their effects. When 
 
 ### Persuasive Will
 
-**Dice Supply:** 2
+**Запас кубиков:** 2
 
 <img alt="Persuasive will all results" src="/icons/skills/speech/persuasive-will-all-results.png" className="skill-icon" />
 
@@ -35,7 +35,7 @@ Speech dice all have numbers which indicate the strength of their effects. When 
 
 ### Authority
 
-**Dice Supply:** 3
+**Запас кубиков:** 3
 
 <img alt="Authority all results" src="/icons/skills/speech/authority-all-results.png" className="skill-icon" />
 

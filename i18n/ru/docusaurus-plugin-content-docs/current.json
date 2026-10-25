@@ -24,7 +24,7 @@
     "message": "Расы"
   },
   "sidebar.defaultSidebar.category.Skill Lines": {
-    "message": "Линии Навыков"
+    "message": "Ветки навыков"
   },
   "sidebar.defaultSidebar.category.skill-lines-mage": {
     "message": "Маг"
@@ -39,7 +39,7 @@
     "message": "Характеристики"
   },
   "sidebar.defaultSidebar.category.Stats.link.generated-index.description": {
-    "message": "Характеристики — это основные возможности вашего приключенца. Итоговое значение каждой характеристики равно базовому значению её круглого жетона, если он есть, плюс количество квадратных жетонов её цвета в строке её атрибута. Это итоговое значение является максимальным значением характеристики. Ниже описана каждая характеристика."
+    "message": "Характеристики — это основные возможности вашего персонажа. Итоговое значение каждой характеристики равно базовому значению её круглого жетона, если он есть, плюс количество квадратных жетонов прокачки её цвета в соответствующем ряду умений. Это итоговое значение является максимальным значением характеристики. Ниже описана каждая характеристика."
   },
   "sidebar.defaultSidebar.category.Battles": {
     "message": "Бои"
@@ -54,25 +54,25 @@
     "message": "Цели"
   },
   "sidebar.defaultSidebar.category.Adventurer Turn": {
-    "message": "Ход приключенца"
+    "message": "Ход персонажа"
   },
   "sidebar.defaultSidebar.category.Battle Forms": {
-    "message": "Формы боя"
+    "message": "Боевые режимы"
   },
   "sidebar.defaultSidebar.category.Enemy Skills": {
     "message": "Навыки врагов"
   },
   "sidebar.defaultSidebar.category.Status Effects": {
-    "message": "Эффекты состояния"
+    "message": "Состояния"
   },
   "sidebar.defaultSidebar.category.Campaign / Session": {
-    "message": "Кампания / Сессия"
+    "message": "Кампания / Эпизод"
   },
   "sidebar.defaultSidebar.category.Day / Phases": {
     "message": "День / Фазы"
   },
   "sidebar.defaultSidebar.category.2. Overland Phase": {
-    "message": "2. Фаза путешествия"
+    "message": "2. Фаза провинции"
   },
   "sidebar.defaultSidebar.category.3. Encounter Phase": {
     "message": "3. Фаза встречи"

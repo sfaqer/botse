@@ -1,19 +1,19 @@
 ---
 id: restoring-light
-title: Restoring Light
+title: 'Исцеляющий свет'
 ---
 
-# <img src="/icons/skills/restoring-light/icon.png" alt="Restoring Light" className="icon-svg" /> Restoring Light
+# <img src="/icons/skills/restoring-light/icon.png" alt="Restoring Light" className="icon-svg" /> Исцеляющий свет
 
 **Associated Stat:** [Magicka](/docs/adventurer/stats/magicka)
 
 **Required Battle Form:** [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)
 
-## Level 1
+## Уровень 1
 
 ### Purge
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                   | Способность                                                                                                                                                                                                                                      |
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -32,17 +32,17 @@ title: Restoring Light
 <!-- translate:on -->
 ### Hasty Prayer
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                                 | Способность                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img alt="Hasty prayer" src="/icons/skills/restoring-light/hasty-prayer.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): [Heal](/docs/glossary/healing) each [adventurer](/docs/glossary/adventurer) for 2 HP. |
 
-## Level 2
+## Уровень 2
 
 ### Breath of Life
 
-**Dice Supply:** 2
+**Запас кубиков:** 2
 
 <img alt="Breath of life all results" src="/icons/skills/restoring-light/breath-of-life-all-results.png" className="skill-icon" />
 
@@ -50,11 +50,11 @@ title: Restoring Light
 | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img alt="Breath of life" src="/icons/skills/restoring-light/breath-of-life.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Select an [adventurer](/docs/glossary/adventurer) in [range](/docs/glossary/range) and then roll X enemy Combat dice. [Heal](/docs/glossary/healing) that adventurer for HP equal to the damage rolled. |
 
-## Level 3
+## Уровень 3
 
 ### Honor the Dead
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 <img alt="Honor the dead all results" src="/icons/skills/restoring-light/honor-the-dead-all-results.png" className="skill-icon" />
 
@@ -75,7 +75,7 @@ After it is recovered from a cooldown track, this counts as its cooldown time an
 <!-- translate:on -->
 ### Rushed Ceremony
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                                           | Способность                                                                                                                                                                                                                                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -85,17 +85,17 @@ After it is recovered from a cooldown track, this counts as its cooldown time an
 
 ### Rite of Passage
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                                       | Способность                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img alt="Rite of passage" src="/icons/skills/restoring-light/rite-of-passage.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): After resolving your [Recovery step](/docs/battles/adventurer-turn/index/#2-recovery) you may [drain](/docs/glossary/drained) this die. Your turn immediately ends. For the rest of the round, you cannot lose HP or gain status dice. At the end of the round, heal all adventurers to their full HP. |
 
-## Level 4
+## Уровень 4
 
 ### Master Ritualist
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                                         | Способность                                                                                                                                                                                                                                                                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
