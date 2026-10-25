@@ -9,7 +9,7 @@ slug: /adventurer/classes/index
 
 У класса есть 2 типа способностей, каждый описан своим текстом:
 
-- Уникальная неотъемлемая способность, напечатанная вверху памятки класса, даёт пассивный постоянный бонус, который может сработать в указанный момент. Эта способность не требует затрат [стойкости (<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>)](/docs/glossary/tenacity).
+- Уникальная врождённая способность, напечатанная вверху памятки класса, даёт пассивный постоянный бонус, который может сработать в указанный момент. Эта способность не требует затрат [стойкости (<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>)](/docs/glossary/tenacity).
 - Несколько [способностей класса](/docs/battles/adventurer-turn/class-ability), которые могут срабатывать при трате или удержании стойкости. Рядом с каждой способностью указано требуемое [значение (<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>)](/docs/glossary/tenacity).
 
 ## <img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" /> [Маг](/docs/adventurer/classes/mage)

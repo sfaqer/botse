@@ -1,19 +1,19 @@
 ---
 id: one-hand-and-shield
-title: One Hand and Shield
+title: 'Одноручное оружие и щит'
 ---
 
-# <img src="/icons/skills/one-hand-and-shield/icon.png" alt="One Hand and Shield" className="icon-svg" /> One Hand and Shield
+# <img src="/icons/skills/one-hand-and-shield/icon.png" alt="One Hand and Shield" className="icon-svg" /> Одноручное оружие и щит
 
 **Associated Stat:** [Stamina](/docs/adventurer/stats/stamina)
 
 **Required Battle Form:** [<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon)
 
-## Level 1
+## Уровень 1
 
 ### Shield Discipline
 
-**Dice Supply:** 7
+**Запас кубиков:** 7
 
 <img alt="Shield discipline all results" src="/icons/skills/one-hand-and-shield/shield-discipline-all-results.png" className="skill-icon" />
 
@@ -32,22 +32,22 @@ Yes you may roll them without a target and place them in an active slot for the 
 <!-- translate:off -->
 :::
 <!-- translate:on -->
-## Level 2
+## Уровень 2
 
 ### Heroic Slash
 
-**Dice Supply:** 2
+**Запас кубиков:** 2
 
 | Символ                                                                                                         | Способность                                                                                                                                                                                                                                                             |
 | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img alt="Heroic slash 1" src="/icons/skills/one-hand-and-shield/heroic-slash-1.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal 2 damage to your target for each Shield Discipline die in your [active slots](/docs/glossary/active-slot).                                                     |
 | <img alt="Heroic slash 2" src="/icons/skills/one-hand-and-shield/heroic-slash-2.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Exhaust any number of Shield Discipline dice from your [active slots](/docs/glossary/active-slot) and deal 3 damage to your target for each die exhausted this way. |
 
-## Level 3
+## Уровень 3
 
 ### Defensive Posture
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                                               | Способность                                                                                                                                                                                                                                                                                                                                                                               |
 | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -82,18 +82,18 @@ No, it is optional.
 <!-- translate:on -->
 ### Shield Charge
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                                           | Способность                                                                                                                                                                                                                                                                                                                                                          |
 | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img alt="Shield charge 1" src="/icons/skills/one-hand-and-shield/shield-charge-1.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): [Recover](/docs/glossary/recover) any number of Shield Discipline dice from your [active slots](/docs/glossary/active-slot) and [cooldown track](/docs/glossary/cooldown-track). Deal 1 damage to your target for each Shield Discipline die recovered this way. |
 | <img alt="Shield charge 2" src="/icons/skills/one-hand-and-shield/shield-charge-2.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal 1 damage to your target for each One Hand and Shield skill die you have [trained](/docs/glossary/trained/).                                                                                                                                                 |
 
-## Level 4
+## Уровень 4
 
 ### Power Bash
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                                 | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

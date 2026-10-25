@@ -1,9 +1,9 @@
 ---
 id: heavy-armor
-title: Heavy Armor
+title: 'Тяжёлая броня'
 ---
 
-# <img src="/icons/skills/heavy-armor/icon.png" alt="Heavy Armor" className="icon-svg" /> Heavy Armor
+# <img src="/icons/skills/heavy-armor/icon.png" alt="Heavy Armor" className="icon-svg" /> Тяжёлая броня
 
 Heavy Armor dice are placed in your [cooldown track](/docs/glossary/cooldown-track), providing defensive bonuses but eating up valuable space in the cooldown track. When exhausting Heavy Armor skill dice outside of your [engage](/docs/battles/adventurer-turn/engage) actions, place them in your cooldown track with a [<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>](/docs/glossary/tenacity) result showing.
 
@@ -11,11 +11,11 @@ Heavy Armor dice are placed in your [cooldown track](/docs/glossary/cooldown-tra
 
 **Required Battle Form:** [<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive)
 
-## Level 1
+## Уровень 1
 
 ### Resolve
 
-**Dice Supply:** 2
+**Запас кубиков:** 2
 
 <img alt="Resolve all results" src="/icons/skills/heavy-armor/resolve-all-results.png" className="skill-icon" />
 
@@ -25,7 +25,7 @@ Heavy Armor dice are placed in your [cooldown track](/docs/glossary/cooldown-tra
 
 ### Constitution
 
-**Dice Supply:** 2
+**Запас кубиков:** 2
 
 <img alt="Constitution all results" src="/icons/skills/heavy-armor/constitution-all-results.png" className="skill-icon" />
 
@@ -33,11 +33,11 @@ Heavy Armor dice are placed in your [cooldown track](/docs/glossary/cooldown-tra
 | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img alt="Constitution" src="/icons/skills/heavy-armor/constitution.png" className="skill-icon" /> | [<img src="/icons/cooldown-track.svg" alt="Cooldown Track Icon" className="icon-svg" />](/docs/glossary/cooldown-track): While this die is in your [cooldown track](/docs/glossary/cooldown-track), when you are dealt damage by a non-[adjacent](/docs/glossary/adjacent) [enemy](/docs/glossary/enemy), you [may](/docs/glossary/may) prevent X damage. |
 
-## Level 2
+## Уровень 2
 
 ### Immovable
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                       | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -62,7 +62,7 @@ After the enemy has fully resolved the roll for their engage, i.e. **after** dam
 <!-- translate:on -->
 ### Ironclad
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                     | Способность                                                                                                                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -79,11 +79,11 @@ No, Resolve and Constitution need to be showing their proper faces in order for 
 <!-- translate:off -->
 :::
 <!-- translate:on -->
-## Level 3
+## Уровень 3
 
 ### Unstoppable
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                           | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -100,11 +100,11 @@ Yes, Unstoppable doesn't care about what face the die is showing, because it's U
 <!-- translate:off -->
 :::
 <!-- translate:on -->
-## Level 4
+## Уровень 4
 
 ### Juggernaut
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                         | Способность                                                                                                                                                                                                                                                                                                                                                                     |
 | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
