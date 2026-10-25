@@ -1,6 +1,7 @@
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 import { defaultLocale, discoverLocales } from "./scripts/i18n-utils.mjs";
+import rehypeClassTableLabels from "./scripts/rehype-class-table-labels.mjs";
 
 const RTL_LANGS = new Set(["ar", "he", "fa", "ur"]);
 const HTML_LANG_OVERRIDES: Record<string, string> = {
@@ -51,6 +52,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: "./sidebars.ts",
+          rehypePlugins: [rehypeClassTableLabels],
         },
         blog: false,
         theme: {
