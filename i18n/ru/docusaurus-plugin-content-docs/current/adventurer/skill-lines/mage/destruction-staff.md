@@ -1,19 +1,19 @@
 ---
 id: destruction-staff
-title: Destruction Staff
+title: 'Посох разрушения'
 ---
 
-# <img src="/icons/skills/destruction-staff/icon.png" alt="Destruction Staff" className="icon-svg" /> Destruction Staff
+# <img src="/icons/skills/destruction-staff/icon.png" alt="Destruction Staff" className="icon-svg" /> Посох разрушения
 
 **Associated Stat:** [Magicka](/docs/adventurer/stats/magicka)
 
 **Required Battle Form:** [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)
 
-## Level 1
+## Уровень 1
 
 ### Force Shock
 
-**Dice Supply:** 4
+**Запас кубиков:** 4
 
 | Символ                                                                                                     | Способность                                                                                                                                                                                                                                           |
 | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -21,11 +21,11 @@ title: Destruction Staff
 | <img alt="Force shock 2" src="/icons/skills/destruction-staff/force-shock-2.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal 4 damage to your target and 1 [true damage](/docs/glossary/true-damage) to any 1 [adventurer](/docs/glossary/adventurer).                    |
 | <img alt="Force shock 3" src="/icons/skills/destruction-staff/force-shock-3.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Gain 2 [tenacity](/docs/glossary/tenacity) and deal 1 [true damage](/docs/glossary/true-damage) to any 1 [adventurer](/docs/glossary/adventurer). |
 
-## Level 2
+## Уровень 2
 
 ### Wall of Elements
 
-**Dice Supply:** 2
+**Запас кубиков:** 2
 
 | Символ                                                                                                               | Способность                                                                                                                                                                                                                                                                                                                                 |
 | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,7 +35,7 @@ title: Destruction Staff
 
 ### Destructive Touch
 
-**Dice Supply:** 2
+**Запас кубиков:** 2
 
 | Символ                                                                                                                 | Способность                                                                                                                                                                                                                                                                                                                                                                                     |
 | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -43,11 +43,11 @@ title: Destruction Staff
 | <img alt="Destructive touch 2" src="/icons/skills/destruction-staff/destructive-touch-2.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Choose a level 1/5 [enemy](/docs/glossary/enemy). Deal [true damage](/docs/glossary/true-damage) equal to that enemy's current HP to [adventurers](/docs/glossary/adventurer), divided among them as you choose. [Then](/docs/glossary/then), [defeat](/docs/glossary/defeated) that enemy. |
 | <img alt="Destructive touch 3" src="/icons/skills/destruction-staff/destructive-touch-3.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): [Defeat](/docs/glossary/defeated) a level 1/5 [enemy](/docs/glossary/enemy). Apply a [Bane](/docs/battles/status-effects/bane) status die to any 1 [adventurer](/docs/glossary/adventurer).                                                                                                 |
 
-## Level 3
+## Уровень 3
 
 ### Pulsar
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                           | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -56,7 +56,7 @@ title: Destruction Staff
 
 ### Elemental Drain
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                                         | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -75,7 +75,7 @@ The source of the damage is the adventurer, so [Elusive](/docs/battles/enemy-ski
 <!-- translate:on -->
 ### Elemental Rage
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 <img alt="Elemental rage all results" src="/icons/skills/destruction-staff/elemental-rage-all-results.png" className="skill-icon" />
 
@@ -94,11 +94,11 @@ The wording of Elemental Rage is "Choose a cache in range, and deal a total of X
 <!-- translate:off -->
 :::
 <!-- translate:on -->
-## Level 4
+## Уровень 4
 
 ### Ancient Knowledge
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                                             | Способность                                                                                                                                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

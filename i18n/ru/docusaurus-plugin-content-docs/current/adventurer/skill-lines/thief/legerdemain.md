@@ -1,11 +1,11 @@
 ---
 id: legerdemain
-title: Legerdemain
+title: 'Ловкость рук'
 tags:
   - Valenwood
 ---
 
-# <img src="/icons/skills/legerdemain/icon.png" alt="Legerdemain" className="icon-svg" /> Legerdemain
+# <img src="/icons/skills/legerdemain/icon.png" alt="Legerdemain" className="icon-svg" /> Ловкость рук
 
 The legerdemain line is unique in that it costs no [Stamina](/docs/adventurer/stats/stamina) or [Magicka](/docs/adventurer/stats/magicka) to use, but it is situational in its application. When a die's text indicates it may be rolled, you may choose whether to roll the die and apply the results. Dice are returned to your attribute rows after use.
 
@@ -26,11 +26,11 @@ Finders Keepers and Light Fingers each have a result that says "You must resolve
 
 **Required Battle Form:** None
 
-## Level 1
+## Уровень 1
 
 ### Locksmith
 
-**Dice Supply:** 2
+**Запас кубиков:** 2
 
 You may roll this die when making a lockpick attempt.
 
@@ -38,11 +38,11 @@ You may roll this die when making a lockpick attempt.
 | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | <img alt="Locksmith" src="/icons/skills/legerdemain/locksmith.png" className="skill-icon" /> | Adjust any rolled [lockpick](/docs/glossary/lockpicking) die by 1. |
 
-## Level 2
+## Уровень 2
 
 ### Finders Keepers
 
-**Dice Supply:** 2
+**Запас кубиков:** 2
 
 You may roll this die when making a lockpick attempt.
 
@@ -54,11 +54,11 @@ You may roll this die when making a lockpick attempt.
 | <img alt="Finders keepers 4" src="/icons/skills/legerdemain/finders-keepers-4.png" className="skill-icon" /> | Set all rolled dice to the sides of your choice.                                                   |
 | <img alt="Finders keepers 5" src="/icons/skills/legerdemain/finders-keepers-5.png" className="skill-icon" /> | You must resolve this result. Exhaust this die and gain 1 light [fatigue](/docs/glossary/fatigue). |
 
-## Level 3
+## Уровень 3
 
 ### Light Fingers
 
-**Dice Supply:** 2
+**Запас кубиков:** 2
 
 You may roll this die during a [town](/docs/campaign/day/encounter-phase/town) encounter with a shop before taking town actions.
 
@@ -69,11 +69,11 @@ You may roll this die during a [town](/docs/campaign/day/encounter-phase/town) e
 | <img alt="Light fingers 3" src="/icons/skills/legerdemain/light-fingers-3.png" className="skill-icon" /> | Gain 2 [tenacity](/docs/glossary/tenacity).                                                                                               |
 | <img alt="Light fingers 4" src="/icons/skills/legerdemain/light-fingers-4.png" className="skill-icon" /> | You must resolve this result. Exhaust this die and gain 1 light [fatigue](/docs/glossary/fatigue).                                        |
 
-## Level 4
+## Уровень 4
 
 ### Friends in Low Places
 
-**Dice Supply:** 2
+**Запас кубиков:** 2
 
 You may roll this die at the start of a [town](/docs/campaign/day/encounter-phase/town) encounter.
 

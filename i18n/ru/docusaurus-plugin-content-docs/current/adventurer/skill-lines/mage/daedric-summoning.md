@@ -1,19 +1,19 @@
 ---
 id: daedric-summoning
-title: Daedric Summoning
+title: 'Призыв даэдра'
 ---
 
-# <img src="/icons/skills/daedric-summoning/icon.png" alt="Daedric Summoning" className="icon-svg" /> Daedric Summoning
+# <img src="/icons/skills/daedric-summoning/icon.png" alt="Daedric Summoning" className="icon-svg" /> Призыв даэдра
 
 **Associated Stat:** [Magicka](/docs/adventurer/stats/magicka)
 
 **Required Battle Form:** [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)
 
-## Level 1
+## Уровень 1
 
 ### Daedric Curse
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 <img alt="Daedric curse all results" src="/icons/skills/daedric-summoning/daedric-curse-all-results.png" className="skill-icon" />
 
@@ -46,7 +46,7 @@ Whenever there is a turn within a turn, or an engage within an engage, or a (non
 <!-- translate:on -->
 ### Bound Armaments
 
-**Dice Supply:** 2
+**Запас кубиков:** 2
 
 | Символ                                                                                                             | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -64,11 +64,11 @@ For the additional engage granted, the adventurer taking the engage cannot switc
 <!-- translate:off -->
 :::
 <!-- translate:on -->
-## Level 2
+## Уровень 2
 
 ### Power Stone
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 <img alt="Power stone all results" src="/icons/skills/daedric-summoning/power-stone-all-results.png" className="skill-icon" />
 
@@ -78,7 +78,7 @@ For the additional engage granted, the adventurer taking the engage cannot switc
 
 ### Expert Summoner
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 <img alt="Expert summoner all results" src="/icons/skills/daedric-summoning/expert-summoner-all-results.png" className="skill-icon" />
 
@@ -97,22 +97,22 @@ It is not optional, if it's active, you need to use it and reduce it. The only w
 <!-- translate:off -->
 :::
 <!-- translate:on -->
-## Level 3
+## Уровень 3
 
 ### Summon
 
-**Dice Supply:** 2
+**Запас кубиков:** 2
 
 | Символ                                                                                           | Способность                                                                                                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img alt="Summon 1" src="/icons/skills/daedric-summoning/summon-1.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Deploy [companion](/docs/glossary/companion) unit: **Clannfear** to an [unoccupied](/docs/glossary/occupied) [adjacent](/docs/glossary/adjacent) hex. The Clannfear is a companion controlled by you. This companion is removed at the end of battle. |
 | <img alt="Summon 2" src="/icons/skills/daedric-summoning/summon-2.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Deploy [companion](/docs/glossary/companion) unit: **Attronach** to an [unoccupied](/docs/glossary/occupied) [adjacent](/docs/glossary/adjacent) hex. The Attronach is a companion controlled by you. This companion is removed at the end of battle. |
 
-## Level 4
+## Уровень 4
 
 ### Tempered Soul
 
-**Dice Supply:** 1
+**Запас кубиков:** 1
 
 | Символ                                                                                                     | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
