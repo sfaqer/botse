@@ -1,40 +1,40 @@
 ---
 id: archer
-title: Archer
+title: 'Лучник'
 hoverText: ""
 ---
 
 ## Новичок
 
-**Upgrade**: Defeat an enemy that is 6 or more hexes away.
+**Повышение**: Повергните врага на расстоянии 6 или более клеток от вас.
 
-**Innate Ability**: At the start of your turn, if you are in [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon), deal 2 damage to a targetable enemy.
+**Врождённая способность**: В начале своего хода, если вы находитесь в режиме [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon), нанесите 2 единицы урона врагу, являющемуся допустимой целью.
 
 <div className="class-table-wrapper">
 
-| Стоимость стойкости | Название            | Способность                                                                                                                                                                                                                                            |
-| ------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1                   | Accuracy            | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon) **[Interrupt](/docs/glossary/interrupt):** When selecting a target, increase your [range](/docs/glossary/range) by 1. |
-| 2                   | Hawk Eye            | [Heal](/docs/glossary/healing) for HP equal to the number of enemies within your [range](/docs/glossary/range).                                                                                                                                        |
-| 3                   | Lethal Arrow        | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon): Roll 2 enemy Combat dice against a targetable enemy. Rolled damage is [true damage](/docs/glossary/true-damage).     |
-| 3                   | Hunter's Discipline | **[Interrupt](/docs/glossary/interrupt):** When a non-quest enemy is deployed, remove it and deploy a random enemy of the same level to the same hex. Heal for 3 HP.                                                                                   |
-| 5                   | Venom Arrow         | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon): Roll 3 status dice and apply them to targetable enemies.                                                             |
+| Стоимость стойкости | Название            | Способность                                                                                                                                                                                                                                                                   |
+| ------------------- | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1                   | Accuracy            | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon) **[Прерывающая способность](/docs/glossary/interrupt):** При выборе цели увеличьте вашу [дальность](/docs/glossary/range) на 1.              |
+| 2                   | Hawk Eye            | [Восстановите](/docs/glossary/healing) столько ОЗ, сколько врагов находится в пределах вашей [дальности](/docs/glossary/range).                                                                                                                                               |
+| 3                   | Lethal Arrow        | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon): Бросьте 2 кубика боя врагов против врага, являющегося допустимой целью. Выпавший урон является [неблокируемым](/docs/glossary/true-damage). |
+| 3                   | Hunter's Discipline | **[Прерывающая способность](/docs/glossary/interrupt):** Когда размещается несюжетный враг, уберите его и разместите в той же клетке случайного врага того же уровня. Восстановите 3 ОЗ.                                                                                      |
+| 5                   | Venom Arrow         | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon): Бросьте 3 кубика состояний и примените их к врагам, являющимся допустимыми целями.                                                          |
 
 </div>
 
 ## Мастер
 
-**Innate Ability**: At the start of your turn, if you are in [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon), deal 2 damage to an enemy in [sight](/docs/glossary/sight).
+**Врождённая способность**: В начале своего хода, если вы находитесь в режиме [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon), нанесите 2 единицы урона врагу в пределах [видимости](/docs/glossary/sight).
 
 <div className="class-table-wrapper">
 
-| Стоимость стойкости | Название            | Способность                                                                                                                                                                                                                                          | Эффект повышения          |
-| ------------------- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| 1                   | Accuracy            | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon) **[Enduring](/docs/glossary/enduring):** When selecting a target, increase your [range](/docs/glossary/range) by 1. | Interrupt → Enduring      |
-| 2                   | Hawk Eye            | [Heal](/docs/glossary/healing) for HP equal to the number of enemies within your [range](/docs/glossary/range).                                                                                                                                      | —                         |
-| 2                   | Lethal Arrow        | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon): Roll 2 enemy Combat dice against a targetable enemy. Rolled damage is [true damage](/docs/glossary/true-damage).   | Tenacity cost<br/>(3 → 2) |
-| 3                   | Hunter's Discipline | **[Interrupt](/docs/glossary/interrupt):** When a non-quest enemy is deployed, remove it and deploy a random enemy of the same level to the same hex. Gain 3 [bonus HP](/docs/glossary/bonus-hp).                                                    | Heal HP → Gain Bonus HP   |
-| 4                   | Venom Arrow         | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon): Roll 3 status dice and apply them to targetable enemies.                                                           | Tenacity cost<br/>(5 → 4) |
+| Стоимость стойкости | Название            | Способность                                                                                                                                                                                                                                                                   | Эффект повышения                                       |
+| ------------------- | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| 1                   | Accuracy            | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon) **[Постоянная способность](/docs/glossary/enduring):** При выборе цели увеличьте вашу [дальность](/docs/glossary/range) на 1.                | Прерывающая → Постоянная                               |
+| 2                   | Hawk Eye            | [Восстановите](/docs/glossary/healing) столько ОЗ, сколько врагов находится в пределах вашей [дальности](/docs/glossary/range).                                                                                                                                               | —                                                      |
+| 2                   | Lethal Arrow        | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon): Бросьте 2 кубика боя врагов против врага, являющегося допустимой целью. Выпавший урон является [неблокируемым](/docs/glossary/true-damage). | Стоимость стойкости<br/>(3 → 2)                        |
+| 3                   | Hunter's Discipline | **[Прерывающая способность](/docs/glossary/interrupt):** Когда размещается несюжетный враг, уберите его и разместите в той же клетке случайного врага того же уровня. Получите 3 единицы [дополнительного здоровья](/docs/glossary/bonus-hp).                                 | Восстановление ОЗ → Получение дополнительного здоровья |
+| 4                   | Venom Arrow         | [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon): Бросьте 3 кубика состояний и примените их к врагам, являющимся допустимыми целями.                                                          | Стоимость стойкости<br/>(5 → 4)                        |
 
 </div>
 
@@ -43,33 +43,33 @@ hoverText: ""
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Do you have to apply all of the statuses you roll as part of Venom Arrow?**
+**Обязательно ли применять все состояния, выпавшие при использовании Venom Arrow?**
 
-You roll all 3 and must apply all 3 (or as many as possible).
+Вы бросаете все 3 кубика и должны применить все 3 (или столько, сколько возможно).
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1361763413876801617" target="_blank">Источник</a>
 
 ---
 
-**Do you need to apply the status dice rolled from Venom Arrow to different enemies?**
+**Нужно ли применять кубики состояний, брошенные при использовании Venom Arrow, к разным врагам?**
 
-No, you can apply them to the same enemy if you want. You may also apply multiple copies of a status die (e.g. Stealth) to a single enemy (they will still only have one stealth die).
+Нет, при желании вы можете применить их к одному и тому же врагу. Вы также можете несколько раз применить одно и то же состояние (например, Скрытность) к одному врагу; при этом на нём всё равно останется только 1 кубик Скрытности.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1400248226208022670" target="_blank">Источник</a>
 
 ---
 
-**Does the Accuracy ability allow you to increase the range of the Novice Innate?**
+**Позволяет ли Accuracy увеличить дальность врождённой способности новичка?**
 
-It doesn't work in conjunction with the innate. A targetable enemy and selecting a target are different things. That innate never has you select a target, it just lets you damage an enemy that is eligible as a target, i.e. within your [range](/docs/glossary/range) and [sight](/docs/glossary/sight).
+Эта способность не действует совместно с врождённой. Враг, являющийся допустимой целью, и выбор цели — разные вещи. Врождённая способность не требует выбирать цель: она лишь позволяет нанести урон врагу, который может быть целью, то есть находится в пределах вашей [дальности](/docs/glossary/range) и [видимости](/docs/glossary/sight).
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1386817756862611581" target="_blank">Источник</a>
 
 ---
 
-**In Ranged battle form, do adjacent units count as "in range" (for example, when using the Hawk Eye class ability)?**
+**Считаются ли соседние боевые единицы находящимися «в пределах дальности» в режиме «Дальнобойное оружие» — например, при использовании способности класса Hawk Eye?**
 
-No, adjacent units are not within your range if you are in [Ranged battle form](/docs/battles/battle-forms/ranged-weapon).
+Нет, соседние боевые единицы не находятся в пределах вашей дальности, если вы в режиме [«Дальнобойное оружие»](/docs/battles/battle-forms/ranged-weapon).
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387182043573649440" target="_blank">Источник</a>
 
