@@ -1,7 +1,7 @@
 ---
 id: tenacity
-title: 'Стойкость'
-hoverText: 'Полученную стойкость отмечают колышком на планшете персонажа. Она сохраняется, пока не будет потрачена на активацию способности класса или уменьшена другим эффектом.'
+title: Tenacity
+hoverText: Gained tenacity is tracked with a peg on your adventurer mat. It remains until spent to trigger a class ability or reduced by another effect.
 ---
 
 # <img src="/icons/tenacity.svg" alt="Tenacity Icon" /> Стойкость
