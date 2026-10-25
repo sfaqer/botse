@@ -5,9 +5,9 @@ title: 'Лук'
 
 # <img src="/icons/skills/bow/icon.png" alt="Bow" className="icon-svg" /> Лук
 
-**Associated Stat:** [Stamina](/docs/adventurer/stats/stamina)
+**Связанная характеристика:** [Выносливость](/docs/adventurer/stats/stamina)
 
-**Required Battle Form:** [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon)
+**Требуемый боевой режим:** [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon)
 
 ## Уровень 1
 

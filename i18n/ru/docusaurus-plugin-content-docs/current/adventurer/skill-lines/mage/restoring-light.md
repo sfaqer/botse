@@ -5,9 +5,9 @@ title: 'Исцеляющий свет'
 
 # <img src="/icons/skills/restoring-light/icon.png" alt="Restoring Light" className="icon-svg" /> Исцеляющий свет
 
-**Associated Stat:** [Magicka](/docs/adventurer/stats/magicka)
+**Связанная характеристика:** [Магия](/docs/adventurer/stats/magicka)
 
-**Required Battle Form:** [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)
+**Требуемый боевой режим:** [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)
 
 ## Уровень 1
 

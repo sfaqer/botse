@@ -5,9 +5,9 @@ title: 'Двуручное оружие'
 
 # <img src="/icons/skills/two-handed/icon.png" alt="Two Handed" className="icon-svg" /> Двуручное оружие
 
-**Associated Stat:** [Stamina](/docs/adventurer/stats/stamina)
+**Связанная характеристика:** [Выносливость](/docs/adventurer/stats/stamina)
 
-**Required Battle Form:** [<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/heavy-weapon)
+**Требуемый боевой режим:** [<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/heavy-weapon)
 
 ## Уровень 1
 

@@ -7,9 +7,9 @@ title: 'Тяжёлая броня'
 
 Heavy Armor dice are placed in your [cooldown track](/docs/glossary/cooldown-track), providing defensive bonuses but eating up valuable space in the cooldown track. When exhausting Heavy Armor skill dice outside of your [engage](/docs/battles/adventurer-turn/engage) actions, place them in your cooldown track with a [<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>](/docs/glossary/tenacity) result showing.
 
-**Associated Stat:** [Stamina](/docs/adventurer/stats/stamina)
+**Связанная характеристика:** [Выносливость](/docs/adventurer/stats/stamina)
 
-**Required Battle Form:** [<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive)
+**Требуемый боевой режим:** [<img src="/icons/defensive.svg" alt="Defensive Icon" className="icon-svg" />](/docs/battles/battle-forms/defensive)
 
 ## Уровень 1
 

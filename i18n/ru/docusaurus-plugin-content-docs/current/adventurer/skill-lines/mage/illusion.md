@@ -9,9 +9,9 @@ tags:
 
 Illusion dice are used in a number of ways, and each has specific rules. They are most often placed as status counters or effects on enemies, allies, empty hexes, etc. Illusion skill dice still in play at the end of battle are exhausted.
 
-**Associated Stat:** [Magicka](/docs/adventurer/stats/magicka)
+**Связанная характеристика:** [Магия](/docs/adventurer/stats/magicka)
 
-**Required Battle Form:** [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)
+**Требуемый боевой режим:** [<img src="/icons/magic.svg" alt="Magic Icon" className="icon-svg" />](/docs/battles/battle-forms/magic)
 
 ## Уровень 1
 

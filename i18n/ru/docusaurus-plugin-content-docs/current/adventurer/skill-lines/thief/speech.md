@@ -5,23 +5,23 @@ title: 'Красноречие'
 
 # <img src="/icons/skills/speech/icon.png" alt="Speech" className="icon-svg" /> Красноречие
 
-Speech dice all have numbers which indicate the strength of their effects. When multiple dice of the same skill are rolled together, their numbers are combined, increasing an effect's strength.
+На всех кубиках «Красноречия» есть числа, определяющие силу их эффектов. Если одновременно брошено несколько кубиков одного и того же навыка, их значения складываются, усиливая эффект.
 
-**Associated Stat:** [Stamina](/docs/adventurer/stats/stamina)
+**Связанная характеристика:** [Выносливость](/docs/adventurer/stats/stamina)
 
-**Required Battle Form:** None
+**Требуемый боевой режим:** не требуется
 
 ## Уровень 1
 
-### Intimidating Presence
+### Устрашающее присутствие
 
 **Запас кубиков:** 3
 
 <img alt="Intimidating presence all results" src="/icons/skills/speech/intimidating-presence-all-results.png" className="skill-icon" />
 
-| Символ                                                                                                          | Способность                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img alt="Intimidating presence" src="/icons/skills/speech/intimidating-presence.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Combine the values of all Intimidating Presence dice rolled this [engage](/docs/battles/adventurer-turn/engage). Remove an [adjacent](/docs/glossary/adjacent) non-[quest enemy](/docs/glossary/quest-unit) with HP equal to or less than this value from battle (it is not considered [defeated](/docs/glossary/defeated)). |
+| Символ                                                                                                          | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img alt="Intimidating presence" src="/icons/skills/speech/intimidating-presence.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Сложите значения всех кубиков навыка «Устрашающее присутствие», брошенных при этой [атаке](/docs/battles/adventurer-turn/engage). Уберите из боя [соседнего](/docs/glossary/adjacent) врага, не являющегося [сюжетной боевой единицей](/docs/glossary/quest-unit), если его ОЗ не превышают полученную сумму (он не считается [поверженным](/docs/glossary/defeated)). |
 
 ### Persuasive Will
 
@@ -29,9 +29,9 @@ Speech dice all have numbers which indicate the strength of their effects. When 
 
 <img alt="Persuasive will all results" src="/icons/skills/speech/persuasive-will-all-results.png" className="skill-icon" />
 
-| Символ                                                                                              | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img alt="Persuasive will" src="/icons/skills/speech/persuasive-will.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Combine the values of all Persuasive Will dice rolled this [engage](/docs/battles/adventurer-turn/engage). Choose an [adjacent](/docs/glossary/adjacent) [enemy](/docs/glossary/enemy) with a level equal to or less than this value. This unit becomes a [companion](/docs/glossary/companion) controlled by you. At the end of this [round](/docs/battles/battle-round), this unit becomes an enemy again. |
+| Символ                                                                                              | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img alt="Persuasive will" src="/icons/skills/speech/persuasive-will.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Сложите значения всех кубиков Persuasive Will, брошенных при этой [атаке](/docs/battles/adventurer-turn/engage). Выберите [соседнего](/docs/glossary/adjacent) [врага](/docs/glossary/enemy), уровень которого не превышает полученную сумму. Эта боевая единица становится [компаньоном](/docs/glossary/companion) под вашим контролем. В конце этого [раунда](/docs/battles/battle-round) она снова становится врагом. |
 
 ### Authority
 
@@ -39,16 +39,16 @@ Speech dice all have numbers which indicate the strength of their effects. When 
 
 <img alt="Authority all results" src="/icons/skills/speech/authority-all-results.png" className="skill-icon" />
 
-| Символ                                                                                  | Способность                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img alt="Authority" src="/icons/skills/speech/authority.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Combine the values of all Authority dice rolled this [engage](/docs/battles/adventurer-turn/engage). Any single [adventurer](/docs/glossary/adventurer) may gain [tenacity](/docs/glossary/tenacity) equal to or less than this value. Reduce tenacity gained by 1 for each hex of distance between you and that adventurer. |
+| Символ                                                                                  | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img alt="Authority" src="/icons/skills/speech/authority.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Сложите значения всех кубиков Authority, брошенных при этой [атаке](/docs/battles/adventurer-turn/engage). Любой один [персонаж](/docs/glossary/adventurer) может получить [стойкость](/docs/glossary/tenacity) в количестве, не превышающем полученную сумму. Уменьшите получаемую стойкость на 1 за каждую клетку расстояния между вами и этим персонажем. |
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Do you need to reduce the tenacity for adjacent adventurers?**
+**Нужно ли уменьшать количество стойкости, получаемой соседними персонажами?**
 
-An adjacent adventurer is 1 hex away, so 1 tenacity is lost in the transfer.
+Соседний персонаж находится на расстоянии 1 клетки, поэтому при передаче теряется 1 стойкость.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372224678479003669" target="_blank">Источник</a>
 <!-- translate:off -->
