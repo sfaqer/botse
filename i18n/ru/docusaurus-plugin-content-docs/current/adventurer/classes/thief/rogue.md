@@ -1,41 +1,41 @@
 ---
 id: rogue
-title: Rogue
+title: 'Плут'
 hoverText: ""
 ---
 
 ## Новичок
 
-**Upgrade**: Have a level 2 skill die [trained](/docs/glossary/trained/) in 2 different [<img src="/icons/thief.svg" alt="Thief Icon" className="icon-svg" />](/docs/adventurer/skill-lines/thief) type skill lines.
+**Повышение**: [Освойте](/docs/glossary/trained/) по кубику навыка 2-го уровня в 2 разных ветках типа [<img src="/icons/thief.svg" alt="Thief Icon" className="icon-svg" />](/docs/adventurer/skill-lines/thief).
 
-**Innate Ability**: When engaged by an [adjacent](/docs/glossary/adjacent) enemy, prevent 1 damage dealt to you for each miss rolled.
+**Врождённая способность**: Когда вас атакует [соседний](/docs/glossary/adjacent) враг, предотвратите по 1 единице наносимого вам урона за каждый выпавший промах.
 
 <div className="class-table-wrapper">
 
-| Стоимость стойкости | Название        | Способность                                                                                                                                                                                                                                                                                                                                                               |
-| ------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1                   | Veil of Shadows | **[Interrupt](/docs/glossary/interrupt):** After defeating a level 10/20 enemy or a quest unit, gain a [Stealth](/docs/battles/status-effects/stealth) (<img src="/icons/stealth.svg" alt="Stealth Icon" className="icon-svg" />) status die.                                                                                                                             |
-| 2                   | Kickback        | Roll a number of enemy Combat dice equal to your [Stamina](/docs/adventurer/stats/stamina) stat and [heal](/docs/glossary/healing) for 2 HP for each miss rolled.                                                                                                                                                                                                         |
-| 3                   | Timely Escape   | [<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon) or [<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/heavy-weapon) **[Enduring](/docs/glossary/enduring):** Once per turn, you may reroll an enemy's engage that targets you. |
-| 3                   | Caltrops        | Move up to 3 hexes. [Then](/docs/glossary/then), each non-quest enemy [adjacent](/docs/glossary/adjacent) to you rolls an engage against itself, ignoring its skills.                                                                                                                                                                                                     |
-| 4                   | Shadow Strike   | Deal a targetable enemy damage equal to the number of [fatigue](/docs/glossary/fatigue) dice in your [cooldown track](/docs/glossary/cooldown-track). If this damage defeats that enemy, remove up to 2 light fatigue from your cooldown track.                                                                                                                           |
+| Стоимость стойкости | Название        | Способность                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1                   | Veil of Shadows | **[Прерывающая способность](/docs/glossary/interrupt):** После того как вы повергли врага 10-го или 20-го уровня либо сюжетную боевую единицу, получите кубик состояния [«Скрытность»](/docs/battles/status-effects/stealth) (<img src="/icons/stealth.svg" alt="Stealth Icon" className="icon-svg" />).                                                                                                     |
+| 2                   | Kickback        | Бросьте столько кубиков боя врагов, сколько составляет ваша [«Выносливость»](/docs/adventurer/stats/stamina), и [восстановите](/docs/glossary/healing) по 2 ОЗ за каждый выпавший промах.                                                                                                                                                                                                                    |
+| 3                   | Timely Escape   | [<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon) или [<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/heavy-weapon) **[Постоянная способность](/docs/glossary/enduring):** Один раз за ход вы можете перебросить кубики атаки врага, целью которой являетесь вы. |
+| 3                   | Caltrops        | Передвиньтесь на расстояние до 3 клеток. [Затем](/docs/glossary/then) каждый [соседний](/docs/glossary/adjacent) с вами несюжетный враг бросает кубики для атаки самого себя, игнорируя свои навыки.                                                                                                                                                                                                         |
+| 4                   | Shadow Strike   | Нанесите врагу, являющемуся допустимой целью, урон, равный числу кубиков [усталости](/docs/glossary/fatigue) на вашем [треке перезарядки](/docs/glossary/cooldown-track). Если этот урон повергает врага, уберите до 2 серебристых кубиков усталости со своего трека перезарядки.                                                                                                                            |
 
 </div>
 
 ## Мастер
 
-**Innate Ability**: When engaged by an enemy, prevent 1 damage dealt to you for each miss rolled.
+**Врождённая способность**: Когда вас атакует враг, предотвратите по 1 единице наносимого вам урона за каждый выпавший промах.
 
 <div className="class-table-wrapper">
 
-| Стоимость стойкости | Название        | Способность                                                                                                                                                                                                                                                                                                                                                               | Эффект повышения            |
-| ------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| 1                   | Veil of Shadows | **[Interrupt](/docs/glossary/interrupt):** After defeating a level 10/20 enemy or a quest unit, gain a [Stealth](/docs/battles/status-effects/stealth) (<img src="/icons/stealth.svg" alt="Stealth Icon" className="icon-svg" />) status die.                                                                                                                             | —                           |
-| 2                   | Infamous        | **[Enduring](/docs/glossary/enduring):** Reduce the difficulty of all [social checks](/docs/campaign/day/encounter-phase/social-checks) by 3.                                                                                                                                                                                                                             | Новая                       |
-| 2                   | Kickback        | **[Interrupt](/docs/glossary/interrupt):** After rolling dice for your engage, [heal](/docs/glossary/healing) for 2 HP for each [<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>](/docs/glossary/tenacity) result you rolled.                                                                                                                   | Reworked                    |
-| 3                   | Timely Escape   | [<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon) or [<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/heavy-weapon) **[Enduring](/docs/glossary/enduring):** Once per turn, you may reroll an enemy's engage that targets you. | —                           |
-| 3                   | Caltrops        | Move up to 3 hexes. [Then](/docs/glossary/then), each non-quest enemy [adjacent](/docs/glossary/adjacent) to you rolls an engage against itself, ignoring its skills.                                                                                                                                                                                                     | —                           |
-| 4                   | Shadow Strike   | Deal a targetable enemy damage equal to the number of [fatigue](/docs/glossary/fatigue) dice in your cooldown track. If this damage defeats that enemy, remove up to 2 fatigue from your cooldown track.                                                                                                                                                                  | Allows removing overfatigue |
+| Стоимость стойкости | Название        | Способность                                                                                                                                                                                                                                                                                                                                                                                                  | Эффект повышения                   |
+| ------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------- |
+| 1                   | Veil of Shadows | **[Прерывающая способность](/docs/glossary/interrupt):** После того как вы повергли врага 10-го или 20-го уровня либо сюжетную боевую единицу, получите кубик состояния [«Скрытность»](/docs/battles/status-effects/stealth) (<img src="/icons/stealth.svg" alt="Stealth Icon" className="icon-svg" />).                                                                                                     | —                                  |
+| 2                   | Infamous        | **[Постоянная способность](/docs/glossary/enduring):** Уменьшите сложность всех [проверок общения](/docs/campaign/day/encounter-phase/social-checks) на 3.                                                                                                                                                                                                                                                   | Новая                              |
+| 2                   | Kickback        | **[Прерывающая способность](/docs/glossary/interrupt):** После броска кубиков для вашей атаки [восстановите](/docs/glossary/healing) по 2 ОЗ за каждый выпавший результат [<img src="/icons/tenacity.svg" alt="Tenacity Icon" className="icon-svg"/>](/docs/glossary/tenacity).                                                                                                                              | Эффект изменён                     |
+| 3                   | Timely Escape   | [<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon) или [<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/heavy-weapon) **[Постоянная способность](/docs/glossary/enduring):** Один раз за ход вы можете перебросить кубики атаки врага, целью которой являетесь вы. | —                                  |
+| 3                   | Caltrops        | Передвиньтесь на расстояние до 3 клеток. [Затем](/docs/glossary/then) каждый [соседний](/docs/glossary/adjacent) с вами несюжетный враг бросает кубики для атаки самого себя, игнорируя свои навыки.                                                                                                                                                                                                         | —                                  |
+| 4                   | Shadow Strike   | Нанесите врагу, являющемуся допустимой целью, урон, равный числу кубиков [усталости](/docs/glossary/fatigue) на вашем треке перезарядки. Если этот урон повергает врага, уберите до 2 кубиков усталости со своего трека перезарядки.                                                                                                                                                                         | Можно убирать кубики переутомления |
 
 </div>
 
@@ -44,17 +44,17 @@ hoverText: ""
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Can the "Veil of Shadows" ability be triggered when another unit defeats an enemy?**
+**Можно ли применить Veil of Shadows, когда другая боевая единица повергает врага?**
 
-No, "After defeating a level 10/20 enemy" is the same as "After **you** defeat an enemy". Therefore, the Rogue must be the one to defeat an enemy for this class ability to be triggered.
+Нет, «после того как враг 10-го или 20-го уровня повержен» здесь означает «после того как **вы** повергли врага». Для применения этой способности класса Плут должен сам повергнуть врага.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1343989850218434593" target="_blank">Источник</a>
 
 ---
 
-**Does the damage from Caltrops (Rogue) count as being dealt by the adventurer?**
+**Считается ли урон от Caltrops Плута уроном, нанесённым персонажем?**
 
-This damage is not being dealt by the adventurer, the enemy is dealing this damage to itself.
+Этот урон наносит не персонаж: враг наносит его сам себе.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183417933955143" target="_blank">Источник</a>
 

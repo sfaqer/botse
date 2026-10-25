@@ -570,7 +570,7 @@
     "description": "Title of the single feature card on the homepage that links to the docs"
   },
   "homepage.tagline": {
-    "message": "Unofficial references for The Elder Scrolls:Betrayal of the Second Era",
+    "message": "Неофициальный справочник по The Elder Scrolls: Betrayal of the Second Era",
     "description": "Site tagline shown as the homepage hero subtitle"
   },
   "enemySkillsTracker.heading": {
@@ -600,5 +600,8 @@
   "docs.admonition.expertDifficulty": {
     "message": "Уровень сложности «Эксперты»",
     "description": "Custom title of the Expert difficulty rule callout"
+  },
+  "docs.admonition.faq": {
+    "message": "Частые вопросы"
   }
 }

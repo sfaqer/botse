@@ -14,7 +14,7 @@ slug: /adventurer/classes/index
 
 ## <img src="/icons/mage.svg" alt="Mage Icon" className="icon-svg" /> [Маг](/docs/adventurer/classes/mage)
 
-> ### [Арканист](/docs/adventurer/classes/mage/arcanist)
+> ### [Мастер рун](/docs/adventurer/classes/mage/arcanist)
 > 
 > ### [Целитель](/docs/adventurer/classes/mage/healer)
 > 
@@ -32,13 +32,13 @@ slug: /adventurer/classes/index
 > 
 > ### [Бард](/docs/adventurer/classes/thief/bard)
 > 
-> ### [Грабитель](/docs/adventurer/classes/thief/burglar)
+> ### [Взломщик](/docs/adventurer/classes/thief/burglar)
 > 
 > ### [Повар](/docs/adventurer/classes/thief/chef)
 > 
 > ### [Пилигрим](/docs/adventurer/classes/thief/pilgrim)
 > 
-> ### [Жулик](/docs/adventurer/classes/thief/rogue)
+> ### [Плут](/docs/adventurer/classes/thief/rogue)
 > 
 > ### [Разведчик](/docs/adventurer/classes/thief/scout)
 
@@ -50,7 +50,7 @@ slug: /adventurer/classes/index
 > 
 > ### [Рыцарь](/docs/adventurer/classes/warrior/knight)
 > 
-> ### [Рейнджер](/docs/adventurer/classes/warrior/ranger)
+> ### [Следопыт](/docs/adventurer/classes/warrior/ranger)
 > 
 > ### [Боевой маг](/docs/adventurer/classes/warrior/spellsword)
 > 
