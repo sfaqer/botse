@@ -11,44 +11,44 @@ title: 'Исцеляющий свет'
 
 ## Уровень 1
 
-### Purge
+### Очищение
 
 **Запас кубиков:** 1
 
-| Символ                                                                                   | Способность                                                                                                                                                                                                                                      |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img alt="Purge" src="/icons/skills/restoring-light/purge.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): At any time, you may exhaust this die to remove 1 status die from a [party](/docs/glossary/party) member and heal them for 1 HP. |
+| Символ                                                                                   | Способность                                                                                                                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img alt="Purge" src="/icons/skills/restoring-light/purge.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): В любой момент вы можете истощить этот кубик, чтобы убрать 1 кубик состояния с [участника отряда](/docs/glossary/party) и восстановить ему 1 ОЗ. |
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**What is the timing of "At any time..."?**
+**Что означает «В любой момент...»?**
 
-"At any time" includes outside of your turn. However, you cannot interrupt something else that is currently resolving. (The one exception to this, of course, would be your own engage, as you are generally always allowed to resolve dice in active slots as you are resolving the different dice of your engage)
+«В любой момент» включает время вне вашего хода. Однако нельзя прерывать применение другого эффекта. (Исключение — ваша собственная атака: обычно вы можете применять кубики из ячеек активности по мере применения результатов разных кубиков этой атаки)
 
 <a href="https://discord.com/channels/273472391403798528/1392799821441663016/1428069890337669343" target="_blank">Источник</a>
 <!-- translate:off -->
 :::
 <!-- translate:on -->
-### Hasty Prayer
+### Быстрая молитва
 
 **Запас кубиков:** 1
 
-| Символ                                                                                                 | Способность                                                                                                                                                                               |
-| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img alt="Hasty prayer" src="/icons/skills/restoring-light/hasty-prayer.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): [Heal](/docs/glossary/healing) each [adventurer](/docs/glossary/adventurer) for 2 HP. |
+| Символ                                                                                                 | Способность                                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img alt="Hasty prayer" src="/icons/skills/restoring-light/hasty-prayer.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): [Восстановите](/docs/glossary/healing) каждому [персонажу](/docs/glossary/adventurer) 2 ОЗ. |
 
 ## Уровень 2
 
-### Breath of Life
+### Дыхание жизни
 
 **Запас кубиков:** 2
 
 <img alt="Breath of life all results" src="/icons/skills/restoring-light/breath-of-life-all-results.png" className="skill-icon" />
 
-| Символ                                                                                                     | Способность                                                                                                                                                                                                                                                                                                 |
-| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img alt="Breath of life" src="/icons/skills/restoring-light/breath-of-life.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Select an [adventurer](/docs/glossary/adventurer) in [range](/docs/glossary/range) and then roll X enemy Combat dice. [Heal](/docs/glossary/healing) that adventurer for HP equal to the damage rolled. |
+| Символ                                                                                                     | Способность                                                                                                                                                                                                                                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img alt="Breath of life" src="/icons/skills/restoring-light/breath-of-life.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Выберите [персонажа](/docs/glossary/adventurer) в пределах [дальности](/docs/glossary/range), затем бросьте X кубиков боя врагов. [Восстановите](/docs/glossary/healing) этому персонажу столько ОЗ, сколько урона выпало на кубиках. |
 
 ## Уровень 3
 
@@ -58,16 +58,16 @@ title: 'Исцеляющий свет'
 
 <img alt="Honor the dead all results" src="/icons/skills/restoring-light/honor-the-dead-all-results.png" className="skill-icon" />
 
-| Символ                                                                                                     | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img alt="Honor the dead" src="/icons/skills/restoring-light/honor-the-dead.png" className="skill-icon" /> | [<img src="/icons/status-effect.svg" alt="Status Effect Icon" className="icon-svg" />](/docs/glossary/status-effect): Place this die in any [adventurer's](/docs/glossary/adventurer) [cooldown track](/docs/glossary/cooldown-track). At the end of their turn, [heal](/docs/glossary/healing) them for X HP and reduce this die by 1. If this die would be reduced to 0, apply a [Stealth](/docs/battles/status-effects/stealth) status die to them and [drain](/docs/glossary/drained) this die. |
+| Символ                                                                                                     | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img alt="Honor the dead" src="/icons/skills/restoring-light/honor-the-dead.png" className="skill-icon" /> | [<img src="/icons/status-effect.svg" alt="Status Effect Icon" className="icon-svg" />](/docs/glossary/status-effect): Поместите этот кубик на [трек перезарядки](/docs/glossary/cooldown-track) любого [персонажа](/docs/glossary/adventurer). В конце его хода [восстановите](/docs/glossary/healing) ему X ОЗ и уменьшите значение этого кубика на 1. Если при этом значение должно стать равным 0, поместите на этого персонажа кубик состояния [«Скрытность»](/docs/battles/status-effects/stealth) и [исчерпайте](/docs/glossary/drained) этот кубик навыка. |
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**When recovered from a cooldown track (any adventurers), where does the die go?**
+**Куда отправляется кубик при возвращении с трека перезарядки любого персонажа?**
 
-After it is recovered from a cooldown track, this counts as its cooldown time and it returns to the adventurer's mat (it doesn't go back into cooldown track).
+После возвращения кубика с трека считается, что он уже прошёл перезарядку. Он возвращается на планшет персонажа, а не отправляется на трек перезарядки снова.
 
 <a href="https://discord.com/channels/273472391403798528/734891265690304634/1334930549047034022" target="_blank">Источник</a>
 <!-- translate:off -->
@@ -77,19 +77,19 @@ After it is recovered from a cooldown track, this counts as its cooldown time an
 
 **Запас кубиков:** 1
 
-| Символ                                                                                                           | Способность                                                                                                                                                                                                                                                                                                                                 |
-| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img alt="Rushed ceremony 1" src="/icons/skills/restoring-light/rushed-ceremony-1.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): [Heal](/docs/glossary/healing) each [adventurer](/docs/glossary/adventurer) to their full HP. Deploy a level 5 [enemy](/docs/glossary/enemy) to the [closest](/docs/glossary/closest) [unoccupied](/docs/glossary/occupied) hex to you. |
-| <img alt="Rushed ceremony 2" src="/icons/skills/restoring-light/rushed-ceremony-2.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Set your HP to 1. Heal a different [party](/docs/glossary/party) member of your choice to their full HP.                                                                                                                                |
-| <img alt="Rushed ceremony 3" src="/icons/skills/restoring-light/rushed-ceremony-3.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Take up to 3 HP chips from each [adventurer](/docs/glossary/adventurer) and redistribute them among adventurers as you choose (may exceed [Health](/docs/adventurer/stats/health) stat).                                                |
+| Символ                                                                                                           | Способность                                                                                                                                                                                                                                                                                                                                                 |
+| ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img alt="Rushed ceremony 1" src="/icons/skills/restoring-light/rushed-ceremony-1.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Полностью [восстановите](/docs/glossary/healing) запас ОЗ каждому [персонажу](/docs/glossary/adventurer). Разместите [врага](/docs/glossary/enemy) 5-го уровня в [ближайшей](/docs/glossary/closest) к вам [незанятой](/docs/glossary/occupied) клетке. |
+| <img alt="Rushed ceremony 2" src="/icons/skills/restoring-light/rushed-ceremony-2.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Установите своё количество ОЗ равным 1. Полностью восстановите запас ОЗ другому выбранному вами [участнику отряда](/docs/glossary/party).                                                                                                               |
+| <img alt="Rushed ceremony 3" src="/icons/skills/restoring-light/rushed-ceremony-3.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Возьмите до 3 фишек ОЗ у каждого [персонажа](/docs/glossary/adventurer) и распределите их между персонажами по своему выбору (количество ОЗ может превысить значение характеристики [«Здоровье»](/docs/adventurer/stats/health)).                       |
 
 ### Rite of Passage
 
 **Запас кубиков:** 1
 
-| Символ                                                                                                       | Способность                                                                                                                                                                                                                                                                                                                                                                                                            |
-| ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img alt="Rite of passage" src="/icons/skills/restoring-light/rite-of-passage.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): After resolving your [Recovery step](/docs/battles/adventurer-turn/index/#2-recovery) you may [drain](/docs/glossary/drained) this die. Your turn immediately ends. For the rest of the round, you cannot lose HP or gain status dice. At the end of the round, heal all adventurers to their full HP. |
+| Символ                                                                                                       | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img alt="Rite of passage" src="/icons/skills/restoring-light/rite-of-passage.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): После применения своего [этапа возвращения кубиков](/docs/battles/adventurer-turn/index/#2-recovery) вы можете [исчерпать](/docs/glossary/drained) этот кубик. Ваш ход немедленно завершается. До конца раунда вы не можете терять ОЗ или получать кубики состояний. В конце раунда полностью восстановите запас ОЗ всем персонажам. |
 
 ## Уровень 4
 
@@ -97,16 +97,16 @@ After it is recovered from a cooldown track, this counts as its cooldown time an
 
 **Запас кубиков:** 1
 
-| Символ                                                                                                         | Способность                                                                                                                                                                                                                                                                                                                                                                            |
-| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img alt="Master ritualist" src="/icons/skills/restoring-light/master-ritualist.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): After an [adventurer](/docs/glossary/adventurer) is [defeated](/docs/glossary/defeated), including yourself, you may immediately [drain](/docs/glossary/drained) this die and set that adventurer's HP to 5 (may exceed [Health](/docs/adventurer/stats/health) stat). |
+| Символ                                                                                                         | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img alt="Master ritualist" src="/icons/skills/restoring-light/master-ritualist.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): После того как [персонаж](/docs/glossary/adventurer), в том числе вы сами, [повержен](/docs/glossary/defeated), вы можете немедленно [исчерпать](/docs/glossary/drained) этот кубик и установить количество ОЗ этого персонажа равным 5 (оно может превысить значение его характеристики [«Здоровье»](/docs/adventurer/stats/health)). |
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Does this die need to be set in the active slot before an adventurer is defeated, or can you roll, put it in the active slot, and immediately drain it to resurrect a defeated adventurer?**
+**Должен ли этот кубик уже находиться в ячейке активности до поражения персонажа, или можно бросить его, поместить в ячейку активности и сразу исчерпать, чтобы вернуть поверженного персонажа в бой?**
 
-The die needs to already be active when the adventurer is defeated, in order to use its ability.
+Чтобы применить эту способность, кубик должен уже находиться в ячейке активности в момент поражения персонажа.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1372224678479003669" target="_blank">Источник</a>
 <!-- translate:off -->
@@ -117,11 +117,11 @@ The die needs to already be active when the adventurer is defeated, in order to 
 <!-- translate:off -->
 :::tip[FAQ]
 <!-- translate:on -->
-**Master Ritualist - Where do you resurrect?**
+**Master Ritualist — где персонаж возвращается в бой?**
 
-When a defeated adventurer regains HP so that it is not defeated, it is deployed to the same hex it occupied previously.
+Когда поверженный персонаж снова получает ОЗ и перестаёт считаться поверженным, его размещают в той же клетке, которую он занимал раньше.
 
-Note, in some very rare cases, adventurers may be defeated by a game effect that defeats units on specific hexes so that other units can go there. A unit cannot be deployed to an occupied hex, so a unit defeated in this way cannot be resurrected with Master Ritualist, since it cannot be deployed to the hex it needs to be deployed to.
+В редких случаях персонаж может быть повержен игровым эффектом, который повергает боевые единицы в определённых клетках, чтобы другие боевые единицы могли их занять. Боевую единицу нельзя разместить в занятой клетке. Поэтому персонажа, поверженного таким способом, нельзя вернуть в бой с помощью Master Ritualist: его нельзя разместить в требуемой клетке.
 
 <a href="https://support.chiptheorygames.com/support/solutions/articles/33000291977" target="_blank">Источник</a>
 <!-- translate:off -->
