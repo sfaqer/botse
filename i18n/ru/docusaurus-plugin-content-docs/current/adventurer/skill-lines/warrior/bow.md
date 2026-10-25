@@ -23,38 +23,38 @@ title: 'Лук'
 
 ## Уровень 2
 
-### Volley
+### Залп
 
 **Запас кубиков:** 1
 
-| Символ                                                                         | Способность                                                                                                                                                                                                                                                                                                                                                                                                 |
-| ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img alt="Volley" src="/icons/skills/bow/volley.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Deal a total of 4 damage, distributed as you choose among [enemies](/docs/glossary/enemy) [adjacent](/docs/glossary/adjacent) to you. [Then](/docs/glossary/then), [place](/docs/glossary/move-or-place) yourself in an [unoccupied](/docs/glossary/occupied) hex 2-4 hexes away from your current hex. |
+| Символ                                                                         | Способность                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img alt="Volley" src="/icons/skills/bow/volley.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Нанесите суммарно 4 единицы урона, распределив их по своему выбору между [соседними](/docs/glossary/adjacent) с вами [врагами](/docs/glossary/enemy). [Затем](/docs/glossary/then) [переместитесь](/docs/glossary/move-or-place) в [незанятую](/docs/glossary/occupied) клетку на расстоянии 2-4 клеток от вашей текущей клетки. |
 
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**How does Volley and [Riposte](/docs/battles/enemy-skills/riposte) interact?**
+**Как взаимодействуют «Залп» и [«Парирование»](/docs/battles/enemy-skills/riposte)?**
 
-Whether or not units are adjacent is determined at the time the die is resolved, not at the time the damage is applied.
+Соседними ли являются боевые единицы, определяют в момент применения кубика, а не в момент нанесения урона.
 
-Volley deals damage to an adjacent enemy, so if that enemy has Riposte, Riposte triggers, because it reacts to being dealt damage by an adjacent unit.
+«Залп» наносит урон соседнему врагу. Поэтому, если у этого врага есть «Парирование», оно срабатывает: этот навык реагирует на урон от соседней боевой единицы.
 
-Whether you resolve the Riposte damage or the movement first is up to you, but resolving the move first doesn't prevent the Riposte damage, because they were adjacent at the time the damage was dealt.
+Порядок применения урона от «Парирования» и перемещения выбираете вы. Однако перемещение, выполненное первым, не позволяет избежать этого урона: в момент нанесения урона боевые единицы были соседними.
 
 <a href="https://discord.com/channels/273472391403798528/1394258182729367695/1430289898585198715" target="_blank">Источник</a>
 
 ---
 
-**Can you place yourself without dealing damage?**
+**Можно ли переместиться, не нанося урона?**
 
-No, according to the "Resolving Partial Skills and Abilities" rule, anything before a **then** is considered to be the cost of the skill.
+Нет. По правилу «Частичное применение навыков и способностей» всё, что указано до **«затем»**, считается стоимостью навыка.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387191141656559696" target="_blank">Источник</a>
 
 ---
 
-**How does Volley work with [Iron Bark](/docs/battles/enemy-skills/iron-bark)?**
+**Как «Залп» взаимодействует с [«Железной корой»](/docs/battles/enemy-skills/iron-bark)?**
 
 Любые ограничения на то, против каких боевых единиц можно применить кубик, например если результат требует соседства, проверяются в момент применения кубика, а не в момент нанесения урона. «Залп» наносит урон соседнему врагу. Поэтому враг должен быть соседним в момент применения «Залпа», даже если этот урон суммируется и применяется позже, когда вы уже не соседние.
 

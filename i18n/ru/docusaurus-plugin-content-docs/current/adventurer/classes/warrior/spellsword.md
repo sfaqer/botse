@@ -64,7 +64,7 @@ Yes. Treat it like an engage in all ways, except it's just 1 die, you don't roll
 <!-- translate:on -->
 **Can you use Meticulous Disassembly without discarding an item?**
 
-No, according to the "Resolving Partial Skills and Abilities" rule, anything before a **then** is considered to be the cost of the skill.
+Нет. По правилу «Частичное применение навыков и способностей» всё, что указано до **«затем»**, считается стоимостью навыка.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387180604663136356" target="_blank">Источник</a>
 <!-- translate:off -->
