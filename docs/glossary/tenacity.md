@@ -1,7 +1,7 @@
 ---
 id: tenacity
 title: Tenacity
-hoverText: The route to that feature or token that consists of the most hexes between that feature and the component being measured to (or from).
+hoverText: Gained tenacity is tracked with a peg on your adventurer mat. It remains until spent to trigger a class ability or reduced by another effect.
 ---
 
 # <img src="/icons/tenacity.svg" alt="Tenacity Icon" /> Tenacity
