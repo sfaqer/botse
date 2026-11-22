@@ -1,6 +1,6 @@
 ---
 id: smite
-title: Smite
+title: Кара
 hoverText: 'Если в свой [ход](/docs/glossary/turn) эта [боевая единица](/docs/glossary/unit) выбирает целями не всех [участников отряда](/docs/glossary/party), её значение боя удваивается.'
 tags:
   - Quest Unit Skill

@@ -79,7 +79,7 @@ tags:
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Действует ли Voice of Rapture из ветки «Иллюзия» на эффекты состояний, например Honor the Dead из ветки [«Исцеляющий свет»](/docs/adventurer/skill-lines/mage/restoring-light)?**
+**Действует ли Voice of Rapture из ветки «Иллюзия» на эффекты состояний, например «Почитание усопших» из ветки [«Исцеляющий свет»](/docs/adventurer/skill-lines/mage/restoring-light)?**
 
 Да. Кубики с кодом «S» считаются кубиками состояний. Именно поэтому они так называются.
 

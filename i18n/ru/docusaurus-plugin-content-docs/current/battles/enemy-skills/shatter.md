@@ -1,10 +1,10 @@
 ---
 id: shatter
 title: Разрушение оружия
-hoverText: Каждый [ход](/docs/glossary/turn), когда эта боевая единица впервые подвергается [действию атаки](/docs/battles/adventurer-turn/engage) со стороны [персонажа](/docs/glossary/adventurer), который не применяет [Сверхнагрузку](/docs/adventurer/items/overtax) для предмета-оружия, этот персонаж должен [сбросить](/docs/glossary/discard) оружие из [ячейки активного снаряжения](/docs/adventurer/items/index) после действия атаки.
+hoverText: Когда эта боевая единица впервые за [ход](/docs/glossary/turn) становится целью [атаки](/docs/battles/adventurer-turn/engage) [персонажа](/docs/glossary/adventurer), который не применяет [Сверхнагрузку](/docs/adventurer/items/overtax) для оружия, этот персонаж должен после атаки [сбросить](/docs/glossary/discard) оружие из [ячейки активного снаряжения](/docs/adventurer/items/index).
 ---
 
-Каждый [ход](/docs/glossary/turn), когда эта боевая единица впервые подвергается [действию атаки](/docs/battles/adventurer-turn/engage) со стороны [персонажа](/docs/glossary/adventurer), который не применяет [Сверхнагрузку](/docs/adventurer/items/overtax) для предмета [<img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" />](/docs/adventurer/items/types/weapon), этот персонаж должен [сбросить](/docs/glossary/discard) оружие из [ячейки активного снаряжения](/docs/adventurer/items/index) после действия атаки.
+Когда эта боевая единица впервые за [ход](/docs/glossary/turn) становится целью [атаки](/docs/battles/adventurer-turn/engage) [персонажа](/docs/glossary/adventurer), который не применяет [Сверхнагрузку](/docs/adventurer/items/overtax) для предмета [<img src="/icons/weapon.svg" alt="Weapon Icon" className="icon-svg" />](/docs/adventurer/items/types/weapon), этот персонаж должен после атаки [сбросить](/docs/glossary/discard) оружие из [ячейки активного снаряжения](/docs/adventurer/items/index).
 
 ---
 
