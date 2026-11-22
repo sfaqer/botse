@@ -11,7 +11,7 @@ title: 'Призыв даэдра'
 
 ## Уровень 1
 
-### Daedric Curse
+### Даэдрическое проклятие
 
 **Запас кубиков:** 1
 
@@ -50,7 +50,7 @@ title: 'Призыв даэдра'
 
 | Символ                                                                                                             | Способность                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img alt="Bound armaments 1" src="/icons/skills/daedric-summoning/bound-armaments-1.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): В конце хода любой боевой единицы вы можете выбрать [персонажа](/docs/glossary/adventurer) в боевом режиме [<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon), [<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/heavy-weapon) или [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon), чтобы он выполнил [атаку](/docs/battles/adventurer-turn/engage), бросив 3 кубика боя врагов. Эта атака игнорирует навык врага [Ethereal](/docs/battles/enemy-skills/ethereal). [Затем](/docs/glossary/then) истощите этот кубик.                             |
+| <img alt="Bound armaments 1" src="/icons/skills/daedric-summoning/bound-armaments-1.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): В конце хода любой боевой единицы вы можете выбрать [персонажа](/docs/glossary/adventurer) в боевом режиме [<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon), [<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/heavy-weapon) или [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon), чтобы он выполнил [атаку](/docs/battles/adventurer-turn/engage), бросив 3 кубика боя врагов. Эта атака игнорирует навык врага [Бестелесность](/docs/battles/enemy-skills/ethereal). [Затем](/docs/glossary/then) истощите этот кубик.                        |
 | <img alt="Bound armaments 2" src="/icons/skills/daedric-summoning/bound-armaments-2.png" className="skill-icon" /> | [<img src="/icons/active-slot.svg" alt="Active Slot Icon" className="icon-svg" />](/docs/glossary/active-slot): В конце хода любой боевой единицы вы можете выбрать [персонажа](/docs/glossary/adventurer) в боевом режиме [<img src="/icons/light-weapon.svg" alt="Light Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/light-weapon), [<img src="/icons/heavy-weapon.svg" alt="Heavy Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/heavy-weapon) или [<img src="/icons/ranged-weapon.svg" alt="Ranged Weapon Icon" className="icon-svg" />](/docs/battles/battle-forms/ranged-weapon), чтобы он выполнил [атаку](/docs/battles/adventurer-turn/engage), бросив 2 своих [доступных](/docs/glossary/available) кубика навыков. Если эти кубики должны быть истощены, вместо этого они возвращаются. [Затем](/docs/glossary/then) истощите этот кубик. |
 
 <!-- translate:off -->
@@ -66,7 +66,7 @@ title: 'Призыв даэдра'
 <!-- translate:on -->
 ## Уровень 2
 
-### Power Stone
+### Камень силы
 
 **Запас кубиков:** 1
 
@@ -76,7 +76,7 @@ title: 'Призыв даэдра'
 | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img alt="Power stone" src="/icons/skills/daedric-summoning/power-stone.png" className="skill-icon" /> | [<img src="/icons/instant.svg" alt="Instant Icon" className="icon-svg" />](/docs/glossary/instant): Вы можете повернуть до X других кубиков навыков, брошенных вами при этой [атаке](/docs/battles/adventurer-turn/engage), выбранными вами гранями вверх. |
 
-### Expert Summoner
+### Опытный призыватель
 
 **Запас кубиков:** 1
 
@@ -99,18 +99,18 @@ title: 'Призыв даэдра'
 <!-- translate:on -->
 ## Уровень 3
 
-### Summon
+### Призыв
 
 **Запас кубиков:** 2
 
-| Символ                                                                                           | Способность                                                                                                                                                                                                                                                                                                                           |
-| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img alt="Summon 1" src="/icons/skills/daedric-summoning/summon-1.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Разместите [компаньона](/docs/glossary/companion) **Clannfear** в [незанятой](/docs/glossary/occupied) [соседней](/docs/glossary/adjacent) клетке. Этот компаньон находится под вашим контролем. В конце боя он убирается с поля. |
-| <img alt="Summon 2" src="/icons/skills/daedric-summoning/summon-2.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Разместите [компаньона](/docs/glossary/companion) **Attronach** в [незанятой](/docs/glossary/occupied) [соседней](/docs/glossary/adjacent) клетке. Этот компаньон находится под вашим контролем. В конце боя он убирается с поля. |
+| Символ                                                                                           | Способность                                                                                                                                                                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img alt="Summon 1" src="/icons/skills/daedric-summoning/summon-1.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Разместите [компаньона](/docs/glossary/companion) **кланфира** в [незанятой](/docs/glossary/occupied) [соседней](/docs/glossary/adjacent) клетке. Этот компаньон находится под вашим контролем. В конце боя он убирается с поля. |
+| <img alt="Summon 2" src="/icons/skills/daedric-summoning/summon-2.png" className="skill-icon" /> | [<img src="/icons/drained.svg" alt="Drained Icon" className="icon-svg" />](/docs/glossary/drained): Разместите [компаньона](/docs/glossary/companion) **атронаха** в [незанятой](/docs/glossary/occupied) [соседней](/docs/glossary/adjacent) клетке. Этот компаньон находится под вашим контролем. В конце боя он убирается с поля. |
 
 ## Уровень 4
 
-### Tempered Soul
+### Закаленная душа
 
 **Запас кубиков:** 1
 
@@ -121,9 +121,9 @@ title: 'Призыв даэдра'
 <!-- translate:off -->
 :::info
 <!-- translate:on -->
-**Можно ли повергнуть врага и вернуть его в бой с помощью Tempered Soul в рамках одной атаки? Когда именно поверженный враг попадает в стопку поверженных?**
+**Можно ли повергнуть врага и вернуть его в бой с помощью навыка «Закаленная душа» в рамках одной атаки? Когда поверженный враг попадает в стопку поверженных?**
 
-Да. Враг становится поверженным и попадает в стопку поверженных в тот момент, когда у него не остаётся ОЗ. Во время атаки это происходит после применения суммарного урона, который вы ему наносите. Поэтому, применив все кубики, наносящие урон врагу, и переместив его в стопку поверженных, вы можете в рамках той же атаки применить Tempered Soul и вернуть его в бой в качестве компаньона.
+Да. Как только у врага не остаётся ОЗ, он считается поверженным и попадает в стопку поверженных. Во время атаки это происходит после нанесения суммарного урона. Примените все кубики, наносящие врагу урон, и переместите его в стопку поверженных. Затем в рамках той же атаки можно применить «Закаленная душа» и вернуть его в бой как компаньона.
 
 <a href="https://discord.com/channels/273472391403798528/1361396124782694450/1387183203730587790" target="_blank">Источник</a>
 <!-- translate:off -->

@@ -1,6 +1,6 @@
 ---
 id: recover
-title: 'Recover'
+title: 'Восстановление'
 hoverText: 'В начале своего хода эта [боевая единица](/docs/glossary/unit) [восстанавливает](/docs/glossary/healing) число ОЗ, равное [размеру отряда](/docs/glossary/party-size).'
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: retreat
-title: Retreat
+title: Отступление
 hoverText: 'В конце [хода](/docs/glossary/turn) этой [боевой единицы](/docs/glossary/unit), если за этот ход ни одна боевая единица не получила урона, эта боевая единица получает кубик состояния [«Скрытность»](/docs/battles/status-effects/stealth) и [восстанавливает](/docs/glossary/healing) 1 ОЗ.'
 ---
 
