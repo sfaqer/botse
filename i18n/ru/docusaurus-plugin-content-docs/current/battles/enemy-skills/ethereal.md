@@ -1,6 +1,6 @@
 ---
 id: ethereal
-title: Ethereal
+title: Бестелесность
 hoverText: 'Когда эта [боевая единица](/docs/glossary/unit) получает урон от [персонажа](/docs/glossary/adventurer), который не находится в [боевом режиме «Магия»](/docs/battles/battle-forms/magic), она предотвращает урон в количестве, равном [размеру отряда](/docs/glossary/party-size).'
 ---
 
